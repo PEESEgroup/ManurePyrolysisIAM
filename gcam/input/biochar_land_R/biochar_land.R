@@ -61,13 +61,12 @@ print(tmp)
 
 #               source 1: Baniasadi, M. et al. Waste to energy valorization of poultry litter by slow pyrolysis. Renewable Energy 90, 458–468 (2016).
 #               source 2: Atienza-Martínez, M., Ábrego, J., Gea, G. & Marías, F. Pyrolysis of dairy cattle manure: evolution of char characteristics. Journal of Analytical and Applied Pyrolysis 145, 104724 (2020).
-#               source 3: Santos, T. M., Silva, W. R. da, Carregosa, J. de C. & Wisniewski, A. Comprehensive characterization of cattle manure bio-oil for scale-up assessment comparing non-equivalent reactor designs. Journal of Analytical and Applied Pyrolysis 162, 105465 (2022).
-#               source 4: Poddar, S. & Sarat Chandra Babu, J. Modelling and optimization of a pyrolysis plant using swine and goat manure as feedstock. Renewable Energy 175, 253–269 (2021).
+#               source 4: Zeng, X., Xiao, Z., Zhang, G., Wang, A., Li, Z., Liu, Y., Wang, H., Zeng, Q., Liang, Y. and Zou, D., 2018. Speciation and bioavailability of heavy metals in pyrolytic biochar of swine and goat manures. Journal of Analytical and Applied Pyrolysis, 132, pp.82-93.
 # original value (units): unitless
 #     used value (units): 47% yield implies 2.1276 Mt feedstock / Mt biochar
 tmp[16] <- "biochar,slow pyrolysis,poultry_biochar,poultry manure,2.139,2.139,2.139" #[1]
 tmp[17] <- "biochar,slow pyrolysis,pork_biochar,pork manure,2.136,2.136,2.136" # [4]
-tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.105,2.105,2.105" #[3]
+tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.105,2.105,2.105" #[2]
 tmp[19] <- "biochar,slow pyrolysis,dairy_biochar,dairy manure,2.105,2.105,2.105" #[2]
 tmp[20] <- "biochar,slow pyrolysis,goat_biochar,goat manure,2.055,2.055,2.055" #[4]
 print("\n file after changes")
