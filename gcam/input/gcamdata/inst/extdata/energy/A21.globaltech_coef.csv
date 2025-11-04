@@ -15,8 +15,8 @@ regional biomassOil,regional biomassOil,Soybean,regional soybean,142.57,142.57,1
 regional woodpulp for energy,regional woodpulp for energy,regional woodpulp for energy,woodpulp_energy,1,1,1
 biochar,slow pyrolysis,poultry_biochar,poultry manure,2.139,2.139,2.139
 biochar,slow pyrolysis,pork_biochar,pork manure,2.136,2.136,2.136
-biochar,slow pyrolysis,beef_biochar,beef manure,2.105,2.105,2.105
-biochar,slow pyrolysis,dairy_biochar,dairy manure,2.105,2.105,2.105
+biochar,slow pyrolysis,beef_biochar,beef manure,2.150,2.150,2.150
+biochar,slow pyrolysis,dairy_biochar,dairy manure,2.325,2.325,2.325
 biochar,slow pyrolysis,goat_biochar,goat manure,2.055,2.055,2.055
 biochar,slow pyrolysis,poultry_biochar,CO2,-0.131,0.131,0.131
 biochar,slow pyrolysis,pork_biochar,CO2,-0.143,-0.143,-0.143

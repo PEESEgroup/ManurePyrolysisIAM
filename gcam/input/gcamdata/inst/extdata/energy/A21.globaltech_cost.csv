@@ -14,6 +14,6 @@ regional biomassOil,regional biomassOil,Soybean,non-energy,0,0
 regional woodpulp for energy,regional woodpulp for energy,regional woodpulp for energy,non-energy,0,0
 biochar,slow pyrolysis,poultry_biochar,non-energy,0.0251,0.0251
 biochar,slow pyrolysis,pork_biochar,non-energy,0.0252,0.0252
-biochar,slow pyrolysis,beef_biochar,non-energy,0.0257,0.0257
-biochar,slow pyrolysis,dairy_biochar,non-energy,0.0248,0.0248
+biochar,slow pyrolysis,beef_biochar,non-energy,0.0254,0.0254
+biochar,slow pyrolysis,dairy_biochar,non-energy,0.0274,0.0274
 biochar,slow pyrolysis,goat_biochar,non-energy,0.0242,0.0242
