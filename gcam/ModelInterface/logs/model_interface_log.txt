@@ -23,40 +23,230 @@ Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 Didn't find builder for National Account query going to use defaults
 Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=639696155]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
 Time : 0
-Before Function: 1761746050528
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/Marketplace/market[true() and contains(@name,'CO2') and ContainedRegion[(child::text() = 'USA') ] ]/price/node()
-In Function: 1761746050528
-After build Tree: 1761746050797
-After Add table: 1761746050797
-Going to change controls
-Doing remove because of control
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Didn't find builder for detailed land allocation query going to use defaults
-Didn't find builder for detailed historical land allocation query going to use defaults
-Didn't find builder for land allocation by crop query going to use defaults
-Didn't find builder for aggregated land allocation query going to use defaults
-Didn't find builder for aggregated historical land allocation query going to use defaults
-Didn't find builder for land allocation in a specified land use region query going to use defaults
-Didn't find builder for land allocation by crop and water source query going to use defaults
-Didn't find builder for LUC emissions by region query going to use defaults
-Didn't find builder for LUC emissions by LUT query going to use defaults
-Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
-Didn't find builder for vegetative carbon stock by region query going to use defaults
-Didn't find builder for profit rate query going to use defaults
-Didn't find builder for profit rate in a specified land use region query going to use defaults
-Didn't find builder for land leaf shares query going to use defaults
-Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-Didn't find builder for National Account query going to use defaults
-Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=639696155]/text()
-Time : 0
-Before Function: 1761746086579
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-14-4T16:42:22-04:00') ]/world/Marketplace/market[true() and contains(@name,'CO2') and ContainedRegion[(child::text() = 'USA') ] ]/price/node()
-In Function: 1761746086579
-After build Tree: 1761746086770
-After Add table: 1761746086770
+Before Function: 1762194390133
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762194390135
+After build Tree: 1762194395842
+After Add table: 1762194395842
+Before Function: 1762195272059
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='USA') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195272059
+After build Tree: 1762195272098
+After Add table: 1762195272098
+Before Function: 1762195289658
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Africa_Eastern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195289658
+After build Tree: 1762195289678
+After Add table: 1762195289678
+Before Function: 1762195393337
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Africa_Northern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195393338
+After build Tree: 1762195393360
+After Add table: 1762195393360
+Before Function: 1762195398538
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Africa_Southern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195398538
+After build Tree: 1762195398568
+After Add table: 1762195398568
+Before Function: 1762195405450
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Africa_Western') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195405450
+After build Tree: 1762195405472
+After Add table: 1762195405472
+Before Function: 1762195408777
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Australia_NZ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195408777
+After build Tree: 1762195408792
+After Add table: 1762195408792
+Before Function: 1762195416590
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Brazil') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195416590
+After build Tree: 1762195416605
+After Add table: 1762195416605
+Before Function: 1762195436248
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Canada') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195436250
+After build Tree: 1762195436270
+After Add table: 1762195436270
+Before Function: 1762195445187
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Central America and Caribbean') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195445187
+After build Tree: 1762195445209
+After Add table: 1762195445209
+Before Function: 1762195461330
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Central Asia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195461330
+After build Tree: 1762195461354
+After Add table: 1762195461354
+Before Function: 1762195479594
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='China') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195479596
+After build Tree: 1762195479625
+After Add table: 1762195479625
+Before Function: 1762195483531
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='EU-12') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195483531
+After build Tree: 1762195483539
+After Add table: 1762195483539
+Before Function: 1762195488340
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='EU-15') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195488342
+After build Tree: 1762195488373
+After Add table: 1762195488373
+Before Function: 1762195492242
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Europe_Eastern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762195492242
+After build Tree: 1762195492264
+After Add table: 1762195492264
+Before Function: 1762196242620
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Europe_Non_EU') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196242620
+After build Tree: 1762196242641
+After Add table: 1762196242641
+Before Function: 1762196246779
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='European Free Trade Association') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196246779
+After build Tree: 1762196246809
+After Add table: 1762196246809
+Before Function: 1762196250465
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='India') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196250465
+After build Tree: 1762196250485
+After Add table: 1762196250485
+Before Function: 1762196254291
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Indonesia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196254307
+After build Tree: 1762196254318
+After Add table: 1762196254318
+Before Function: 1762196258583
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Japan') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196258583
+After build Tree: 1762196258605
+After Add table: 1762196258605
+Before Function: 1762196260362
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Mexico') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196260362
+After build Tree: 1762196260375
+After Add table: 1762196260375
+Before Function: 1762196280723
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Pakistan') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196280723
+After build Tree: 1762196280748
+After Add table: 1762196280748
+Before Function: 1762196284387
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Russia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196284387
+After build Tree: 1762196284423
+After Add table: 1762196284423
+Before Function: 1762196329876
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South Africa') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196329876
+After build Tree: 1762196329905
+After Add table: 1762196329905
+Before Function: 1762196332794
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South America_Northern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196332794
+After build Tree: 1762196332817
+After Add table: 1762196332817
+Before Function: 1762196337636
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South America_Southern') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196337636
+After build Tree: 1762196337653
+After Add table: 1762196337653
+Before Function: 1762196342508
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South Asia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196342508
+After build Tree: 1762196342523
+After Add table: 1762196342523
+Before Function: 1762196346490
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South Korea') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196346490
+After build Tree: 1762196346508
+After Add table: 1762196346508
+Before Function: 1762196386977
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Southeast Asia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196386977
+After build Tree: 1762196387000
+After Add table: 1762196387000
+Before Function: 1762196391916
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Taiwan') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196391916
+After build Tree: 1762196391936
+After Add table: 1762196391936
+Before Function: 1762196395515
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Argentina') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196395516
+After build Tree: 1762196395541
+After Add table: 1762196395541
+Before Function: 1762196399060
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Colombia') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/cost/text()
+In Function: 1762196399060
+After build Tree: 1762196399082
+After Add table: 1762196399082
 Caught the window closing
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
 Doing remove because of control
