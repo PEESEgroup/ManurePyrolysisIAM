@@ -412,8 +412,8 @@ module_aglu_L142.ag_Fert_IO_R_C_Y_GLU <- function(command, ...) {
 
     # load in manure production
     # constants for biochar yield
-    beef_yield =.5020
-    dairy_yield =.5020
+    beef_yield =.5740
+    dairy_yield =.5313
     goat_yield =.5611
     pork_yield = .5468
     poultry_yield = .5326

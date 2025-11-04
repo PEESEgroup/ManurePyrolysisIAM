@@ -41,8 +41,8 @@ print(tmp)
 #           source 1: plant costs.xlsx
 tmp[15] <- "biochar,slow pyrolysis,poultry_biochar,non-energy,0.0251,0.0251"
 tmp[16] <- "biochar,slow pyrolysis,pork_biochar,non-energy,0.0252,0.0252"
-tmp[17] <- "biochar,slow pyrolysis,beef_biochar,non-energy,0.0257,0.0257"
-tmp[18] <- "biochar,slow pyrolysis,dairy_biochar,non-energy,0.0248,0.0248"
+tmp[17] <- "biochar,slow pyrolysis,beef_biochar,non-energy,0.0254,0.0254"
+tmp[18] <- "biochar,slow pyrolysis,dairy_biochar,non-energy,0.0274,0.0274"
 tmp[19] <- "biochar,slow pyrolysis,goat_biochar,non-energy,0.0242,0.0242"
 print("\n file after changes")
 print(tmp)
@@ -60,14 +60,14 @@ print("\n file before changes")
 print(tmp)
 
 #               source 1: Baniasadi, M. et al. Waste to energy valorization of poultry litter by slow pyrolysis. Renewable Energy 90, 458–468 (2016).
-#               source 2: Atienza-Martínez, M., Ábrego, J., Gea, G. & Marías, F. Pyrolysis of dairy cattle manure: evolution of char characteristics. Journal of Analytical and Applied Pyrolysis 145, 104724 (2020).
+#               source 2: Zhou, S., Liang, H., Han, L., Huang, G. and Yang, Z., 2019. The influence of manure feedstock, slow pyrolysis, and hydrothermal temperature on manure thermochemical and combustion properties. Waste management, 88, pp.85-95.
 #               source 4: Zeng, X., Xiao, Z., Zhang, G., Wang, A., Li, Z., Liu, Y., Wang, H., Zeng, Q., Liang, Y. and Zou, D., 2018. Speciation and bioavailability of heavy metals in pyrolytic biochar of swine and goat manures. Journal of Analytical and Applied Pyrolysis, 132, pp.82-93.
 # original value (units): unitless
 #     used value (units): 47% yield implies 2.1276 Mt feedstock / Mt biochar
 tmp[16] <- "biochar,slow pyrolysis,poultry_biochar,poultry manure,2.139,2.139,2.139" #[1]
 tmp[17] <- "biochar,slow pyrolysis,pork_biochar,pork manure,2.136,2.136,2.136" # [4]
-tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.105,2.105,2.105" #[2]
-tmp[19] <- "biochar,slow pyrolysis,dairy_biochar,dairy manure,2.105,2.105,2.105" #[2]
+tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.150,2.150,2.150" #[2]
+tmp[19] <- "biochar,slow pyrolysis,dairy_biochar,dairy manure,2.325,2.325,2.325" #[2]
 tmp[20] <- "biochar,slow pyrolysis,goat_biochar,goat manure,2.055,2.055,2.055" #[4]
 print("\n file after changes")
 print(tmp)
@@ -206,8 +206,8 @@ print(tmp)
 
 ### THESE VALUES ARE FOR CARBON STORED IN BIOCHAR ###
 ### values calculated in 41467_2010 excel spreadsheet
-tmp[37] <- "beef manure,-0.399,0"
-tmp[38] <- "dairy manure,-0.399,0"
+tmp[37] <- "beef manure,-0.0393,0"
+tmp[38] <- "dairy manure,-0.0393,0"
 tmp[39] <- "goat manure,-0.448,0"
 tmp[40] <- "pork manure,-0.448,0"
 tmp[41] <- "poultry manure,-0.458,0"
@@ -229,8 +229,8 @@ print(tmp)
 
 ### THESE VALUES ARE FOR CARBON AVOIDANCE AND ARE NOT SUBJECT TO CARBON SUBSIDIES ###
 ### values calculated in 41467_2010 excel spreadsheet
-tmp[41] <- "biochar,slow pyrolysis,dairy_biochar,,,,-0.0106,-0.00052,,,,,,"
-tmp[42] <- "biochar,slow pyrolysis,beef_biochar,,,,-0.0106,-0.00052,,,,,,"
+tmp[41] <- "biochar,slow pyrolysis,dairy_biochar,,,,-0.0105,-0.00052,,,,,,"
+tmp[42] <- "biochar,slow pyrolysis,beef_biochar,,,,-0.0105,-0.00052,,,,,,"
 tmp[43] <- "biochar,slow pyrolysis,pork_biochar,,,,-0.1023,-0.00061,,,,,,"
 tmp[44] <- "biochar,slow pyrolysis,goat_biochar,,,,-0.1023,-0.00061,,,,,,"
 tmp[45] <- "biochar,slow pyrolysis,poultry_biochar,,,,-0.0057,-0.00074,,,,,,"

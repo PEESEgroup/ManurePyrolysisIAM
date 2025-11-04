@@ -1,25 +1,3 @@
-# 0. Fix Could not find associated product leaf in the land allocator for biochar - look in L2252 - DONE
-# 1. Get rid of fertilizer sector - here - DONE
-# 2. Update assumptions on avoided/sequestered C emissions - here - coefficients - DONE
-# Woolf, D., Amonette, J. E., Street-Perrott, F. A., Lehmann, J. & Joseph, S. Sustainable biochar to mitigate global climate change. Nat Commun 1, 56 (2010).
-# 3. Build new land use nodes - land_input_5_IRR_MGMT - L2252.LN5_* - DONE
-# 3.1. land allocation - land_input_5_IRR_MGMT - L2252.LN5_* - DONE
-# 3.2. carbon densities, mature age - land_input_5_IRR_MGMT  - L2252.LN5_* - coefficients - DONE
-# Woolf, D., Amonette, J. E., Street-Perrott, F. A., Lehmann, J. & Joseph, S. Sustainable biochar to mitigate global climate change. Nat Commun 1, 56 (2010).
-# 3c. update logits - land_input_5_IRR_MGMT  - L2252.LN5_* -DONE
-# 3d. update share-weights - land_input_5_IRR_MGMT - L2252.LN5_* -DONE
-# 3a. nonLandVariableCost same as others - ag_cost_IRR_MGMT - L2062.AgCost_ag_irr_mgmt_adj - L142.ag_Fert_IO_R_C_Y_GLU - L100.LDS_ag_prod_t - DONE
-# 3b. set minicam-energy-input name to biochar in addition to N fertilizer - ag_Fert_IRR_MGMT - L142.ag_Fert_IO_R_C_Y_GLU - L100.LDS_ag_prod_t - DONE
-# 3b1. get coefficients for biochar demand - ag_Fert_IRR_MGMT - L2062.AgCoef_Fert_ag_irr_mgmt - L142.ag_Fert_IO_R_C_Y_GLU - L100.LDS_ag_prod_t - coefficients - DONE
-# 3e. update agProdChange - ag_prodchange_ssp2_IRR_MGMT - L2052.AgProdChange_ag_irr_ref - DONE
-# 3g. update biophysical water consumption - ag_water_input_IRR_MGMT - L2072.AgCoef_*_ag_mgmt - DONE
-# 3i. update bio_externality_cost - bio_externality - L270.AGCoef_bioext - DONE
-# 3f. update biomass emissions - all_aglu_emissions_IRR_MGMT - L252.AgMAC - L211.AGREmissions - L122.ghg_tg_R_agr_C_Y_GLU - DONE
-# 3h. update MAC coefficients - all_aglu_emissions_IRR_MGMT - L252.AgMAC - L211.AGREmissions - L122.ghg_tg_R_agr_C_Y_GLU - DONE
-# 3j. update residue biomass-production - resbio_input_IRR_MGMT - L2042.AgResBio_ag_irr_mgmt - L101.ag_Prod_Mt_R_C_Y_GLU - "aglu/FAO/FAO_ag_items_PRODSTAT" OR "aglu/LDS/LDS_land_types" - DONE
-# 3k. update locations where certain land nodes cannot exist - prune_empty_ag - L240.TechCoef_tra - aglu/A_agTradedTechnology - DONE
-# 4. find which R files correspond to what xml output files - DONE
-
 devtools::load_all()
 
 # supply sector   subsector       technology
@@ -38,7 +16,7 @@ devtools::load_all()
 #               source 1: Bentley, J. A. et al. Economics of Dairy Manure Management in Iowa. Iowa State University Animal Industry Report 13, (2016).
 #               source 2: Malone, G. W. Nutrient Enrichment in integrated Broiler Production Systems. Poultry Science 71, 1117–1122 (1992).
 #               source 3: https://www.fao.org/3/i6421e/i6421e.pdf
-#               source 5: https://www.fao.org/3/t0279e/T0279E05.htm
+#               source 5: https://www.fao.org/3/t0279e/T0279E05.htm - guidelines for meat cutting and processing - table 3
 #               source 9: Lefebvre, D. et al. Biomass residue to carbon dioxide removal: quantifying the global impact of manure_fuel. manure_fuel 5, 65 (2023).
 #        poultry (units): 0.0273 (kg collectible manure solids /day /head) [9] * 1 (head) / 1.008 (kg meat/head) [3] * 51 day lifespan [2] = 1.381 Mt manure/Mt Poultry
 #          dairy (units): 0.5391 (kg collectible manure solids /day /head) [9] * 1 (head) * 365 (days) / (23,578 (lbs milk/head/year) [1] * 0.453592 (kg/lbs))= 0.018 Mt manure/Mt dairy product
@@ -62,9 +40,9 @@ print(tmp)
 
 #           source 1: plant costs.xlsx
 tmp[15] <- "biochar,slow pyrolysis,poultry_biochar,non-energy,0.0191,0.0191"
-tmp[16] <- "biochar,slow pyrolysis,pork_biochar,non-energy,0.0192,0.0192"
-tmp[17] <- "biochar,slow pyrolysis,beef_biochar,non-energy,0.0196,0.0196"
-tmp[18] <- "biochar,slow pyrolysis,dairy_biochar,non-energy,0.0189,0.0189"
+tmp[16] <- "biochar,slow pyrolysis,pork_biochar,non-energy,0.0191,0.0191"
+tmp[17] <- "biochar,slow pyrolysis,beef_biochar,non-energy,0.0193,0.0193"
+tmp[18] <- "biochar,slow pyrolysis,dairy_biochar,non-energy,0.0209,0.0209"
 tmp[19] <- "biochar,slow pyrolysis,goat_biochar,non-energy,0.0184,0.0184"
 print("\n file after changes")
 print(tmp)
@@ -82,15 +60,14 @@ print("\n file before changes")
 print(tmp)
 
 #               source 1: Baniasadi, M. et al. Waste to energy valorization of poultry litter by slow pyrolysis. Renewable Energy 90, 458–468 (2016).
-#               source 2: Atienza-Martínez, M., Ábrego, J., Gea, G. & Marías, F. Pyrolysis of dairy cattle manure: evolution of char characteristics. Journal of Analytical and Applied Pyrolysis 145, 104724 (2020).
-#               source 3: Santos, T. M., Silva, W. R. da, Carregosa, J. de C. & Wisniewski, A. Comprehensive characterization of cattle manure bio-oil for scale-up assessment comparing non-equivalent reactor designs. Journal of Analytical and Applied Pyrolysis 162, 105465 (2022).
-#               source 4: Poddar, S. & Sarat Chandra Babu, J. Modelling and optimization of a pyrolysis plant using swine and goat manure as feedstock. Renewable Energy 175, 253–269 (2021).
+#               source 2: Zhou, S., Liang, H., Han, L., Huang, G. and Yang, Z., 2019. The influence of manure feedstock, slow pyrolysis, and hydrothermal temperature on manure thermochemical and combustion properties. Waste management, 88, pp.85-95.
+#               source 4: Zeng, X., Xiao, Z., Zhang, G., Wang, A., Li, Z., Liu, Y., Wang, H., Zeng, Q., Liang, Y. and Zou, D., 2018. Speciation and bioavailability of heavy metals in pyrolytic biochar of swine and goat manures. Journal of Analytical and Applied Pyrolysis, 132, pp.82-93.
 # original value (units): unitless
 #     used value (units): 47% yield implies 2.1276 Mt feedstock / Mt biochar
 tmp[16] <- "biochar,slow pyrolysis,poultry_biochar,poultry manure,2.139,2.139,2.139" #[1]
 tmp[17] <- "biochar,slow pyrolysis,pork_biochar,pork manure,2.136,2.136,2.136" # [4]
-tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.105,2.105,2.105" #[3]
-tmp[19] <- "biochar,slow pyrolysis,dairy_biochar,dairy manure,2.105,2.105,2.105" #[2]
+tmp[18] <- "biochar,slow pyrolysis,beef_biochar,beef manure,2.150,2.150,2.150" #[2]
+tmp[19] <- "biochar,slow pyrolysis,dairy_biochar,dairy manure,2.325,2.325,2.325" #[2]
 tmp[20] <- "biochar,slow pyrolysis,goat_biochar,goat manure,2.055,2.055,2.055" #[4]
 print("\n file after changes")
 print(tmp)
@@ -229,8 +206,8 @@ print(tmp)
 
 ### THESE VALUES ARE FOR CARBON STORED IN BIOCHAR ###
 ### values calculated in 41467_2010 excel spreadsheet
-tmp[37] <- "beef manure,-0.459,0"
-tmp[38] <- "dairy manure,-0.459,0"
+tmp[37] <- "beef manure,-0.452,0"
+tmp[38] <- "dairy manure,-0.452,0"
 tmp[39] <- "goat manure,-0.522,0"
 tmp[40] <- "pork manure,-0.522,0"
 tmp[41] <- "poultry manure,-0.526,0"
@@ -252,8 +229,8 @@ print(tmp)
 
 ### THESE VALUES ARE FOR CARBON AVOIDANCE AND ARE NOT SUBJECT TO CARBON SUBSIDIES ###
 ### values calculated in 41467_2010 excel spreadsheet
-tmp[41] <- "biochar,slow pyrolysis,dairy_biochar,,,,-0.0106,-0.00052,,,,,,"
-tmp[42] <- "biochar,slow pyrolysis,beef_biochar,,,,-0.0106,-0.00052,,,,,,"
+tmp[41] <- "biochar,slow pyrolysis,dairy_biochar,,,,-0.0105,-0.00052,,,,,,"
+tmp[42] <- "biochar,slow pyrolysis,beef_biochar,,,,-0.0105,-0.00052,,,,,,"
 tmp[43] <- "biochar,slow pyrolysis,pork_biochar,,,,-0.1023,-0.00061,,,,,,"
 tmp[44] <- "biochar,slow pyrolysis,goat_biochar,,,,-0.1023,-0.00061,,,,,,"
 tmp[45] <- "biochar,slow pyrolysis,poultry_biochar,,,,-0.0057,-0.00074,,,,,,"
