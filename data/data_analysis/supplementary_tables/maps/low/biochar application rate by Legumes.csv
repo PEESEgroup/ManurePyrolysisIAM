@@ -1,133 +1,133 @@
 ,key,glu_nm,reg_nm,glu_id,reg_id,Unnamed: 0,region,GCAM_region_ID,GCAM_commodity,GCAM_subsector,GLU,Irr_Rfd,kg_bio_ha,kg_P_ha,SSP
 0,1007,Pacific_and_Arctic_Coast,USA,7,1,,,,,,,,,,
-1,1023,Saskatchewan_Nelson,USA,23,1,136.0,USA,1.0,Legumes,Legumes,23.0,rfd,2243.51516768425,27.997414948928,SSP1
-2,1023,Saskatchewan_Nelson,USA,23,1,7417.0,USA,1.0,Legumes,Legumes,23.0,irr,2243.51516768425,27.997414948928,SSP1
+1,1023,Saskatchewan_Nelson,USA,23,1,136.0,USA,1.0,Legumes,Legumes,23.0,rfd,2145.91052040444,27.997414948928,SSP1
+2,1023,Saskatchewan_Nelson,USA,23,1,7417.0,USA,1.0,Legumes,Legumes,23.0,irr,2145.91052040444,27.997414948928,SSP1
 3,1027,Fraser,USA,27,1,,,,,,,,,,
-4,1096,Mexico_Northwest_Coast,USA,96,1,137.0,USA,1.0,Legumes,Legumes,96.0,rfd,2094.75255689891,26.140967262264,SSP1
-5,1096,Mexico_Northwest_Coast,USA,96,1,7418.0,USA,1.0,Legumes,Legumes,96.0,irr,2094.75255689891,26.140967262264,SSP1
-6,1101,Caribbean,USA,101,1,138.0,USA,1.0,Legumes,Legumes,101.0,rfd,1640.32681879956,20.4700691393988,SSP1
-7,1101,Caribbean,USA,101,1,7419.0,USA,1.0,Legumes,Legumes,101.0,irr,1640.32681879956,20.4700691393988,SSP1
+4,1096,Mexico_Northwest_Coast,USA,96,1,137.0,USA,1.0,Legumes,Legumes,96.0,rfd,2003.6198614754,26.140967262264,SSP1
+5,1096,Mexico_Northwest_Coast,USA,96,1,7418.0,USA,1.0,Legumes,Legumes,96.0,irr,2003.6198614754,26.140967262264,SSP1
+6,1101,Caribbean,USA,101,1,138.0,USA,1.0,Legumes,Legumes,101.0,rfd,1538.11964604727,20.0676466059579,SSP1
+7,1101,Caribbean,USA,101,1,7419.0,USA,1.0,Legumes,Legumes,101.0,irr,1538.11964604727,20.0676466059579,SSP1
 8,1150,Micronesia,USA,150,1,,,,,,,,,,
-9,1217,California_River_Basin,USA,217,1,139.0,USA,1.0,Legumes,Legumes,217.0,rfd,2096.62145031166,26.1642896739533,SSP1
-10,1217,California_River_Basin,USA,217,1,7420.0,USA,1.0,Legumes,Legumes,217.0,irr,2096.62145031166,26.1642896739533,SSP1
-11,1218,Upper_Mississippi_Basin,USA,218,1,140.0,USA,1.0,Legumes,Legumes,218.0,rfd,2095.63115249831,26.1519314874776,SSP1
-12,1218,Upper_Mississippi_Basin,USA,218,1,7421.0,USA,1.0,Legumes,Legumes,218.0,irr,2095.63115249831,26.1519314874776,SSP1
+9,1217,California_River_Basin,USA,217,1,139.0,USA,1.0,Legumes,Legumes,217.0,rfd,2005.40744824713,26.1642896739533,SSP1
+10,1217,California_River_Basin,USA,217,1,7420.0,USA,1.0,Legumes,Legumes,217.0,irr,2005.40744824713,26.1642896739533,SSP1
+11,1218,Upper_Mississippi_Basin,USA,218,1,140.0,USA,1.0,Legumes,Legumes,218.0,rfd,2004.46023356965,26.1519314874776,SSP1
+12,1218,Upper_Mississippi_Basin,USA,218,1,7421.0,USA,1.0,Legumes,Legumes,218.0,irr,2004.46023356965,26.1519314874776,SSP1
 13,1219,Lower_Mississippi_River_Basin,USA,219,1,,,,,,,,,,
-14,1220,Upper_Colorado_River_Basin,USA,220,1,142.0,USA,1.0,Legumes,Legumes,220.0,rfd,2097.94936883136,26.1808611178864,SSP1
-15,1220,Upper_Colorado_River_Basin,USA,220,1,7423.0,USA,1.0,Legumes,Legumes,220.0,irr,2097.94936883136,26.1808611178864,SSP1
-16,1221,Lower_Colorado_River_Basin,USA,221,1,143.0,USA,1.0,Legumes,Legumes,221.0,rfd,2096.36048045917,26.1610329626306,SSP1
-17,1221,Lower_Colorado_River_Basin,USA,221,1,7424.0,USA,1.0,Legumes,Legumes,221.0,irr,2096.36048045917,26.1610329626306,SSP1
-18,1222,Great_Basin,USA,222,1,144.0,USA,1.0,Legumes,Legumes,222.0,rfd,2135.81864003975,26.653441698177,SSP1
-19,1222,Great_Basin,USA,222,1,7425.0,USA,1.0,Legumes,Legumes,222.0,irr,2135.81864003975,26.653441698177,SSP1
-20,1223,Missouri_River_Basin,USA,223,1,145.0,USA,1.0,Legumes,Legumes,223.0,rfd,2618.64309896534,32.6787349160447,SSP1
-21,1223,Missouri_River_Basin,USA,223,1,7426.0,USA,1.0,Legumes,Legumes,223.0,irr,2618.64309896534,32.6787349160447,SSP1
-22,1224,Arkansas_White_Red_Basin,USA,224,1,146.0,USA,1.0,Legumes,Legumes,224.0,rfd,4824.88832875364,60.2110485224796,SSP1
-23,1224,Arkansas_White_Red_Basin,USA,224,1,7427.0,USA,1.0,Legumes,Legumes,224.0,irr,4824.88832875364,60.2110485224796,SSP1
-24,1225,Texas_Gulf_Coast_Basin,USA,225,1,147.0,USA,1.0,Legumes,Legumes,225.0,rfd,7198.3611405001,89.8302390399456,SSP1
-25,1225,Texas_Gulf_Coast_Basin,USA,225,1,7428.0,USA,1.0,Legumes,Legumes,225.0,irr,7198.3611405001,89.8302390399456,SSP1
+14,1220,Upper_Colorado_River_Basin,USA,220,1,142.0,USA,1.0,Legumes,Legumes,220.0,rfd,2006.6775953639,26.1808611178864,SSP1
+15,1220,Upper_Colorado_River_Basin,USA,220,1,7423.0,USA,1.0,Legumes,Legumes,220.0,irr,2006.6775953639,26.1808611178864,SSP1
+16,1221,Lower_Colorado_River_Basin,USA,221,1,143.0,USA,1.0,Legumes,Legumes,221.0,rfd,2005.15783194855,26.1610329626306,SSP1
+17,1221,Lower_Colorado_River_Basin,USA,221,1,7424.0,USA,1.0,Legumes,Legumes,221.0,irr,2005.15783194855,26.1610329626306,SSP1
+18,1222,Great_Basin,USA,222,1,144.0,USA,1.0,Legumes,Legumes,222.0,rfd,2042.89935515259,26.653441698177,SSP1
+19,1222,Great_Basin,USA,222,1,7425.0,USA,1.0,Legumes,Legumes,222.0,irr,2042.89935515259,26.653441698177,SSP1
+20,1223,Missouri_River_Basin,USA,223,1,145.0,USA,1.0,Legumes,Legumes,223.0,rfd,2504.71842410342,32.6787349160447,SSP1
+21,1223,Missouri_River_Basin,USA,223,1,7426.0,USA,1.0,Legumes,Legumes,223.0,irr,2504.71842410342,32.6787349160447,SSP1
+22,1224,Arkansas_White_Red_Basin,USA,224,1,146.0,USA,1.0,Legumes,Legumes,224.0,rfd,4614.98044389697,60.2110485224796,SSP1
+23,1224,Arkansas_White_Red_Basin,USA,224,1,7427.0,USA,1.0,Legumes,Legumes,224.0,irr,4614.98044389697,60.2110485224796,SSP1
+24,1225,Texas_Gulf_Coast_Basin,USA,225,1,147.0,USA,1.0,Legumes,Legumes,225.0,rfd,6885.19477094246,89.8302390399456,SSP1
+25,1225,Texas_Gulf_Coast_Basin,USA,225,1,7428.0,USA,1.0,Legumes,Legumes,225.0,irr,6885.19477094246,89.8302390399456,SSP1
 26,1226,South_Atlantic_Gulf_Basin,USA,226,1,,,,,,,,,,
-27,1227,Great_Lakes_Basin,USA,227,1,149.0,USA,1.0,Legumes,Legumes,227.0,rfd,2094.75255689891,26.140967262264,SSP1
-28,1227,Great_Lakes_Basin,USA,227,1,7430.0,USA,1.0,Legumes,Legumes,227.0,irr,2094.75255689891,26.140967262264,SSP1
-29,1228,Ohio_River_Basin,USA,228,1,150.0,USA,1.0,Legumes,Legumes,228.0,rfd,2094.75255689891,26.140967262264,SSP1
-30,1228,Ohio_River_Basin,USA,228,1,7431.0,USA,1.0,Legumes,Legumes,228.0,irr,2094.75255689891,26.140967262264,SSP1
-31,1229,Pacific_Northwest_Basin,USA,229,1,151.0,USA,1.0,Legumes,Legumes,229.0,rfd,4799.20719798915,59.8905669475263,SSP1
-32,1229,Pacific_Northwest_Basin,USA,229,1,7432.0,USA,1.0,Legumes,Legumes,229.0,irr,4799.20719798915,59.8905669475263,SSP1
+27,1227,Great_Lakes_Basin,USA,227,1,149.0,USA,1.0,Legumes,Legumes,227.0,rfd,2003.6198614754,26.140967262264,SSP1
+28,1227,Great_Lakes_Basin,USA,227,1,7430.0,USA,1.0,Legumes,Legumes,227.0,irr,2003.6198614754,26.140967262264,SSP1
+29,1228,Ohio_River_Basin,USA,228,1,150.0,USA,1.0,Legumes,Legumes,228.0,rfd,2003.6198614754,26.140967262264,SSP1
+30,1228,Ohio_River_Basin,USA,228,1,7431.0,USA,1.0,Legumes,Legumes,228.0,irr,2003.6198614754,26.140967262264,SSP1
+31,1229,Pacific_Northwest_Basin,USA,229,1,151.0,USA,1.0,Legumes,Legumes,229.0,rfd,4590.41657667771,59.8905669475263,SSP1
+32,1229,Pacific_Northwest_Basin,USA,229,1,7432.0,USA,1.0,Legumes,Legumes,229.0,irr,4590.41657667771,59.8905669475263,SSP1
 33,1230,Tennessee_River_Basin,USA,230,1,,,,,,,,,,
-34,1231,Rio_Grande_River_Basin,USA,231,1,153.0,USA,1.0,Legumes,Legumes,231.0,rfd,2966.10840842739,37.0148457609774,SSP1
-35,1231,Rio_Grande_River_Basin,USA,231,1,7434.0,USA,1.0,Legumes,Legumes,231.0,irr,2966.10840842739,37.0148457609774,SSP1
-36,1232,New_England_Basin,USA,232,1,154.0,USA,1.0,Legumes,Legumes,232.0,rfd,2094.75255689891,26.140967262264,SSP1
-37,1232,New_England_Basin,USA,232,1,7435.0,USA,1.0,Legumes,Legumes,232.0,irr,2094.75255689891,26.140967262264,SSP1
-38,1233,Mid_Atlantic_Basin,USA,233,1,155.0,USA,1.0,Legumes,Legumes,233.0,rfd,2094.75255689891,26.140967262264,SSP1
-39,1233,Mid_Atlantic_Basin,USA,233,1,7436.0,USA,1.0,Legumes,Legumes,233.0,irr,2094.75255689891,26.140967262264,SSP1
+34,1231,Rio_Grande_River_Basin,USA,231,1,153.0,USA,1.0,Legumes,Legumes,231.0,rfd,2837.0671747561,37.0148457609774,SSP1
+35,1231,Rio_Grande_River_Basin,USA,231,1,7434.0,USA,1.0,Legumes,Legumes,231.0,irr,2837.0671747561,37.0148457609774,SSP1
+36,1232,New_England_Basin,USA,232,1,154.0,USA,1.0,Legumes,Legumes,232.0,rfd,2003.6198614754,26.140967262264,SSP1
+37,1232,New_England_Basin,USA,232,1,7435.0,USA,1.0,Legumes,Legumes,232.0,irr,2003.6198614754,26.140967262264,SSP1
+38,1233,Mid_Atlantic_Basin,USA,233,1,155.0,USA,1.0,Legumes,Legumes,233.0,rfd,2003.6198614754,26.140967262264,SSP1
+39,1233,Mid_Atlantic_Basin,USA,233,1,7436.0,USA,1.0,Legumes,Legumes,233.0,irr,2003.6198614754,26.140967262264,SSP1
 40,1234,Hawaii,USA,234,1,,,,,,,,,,
-41,2087,Nile,Africa_Eastern,87,2,392.0,Africa_Eastern,2.0,Legumes,Legumes,87.0,rfd,5119.40310958136,26.18,SSP1
-42,2087,Nile,Africa_Eastern,87,2,7673.0,Africa_Eastern,2.0,Legumes,Legumes,87.0,irr,5119.40310958136,26.18,SSP1
-43,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,393.0,Africa_Eastern,2.0,Legumes,Legumes,100.0,rfd,5119.40310958136,26.18,SSP1
-44,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7674.0,Africa_Eastern,2.0,Legumes,Legumes,100.0,irr,5119.40310958136,26.18,SSP1
+41,2087,Nile,Africa_Eastern,87,2,392.0,Africa_Eastern,2.0,Legumes,Legumes,87.0,rfd,5031.5042480678,26.18,SSP1
+42,2087,Nile,Africa_Eastern,87,2,7673.0,Africa_Eastern,2.0,Legumes,Legumes,87.0,irr,5031.5042480678,26.18,SSP1
+43,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,393.0,Africa_Eastern,2.0,Legumes,Legumes,100.0,rfd,5031.5042480678,26.18,SSP1
+44,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7674.0,Africa_Eastern,2.0,Legumes,Legumes,100.0,irr,5031.5042480678,26.18,SSP1
 45,2144,Africa_North_Interior,Africa_Eastern,144,2,,,,,,,,,,
-46,2151,Lake_Chad,Africa_Eastern,151,2,394.0,Africa_Eastern,2.0,Legumes,Legumes,151.0,rfd,5119.40310958136,26.18,SSP1
-47,2151,Lake_Chad,Africa_Eastern,151,2,7675.0,Africa_Eastern,2.0,Legumes,Legumes,151.0,irr,5119.40310958136,26.18,SSP1
-48,2170,Shebelli_Juba,Africa_Eastern,170,2,395.0,Africa_Eastern,2.0,Legumes,Legumes,170.0,rfd,5119.40310958136,26.18,SSP1
-49,2170,Shebelli_Juba,Africa_Eastern,170,2,7676.0,Africa_Eastern,2.0,Legumes,Legumes,170.0,irr,5119.40310958136,26.18,SSP1
-50,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,396.0,Africa_Eastern,2.0,Legumes,Legumes,171.0,rfd,5119.40310958136,26.18,SSP1
-51,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7677.0,Africa_Eastern,2.0,Legumes,Legumes,171.0,irr,5119.40310958136,26.18,SSP1
-52,2177,Madagascar,Africa_Eastern,177,2,397.0,Africa_Eastern,2.0,Legumes,Legumes,177.0,rfd,5119.40310958136,26.18,SSP1
-53,2177,Madagascar,Africa_Eastern,177,2,7678.0,Africa_Eastern,2.0,Legumes,Legumes,177.0,irr,5119.40310958136,26.18,SSP1
-54,2179,Rift_Valley,Africa_Eastern,179,2,398.0,Africa_Eastern,2.0,Legumes,Legumes,179.0,rfd,5119.40310958136,26.18,SSP1
-55,2179,Rift_Valley,Africa_Eastern,179,2,7679.0,Africa_Eastern,2.0,Legumes,Legumes,179.0,irr,5119.40310958136,26.18,SSP1
-56,2183,Congo,Africa_Eastern,183,2,399.0,Africa_Eastern,2.0,Legumes,Legumes,183.0,rfd,5119.40310958136,26.18,SSP1
-57,2183,Congo,Africa_Eastern,183,2,7680.0,Africa_Eastern,2.0,Legumes,Legumes,183.0,irr,5119.40310958136,26.18,SSP1
-58,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,541.0,Africa_Northern,3.0,Legumes,Legumes,75.0,rfd,1753.84170023218,14.4114524811881,SSP1
-59,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7822.0,Africa_Northern,3.0,Legumes,Legumes,75.0,irr,1753.84170023218,14.4114524811881,SSP1
-60,3080,Mediterranean_South_Coast,Africa_Northern,80,3,542.0,Africa_Northern,3.0,Legumes,Legumes,80.0,rfd,3775.85797217967,31.0265160958249,SSP1
-61,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7823.0,Africa_Northern,3.0,Legumes,Legumes,80.0,irr,3775.85797217967,31.0265160958249,SSP1
-62,3086,Africa_North_West_Coast,Africa_Northern,86,3,543.0,Africa_Northern,3.0,Legumes,Legumes,86.0,rfd,2666.14614623642,21.9079284574556,SSP1
-63,3086,Africa_North_West_Coast,Africa_Northern,86,3,7824.0,Africa_Northern,3.0,Legumes,Legumes,86.0,irr,2666.14614623642,21.9079284574556,SSP1
-64,3087,Nile,Africa_Northern,87,3,544.0,Africa_Northern,3.0,Legumes,Legumes,87.0,rfd,1753.84170023218,14.4114524811881,SSP1
-65,3087,Nile,Africa_Northern,87,3,7825.0,Africa_Northern,3.0,Legumes,Legumes,87.0,irr,1753.84170023218,14.4114524811881,SSP1
+46,2151,Lake_Chad,Africa_Eastern,151,2,394.0,Africa_Eastern,2.0,Legumes,Legumes,151.0,rfd,5031.5042480678,26.18,SSP1
+47,2151,Lake_Chad,Africa_Eastern,151,2,7675.0,Africa_Eastern,2.0,Legumes,Legumes,151.0,irr,5031.5042480678,26.18,SSP1
+48,2170,Shebelli_Juba,Africa_Eastern,170,2,395.0,Africa_Eastern,2.0,Legumes,Legumes,170.0,rfd,5031.5042480678,26.18,SSP1
+49,2170,Shebelli_Juba,Africa_Eastern,170,2,7676.0,Africa_Eastern,2.0,Legumes,Legumes,170.0,irr,5031.5042480678,26.18,SSP1
+50,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,396.0,Africa_Eastern,2.0,Legumes,Legumes,171.0,rfd,5031.5042480678,26.18,SSP1
+51,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7677.0,Africa_Eastern,2.0,Legumes,Legumes,171.0,irr,5031.5042480678,26.18,SSP1
+52,2177,Madagascar,Africa_Eastern,177,2,397.0,Africa_Eastern,2.0,Legumes,Legumes,177.0,rfd,5031.5042480678,26.18,SSP1
+53,2177,Madagascar,Africa_Eastern,177,2,7678.0,Africa_Eastern,2.0,Legumes,Legumes,177.0,irr,5031.5042480678,26.18,SSP1
+54,2179,Rift_Valley,Africa_Eastern,179,2,398.0,Africa_Eastern,2.0,Legumes,Legumes,179.0,rfd,5031.5042480678,26.18,SSP1
+55,2179,Rift_Valley,Africa_Eastern,179,2,7679.0,Africa_Eastern,2.0,Legumes,Legumes,179.0,irr,5031.5042480678,26.18,SSP1
+56,2183,Congo,Africa_Eastern,183,2,399.0,Africa_Eastern,2.0,Legumes,Legumes,183.0,rfd,5031.5042480678,26.18,SSP1
+57,2183,Congo,Africa_Eastern,183,2,7680.0,Africa_Eastern,2.0,Legumes,Legumes,183.0,irr,5031.5042480678,26.18,SSP1
+58,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,541.0,Africa_Northern,3.0,Legumes,Legumes,75.0,rfd,1639.372107442,13.9522063284178,SSP1
+59,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7822.0,Africa_Northern,3.0,Legumes,Legumes,75.0,irr,1639.372107442,13.9522063284178,SSP1
+60,3080,Mediterranean_South_Coast,Africa_Northern,80,3,542.0,Africa_Northern,3.0,Legumes,Legumes,80.0,rfd,3529.41559117589,30.0378018652869,SSP1
+61,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7823.0,Africa_Northern,3.0,Legumes,Legumes,80.0,irr,3529.41559117589,30.0378018652869,SSP1
+62,3086,Africa_North_West_Coast,Africa_Northern,86,3,543.0,Africa_Northern,3.0,Legumes,Legumes,86.0,rfd,2492.13234348651,21.2097939791728,SSP1
+63,3086,Africa_North_West_Coast,Africa_Northern,86,3,7824.0,Africa_Northern,3.0,Legumes,Legumes,86.0,irr,2492.13234348651,21.2097939791728,SSP1
+64,3087,Nile,Africa_Northern,87,3,544.0,Africa_Northern,3.0,Legumes,Legumes,87.0,rfd,1639.372107442,13.9522063284178,SSP1
+65,3087,Nile,Africa_Northern,87,3,7825.0,Africa_Northern,3.0,Legumes,Legumes,87.0,irr,1639.372107442,13.9522063284178,SSP1
 66,3095,Dead_Sea,Africa_Northern,95,3,,,,,,,,,,
-67,3098,Sinai_Peninsula,Africa_Northern,98,3,545.0,Africa_Northern,3.0,Legumes,Legumes,98.0,rfd,1753.84170023218,14.4114524811881,SSP1
-68,3098,Sinai_Peninsula,Africa_Northern,98,3,7826.0,Africa_Northern,3.0,Legumes,Legumes,98.0,irr,1753.84170023218,14.4114524811881,SSP1
+67,3098,Sinai_Peninsula,Africa_Northern,98,3,545.0,Africa_Northern,3.0,Legumes,Legumes,98.0,rfd,1639.372107442,13.9522063284178,SSP1
+68,3098,Sinai_Peninsula,Africa_Northern,98,3,7826.0,Africa_Northern,3.0,Legumes,Legumes,98.0,irr,1639.372107442,13.9522063284178,SSP1
 69,3100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Northern,100,3,,,,,,,,,,
-70,3144,Africa_North_Interior,Africa_Northern,144,3,546.0,Africa_Northern,3.0,Legumes,Legumes,144.0,rfd,2444.53430704249,20.0869268873657,SSP1
-71,3144,Africa_North_Interior,Africa_Northern,144,3,7827.0,Africa_Northern,3.0,Legumes,Legumes,144.0,irr,2444.53430704249,20.0869268873657,SSP1
+70,3144,Africa_North_Interior,Africa_Northern,144,3,546.0,Africa_Northern,3.0,Legumes,Legumes,144.0,rfd,2284.98464720049,19.4468218107926,SSP1
+71,3144,Africa_North_Interior,Africa_Northern,144,3,7827.0,Africa_Northern,3.0,Legumes,Legumes,144.0,irr,2284.98464720049,19.4468218107926,SSP1
 72,3149,Niger,Africa_Northern,149,3,,,,,,,,,,
 73,3151,Lake_Chad,Africa_Northern,151,3,,,,,,,,,,
-74,4087,Nile,Africa_Southern,87,4,680.0,Africa_Southern,4.0,Legumes,Legumes,87.0,rfd,2634.03580474907,26.18,SSP1
-75,4087,Nile,Africa_Southern,87,4,7961.0,Africa_Southern,4.0,Legumes,Legumes,87.0,irr,2634.03580474907,26.18,SSP1
-76,4162,Gulf_of_Guinea,Africa_Southern,162,4,681.0,Africa_Southern,4.0,Legumes,Legumes,162.0,rfd,2634.03580474907,26.18,SSP1
-77,4162,Gulf_of_Guinea,Africa_Southern,162,4,7962.0,Africa_Southern,4.0,Legumes,Legumes,162.0,irr,2634.03580474907,26.18,SSP1
-78,4171,Africa_East_Central_Coast,Africa_Southern,171,4,682.0,Africa_Southern,4.0,Legumes,Legumes,171.0,rfd,2634.03580474907,26.18,SSP1
-79,4171,Africa_East_Central_Coast,Africa_Southern,171,4,7963.0,Africa_Southern,4.0,Legumes,Legumes,171.0,irr,2634.03580474907,26.18,SSP1
-80,4179,Rift_Valley,Africa_Southern,179,4,683.0,Africa_Southern,4.0,Legumes,Legumes,179.0,rfd,2634.03580474907,26.18,SSP1
-81,4179,Rift_Valley,Africa_Southern,179,4,7964.0,Africa_Southern,4.0,Legumes,Legumes,179.0,irr,2634.03580474907,26.18,SSP1
-82,4182,Angola_Coast,Africa_Southern,182,4,684.0,Africa_Southern,4.0,Legumes,Legumes,182.0,rfd,2634.03580474907,26.18,SSP1
-83,4182,Angola_Coast,Africa_Southern,182,4,7965.0,Africa_Southern,4.0,Legumes,Legumes,182.0,irr,2634.03580474907,26.18,SSP1
-84,4183,Congo,Africa_Southern,183,4,685.0,Africa_Southern,4.0,Legumes,Legumes,183.0,rfd,2634.03580474907,26.18,SSP1
-85,4183,Congo,Africa_Southern,183,4,7966.0,Africa_Southern,4.0,Legumes,Legumes,183.0,irr,2634.03580474907,26.18,SSP1
-86,4188,Zambezi,Africa_Southern,188,4,686.0,Africa_Southern,4.0,Legumes,Legumes,188.0,rfd,2634.03580474907,26.18,SSP1
-87,4188,Zambezi,Africa_Southern,188,4,7967.0,Africa_Southern,4.0,Legumes,Legumes,188.0,irr,2634.03580474907,26.18,SSP1
-88,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,687.0,Africa_Southern,4.0,Legumes,Legumes,190.0,rfd,2634.03580474907,26.18,SSP1
-89,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,7968.0,Africa_Southern,4.0,Legumes,Legumes,190.0,irr,2634.03580474907,26.18,SSP1
-90,4194,Orange,Africa_Southern,194,4,688.0,Africa_Southern,4.0,Legumes,Legumes,194.0,rfd,2634.03580474907,26.18,SSP1
-91,4194,Orange,Africa_Southern,194,4,7969.0,Africa_Southern,4.0,Legumes,Legumes,194.0,irr,2634.03580474907,26.18,SSP1
-92,4196,Namibia_Coast,Africa_Southern,196,4,689.0,Africa_Southern,4.0,Legumes,Legumes,196.0,rfd,2634.03580474907,26.18,SSP1
-93,4196,Namibia_Coast,Africa_Southern,196,4,7970.0,Africa_Southern,4.0,Legumes,Legumes,196.0,irr,2634.03580474907,26.18,SSP1
-94,4197,Africa_South_Interior,Africa_Southern,197,4,690.0,Africa_Southern,4.0,Legumes,Legumes,197.0,rfd,2634.03580474907,26.18,SSP1
-95,4197,Africa_South_Interior,Africa_Southern,197,4,7971.0,Africa_Southern,4.0,Legumes,Legumes,197.0,irr,2634.03580474907,26.18,SSP1
-96,4198,South_Africa_South_Coast,Africa_Southern,198,4,691.0,Africa_Southern,4.0,Legumes,Legumes,198.0,rfd,2634.03580474907,26.18,SSP1
-97,4198,South_Africa_South_Coast,Africa_Southern,198,4,7972.0,Africa_Southern,4.0,Legumes,Legumes,198.0,irr,2634.03580474907,26.18,SSP1
-98,4199,Limpopo,Africa_Southern,199,4,692.0,Africa_Southern,4.0,Legumes,Legumes,199.0,rfd,2634.03580474907,26.18,SSP1
-99,4199,Limpopo,Africa_Southern,199,4,7973.0,Africa_Southern,4.0,Legumes,Legumes,199.0,irr,2634.03580474907,26.18,SSP1
-100,5086,Africa_North_West_Coast,Africa_Western,86,5,898.0,Africa_Western,5.0,Legumes,Legumes,86.0,rfd,2268.94699993272,22.8523132244961,SSP1
-101,5086,Africa_North_West_Coast,Africa_Western,86,5,8179.0,Africa_Western,5.0,Legumes,Legumes,86.0,irr,2268.94699993272,22.8523132244961,SSP1
-102,5087,Nile,Africa_Western,87,5,899.0,Africa_Western,5.0,Legumes,Legumes,87.0,rfd,1736.85910057972,17.49324607161,SSP1
-103,5087,Nile,Africa_Western,87,5,8180.0,Africa_Western,5.0,Legumes,Legumes,87.0,irr,1736.85910057972,17.49324607161,SSP1
-104,5142,Africa_West_Coast,Africa_Western,142,5,900.0,Africa_Western,5.0,Legumes,Legumes,142.0,rfd,1736.85910057972,17.49324607161,SSP1
-105,5142,Africa_West_Coast,Africa_Western,142,5,8181.0,Africa_Western,5.0,Legumes,Legumes,142.0,irr,1736.85910057972,17.49324607161,SSP1
-106,5144,Africa_North_Interior,Africa_Western,144,5,901.0,Africa_Western,5.0,Legumes,Legumes,144.0,rfd,1736.85910057972,17.49324607161,SSP1
-107,5144,Africa_North_Interior,Africa_Western,144,5,8182.0,Africa_Western,5.0,Legumes,Legumes,144.0,irr,1736.85910057972,17.49324607161,SSP1
-108,5149,Niger,Africa_Western,149,5,902.0,Africa_Western,5.0,Legumes,Legumes,149.0,rfd,1757.48961771597,17.7010319033614,SSP1
-109,5149,Niger,Africa_Western,149,5,8183.0,Africa_Western,5.0,Legumes,Legumes,149.0,irr,1757.48961771597,17.7010319033614,SSP1
-110,5151,Lake_Chad,Africa_Western,151,5,903.0,Africa_Western,5.0,Legumes,Legumes,151.0,rfd,2420.75143633118,24.3812526530277,SSP1
-111,5151,Lake_Chad,Africa_Western,151,5,8184.0,Africa_Western,5.0,Legumes,Legumes,151.0,irr,2420.75143633118,24.3812526530277,SSP1
-112,5152,Senegal,Africa_Western,152,5,904.0,Africa_Western,5.0,Legumes,Legumes,152.0,rfd,1736.85910057972,17.49324607161,SSP1
-113,5152,Senegal,Africa_Western,152,5,8185.0,Africa_Western,5.0,Legumes,Legumes,152.0,irr,1736.85910057972,17.49324607161,SSP1
-114,5160,Volta,Africa_Western,160,5,905.0,Africa_Western,5.0,Legumes,Legumes,160.0,rfd,1736.85910057972,17.49324607161,SSP1
-115,5160,Volta,Africa_Western,160,5,8186.0,Africa_Western,5.0,Legumes,Legumes,160.0,irr,1736.85910057972,17.49324607161,SSP1
-116,5162,Gulf_of_Guinea,Africa_Western,162,5,906.0,Africa_Western,5.0,Legumes,Legumes,162.0,rfd,1736.85910057972,17.49324607161,SSP1
-117,5162,Gulf_of_Guinea,Africa_Western,162,5,8187.0,Africa_Western,5.0,Legumes,Legumes,162.0,irr,1736.85910057972,17.49324607161,SSP1
-118,5183,Congo,Africa_Western,183,5,907.0,Africa_Western,5.0,Legumes,Legumes,183.0,rfd,1736.85910057972,17.49324607161,SSP1
-119,5183,Congo,Africa_Western,183,5,8188.0,Africa_Western,5.0,Legumes,Legumes,183.0,irr,1736.85910057972,17.49324607161,SSP1
-120,5188,Zambezi,Africa_Western,188,5,908.0,Africa_Western,5.0,Legumes,Legumes,188.0,rfd,1736.85910057972,17.49324607161,SSP1
-121,5188,Zambezi,Africa_Western,188,5,8189.0,Africa_Western,5.0,Legumes,Legumes,188.0,irr,1736.85910057972,17.49324607161,SSP1
+74,4087,Nile,Africa_Southern,87,4,680.0,Africa_Southern,4.0,Legumes,Legumes,87.0,rfd,2533.53314325183,26.18,SSP1
+75,4087,Nile,Africa_Southern,87,4,7961.0,Africa_Southern,4.0,Legumes,Legumes,87.0,irr,2533.53314325183,26.18,SSP1
+76,4162,Gulf_of_Guinea,Africa_Southern,162,4,681.0,Africa_Southern,4.0,Legumes,Legumes,162.0,rfd,2533.53314325183,26.18,SSP1
+77,4162,Gulf_of_Guinea,Africa_Southern,162,4,7962.0,Africa_Southern,4.0,Legumes,Legumes,162.0,irr,2533.53314325183,26.18,SSP1
+78,4171,Africa_East_Central_Coast,Africa_Southern,171,4,682.0,Africa_Southern,4.0,Legumes,Legumes,171.0,rfd,2533.53314325183,26.18,SSP1
+79,4171,Africa_East_Central_Coast,Africa_Southern,171,4,7963.0,Africa_Southern,4.0,Legumes,Legumes,171.0,irr,2533.53314325183,26.18,SSP1
+80,4179,Rift_Valley,Africa_Southern,179,4,683.0,Africa_Southern,4.0,Legumes,Legumes,179.0,rfd,2533.53314325183,26.18,SSP1
+81,4179,Rift_Valley,Africa_Southern,179,4,7964.0,Africa_Southern,4.0,Legumes,Legumes,179.0,irr,2533.53314325183,26.18,SSP1
+82,4182,Angola_Coast,Africa_Southern,182,4,684.0,Africa_Southern,4.0,Legumes,Legumes,182.0,rfd,2533.53314325183,26.18,SSP1
+83,4182,Angola_Coast,Africa_Southern,182,4,7965.0,Africa_Southern,4.0,Legumes,Legumes,182.0,irr,2533.53314325183,26.18,SSP1
+84,4183,Congo,Africa_Southern,183,4,685.0,Africa_Southern,4.0,Legumes,Legumes,183.0,rfd,2533.53314325183,26.18,SSP1
+85,4183,Congo,Africa_Southern,183,4,7966.0,Africa_Southern,4.0,Legumes,Legumes,183.0,irr,2533.53314325183,26.18,SSP1
+86,4188,Zambezi,Africa_Southern,188,4,686.0,Africa_Southern,4.0,Legumes,Legumes,188.0,rfd,2533.53314325183,26.18,SSP1
+87,4188,Zambezi,Africa_Southern,188,4,7967.0,Africa_Southern,4.0,Legumes,Legumes,188.0,irr,2533.53314325183,26.18,SSP1
+88,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,687.0,Africa_Southern,4.0,Legumes,Legumes,190.0,rfd,2533.53314325183,26.18,SSP1
+89,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,7968.0,Africa_Southern,4.0,Legumes,Legumes,190.0,irr,2533.53314325183,26.18,SSP1
+90,4194,Orange,Africa_Southern,194,4,688.0,Africa_Southern,4.0,Legumes,Legumes,194.0,rfd,2533.53314325183,26.18,SSP1
+91,4194,Orange,Africa_Southern,194,4,7969.0,Africa_Southern,4.0,Legumes,Legumes,194.0,irr,2533.53314325183,26.18,SSP1
+92,4196,Namibia_Coast,Africa_Southern,196,4,689.0,Africa_Southern,4.0,Legumes,Legumes,196.0,rfd,2533.53314325183,26.18,SSP1
+93,4196,Namibia_Coast,Africa_Southern,196,4,7970.0,Africa_Southern,4.0,Legumes,Legumes,196.0,irr,2533.53314325183,26.18,SSP1
+94,4197,Africa_South_Interior,Africa_Southern,197,4,690.0,Africa_Southern,4.0,Legumes,Legumes,197.0,rfd,2533.53314325183,26.18,SSP1
+95,4197,Africa_South_Interior,Africa_Southern,197,4,7971.0,Africa_Southern,4.0,Legumes,Legumes,197.0,irr,2533.53314325183,26.18,SSP1
+96,4198,South_Africa_South_Coast,Africa_Southern,198,4,691.0,Africa_Southern,4.0,Legumes,Legumes,198.0,rfd,2533.53314325183,26.18,SSP1
+97,4198,South_Africa_South_Coast,Africa_Southern,198,4,7972.0,Africa_Southern,4.0,Legumes,Legumes,198.0,irr,2533.53314325183,26.18,SSP1
+98,4199,Limpopo,Africa_Southern,199,4,692.0,Africa_Southern,4.0,Legumes,Legumes,199.0,rfd,2533.53314325183,26.18,SSP1
+99,4199,Limpopo,Africa_Southern,199,4,7973.0,Africa_Southern,4.0,Legumes,Legumes,199.0,irr,2533.53314325183,26.18,SSP1
+100,5086,Africa_North_West_Coast,Africa_Western,86,5,898.0,Africa_Western,5.0,Legumes,Legumes,86.0,rfd,2161.9771599146,22.4263523884653,SSP1
+101,5086,Africa_North_West_Coast,Africa_Western,86,5,8179.0,Africa_Western,5.0,Legumes,Legumes,86.0,irr,2161.9771599146,22.4263523884653,SSP1
+102,5087,Nile,Africa_Western,87,5,899.0,Africa_Western,5.0,Legumes,Legumes,87.0,rfd,1654.97462283364,17.1671767740139,SSP1
+103,5087,Nile,Africa_Western,87,5,8180.0,Africa_Western,5.0,Legumes,Legumes,87.0,irr,1654.97462283364,17.1671767740139,SSP1
+104,5142,Africa_West_Coast,Africa_Western,142,5,900.0,Africa_Western,5.0,Legumes,Legumes,142.0,rfd,1654.97462283364,17.1671767740139,SSP1
+105,5142,Africa_West_Coast,Africa_Western,142,5,8181.0,Africa_Western,5.0,Legumes,Legumes,142.0,irr,1654.97462283364,17.1671767740139,SSP1
+106,5144,Africa_North_Interior,Africa_Western,144,5,901.0,Africa_Western,5.0,Legumes,Legumes,144.0,rfd,1654.97462283364,17.1671767740139,SSP1
+107,5144,Africa_North_Interior,Africa_Western,144,5,8182.0,Africa_Western,5.0,Legumes,Legumes,144.0,irr,1654.97462283364,17.1671767740139,SSP1
+108,5149,Niger,Africa_Western,149,5,902.0,Africa_Western,5.0,Legumes,Legumes,149.0,rfd,1674.63251120526,17.3710895349852,SSP1
+109,5149,Niger,Africa_Western,149,5,8183.0,Africa_Western,5.0,Legumes,Legumes,149.0,irr,1674.63251120526,17.3710895349852,SSP1
+110,5151,Lake_Chad,Africa_Western,151,5,903.0,Africa_Western,5.0,Legumes,Legumes,151.0,rfd,2306.62475383236,23.9267928063795,SSP1
+111,5151,Lake_Chad,Africa_Western,151,5,8184.0,Africa_Western,5.0,Legumes,Legumes,151.0,irr,2306.62475383236,23.9267928063795,SSP1
+112,5152,Senegal,Africa_Western,152,5,904.0,Africa_Western,5.0,Legumes,Legumes,152.0,rfd,1654.97462283364,17.1671767740139,SSP1
+113,5152,Senegal,Africa_Western,152,5,8185.0,Africa_Western,5.0,Legumes,Legumes,152.0,irr,1654.97462283364,17.1671767740139,SSP1
+114,5160,Volta,Africa_Western,160,5,905.0,Africa_Western,5.0,Legumes,Legumes,160.0,rfd,1654.97462283364,17.1671767740139,SSP1
+115,5160,Volta,Africa_Western,160,5,8186.0,Africa_Western,5.0,Legumes,Legumes,160.0,irr,1654.97462283364,17.1671767740139,SSP1
+116,5162,Gulf_of_Guinea,Africa_Western,162,5,906.0,Africa_Western,5.0,Legumes,Legumes,162.0,rfd,1654.97462283364,17.1671767740139,SSP1
+117,5162,Gulf_of_Guinea,Africa_Western,162,5,8187.0,Africa_Western,5.0,Legumes,Legumes,162.0,irr,1654.97462283364,17.1671767740139,SSP1
+118,5183,Congo,Africa_Western,183,5,907.0,Africa_Western,5.0,Legumes,Legumes,183.0,rfd,1654.97462283364,17.1671767740139,SSP1
+119,5183,Congo,Africa_Western,183,5,8188.0,Africa_Western,5.0,Legumes,Legumes,183.0,irr,1654.97462283364,17.1671767740139,SSP1
+120,5188,Zambezi,Africa_Western,188,5,908.0,Africa_Western,5.0,Legumes,Legumes,188.0,rfd,1654.97462283364,17.1671767740139,SSP1
+121,5188,Zambezi,Africa_Western,188,5,8189.0,Africa_Western,5.0,Legumes,Legumes,188.0,irr,1654.97462283364,17.1671767740139,SSP1
 122,6175,Java_Timor,Australia_NZ,175,6,,,,,,,,,,
 123,6184,Australia_North_Coast,Australia_NZ,184,6,,,,,,,,,,
 124,6189,Australia_East_Coast,Australia_NZ,189,6,,,,,,,,,,
 125,6191,Australia_West_Coast,Australia_NZ,191,6,,,,,,,,,,
 126,6193,Australia_Interior,Australia_NZ,193,6,,,,,,,,,,
-127,6201,New_Zealand,Australia_NZ,201,6,1095.0,Australia_NZ,6.0,Legumes,Legumes,201.0,rfd,4644.91817809195,26.18,SSP1
-128,6201,New_Zealand,Australia_NZ,201,6,8376.0,Australia_NZ,6.0,Legumes,Legumes,201.0,irr,4644.91817809195,26.18,SSP1
+127,6201,New_Zealand,Australia_NZ,201,6,1095.0,Australia_NZ,6.0,Legumes,Legumes,201.0,rfd,4538.12397945732,26.18,SSP1
+128,6201,New_Zealand,Australia_NZ,201,6,8376.0,Australia_NZ,6.0,Legumes,Legumes,201.0,irr,4538.12397945732,26.18,SSP1
 129,6202,Australia_South_Coast,Australia_NZ,202,6,,,,,,,,,,
 130,6208,Murray_Darling,Australia_NZ,208,6,,,,,,,,,,
 131,6211,Tasmania,Australia_NZ,211,6,,,,,,,,,,
@@ -142,570 +142,577 @@
 140,7192,Sao_Francisco,Brazil,192,7,,,,,,,,,,
 141,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,,,,,,,,,,
 142,7206,La_Plata,Brazil,206,7,,,,,,,,,,
-143,8002,Northwest_Territories,Canada,2,8,1421.0,Canada,8.0,Legumes,Legumes,2.0,rfd,1667.05895780994,26.18,SSP1
-144,8002,Northwest_Territories,Canada,2,8,8702.0,Canada,8.0,Legumes,Legumes,2.0,irr,1667.05895780994,26.18,SSP1
-145,8007,Pacific_and_Arctic_Coast,Canada,7,8,1422.0,Canada,8.0,Legumes,Legumes,7.0,rfd,1667.05895780994,26.18,SSP1
-146,8007,Pacific_and_Arctic_Coast,Canada,7,8,8703.0,Canada,8.0,Legumes,Legumes,7.0,irr,1667.05895780994,26.18,SSP1
-147,8010,Mackenzie,Canada,10,8,1423.0,Canada,8.0,Legumes,Legumes,10.0,rfd,1667.05895780994,26.18,SSP1
-148,8010,Mackenzie,Canada,10,8,8704.0,Canada,8.0,Legumes,Legumes,10.0,irr,1667.05895780994,26.18,SSP1
-149,8015,Hudson_Bay_Coast,Canada,15,8,1424.0,Canada,8.0,Legumes,Legumes,15.0,rfd,1667.05895780994,26.18,SSP1
-150,8015,Hudson_Bay_Coast,Canada,15,8,8705.0,Canada,8.0,Legumes,Legumes,15.0,irr,1667.05895780994,26.18,SSP1
-151,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1425.0,Canada,8.0,Legumes,Legumes,19.0,rfd,1667.05895780994,26.18,SSP1
-152,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8706.0,Canada,8.0,Legumes,Legumes,19.0,irr,1667.05895780994,26.18,SSP1
-153,8023,Saskatchewan_Nelson,Canada,23,8,1426.0,Canada,8.0,Legumes,Legumes,23.0,rfd,1876.02610935438,29.4616835912152,SSP1
-154,8023,Saskatchewan_Nelson,Canada,23,8,8707.0,Canada,8.0,Legumes,Legumes,23.0,irr,1876.02610935438,29.4616835912152,SSP1
-155,8027,Fraser,Canada,27,8,1427.0,Canada,8.0,Legumes,Legumes,27.0,rfd,1667.05895780994,26.18,SSP1
-156,8027,Fraser,Canada,27,8,8708.0,Canada,8.0,Legumes,Legumes,27.0,irr,1667.05895780994,26.18,SSP1
+143,8002,Northwest_Territories,Canada,2,8,1421.0,Canada,8.0,Legumes,Legumes,2.0,rfd,1592.16839252247,26.18,SSP1
+144,8002,Northwest_Territories,Canada,2,8,8702.0,Canada,8.0,Legumes,Legumes,2.0,irr,1592.16839252247,26.18,SSP1
+145,8007,Pacific_and_Arctic_Coast,Canada,7,8,1422.0,Canada,8.0,Legumes,Legumes,7.0,rfd,1592.16839252247,26.18,SSP1
+146,8007,Pacific_and_Arctic_Coast,Canada,7,8,8703.0,Canada,8.0,Legumes,Legumes,7.0,irr,1592.16839252247,26.18,SSP1
+147,8010,Mackenzie,Canada,10,8,1423.0,Canada,8.0,Legumes,Legumes,10.0,rfd,1592.16839252247,26.18,SSP1
+148,8010,Mackenzie,Canada,10,8,8704.0,Canada,8.0,Legumes,Legumes,10.0,irr,1592.16839252247,26.18,SSP1
+149,8015,Hudson_Bay_Coast,Canada,15,8,1424.0,Canada,8.0,Legumes,Legumes,15.0,rfd,1592.16839252247,26.18,SSP1
+150,8015,Hudson_Bay_Coast,Canada,15,8,8705.0,Canada,8.0,Legumes,Legumes,15.0,irr,1592.16839252247,26.18,SSP1
+151,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1425.0,Canada,8.0,Legumes,Legumes,19.0,rfd,1592.16839252247,26.18,SSP1
+152,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8706.0,Canada,8.0,Legumes,Legumes,19.0,irr,1592.16839252247,26.18,SSP1
+153,8023,Saskatchewan_Nelson,Canada,23,8,1426.0,Canada,8.0,Legumes,Legumes,23.0,rfd,1791.74795280484,29.4616835912152,SSP1
+154,8023,Saskatchewan_Nelson,Canada,23,8,8707.0,Canada,8.0,Legumes,Legumes,23.0,irr,1791.74795280484,29.4616835912152,SSP1
+155,8027,Fraser,Canada,27,8,1427.0,Canada,8.0,Legumes,Legumes,27.0,rfd,1592.16839252247,26.18,SSP1
+156,8027,Fraser,Canada,27,8,8708.0,Canada,8.0,Legumes,Legumes,27.0,irr,1592.16839252247,26.18,SSP1
 157,8034,Churchill,Canada,34,8,,,,,,,,,,
-158,8040,St_Lawrence,Canada,40,8,1428.0,Canada,8.0,Legumes,Legumes,40.0,rfd,1667.05895780994,26.18,SSP1
-159,8040,St_Lawrence,Canada,40,8,8709.0,Canada,8.0,Legumes,Legumes,40.0,irr,1667.05895780994,26.18,SSP1
-160,8223,Missouri_River_Basin,Canada,223,8,1429.0,Canada,8.0,Legumes,Legumes,223.0,rfd,2059.36133264578,32.3408355991769,SSP1
-161,8223,Missouri_River_Basin,Canada,223,8,8710.0,Canada,8.0,Legumes,Legumes,223.0,irr,2059.36133264578,32.3408355991769,SSP1
-162,8227,Great_Lakes_Basin,Canada,227,8,1430.0,Canada,8.0,Legumes,Legumes,227.0,rfd,1667.05895780994,26.18,SSP1
-163,8227,Great_Lakes_Basin,Canada,227,8,8711.0,Canada,8.0,Legumes,Legumes,227.0,irr,1667.05895780994,26.18,SSP1
-164,8229,Pacific_Northwest_Basin,Canada,229,8,1431.0,Canada,8.0,Legumes,Legumes,229.0,rfd,1667.05895780994,26.18,SSP1
-165,8229,Pacific_Northwest_Basin,Canada,229,8,8712.0,Canada,8.0,Legumes,Legumes,229.0,irr,1667.05895780994,26.18,SSP1
-166,8232,New_England_Basin,Canada,232,8,1432.0,Canada,8.0,Legumes,Legumes,232.0,rfd,1667.05895780994,26.18,SSP1
-167,8232,New_England_Basin,Canada,232,8,8713.0,Canada,8.0,Legumes,Legumes,232.0,irr,1667.05895780994,26.18,SSP1
-168,9101,Caribbean,Central America and Caribbean,101,9,1537.0,Central America and Caribbean,9.0,Legumes,Legumes,101.0,rfd,1566.5103864135,20.2236008597534,SSP1
-169,9101,Caribbean,Central America and Caribbean,101,9,8818.0,Central America and Caribbean,9.0,Legumes,Legumes,101.0,irr,1566.5103864135,20.2236008597534,SSP1
-170,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,1538.0,Central America and Caribbean,9.0,Legumes,Legumes,111.0,rfd,6132.25361310782,79.1672053488304,SSP1
-171,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,8819.0,Central America and Caribbean,9.0,Legumes,Legumes,111.0,irr,6132.25361310782,79.1672053488304,SSP1
-172,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,1539.0,Central America and Caribbean,9.0,Legumes,Legumes,133.0,rfd,6040.25767699436,77.9795406459251,SSP1
-173,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,8820.0,Central America and Caribbean,9.0,Legumes,Legumes,133.0,irr,6040.25767699436,77.9795406459251,SSP1
-174,9135,Southern_Central_America,Central America and Caribbean,135,9,1540.0,Central America and Caribbean,9.0,Legumes,Legumes,135.0,rfd,4413.60348581127,56.97948511827,SSP1
-175,9135,Southern_Central_America,Central America and Caribbean,135,9,8821.0,Central America and Caribbean,9.0,Legumes,Legumes,135.0,irr,4413.60348581127,56.97948511827,SSP1
-176,9143,Caribbean_Coast,Central America and Caribbean,143,9,1541.0,Central America and Caribbean,9.0,Legumes,Legumes,143.0,rfd,1287.74144390369,16.624702394534,SSP1
-177,9143,Caribbean_Coast,Central America and Caribbean,143,9,8822.0,Central America and Caribbean,9.0,Legumes,Legumes,143.0,irr,1287.74144390369,16.624702394534,SSP1
-178,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,1542.0,Central America and Caribbean,9.0,Legumes,Legumes,157.0,rfd,2437.64379473199,31.4699063411773,SSP1
-179,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,8823.0,Central America and Caribbean,9.0,Legumes,Legumes,157.0,irr,2437.64379473199,31.4699063411773,SSP1
-180,10018,Volga,Central Asia,18,10,1713.0,Central Asia,10.0,Legumes,Legumes,18.0,rfd,4915.64928317608,26.18,SSP1
-181,10018,Volga,Central Asia,18,10,8994.0,Central Asia,10.0,Legumes,Legumes,18.0,irr,4915.64928317608,26.18,SSP1
-182,10038,Ural,Central Asia,38,10,1714.0,Central Asia,10.0,Legumes,Legumes,38.0,rfd,4915.64928317608,26.18,SSP1
-183,10038,Ural,Central Asia,38,10,8995.0,Central Asia,10.0,Legumes,Legumes,38.0,irr,4915.64928317608,26.18,SSP1
-184,10042,Gobi_Interior,Central Asia,42,10,1715.0,Central Asia,10.0,Legumes,Legumes,42.0,rfd,4915.64928317608,26.18,SSP1
-185,10042,Gobi_Interior,Central Asia,42,10,8996.0,Central Asia,10.0,Legumes,Legumes,42.0,irr,4915.64928317608,26.18,SSP1
-186,10043,Amur,Central Asia,43,10,1716.0,Central Asia,10.0,Legumes,Legumes,43.0,rfd,4915.64928317608,26.18,SSP1
-187,10043,Amur,Central Asia,43,10,8997.0,Central Asia,10.0,Legumes,Legumes,43.0,irr,4915.64928317608,26.18,SSP1
-188,10045,Caspian_Sea_Coast,Central Asia,45,10,1717.0,Central Asia,10.0,Legumes,Legumes,45.0,rfd,4915.64928317608,26.18,SSP1
-189,10045,Caspian_Sea_Coast,Central Asia,45,10,8998.0,Central Asia,10.0,Legumes,Legumes,45.0,irr,4915.64928317608,26.18,SSP1
+158,8040,St_Lawrence,Canada,40,8,1428.0,Canada,8.0,Legumes,Legumes,40.0,rfd,1592.16839252247,26.18,SSP1
+159,8040,St_Lawrence,Canada,40,8,8709.0,Canada,8.0,Legumes,Legumes,40.0,irr,1592.16839252247,26.18,SSP1
+160,8223,Missouri_River_Basin,Canada,223,8,1429.0,Canada,8.0,Legumes,Legumes,223.0,rfd,1966.84706756207,32.3408355991769,SSP1
+161,8223,Missouri_River_Basin,Canada,223,8,8710.0,Canada,8.0,Legumes,Legumes,223.0,irr,1966.84706756207,32.3408355991769,SSP1
+162,8227,Great_Lakes_Basin,Canada,227,8,1430.0,Canada,8.0,Legumes,Legumes,227.0,rfd,1592.16839252247,26.18,SSP1
+163,8227,Great_Lakes_Basin,Canada,227,8,8711.0,Canada,8.0,Legumes,Legumes,227.0,irr,1592.16839252247,26.18,SSP1
+164,8229,Pacific_Northwest_Basin,Canada,229,8,1431.0,Canada,8.0,Legumes,Legumes,229.0,rfd,1592.16839252247,26.18,SSP1
+165,8229,Pacific_Northwest_Basin,Canada,229,8,8712.0,Canada,8.0,Legumes,Legumes,229.0,irr,1592.16839252247,26.18,SSP1
+166,8232,New_England_Basin,Canada,232,8,1432.0,Canada,8.0,Legumes,Legumes,232.0,rfd,1592.16839252247,26.18,SSP1
+167,8232,New_England_Basin,Canada,232,8,8713.0,Canada,8.0,Legumes,Legumes,232.0,irr,1592.16839252247,26.18,SSP1
+168,9101,Caribbean,Central America and Caribbean,101,9,1537.0,Central America and Caribbean,9.0,Legumes,Legumes,101.0,rfd,1477.69510795978,19.8712835538979,SSP1
+169,9101,Caribbean,Central America and Caribbean,101,9,8818.0,Central America and Caribbean,9.0,Legumes,Legumes,101.0,irr,1477.69510795978,19.8712835538979,SSP1
+170,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,1538.0,Central America and Caribbean,9.0,Legumes,Legumes,111.0,rfd,5784.57777455564,77.7880258103279,SSP1
+171,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,8819.0,Central America and Caribbean,9.0,Legumes,Legumes,111.0,irr,5784.57777455564,77.7880258103279,SSP1
+172,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,1539.0,Central America and Caribbean,9.0,Legumes,Legumes,133.0,rfd,5697.79766385477,76.6210515290388,SSP1
+173,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,8820.0,Central America and Caribbean,9.0,Legumes,Legumes,133.0,irr,5697.79766385477,76.6210515290388,SSP1
+174,9135,Southern_Central_America,Central America and Caribbean,135,9,1540.0,Central America and Caribbean,9.0,Legumes,Legumes,135.0,rfd,4163.36867985246,55.9868399990788,SSP1
+175,9135,Southern_Central_America,Central America and Caribbean,135,9,8821.0,Central America and Caribbean,9.0,Legumes,Legumes,135.0,irr,4163.36867985246,55.9868399990788,SSP1
+176,9143,Caribbean_Coast,Central America and Caribbean,143,9,1541.0,Central America and Caribbean,9.0,Legumes,Legumes,143.0,rfd,1214.73132159065,16.3350818467932,SSP1
+177,9143,Caribbean_Coast,Central America and Caribbean,143,9,8822.0,Central America and Caribbean,9.0,Legumes,Legumes,143.0,irr,1214.73132159065,16.3350818467932,SSP1
+178,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,1542.0,Central America and Caribbean,9.0,Legumes,Legumes,157.0,rfd,2299.43851101486,30.9216660602037,SSP1
+179,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,8823.0,Central America and Caribbean,9.0,Legumes,Legumes,157.0,irr,2299.43851101486,30.9216660602037,SSP1
+180,10018,Volga,Central Asia,18,10,1713.0,Central Asia,10.0,Legumes,Legumes,18.0,rfd,4819.08726762468,26.18,SSP1
+181,10018,Volga,Central Asia,18,10,8994.0,Central Asia,10.0,Legumes,Legumes,18.0,irr,4819.08726762468,26.18,SSP1
+182,10038,Ural,Central Asia,38,10,1714.0,Central Asia,10.0,Legumes,Legumes,38.0,rfd,4819.08726762468,26.18,SSP1
+183,10038,Ural,Central Asia,38,10,8995.0,Central Asia,10.0,Legumes,Legumes,38.0,irr,4819.08726762468,26.18,SSP1
+184,10042,Gobi_Interior,Central Asia,42,10,1715.0,Central Asia,10.0,Legumes,Legumes,42.0,rfd,4819.08726762468,26.18,SSP1
+185,10042,Gobi_Interior,Central Asia,42,10,8996.0,Central Asia,10.0,Legumes,Legumes,42.0,irr,4819.08726762468,26.18,SSP1
+186,10043,Amur,Central Asia,43,10,1716.0,Central Asia,10.0,Legumes,Legumes,43.0,rfd,4819.08726762468,26.18,SSP1
+187,10043,Amur,Central Asia,43,10,8997.0,Central Asia,10.0,Legumes,Legumes,43.0,irr,4819.08726762468,26.18,SSP1
+188,10045,Caspian_Sea_Coast,Central Asia,45,10,1717.0,Central Asia,10.0,Legumes,Legumes,45.0,rfd,4819.08726762468,26.18,SSP1
+189,10045,Caspian_Sea_Coast,Central Asia,45,10,8998.0,Central Asia,10.0,Legumes,Legumes,45.0,irr,4819.08726762468,26.18,SSP1
 190,10047,Black_Sea_North_Coast,Central Asia,47,10,,,,,,,,,,
-191,10048,Yenisey,Central Asia,48,10,1718.0,Central Asia,10.0,Legumes,Legumes,48.0,rfd,4915.64928317608,26.18,SSP1
-192,10048,Yenisey,Central Asia,48,10,8999.0,Central Asia,10.0,Legumes,Legumes,48.0,irr,4915.64928317608,26.18,SSP1
-193,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1719.0,Central Asia,10.0,Legumes,Legumes,52.0,rfd,4915.64928317608,26.18,SSP1
-194,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9000.0,Central Asia,10.0,Legumes,Legumes,52.0,irr,4915.64928317608,26.18,SSP1
-195,10056,Ob,Central Asia,56,10,1720.0,Central Asia,10.0,Legumes,Legumes,56.0,rfd,4915.64928317608,26.18,SSP1
-196,10056,Ob,Central Asia,56,10,9001.0,Central Asia,10.0,Legumes,Legumes,56.0,irr,4915.64928317608,26.18,SSP1
-197,10058,Amu_Darya,Central Asia,58,10,1721.0,Central Asia,10.0,Legumes,Legumes,58.0,rfd,4915.64928317608,26.18,SSP1
-198,10058,Amu_Darya,Central Asia,58,10,9002.0,Central Asia,10.0,Legumes,Legumes,58.0,irr,4915.64928317608,26.18,SSP1
-199,10068,Lake_Balkash,Central Asia,68,10,1722.0,Central Asia,10.0,Legumes,Legumes,68.0,rfd,4915.64928317608,26.18,SSP1
-200,10068,Lake_Balkash,Central Asia,68,10,9003.0,Central Asia,10.0,Legumes,Legumes,68.0,irr,4915.64928317608,26.18,SSP1
-201,10070,Black_Sea_South_Coast,Central Asia,70,10,1723.0,Central Asia,10.0,Legumes,Legumes,70.0,rfd,4915.64928317608,26.18,SSP1
-202,10070,Black_Sea_South_Coast,Central Asia,70,10,9004.0,Central Asia,10.0,Legumes,Legumes,70.0,irr,4915.64928317608,26.18,SSP1
-203,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1724.0,Central Asia,10.0,Legumes,Legumes,72.0,rfd,4915.64928317608,26.18,SSP1
-204,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9005.0,Central Asia,10.0,Legumes,Legumes,72.0,irr,4915.64928317608,26.18,SSP1
-205,10076,Syr_Darya,Central Asia,76,10,1725.0,Central Asia,10.0,Legumes,Legumes,76.0,rfd,4915.64928317608,26.18,SSP1
-206,10076,Syr_Darya,Central Asia,76,10,9006.0,Central Asia,10.0,Legumes,Legumes,76.0,irr,4915.64928317608,26.18,SSP1
-207,10085,Tarim_Interior,Central Asia,85,10,1726.0,Central Asia,10.0,Legumes,Legumes,85.0,rfd,4915.64928317608,26.18,SSP1
-208,10085,Tarim_Interior,Central Asia,85,10,9007.0,Central Asia,10.0,Legumes,Legumes,85.0,irr,4915.64928317608,26.18,SSP1
-209,11037,Russia_South_East_Coast,China,37,11,1959.0,China,11.0,Legumes,Legumes,37.0,rfd,771.731594994938,24.3615694192034,SSP1
-210,11037,Russia_South_East_Coast,China,37,11,9240.0,China,11.0,Legumes,Legumes,37.0,irr,771.731594994938,24.3615694192034,SSP1
-211,11042,Gobi_Interior,China,42,11,1960.0,China,11.0,Legumes,Legumes,42.0,rfd,771.731594994938,24.3615694192034,SSP1
-212,11042,Gobi_Interior,China,42,11,9241.0,China,11.0,Legumes,Legumes,42.0,irr,771.731594994938,24.3615694192034,SSP1
-213,11043,Amur,China,43,11,1961.0,China,11.0,Legumes,Legumes,43.0,rfd,771.731594994938,24.3615694192034,SSP1
-214,11043,Amur,China,43,11,9242.0,China,11.0,Legumes,Legumes,43.0,irr,771.731594994938,24.3615694192034,SSP1
-215,11056,Ob,China,56,11,1962.0,China,11.0,Legumes,Legumes,56.0,rfd,771.731594994938,24.3615694192034,SSP1
-216,11056,Ob,China,56,11,9243.0,China,11.0,Legumes,Legumes,56.0,irr,771.731594994938,24.3615694192034,SSP1
+191,10048,Yenisey,Central Asia,48,10,1718.0,Central Asia,10.0,Legumes,Legumes,48.0,rfd,4819.08726762468,26.18,SSP1
+192,10048,Yenisey,Central Asia,48,10,8999.0,Central Asia,10.0,Legumes,Legumes,48.0,irr,4819.08726762468,26.18,SSP1
+193,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1719.0,Central Asia,10.0,Legumes,Legumes,52.0,rfd,4819.08726762468,26.18,SSP1
+194,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9000.0,Central Asia,10.0,Legumes,Legumes,52.0,irr,4819.08726762468,26.18,SSP1
+195,10056,Ob,Central Asia,56,10,1720.0,Central Asia,10.0,Legumes,Legumes,56.0,rfd,4819.08726762468,26.18,SSP1
+196,10056,Ob,Central Asia,56,10,9001.0,Central Asia,10.0,Legumes,Legumes,56.0,irr,4819.08726762468,26.18,SSP1
+197,10058,Amu_Darya,Central Asia,58,10,1721.0,Central Asia,10.0,Legumes,Legumes,58.0,rfd,4819.08726762468,26.18,SSP1
+198,10058,Amu_Darya,Central Asia,58,10,9002.0,Central Asia,10.0,Legumes,Legumes,58.0,irr,4819.08726762468,26.18,SSP1
+199,10068,Lake_Balkash,Central Asia,68,10,1722.0,Central Asia,10.0,Legumes,Legumes,68.0,rfd,4819.08726762468,26.18,SSP1
+200,10068,Lake_Balkash,Central Asia,68,10,9003.0,Central Asia,10.0,Legumes,Legumes,68.0,irr,4819.08726762468,26.18,SSP1
+201,10070,Black_Sea_South_Coast,Central Asia,70,10,1723.0,Central Asia,10.0,Legumes,Legumes,70.0,rfd,4819.08726762468,26.18,SSP1
+202,10070,Black_Sea_South_Coast,Central Asia,70,10,9004.0,Central Asia,10.0,Legumes,Legumes,70.0,irr,4819.08726762468,26.18,SSP1
+203,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1724.0,Central Asia,10.0,Legumes,Legumes,72.0,rfd,4819.08726762468,26.18,SSP1
+204,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9005.0,Central Asia,10.0,Legumes,Legumes,72.0,irr,4819.08726762468,26.18,SSP1
+205,10076,Syr_Darya,Central Asia,76,10,1725.0,Central Asia,10.0,Legumes,Legumes,76.0,rfd,4819.08726762468,26.18,SSP1
+206,10076,Syr_Darya,Central Asia,76,10,9006.0,Central Asia,10.0,Legumes,Legumes,76.0,irr,4819.08726762468,26.18,SSP1
+207,10085,Tarim_Interior,Central Asia,85,10,1726.0,Central Asia,10.0,Legumes,Legumes,85.0,rfd,4819.08726762468,26.18,SSP1
+208,10085,Tarim_Interior,Central Asia,85,10,9007.0,Central Asia,10.0,Legumes,Legumes,85.0,irr,4819.08726762468,26.18,SSP1
+209,11037,Russia_South_East_Coast,China,37,11,1959.0,China,11.0,Legumes,Legumes,37.0,rfd,753.120969137229,24.2888494667867,SSP1
+210,11037,Russia_South_East_Coast,China,37,11,9240.0,China,11.0,Legumes,Legumes,37.0,irr,753.120969137229,24.2888494667867,SSP1
+211,11042,Gobi_Interior,China,42,11,1960.0,China,11.0,Legumes,Legumes,42.0,rfd,753.120969137229,24.2888494667867,SSP1
+212,11042,Gobi_Interior,China,42,11,9241.0,China,11.0,Legumes,Legumes,42.0,irr,753.120969137229,24.2888494667867,SSP1
+213,11043,Amur,China,43,11,1961.0,China,11.0,Legumes,Legumes,43.0,rfd,753.120969137229,24.2888494667867,SSP1
+214,11043,Amur,China,43,11,9242.0,China,11.0,Legumes,Legumes,43.0,irr,753.120969137229,24.2888494667867,SSP1
+215,11056,Ob,China,56,11,1962.0,China,11.0,Legumes,Legumes,56.0,rfd,753.120969137229,24.2888494667867,SSP1
+216,11056,Ob,China,56,11,9243.0,China,11.0,Legumes,Legumes,56.0,irr,753.120969137229,24.2888494667867,SSP1
 217,11058,Amu_Darya,China,58,11,,,,,,,,,,
-218,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,1963.0,China,11.0,Legumes,Legumes,66.0,rfd,771.731594994938,24.3615694192034,SSP1
-219,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9244.0,China,11.0,Legumes,Legumes,66.0,irr,771.731594994938,24.3615694192034,SSP1
-220,11068,Lake_Balkash,China,68,11,1964.0,China,11.0,Legumes,Legumes,68.0,rfd,771.731594994938,24.3615694192034,SSP1
-221,11068,Lake_Balkash,China,68,11,9245.0,China,11.0,Legumes,Legumes,68.0,irr,771.731594994938,24.3615694192034,SSP1
+218,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,1963.0,China,11.0,Legumes,Legumes,66.0,rfd,753.120969137229,24.2888494667867,SSP1
+219,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9244.0,China,11.0,Legumes,Legumes,66.0,irr,753.120969137229,24.2888494667867,SSP1
+220,11068,Lake_Balkash,China,68,11,1964.0,China,11.0,Legumes,Legumes,68.0,rfd,753.120969137229,24.2888494667867,SSP1
+221,11068,Lake_Balkash,China,68,11,9245.0,China,11.0,Legumes,Legumes,68.0,irr,753.120969137229,24.2888494667867,SSP1
 222,11076,Syr_Darya,China,76,11,,,,,,,,,,
-223,11077,Ziya_He_Interior,China,77,11,1965.0,China,11.0,Legumes,Legumes,77.0,rfd,771.731594994938,24.3615694192034,SSP1
-224,11077,Ziya_He_Interior,China,77,11,9246.0,China,11.0,Legumes,Legumes,77.0,irr,771.731594994938,24.3615694192034,SSP1
-225,11078,China_Coast,China,78,11,1966.0,China,11.0,Legumes,Legumes,78.0,rfd,771.731594994938,24.3615694192034,SSP1
-226,11078,China_Coast,China,78,11,9247.0,China,11.0,Legumes,Legumes,78.0,irr,771.731594994938,24.3615694192034,SSP1
-227,11079,Huang_He,China,79,11,1967.0,China,11.0,Legumes,Legumes,79.0,rfd,771.731594994938,24.3615694192034,SSP1
-228,11079,Huang_He,China,79,11,9248.0,China,11.0,Legumes,Legumes,79.0,irr,771.731594994938,24.3615694192034,SSP1
-229,11085,Tarim_Interior,China,85,11,1968.0,China,11.0,Legumes,Legumes,85.0,rfd,771.731594994938,24.3615694192034,SSP1
-230,11085,Tarim_Interior,China,85,11,9249.0,China,11.0,Legumes,Legumes,85.0,irr,771.731594994938,24.3615694192034,SSP1
-231,11089,Indus,China,89,11,1969.0,China,11.0,Legumes,Legumes,89.0,rfd,771.731594994938,24.3615694192034,SSP1
-232,11089,Indus,China,89,11,9250.0,China,11.0,Legumes,Legumes,89.0,irr,771.731594994938,24.3615694192034,SSP1
+223,11077,Ziya_He_Interior,China,77,11,1965.0,China,11.0,Legumes,Legumes,77.0,rfd,753.120969137229,24.2888494667867,SSP1
+224,11077,Ziya_He_Interior,China,77,11,9246.0,China,11.0,Legumes,Legumes,77.0,irr,753.120969137229,24.2888494667867,SSP1
+225,11078,China_Coast,China,78,11,1966.0,China,11.0,Legumes,Legumes,78.0,rfd,753.120969137229,24.2888494667867,SSP1
+226,11078,China_Coast,China,78,11,9247.0,China,11.0,Legumes,Legumes,78.0,irr,753.120969137229,24.2888494667867,SSP1
+227,11079,Huang_He,China,79,11,1967.0,China,11.0,Legumes,Legumes,79.0,rfd,753.120969137229,24.2888494667867,SSP1
+228,11079,Huang_He,China,79,11,9248.0,China,11.0,Legumes,Legumes,79.0,irr,753.120969137229,24.2888494667867,SSP1
+229,11085,Tarim_Interior,China,85,11,1968.0,China,11.0,Legumes,Legumes,85.0,rfd,753.120969137229,24.2888494667867,SSP1
+230,11085,Tarim_Interior,China,85,11,9249.0,China,11.0,Legumes,Legumes,85.0,irr,753.120969137229,24.2888494667867,SSP1
+231,11089,Indus,China,89,11,1969.0,China,11.0,Legumes,Legumes,89.0,rfd,753.120969137229,24.2888494667867,SSP1
+232,11089,Indus,China,89,11,9250.0,China,11.0,Legumes,Legumes,89.0,irr,753.120969137229,24.2888494667867,SSP1
 233,11092,Plateau_of_Tibet_Interior,China,92,11,,,,,,,,,,
-234,11106,Yangtze,China,106,11,1970.0,China,11.0,Legumes,Legumes,106.0,rfd,771.731594994938,24.3615694192034,SSP1
-235,11106,Yangtze,China,106,11,9251.0,China,11.0,Legumes,Legumes,106.0,irr,771.731594994938,24.3615694192034,SSP1
-236,11108,Xun_Jiang,China,108,11,1971.0,China,11.0,Legumes,Legumes,108.0,rfd,771.731594994938,24.3615694192034,SSP1
-237,11108,Xun_Jiang,China,108,11,9252.0,China,11.0,Legumes,Legumes,108.0,irr,771.731594994938,24.3615694192034,SSP1
-238,11109,Hong_(Red_River),China,109,11,1972.0,China,11.0,Legumes,Legumes,109.0,rfd,771.731594994938,24.3615694192034,SSP1
-239,11109,Hong_(Red_River),China,109,11,9253.0,China,11.0,Legumes,Legumes,109.0,irr,771.731594994938,24.3615694192034,SSP1
-240,11110,Ganges_Bramaputra,China,110,11,1973.0,China,11.0,Legumes,Legumes,110.0,rfd,771.731594994938,24.3615694192034,SSP1
-241,11110,Ganges_Bramaputra,China,110,11,9254.0,China,11.0,Legumes,Legumes,110.0,irr,771.731594994938,24.3615694192034,SSP1
-242,11112,South_China_Sea_Coast,China,112,11,1974.0,China,11.0,Legumes,Legumes,112.0,rfd,771.731594994938,24.3615694192034,SSP1
-243,11112,South_China_Sea_Coast,China,112,11,9255.0,China,11.0,Legumes,Legumes,112.0,irr,771.731594994938,24.3615694192034,SSP1
-244,11124,Hainan,China,124,11,1975.0,China,11.0,Legumes,Legumes,124.0,rfd,771.731594994938,24.3615694192034,SSP1
-245,11124,Hainan,China,124,11,9256.0,China,11.0,Legumes,Legumes,124.0,irr,771.731594994938,24.3615694192034,SSP1
-246,11125,Mekong,China,125,11,1976.0,China,11.0,Legumes,Legumes,125.0,rfd,771.731594994938,24.3615694192034,SSP1
-247,11125,Mekong,China,125,11,9257.0,China,11.0,Legumes,Legumes,125.0,irr,771.731594994938,24.3615694192034,SSP1
-248,11127,Salween,China,127,11,1977.0,China,11.0,Legumes,Legumes,127.0,rfd,771.731594994938,24.3615694192034,SSP1
-249,11127,Salween,China,127,11,9258.0,China,11.0,Legumes,Legumes,127.0,irr,771.731594994938,24.3615694192034,SSP1
-250,11137,Irrawaddy,China,137,11,1978.0,China,11.0,Legumes,Legumes,137.0,rfd,771.731594994938,24.3615694192034,SSP1
-251,11137,Irrawaddy,China,137,11,9259.0,China,11.0,Legumes,Legumes,137.0,irr,771.731594994938,24.3615694192034,SSP1
-252,12020,Baltic_Sea_Coast,EU-12,20,12,2359.0,EU-12,12.0,Legumes,Legumes,20.0,rfd,7220.03386640174,85.1402263279946,SSP1
-253,12020,Baltic_Sea_Coast,EU-12,20,12,9640.0,EU-12,12.0,Legumes,Legumes,20.0,irr,7220.03386640174,85.1402263279946,SSP1
-254,12021,Denmark_Germany_Coast,EU-12,21,12,2360.0,EU-12,12.0,Legumes,Legumes,21.0,rfd,7230.48789538912,85.2635025356265,SSP1
-255,12021,Denmark_Germany_Coast,EU-12,21,12,9641.0,EU-12,12.0,Legumes,Legumes,21.0,irr,7230.48789538912,85.2635025356265,SSP1
-256,12022,Narva,EU-12,22,12,2361.0,EU-12,12.0,Legumes,Legumes,22.0,rfd,2220.10787115146,26.18,SSP1
-257,12022,Narva,EU-12,22,12,9642.0,EU-12,12.0,Legumes,Legumes,22.0,irr,2220.10787115146,26.18,SSP1
-258,12025,Daugava,EU-12,25,12,2362.0,EU-12,12.0,Legumes,Legumes,25.0,rfd,8110.01339952614,95.6350606015708,SSP1
-259,12025,Daugava,EU-12,25,12,9643.0,EU-12,12.0,Legumes,Legumes,25.0,irr,8110.01339952614,95.6350606015708,SSP1
-260,12029,Oder,EU-12,29,12,2363.0,EU-12,12.0,Legumes,Legumes,29.0,rfd,7338.40999147877,86.536143614171,SSP1
-261,12029,Oder,EU-12,29,12,9644.0,EU-12,12.0,Legumes,Legumes,29.0,irr,7338.40999147877,86.536143614171,SSP1
-262,12030,Wisla,EU-12,30,12,2364.0,EU-12,12.0,Legumes,Legumes,30.0,rfd,7303.17581621306,86.1206544749077,SSP1
-263,12030,Wisla,EU-12,30,12,9645.0,EU-12,12.0,Legumes,Legumes,30.0,irr,7303.17581621306,86.1206544749077,SSP1
-264,12031,Elbe,EU-12,31,12,2365.0,EU-12,12.0,Legumes,Legumes,31.0,rfd,7638.19732724779,90.0713017713114,SSP1
-265,12031,Elbe,EU-12,31,12,9646.0,EU-12,12.0,Legumes,Legumes,31.0,irr,7638.19732724779,90.0713017713114,SSP1
-266,12033,Poland_Coast,EU-12,33,12,2366.0,EU-12,12.0,Legumes,Legumes,33.0,rfd,7325.59739269843,86.3850546331228,SSP1
-267,12033,Poland_Coast,EU-12,33,12,9647.0,EU-12,12.0,Legumes,Legumes,33.0,irr,7325.59739269843,86.3850546331228,SSP1
-268,12035,Neman,EU-12,35,12,2367.0,EU-12,12.0,Legumes,Legumes,35.0,rfd,8054.52178748253,94.9806913152044,SSP1
-269,12035,Neman,EU-12,35,12,9648.0,EU-12,12.0,Legumes,Legumes,35.0,irr,8054.52178748253,94.9806913152044,SSP1
-270,12049,Dniester,EU-12,49,12,2368.0,EU-12,12.0,Legumes,Legumes,49.0,rfd,7327.7864550649,86.4108685377077,SSP1
-271,12049,Dniester,EU-12,49,12,9649.0,EU-12,12.0,Legumes,Legumes,49.0,irr,7327.7864550649,86.4108685377077,SSP1
-272,12054,Danube,EU-12,54,12,2369.0,EU-12,12.0,Legumes,Legumes,54.0,rfd,8331.25888962854,98.2440360509829,SSP1
-273,12054,Danube,EU-12,54,12,9650.0,EU-12,12.0,Legumes,Legumes,54.0,irr,8331.25888962854,98.2440360509829,SSP1
-274,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,,,,,,,,,,
-275,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
-276,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,2371.0,EU-12,12.0,Legumes,Legumes,75.0,rfd,12678.2308946971,149.504485406388,SSP1
-277,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,9652.0,EU-12,12.0,Legumes,Legumes,75.0,irr,12678.2308946971,149.504485406388,SSP1
-278,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
-279,13008,Scandinavia_North_Coast,EU-15,8,13,,,,,,,,,,
-280,13012,Sweden,EU-15,12,13,2686.0,EU-15,13.0,Legumes,Legumes,12.0,rfd,5432.28020427291,66.7177693232305,SSP1
-281,13012,Sweden,EU-15,12,13,9967.0,EU-15,13.0,Legumes,Legumes,12.0,irr,5432.28020427291,66.7177693232305,SSP1
-282,13013,Finland,EU-15,13,13,2687.0,EU-15,13.0,Legumes,Legumes,13.0,rfd,6877.24238947289,84.46439691382,SSP1
-283,13013,Finland,EU-15,13,13,9968.0,EU-15,13.0,Legumes,Legumes,13.0,irr,6877.24238947289,84.46439691382,SSP1
-284,13016,Scotland,EU-15,16,13,2688.0,EU-15,13.0,Legumes,Legumes,16.0,rfd,3645.09221013802,44.7680186023179,SSP1
-285,13016,Scotland,EU-15,16,13,9969.0,EU-15,13.0,Legumes,Legumes,16.0,irr,3645.09221013802,44.7680186023179,SSP1
-286,13017,Neva,EU-15,17,13,2689.0,EU-15,13.0,Legumes,Legumes,17.0,rfd,6877.24238947289,84.46439691382,SSP1
-287,13017,Neva,EU-15,17,13,9970.0,EU-15,13.0,Legumes,Legumes,17.0,irr,6877.24238947289,84.46439691382,SSP1
-288,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
-289,13021,Denmark_Germany_Coast,EU-15,21,13,2690.0,EU-15,13.0,Legumes,Legumes,21.0,rfd,3656.97156754686,44.9139175982289,SSP1
-290,13021,Denmark_Germany_Coast,EU-15,21,13,9971.0,EU-15,13.0,Legumes,Legumes,21.0,irr,3656.97156754686,44.9139175982289,SSP1
-291,13024,Ireland,EU-15,24,13,2691.0,EU-15,13.0,Legumes,Legumes,24.0,rfd,2805.70551390756,34.458902381096,SSP1
-292,13024,Ireland,EU-15,24,13,9972.0,EU-15,13.0,Legumes,Legumes,24.0,irr,2805.70551390756,34.458902381096,SSP1
-293,13026,England_and_Wales,EU-15,26,13,2692.0,EU-15,13.0,Legumes,Legumes,26.0,rfd,3645.09242762189,44.7680212733949,SSP1
-294,13026,England_and_Wales,EU-15,26,13,9973.0,EU-15,13.0,Legumes,Legumes,26.0,irr,3645.09242762189,44.7680212733949,SSP1
-295,13028,Ems_Weser,EU-15,28,13,2693.0,EU-15,13.0,Legumes,Legumes,28.0,rfd,4483.51996994407,55.0653574304832,SSP1
-296,13028,Ems_Weser,EU-15,28,13,9974.0,EU-15,13.0,Legumes,Legumes,28.0,irr,4483.51996994407,55.0653574304832,SSP1
-297,13029,Oder,EU-15,29,13,2694.0,EU-15,13.0,Legumes,Legumes,29.0,rfd,4491.09546053172,55.1583975194571,SSP1
-298,13029,Oder,EU-15,29,13,9975.0,EU-15,13.0,Legumes,Legumes,29.0,irr,4491.09546053172,55.1583975194571,SSP1
-299,13031,Elbe,EU-15,31,13,2695.0,EU-15,13.0,Legumes,Legumes,31.0,rfd,4498.9650030248,55.2550490729465,SSP1
-300,13031,Elbe,EU-15,31,13,9976.0,EU-15,13.0,Legumes,Legumes,31.0,irr,4498.9650030248,55.2550490729465,SSP1
-301,13032,Rhine,EU-15,32,13,2696.0,EU-15,13.0,Legumes,Legumes,32.0,rfd,3820.75561580711,46.9254681699497,SSP1
-302,13032,Rhine,EU-15,32,13,9977.0,EU-15,13.0,Legumes,Legumes,32.0,irr,3820.75561580711,46.9254681699497,SSP1
-303,13036,Scheldt,EU-15,36,13,2697.0,EU-15,13.0,Legumes,Legumes,36.0,rfd,3224.87200226842,39.6069897453103,SSP1
-304,13036,Scheldt,EU-15,36,13,9978.0,EU-15,13.0,Legumes,Legumes,36.0,irr,3224.87200226842,39.6069897453103,SSP1
-305,13041,France_West_Coast,EU-15,41,13,2698.0,EU-15,13.0,Legumes,Legumes,41.0,rfd,2911.57298671172,35.75913752431,SSP1
-306,13041,France_West_Coast,EU-15,41,13,9979.0,EU-15,13.0,Legumes,Legumes,41.0,irr,2911.57298671172,35.75913752431,SSP1
-307,13044,Loire,EU-15,44,13,2699.0,EU-15,13.0,Legumes,Legumes,44.0,rfd,2910.91988958409,35.7511163652629,SSP1
-308,13044,Loire,EU-15,44,13,9980.0,EU-15,13.0,Legumes,Legumes,44.0,irr,2910.91988958409,35.7511163652629,SSP1
-309,13046,Seine,EU-15,46,13,2700.0,EU-15,13.0,Legumes,Legumes,46.0,rfd,2910.9102237085,35.7509976516411,SSP1
-310,13046,Seine,EU-15,46,13,9981.0,EU-15,13.0,Legumes,Legumes,46.0,irr,2910.9102237085,35.7509976516411,SSP1
-311,13050,Italy_East_Coast,EU-15,50,13,2701.0,EU-15,13.0,Legumes,Legumes,50.0,rfd,9713.91998493359,119.303689870295,SSP1
-312,13050,Italy_East_Coast,EU-15,50,13,9982.0,EU-15,13.0,Legumes,Legumes,50.0,irr,9713.91998493359,119.303689870295,SSP1
-313,13054,Danube,EU-15,54,13,2702.0,EU-15,13.0,Legumes,Legumes,54.0,rfd,5682.89894034213,69.7957996148185,SSP1
-314,13054,Danube,EU-15,54,13,9983.0,EU-15,13.0,Legumes,Legumes,54.0,irr,5682.89894034213,69.7957996148185,SSP1
-315,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2703.0,EU-15,13.0,Legumes,Legumes,55.0,rfd,10083.6001477605,123.843999813707,SSP1
-316,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,9984.0,EU-15,13.0,Legumes,Legumes,55.0,irr,10083.6001477605,123.843999813707,SSP1
-317,13057,Po,EU-15,57,13,2704.0,EU-15,13.0,Legumes,Legumes,57.0,rfd,9725.98202449443,119.451832518083,SSP1
-318,13057,Po,EU-15,57,13,9985.0,EU-15,13.0,Legumes,Legumes,57.0,irr,9725.98202449443,119.451832518083,SSP1
-319,13059,Italy_West_Coast,EU-15,59,13,2705.0,EU-15,13.0,Legumes,Legumes,59.0,rfd,9731.5412964276,119.520109964845,SSP1
-320,13059,Italy_West_Coast,EU-15,59,13,9986.0,EU-15,13.0,Legumes,Legumes,59.0,irr,9731.5412964276,119.520109964845,SSP1
-321,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2706.0,EU-15,13.0,Legumes,Legumes,60.0,rfd,14569.1362164471,178.934118413677,SSP1
-322,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,9987.0,EU-15,13.0,Legumes,Legumes,60.0,irr,14569.1362164471,178.934118413677,SSP1
-323,13061,France_South_Coast,EU-15,61,13,2707.0,EU-15,13.0,Legumes,Legumes,61.0,rfd,3040.99631821747,37.3486792363985,SSP1
-324,13061,France_South_Coast,EU-15,61,13,9988.0,EU-15,13.0,Legumes,Legumes,61.0,irr,3040.99631821747,37.3486792363985,SSP1
-325,13062,Rh(ne,EU-15,62,13,2708.0,EU-15,13.0,Legumes,Legumes,62.0,rfd,2911.0433345301,35.7526324820909,SSP1
-326,13062,Rh(ne,EU-15,62,13,9989.0,EU-15,13.0,Legumes,Legumes,62.0,irr,2911.0433345301,35.7526324820909,SSP1
-327,13063,Mediterranean_Sea_Islands,EU-15,63,13,2709.0,EU-15,13.0,Legumes,Legumes,63.0,rfd,9742.65129558795,119.656559914643,SSP1
-328,13063,Mediterranean_Sea_Islands,EU-15,63,13,9990.0,EU-15,13.0,Legumes,Legumes,63.0,irr,9742.65129558795,119.656559914643,SSP1
-329,13064,Gironde,EU-15,64,13,2710.0,EU-15,13.0,Legumes,Legumes,64.0,rfd,2911.92244695791,35.7634294988062,SSP1
-330,13064,Gironde,EU-15,64,13,9991.0,EU-15,13.0,Legumes,Legumes,64.0,irr,2911.92244695791,35.7634294988062,SSP1
-331,13067,Spain_South_and_East_Coast,EU-15,67,13,,,,,,,,,,
-332,13069,Tiber,EU-15,69,13,2712.0,EU-15,13.0,Legumes,Legumes,69.0,rfd,9730.61205025638,119.508697219301,SSP1
-333,13069,Tiber,EU-15,69,13,9993.0,EU-15,13.0,Legumes,Legumes,69.0,irr,9730.61205025638,119.508697219301,SSP1
-334,13071,Tagus,EU-15,71,13,,,,,,,,,,
-335,13073,Ebro,EU-15,73,13,,,,,,,,,,
-336,13074,Douro,EU-15,74,13,,,,,,,,,,
-337,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
-338,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
-339,13081,Guadiana,EU-15,81,13,,,,,,,,,,
-340,13083,Guadalquivir,EU-15,83,13,,,,,,,,,,
-341,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
-342,13101,Caribbean,EU-15,101,13,,,,,,,,,,
-343,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
-344,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
-345,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
-346,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
-347,13216,Antarctica,EU-15,216,13,,,,,,,,,,
-348,14017,Neva,Europe_Eastern,17,14,3128.0,Europe_Eastern,14.0,Legumes,Legumes,17.0,rfd,3018.44079394374,29.5498245206147,SSP1
-349,14017,Neva,Europe_Eastern,17,14,10409.0,Europe_Eastern,14.0,Legumes,Legumes,17.0,irr,3018.44079394374,29.5498245206147,SSP1
-350,14025,Daugava,Europe_Eastern,25,14,3129.0,Europe_Eastern,14.0,Legumes,Legumes,25.0,rfd,3018.72643399155,29.5526208694137,SSP1
-351,14025,Daugava,Europe_Eastern,25,14,10410.0,Europe_Eastern,14.0,Legumes,Legumes,25.0,irr,3018.72643399155,29.5526208694137,SSP1
-352,14030,Wisla,Europe_Eastern,30,14,3130.0,Europe_Eastern,14.0,Legumes,Legumes,30.0,rfd,3132.81049667116,30.6694769758993,SSP1
-353,14030,Wisla,Europe_Eastern,30,14,10411.0,Europe_Eastern,14.0,Legumes,Legumes,30.0,irr,3132.81049667116,30.6694769758993,SSP1
-354,14035,Neman,Europe_Eastern,35,14,3131.0,Europe_Eastern,14.0,Legumes,Legumes,35.0,rfd,3020.92622803996,29.5741563350893,SSP1
-355,14035,Neman,Europe_Eastern,35,14,10412.0,Europe_Eastern,14.0,Legumes,Legumes,35.0,irr,3020.92622803996,29.5741563350893,SSP1
-356,14039,Dnieper,Europe_Eastern,39,14,3132.0,Europe_Eastern,14.0,Legumes,Legumes,39.0,rfd,3107.97827276238,30.4263753518974,SSP1
-357,14039,Dnieper,Europe_Eastern,39,14,10413.0,Europe_Eastern,14.0,Legumes,Legumes,39.0,irr,3107.97827276238,30.4263753518974,SSP1
-358,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3133.0,Europe_Eastern,14.0,Legumes,Legumes,47.0,rfd,3191.367673409,31.2427379457675,SSP1
-359,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10414.0,Europe_Eastern,14.0,Legumes,Legumes,47.0,irr,3191.367673409,31.2427379457675,SSP1
-360,14049,Dniester,Europe_Eastern,49,14,3134.0,Europe_Eastern,14.0,Legumes,Legumes,49.0,rfd,3439.51947456516,33.6720856385735,SSP1
-361,14049,Dniester,Europe_Eastern,49,14,10415.0,Europe_Eastern,14.0,Legumes,Legumes,49.0,irr,3439.51947456516,33.6720856385735,SSP1
-362,14053,Don,Europe_Eastern,53,14,3135.0,Europe_Eastern,14.0,Legumes,Legumes,53.0,rfd,3160.56840184952,30.9412203305233,SSP1
-363,14053,Don,Europe_Eastern,53,14,10416.0,Europe_Eastern,14.0,Legumes,Legumes,53.0,irr,3160.56840184952,30.9412203305233,SSP1
-364,14054,Danube,Europe_Eastern,54,14,3136.0,Europe_Eastern,14.0,Legumes,Legumes,54.0,rfd,4219.96557926522,41.3124692061281,SSP1
-365,14054,Danube,Europe_Eastern,54,14,10417.0,Europe_Eastern,14.0,Legumes,Legumes,54.0,irr,4219.96557926522,41.3124692061281,SSP1
-366,15054,Danube,Europe_Non_EU,54,15,3267.0,Europe_Non_EU,15.0,Legumes,Legumes,54.0,rfd,2753.89360978302,20.6497161225873,SSP1
-367,15054,Danube,Europe_Non_EU,54,15,10548.0,Europe_Non_EU,15.0,Legumes,Legumes,54.0,irr,2753.89360978302,20.6497161225873,SSP1
-368,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3268.0,Europe_Non_EU,15.0,Legumes,Legumes,55.0,rfd,2845.56468677714,21.3370998725825,SSP1
-369,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10549.0,Europe_Non_EU,15.0,Legumes,Legumes,55.0,irr,2845.56468677714,21.3370998725825,SSP1
-370,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3269.0,Europe_Non_EU,15.0,Legumes,Legumes,70.0,rfd,2771.92110290174,20.7848929551203,SSP1
-371,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10550.0,Europe_Non_EU,15.0,Legumes,Legumes,70.0,irr,2771.92110290174,20.7848929551203,SSP1
-372,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3270.0,Europe_Non_EU,15.0,Legumes,Legumes,72.0,rfd,3332.20639492063,24.9861199693922,SSP1
-373,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10551.0,Europe_Non_EU,15.0,Legumes,Legumes,72.0,irr,3332.20639492063,24.9861199693922,SSP1
-374,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3271.0,Europe_Non_EU,15.0,Legumes,Legumes,75.0,rfd,2753.89360978302,20.6497161225873,SSP1
-375,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10552.0,Europe_Non_EU,15.0,Legumes,Legumes,75.0,irr,2753.89360978302,20.6497161225873,SSP1
-376,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3272.0,Europe_Non_EU,15.0,Legumes,Legumes,84.0,rfd,2813.75324141401,21.0985658515643,SSP1
-377,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10553.0,Europe_Non_EU,15.0,Legumes,Legumes,84.0,irr,2813.75324141401,21.0985658515643,SSP1
-378,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3273.0,Europe_Non_EU,15.0,Legumes,Legumes,99.0,rfd,2920.55678550258,21.8994184547587,SSP1
-379,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10554.0,Europe_Non_EU,15.0,Legumes,Legumes,99.0,irr,2920.55678550258,21.8994184547587,SSP1
-380,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
-381,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,,,,,,,,,,
-382,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
-383,16012,Sweden,European Free Trade Association,12,16,,,,,,,,,,
-384,16032,Rhine,European Free Trade Association,32,16,3392.0,European Free Trade Association,16.0,Legumes,Legumes,32.0,rfd,3159.68995366825,26.18,SSP1
-385,16032,Rhine,European Free Trade Association,32,16,10673.0,European Free Trade Association,16.0,Legumes,Legumes,32.0,irr,3159.68995366825,26.18,SSP1
-386,16054,Danube,European Free Trade Association,54,16,3393.0,European Free Trade Association,16.0,Legumes,Legumes,54.0,rfd,3159.68995366825,26.18,SSP1
-387,16054,Danube,European Free Trade Association,54,16,10674.0,European Free Trade Association,16.0,Legumes,Legumes,54.0,irr,3159.68995366825,26.18,SSP1
-388,16057,Po,European Free Trade Association,57,16,3394.0,European Free Trade Association,16.0,Legumes,Legumes,57.0,rfd,3159.68995366825,26.18,SSP1
-389,16057,Po,European Free Trade Association,57,16,10675.0,European Free Trade Association,16.0,Legumes,Legumes,57.0,irr,3159.68995366825,26.18,SSP1
-390,16062,Rh(ne,European Free Trade Association,62,16,3395.0,European Free Trade Association,16.0,Legumes,Legumes,62.0,rfd,3159.68995366825,26.18,SSP1
-391,16062,Rh(ne,European Free Trade Association,62,16,10676.0,European Free Trade Association,16.0,Legumes,Legumes,62.0,irr,3159.68995366825,26.18,SSP1
-392,17089,Indus,India,89,17,,,,,,,,,,
-393,17107,Sabarmati,India,107,17,,,,,,,,,,
-394,17110,Ganges_Bramaputra,India,110,17,,,,,,,,,,
-395,17113,Mahi,India,113,17,,,,,,,,,,
-396,17116,Bay_of_Bengal_North_East_Coast,India,116,17,,,,,,,,,,
-397,17117,Tapti,India,117,17,,,,,,,,,,
-398,17118,Yasai,India,118,17,,,,,,,,,,
-399,17120,Brahamani,India,120,17,,,,,,,,,,
-400,17122,Mahandi,India,122,17,,,,,,,,,,
-401,17123,Godavari,India,123,17,,,,,,,,,,
-402,17128,India_North_East_Coast,India,128,17,,,,,,,,,,
-403,17129,India_West_Coast,India,129,17,,,,,,,,,,
-404,17137,Irrawaddy,India,137,17,,,,,,,,,,
-405,17140,Krishna,India,140,17,,,,,,,,,,
-406,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
-407,17145,India_East_Coast,India,145,17,,,,,,,,,,
-408,17147,Pennar,India,147,17,,,,,,,,,,
-409,17153,Cauvery,India,153,17,,,,,,,,,,
-410,17155,India_South_Coast,India,155,17,,,,,,,,,,
-411,17235,Narmada,India,235,17,,,,,,,,,,
-412,18158,Palau_and_East_Indonesia,Indonesia,158,18,3849.0,Indonesia,18.0,Legumes,Legumes,158.0,rfd,1420.27845507905,27.1338407934811,SSP1
-413,18158,Palau_and_East_Indonesia,Indonesia,158,18,11130.0,Indonesia,18.0,Legumes,Legumes,158.0,irr,1420.27845507905,27.1338407934811,SSP1
-414,18159,North_Borneo_Coast,Indonesia,159,18,3850.0,Indonesia,18.0,Legumes,Legumes,159.0,rfd,1419.60157992937,27.1209093697291,SSP1
-415,18159,North_Borneo_Coast,Indonesia,159,18,11131.0,Indonesia,18.0,Legumes,Legumes,159.0,irr,1419.60157992937,27.1209093697291,SSP1
-416,18163,Sumatra,Indonesia,163,18,3851.0,Indonesia,18.0,Legumes,Legumes,163.0,rfd,1420.24021421108,27.1331102172905,SSP1
-417,18163,Sumatra,Indonesia,163,18,11132.0,Indonesia,18.0,Legumes,Legumes,163.0,irr,1420.24021421108,27.1331102172905,SSP1
-418,18164,Sulawesi,Indonesia,164,18,3852.0,Indonesia,18.0,Legumes,Legumes,164.0,rfd,1420.26078111588,27.1335031396209,SSP1
-419,18164,Sulawesi,Indonesia,164,18,11133.0,Indonesia,18.0,Legumes,Legumes,164.0,irr,1420.26078111588,27.1335031396209,SSP1
-420,18165,Kalimantan,Indonesia,165,18,3853.0,Indonesia,18.0,Legumes,Legumes,165.0,rfd,1420.24515481134,27.1332046054441,SSP1
-421,18165,Kalimantan,Indonesia,165,18,11134.0,Indonesia,18.0,Legumes,Legumes,165.0,irr,1420.24515481134,27.1332046054441,SSP1
-422,18167,Irian_Jaya_Coast,Indonesia,167,18,3854.0,Indonesia,18.0,Legumes,Legumes,167.0,rfd,1420.2366452936,27.1330420345772,SSP1
-423,18167,Irian_Jaya_Coast,Indonesia,167,18,11135.0,Indonesia,18.0,Legumes,Legumes,167.0,irr,1420.2366452936,27.1330420345772,SSP1
-424,18175,Java_Timor,Indonesia,175,18,3855.0,Indonesia,18.0,Legumes,Legumes,175.0,rfd,1420.23414030652,27.1329941778203,SSP1
-425,18175,Java_Timor,Indonesia,175,18,11136.0,Indonesia,18.0,Legumes,Legumes,175.0,irr,1420.23414030652,27.1329941778203,SSP1
-426,18178,Sepik,Indonesia,178,18,3856.0,Indonesia,18.0,Legumes,Legumes,178.0,rfd,1416.17637938303,27.0554723098498,SSP1
-427,18178,Sepik,Indonesia,178,18,11137.0,Indonesia,18.0,Legumes,Legumes,178.0,irr,1416.17637938303,27.0554723098498,SSP1
-428,18181,Fly,Indonesia,181,18,3857.0,Indonesia,18.0,Legumes,Legumes,181.0,rfd,1416.17637938303,27.0554723098498,SSP1
-429,18181,Fly,Indonesia,181,18,11138.0,Indonesia,18.0,Legumes,Legumes,181.0,irr,1416.17637938303,27.0554723098498,SSP1
-430,19051,Japan,Japan,51,19,3983.0,Japan,19.0,Legumes,Legumes,51.0,rfd,1139.93252829139,18.9572524311762,SSP1
-431,19051,Japan,Japan,51,19,11264.0,Japan,19.0,Legumes,Legumes,51.0,irr,1139.93252829139,18.9572524311762,SSP1
-432,19103,Taiwan,Japan,103,19,3984.0,Japan,19.0,Legumes,Legumes,103.0,rfd,1139.04328426696,18.9424641669363,SSP1
-433,19103,Taiwan,Japan,103,19,11265.0,Japan,19.0,Legumes,Legumes,103.0,irr,1139.04328426696,18.9424641669363,SSP1
-434,20091,Baja_California,Mexico,91,20,4118.0,Mexico,20.0,Legumes,Legumes,91.0,rfd,1205.39721387931,16.4643889958006,SSP1
-435,20091,Baja_California,Mexico,91,20,11399.0,Mexico,20.0,Legumes,Legumes,91.0,irr,1205.39721387931,16.4643889958006,SSP1
-436,20096,Mexico_Northwest_Coast,Mexico,96,20,4119.0,Mexico,20.0,Legumes,Legumes,96.0,rfd,1205.39721387931,16.4643889958006,SSP1
-437,20096,Mexico_Northwest_Coast,Mexico,96,20,11400.0,Mexico,20.0,Legumes,Legumes,96.0,irr,1205.39721387931,16.4643889958006,SSP1
-438,20105,North_Gulf,Mexico,105,20,4120.0,Mexico,20.0,Legumes,Legumes,105.0,rfd,1205.39721387931,16.4643889958006,SSP1
-439,20105,North_Gulf,Mexico,105,20,11401.0,Mexico,20.0,Legumes,Legumes,105.0,irr,1205.39721387931,16.4643889958006,SSP1
-440,20111,Yucatan_Peninsula,Mexico,111,20,4121.0,Mexico,20.0,Legumes,Legumes,111.0,rfd,1205.39721387931,16.4643889958006,SSP1
-441,20111,Yucatan_Peninsula,Mexico,111,20,11402.0,Mexico,20.0,Legumes,Legumes,111.0,irr,1205.39721387931,16.4643889958006,SSP1
-442,20114,Mexico_Interior,Mexico,114,20,4122.0,Mexico,20.0,Legumes,Legumes,114.0,rfd,1205.39721387931,16.4643889958006,SSP1
-443,20114,Mexico_Interior,Mexico,114,20,11403.0,Mexico,20.0,Legumes,Legumes,114.0,irr,1205.39721387931,16.4643889958006,SSP1
-444,20115,Pacific_Central_Coast,Mexico,115,20,4123.0,Mexico,20.0,Legumes,Legumes,115.0,rfd,1205.39721387931,16.4643889958006,SSP1
-445,20115,Pacific_Central_Coast,Mexico,115,20,11404.0,Mexico,20.0,Legumes,Legumes,115.0,irr,1205.39721387931,16.4643889958006,SSP1
-446,20130,Papaloapan,Mexico,130,20,4124.0,Mexico,20.0,Legumes,Legumes,130.0,rfd,1205.39721387931,16.4643889958006,SSP1
-447,20130,Papaloapan,Mexico,130,20,11405.0,Mexico,20.0,Legumes,Legumes,130.0,irr,1205.39721387931,16.4643889958006,SSP1
-448,20131,Rfo_Lerma,Mexico,131,20,4125.0,Mexico,20.0,Legumes,Legumes,131.0,rfd,1205.39721387931,16.4643889958006,SSP1
-449,20131,Rfo_Lerma,Mexico,131,20,11406.0,Mexico,20.0,Legumes,Legumes,131.0,irr,1205.39721387931,16.4643889958006,SSP1
-450,20132,Rfo_Verde,Mexico,132,20,4126.0,Mexico,20.0,Legumes,Legumes,132.0,rfd,1205.39721387931,16.4643889958006,SSP1
-451,20132,Rfo_Verde,Mexico,132,20,11407.0,Mexico,20.0,Legumes,Legumes,132.0,irr,1205.39721387931,16.4643889958006,SSP1
-452,20133,Grijalva_Usumacinta,Mexico,133,20,4127.0,Mexico,20.0,Legumes,Legumes,133.0,rfd,1205.39721387931,16.4643889958006,SSP1
-453,20133,Grijalva_Usumacinta,Mexico,133,20,11408.0,Mexico,20.0,Legumes,Legumes,133.0,irr,1205.39721387931,16.4643889958006,SSP1
-454,20134,Rfo_Balsas,Mexico,134,20,4128.0,Mexico,20.0,Legumes,Legumes,134.0,rfd,1205.39721387931,16.4643889958006,SSP1
-455,20134,Rfo_Balsas,Mexico,134,20,11409.0,Mexico,20.0,Legumes,Legumes,134.0,irr,1205.39721387931,16.4643889958006,SSP1
-456,20135,Southern_Central_America,Mexico,135,20,4129.0,Mexico,20.0,Legumes,Legumes,135.0,rfd,1205.39721387931,16.4643889958006,SSP1
-457,20135,Southern_Central_America,Mexico,135,20,11410.0,Mexico,20.0,Legumes,Legumes,135.0,irr,1205.39721387931,16.4643889958006,SSP1
-458,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4130.0,Mexico,20.0,Legumes,Legumes,136.0,rfd,1205.39721387931,16.4643889958006,SSP1
-459,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11411.0,Mexico,20.0,Legumes,Legumes,136.0,irr,1205.39721387931,16.4643889958006,SSP1
-460,20217,California_River_Basin,Mexico,217,20,4131.0,Mexico,20.0,Legumes,Legumes,217.0,rfd,1205.39721387931,16.4643889958006,SSP1
-461,20217,California_River_Basin,Mexico,217,20,11412.0,Mexico,20.0,Legumes,Legumes,217.0,irr,1205.39721387931,16.4643889958006,SSP1
-462,20221,Lower_Colorado_River_Basin,Mexico,221,20,4132.0,Mexico,20.0,Legumes,Legumes,221.0,rfd,1205.39721387931,16.4643889958006,SSP1
-463,20221,Lower_Colorado_River_Basin,Mexico,221,20,11413.0,Mexico,20.0,Legumes,Legumes,221.0,irr,1205.39721387931,16.4643889958006,SSP1
-464,20231,Rio_Grande_River_Basin,Mexico,231,20,4133.0,Mexico,20.0,Legumes,Legumes,231.0,rfd,1205.39721387931,16.4643889958006,SSP1
-465,20231,Rio_Grande_River_Basin,Mexico,231,20,11414.0,Mexico,20.0,Legumes,Legumes,231.0,irr,1205.39721387931,16.4643889958006,SSP1
-466,21052,Caspian_Sea_East_Coast,Middle East,52,21,4441.0,Middle East,21.0,Legumes,Legumes,52.0,rfd,3283.813387208,30.3496388253215,SSP1
-467,21052,Caspian_Sea_East_Coast,Middle East,52,21,11722.0,Middle East,21.0,Legumes,Legumes,52.0,irr,3283.813387208,30.3496388253215,SSP1
-468,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4442.0,Middle East,21.0,Legumes,Legumes,72.0,rfd,4317.24610861637,39.9008240318841,SSP1
-469,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11723.0,Middle East,21.0,Legumes,Legumes,72.0,irr,4317.24610861637,39.9008240318841,SSP1
-470,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4443.0,Middle East,21.0,Legumes,Legumes,75.0,rfd,1416.61684300032,13.0926470141111,SSP1
-471,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11724.0,Middle East,21.0,Legumes,Legumes,75.0,irr,1416.61684300032,13.0926470141111,SSP1
-472,21082,Central_Iran,Middle East,82,21,4444.0,Middle East,21.0,Legumes,Legumes,82.0,rfd,3789.82114620748,35.0262604592633,SSP1
-473,21082,Central_Iran,Middle East,82,21,11725.0,Middle East,21.0,Legumes,Legumes,82.0,irr,3789.82114620748,35.0262604592633,SSP1
-474,21084,Tigris_Euphrates,Middle East,84,21,4445.0,Middle East,21.0,Legumes,Legumes,84.0,rfd,3581.90593728278,33.1046678615424,SSP1
-475,21084,Tigris_Euphrates,Middle East,84,21,11726.0,Middle East,21.0,Legumes,Legumes,84.0,irr,3581.90593728278,33.1046678615424,SSP1
-476,21088,Persian_Gulf_Coast,Middle East,88,21,4446.0,Middle East,21.0,Legumes,Legumes,88.0,rfd,3230.13723916929,29.8535534774589,SSP1
-477,21088,Persian_Gulf_Coast,Middle East,88,21,11727.0,Middle East,21.0,Legumes,Legumes,88.0,irr,3230.13723916929,29.8535534774589,SSP1
-478,21090,Farahrud,Middle East,90,21,4447.0,Middle East,21.0,Legumes,Legumes,90.0,rfd,2212.2764652528,20.446287223181,SSP1
-479,21090,Farahrud,Middle East,90,21,11728.0,Middle East,21.0,Legumes,Legumes,90.0,irr,2212.2764652528,20.446287223181,SSP1
-480,21093,Red_Sea_East_Coast,Middle East,93,21,4448.0,Middle East,21.0,Legumes,Legumes,93.0,rfd,1416.61684300032,13.0926470141111,SSP1
-481,21093,Red_Sea_East_Coast,Middle East,93,21,11729.0,Middle East,21.0,Legumes,Legumes,93.0,irr,1416.61684300032,13.0926470141111,SSP1
-482,21094,Arabian_Peninsula,Middle East,94,21,4449.0,Middle East,21.0,Legumes,Legumes,94.0,rfd,1416.61684300032,13.0926470141111,SSP1
-483,21094,Arabian_Peninsula,Middle East,94,21,11730.0,Middle East,21.0,Legumes,Legumes,94.0,irr,1416.61684300032,13.0926470141111,SSP1
-484,21095,Dead_Sea,Middle East,95,21,4450.0,Middle East,21.0,Legumes,Legumes,95.0,rfd,1416.61684300032,13.0926470141111,SSP1
-485,21095,Dead_Sea,Middle East,95,21,11731.0,Middle East,21.0,Legumes,Legumes,95.0,irr,1416.61684300032,13.0926470141111,SSP1
-486,21097,Helmand,Middle East,97,21,4451.0,Middle East,21.0,Legumes,Legumes,97.0,rfd,1572.22074470445,14.5307683869417,SSP1
-487,21097,Helmand,Middle East,97,21,11732.0,Middle East,21.0,Legumes,Legumes,97.0,irr,1572.22074470445,14.5307683869417,SSP1
-488,21098,Sinai_Peninsula,Middle East,98,21,4452.0,Middle East,21.0,Legumes,Legumes,98.0,rfd,1735.03673837112,16.035545309412,SSP1
-489,21098,Sinai_Peninsula,Middle East,98,21,11733.0,Middle East,21.0,Legumes,Legumes,98.0,irr,1735.03673837112,16.035545309412,SSP1
-490,21099,Eastern_Jordan_Syria,Middle East,99,21,4453.0,Middle East,21.0,Legumes,Legumes,99.0,rfd,1416.61684300032,13.0926470141111,SSP1
-491,21099,Eastern_Jordan_Syria,Middle East,99,21,11734.0,Middle East,21.0,Legumes,Legumes,99.0,irr,1416.61684300032,13.0926470141111,SSP1
-492,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4454.0,Middle East,21.0,Legumes,Legumes,100.0,rfd,1416.61684300032,13.0926470141111,SSP1
-493,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11735.0,Middle East,21.0,Legumes,Legumes,100.0,irr,1416.61684300032,13.0926470141111,SSP1
-494,21102,HamuniMashkel,Middle East,102,21,4455.0,Middle East,21.0,Legumes,Legumes,102.0,rfd,1416.61684300032,13.0926470141111,SSP1
-495,21102,HamuniMashkel,Middle East,102,21,11736.0,Middle East,21.0,Legumes,Legumes,102.0,irr,1416.61684300032,13.0926470141111,SSP1
-496,21104,Arabian_Sea_Coast,Middle East,104,21,4456.0,Middle East,21.0,Legumes,Legumes,104.0,rfd,1416.61684300032,13.0926470141111,SSP1
-497,21104,Arabian_Sea_Coast,Middle East,104,21,11737.0,Middle East,21.0,Legumes,Legumes,104.0,irr,1416.61684300032,13.0926470141111,SSP1
-498,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
-499,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
-500,22089,Indus,Pakistan,89,22,4673.0,Pakistan,22.0,Legumes,Legumes,89.0,rfd,5394.70633849347,26.18,SSP1
-501,22089,Indus,Pakistan,89,22,11954.0,Pakistan,22.0,Legumes,Legumes,89.0,irr,5394.70633849347,26.18,SSP1
-502,22097,Helmand,Pakistan,97,22,4674.0,Pakistan,22.0,Legumes,Legumes,97.0,rfd,5394.70633849347,26.18,SSP1
-503,22097,Helmand,Pakistan,97,22,11955.0,Pakistan,22.0,Legumes,Legumes,97.0,irr,5394.70633849347,26.18,SSP1
-504,22102,HamuniMashkel,Pakistan,102,22,4675.0,Pakistan,22.0,Legumes,Legumes,102.0,rfd,5394.70633849347,26.18,SSP1
-505,22102,HamuniMashkel,Pakistan,102,22,11956.0,Pakistan,22.0,Legumes,Legumes,102.0,irr,5394.70633849347,26.18,SSP1
-506,22104,Arabian_Sea_Coast,Pakistan,104,22,4676.0,Pakistan,22.0,Legumes,Legumes,104.0,rfd,5394.70633849347,26.18,SSP1
-507,22104,Arabian_Sea_Coast,Pakistan,104,22,11957.0,Pakistan,22.0,Legumes,Legumes,104.0,irr,5394.70633849347,26.18,SSP1
-508,22107,Sabarmati,Pakistan,107,22,4677.0,Pakistan,22.0,Legumes,Legumes,107.0,rfd,5394.70633849347,26.18,SSP1
-509,22107,Sabarmati,Pakistan,107,22,11958.0,Pakistan,22.0,Legumes,Legumes,107.0,irr,5394.70633849347,26.18,SSP1
-510,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
-511,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
-512,23004,Siberia_West_Coast,Russia,4,23,,,,,,,,,,
-513,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
-514,23006,Lena,Russia,6,23,4913.0,Russia,23.0,Legumes,Legumes,6.0,rfd,1930.07005988129,22.6754541674972,SSP1
-515,23006,Lena,Russia,6,23,12194.0,Russia,23.0,Legumes,Legumes,6.0,irr,1930.07005988129,22.6754541674972,SSP1
-516,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
-517,23009,Russia_Barents_Sea_Coast,Russia,9,23,4914.0,Russia,23.0,Legumes,Legumes,9.0,rfd,1930.07005988129,22.6754541674972,SSP1
-518,23009,Russia_Barents_Sea_Coast,Russia,9,23,12195.0,Russia,23.0,Legumes,Legumes,9.0,irr,1930.07005988129,22.6754541674972,SSP1
-519,23013,Finland,Russia,13,23,4915.0,Russia,23.0,Legumes,Legumes,13.0,rfd,1930.07005988129,22.6754541674972,SSP1
-520,23013,Finland,Russia,13,23,12196.0,Russia,23.0,Legumes,Legumes,13.0,irr,1930.07005988129,22.6754541674972,SSP1
-521,23014,Northern_Dvina,Russia,14,23,4916.0,Russia,23.0,Legumes,Legumes,14.0,rfd,1930.07005988129,22.6754541674972,SSP1
-522,23014,Northern_Dvina,Russia,14,23,12197.0,Russia,23.0,Legumes,Legumes,14.0,irr,1930.07005988129,22.6754541674972,SSP1
-523,23017,Neva,Russia,17,23,4917.0,Russia,23.0,Legumes,Legumes,17.0,rfd,1930.07005988129,22.6754541674972,SSP1
-524,23017,Neva,Russia,17,23,12198.0,Russia,23.0,Legumes,Legumes,17.0,irr,1930.07005988129,22.6754541674972,SSP1
-525,23018,Volga,Russia,18,23,4918.0,Russia,23.0,Legumes,Legumes,18.0,rfd,1930.07005988129,22.6754541674972,SSP1
-526,23018,Volga,Russia,18,23,12199.0,Russia,23.0,Legumes,Legumes,18.0,irr,1930.07005988129,22.6754541674972,SSP1
-527,23020,Baltic_Sea_Coast,Russia,20,23,4919.0,Russia,23.0,Legumes,Legumes,20.0,rfd,1930.07005988129,22.6754541674972,SSP1
-528,23020,Baltic_Sea_Coast,Russia,20,23,12200.0,Russia,23.0,Legumes,Legumes,20.0,irr,1930.07005988129,22.6754541674972,SSP1
-529,23022,Narva,Russia,22,23,4920.0,Russia,23.0,Legumes,Legumes,22.0,rfd,1930.07005988129,22.6754541674972,SSP1
-530,23022,Narva,Russia,22,23,12201.0,Russia,23.0,Legumes,Legumes,22.0,irr,1930.07005988129,22.6754541674972,SSP1
-531,23025,Daugava,Russia,25,23,4921.0,Russia,23.0,Legumes,Legumes,25.0,rfd,1930.07005988129,22.6754541674972,SSP1
-532,23025,Daugava,Russia,25,23,12202.0,Russia,23.0,Legumes,Legumes,25.0,irr,1930.07005988129,22.6754541674972,SSP1
-533,23033,Poland_Coast,Russia,33,23,4922.0,Russia,23.0,Legumes,Legumes,33.0,rfd,1930.07005988129,22.6754541674972,SSP1
-534,23033,Poland_Coast,Russia,33,23,12203.0,Russia,23.0,Legumes,Legumes,33.0,irr,1930.07005988129,22.6754541674972,SSP1
-535,23035,Neman,Russia,35,23,4923.0,Russia,23.0,Legumes,Legumes,35.0,rfd,1930.07005988129,22.6754541674972,SSP1
-536,23035,Neman,Russia,35,23,12204.0,Russia,23.0,Legumes,Legumes,35.0,irr,1930.07005988129,22.6754541674972,SSP1
-537,23037,Russia_South_East_Coast,Russia,37,23,4924.0,Russia,23.0,Legumes,Legumes,37.0,rfd,1930.07005988129,22.6754541674972,SSP1
-538,23037,Russia_South_East_Coast,Russia,37,23,12205.0,Russia,23.0,Legumes,Legumes,37.0,irr,1930.07005988129,22.6754541674972,SSP1
-539,23038,Ural,Russia,38,23,4925.0,Russia,23.0,Legumes,Legumes,38.0,rfd,1930.07005988129,22.6754541674972,SSP1
-540,23038,Ural,Russia,38,23,12206.0,Russia,23.0,Legumes,Legumes,38.0,irr,1930.07005988129,22.6754541674972,SSP1
-541,23039,Dnieper,Russia,39,23,4926.0,Russia,23.0,Legumes,Legumes,39.0,rfd,1930.07005988129,22.6754541674972,SSP1
-542,23039,Dnieper,Russia,39,23,12207.0,Russia,23.0,Legumes,Legumes,39.0,irr,1930.07005988129,22.6754541674972,SSP1
-543,23042,Gobi_Interior,Russia,42,23,4927.0,Russia,23.0,Legumes,Legumes,42.0,rfd,1930.07005988129,22.6754541674972,SSP1
-544,23042,Gobi_Interior,Russia,42,23,12208.0,Russia,23.0,Legumes,Legumes,42.0,irr,1930.07005988129,22.6754541674972,SSP1
-545,23043,Amur,Russia,43,23,4928.0,Russia,23.0,Legumes,Legumes,43.0,rfd,1930.07005988129,22.6754541674972,SSP1
-546,23043,Amur,Russia,43,23,12209.0,Russia,23.0,Legumes,Legumes,43.0,irr,1930.07005988129,22.6754541674972,SSP1
-547,23045,Caspian_Sea_Coast,Russia,45,23,4929.0,Russia,23.0,Legumes,Legumes,45.0,rfd,1930.07005988129,22.6754541674972,SSP1
-548,23045,Caspian_Sea_Coast,Russia,45,23,12210.0,Russia,23.0,Legumes,Legumes,45.0,irr,1930.07005988129,22.6754541674972,SSP1
-549,23047,Black_Sea_North_Coast,Russia,47,23,4930.0,Russia,23.0,Legumes,Legumes,47.0,rfd,1930.07005988129,22.6754541674972,SSP1
-550,23047,Black_Sea_North_Coast,Russia,47,23,12211.0,Russia,23.0,Legumes,Legumes,47.0,irr,1930.07005988129,22.6754541674972,SSP1
-551,23048,Yenisey,Russia,48,23,4931.0,Russia,23.0,Legumes,Legumes,48.0,rfd,1930.07005988129,22.6754541674972,SSP1
-552,23048,Yenisey,Russia,48,23,12212.0,Russia,23.0,Legumes,Legumes,48.0,irr,1930.07005988129,22.6754541674972,SSP1
-553,23053,Don,Russia,53,23,4932.0,Russia,23.0,Legumes,Legumes,53.0,rfd,1930.07005988129,22.6754541674972,SSP1
-554,23053,Don,Russia,53,23,12213.0,Russia,23.0,Legumes,Legumes,53.0,irr,1930.07005988129,22.6754541674972,SSP1
-555,23056,Ob,Russia,56,23,4933.0,Russia,23.0,Legumes,Legumes,56.0,rfd,1930.07005988129,22.6754541674972,SSP1
-556,23056,Ob,Russia,56,23,12214.0,Russia,23.0,Legumes,Legumes,56.0,irr,1930.07005988129,22.6754541674972,SSP1
-557,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
-558,23072,Caspian_Sea_South_West_Coast,Russia,72,23,4934.0,Russia,23.0,Legumes,Legumes,72.0,rfd,1930.07005988129,22.6754541674972,SSP1
-559,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12215.0,Russia,23.0,Legumes,Legumes,72.0,irr,1930.07005988129,22.6754541674972,SSP1
-560,23076,Syr_Darya,Russia,76,23,4935.0,Russia,23.0,Legumes,Legumes,76.0,rfd,1930.07005988129,22.6754541674972,SSP1
-561,23076,Syr_Darya,Russia,76,23,12216.0,Russia,23.0,Legumes,Legumes,76.0,irr,1930.07005988129,22.6754541674972,SSP1
-562,24194,Orange,South Africa,194,24,5194.0,South Africa,24.0,Legumes,Legumes,194.0,rfd,8876.16319213576,110.836216853015,SSP1
-563,24194,Orange,South Africa,194,24,12475.0,South Africa,24.0,Legumes,Legumes,194.0,irr,8876.16319213576,110.836216853015,SSP1
-564,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
-565,24198,South_Africa_South_Coast,South Africa,198,24,5195.0,South Africa,24.0,Legumes,Legumes,198.0,rfd,12706.3737773633,158.663869615542,SSP1
-566,24198,South_Africa_South_Coast,South Africa,198,24,12476.0,South Africa,24.0,Legumes,Legumes,198.0,irr,12706.3737773633,158.663869615542,SSP1
-567,24199,Limpopo,South Africa,199,24,5196.0,South Africa,24.0,Legumes,Legumes,199.0,rfd,8981.57549463721,112.152495132957,SSP1
-568,24199,Limpopo,South Africa,199,24,12477.0,South Africa,24.0,Legumes,Legumes,199.0,irr,8981.57549463721,112.152495132957,SSP1
-569,24204,South_Africa_West_Coast,South Africa,204,24,,,,,,,,,,
-570,24216,Antarctica,South Africa,216,24,,,,,,,,,,
-571,25143,Caribbean_Coast,South America_Northern,143,25,5261.0,South America_Northern,25.0,Legumes,Legumes,143.0,rfd,1359.42321267923,16.2345798455067,SSP1
-572,25143,Caribbean_Coast,South America_Northern,143,25,12542.0,South America_Northern,25.0,Legumes,Legumes,143.0,irr,1359.42321267923,16.2345798455067,SSP1
-573,25156,Orinoco,South America_Northern,156,25,5262.0,South America_Northern,25.0,Legumes,Legumes,156.0,rfd,1359.42321267923,16.2345798455067,SSP1
-574,25156,Orinoco,South America_Northern,156,25,12543.0,South America_Northern,25.0,Legumes,Legumes,156.0,irr,1359.42321267923,16.2345798455067,SSP1
-575,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,5263.0,South America_Northern,25.0,Legumes,Legumes,161.0,rfd,6731.25345698594,80.3863511293206,SSP1
-576,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,12544.0,South America_Northern,25.0,Legumes,Legumes,161.0,irr,6731.25345698594,80.3863511293206,SSP1
-577,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
-578,25168,Amazon,South America_Northern,168,25,5264.0,South America_Northern,25.0,Legumes,Legumes,168.0,rfd,8657.04833153588,103.384686280102,SSP1
-579,25168,Amazon,South America_Northern,168,25,12545.0,South America_Northern,25.0,Legumes,Legumes,168.0,irr,8657.04833153588,103.384686280102,SSP1
-580,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5381.0,South America_Southern,26.0,Legumes,Legumes,157.0,rfd,3310.30100844387,43.5546015413705,SSP1
-581,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12662.0,South America_Southern,26.0,Legumes,Legumes,157.0,irr,3310.30100844387,43.5546015413705,SSP1
-582,26168,Amazon,South America_Southern,168,26,5382.0,South America_Southern,26.0,Legumes,Legumes,168.0,rfd,2168.91071396958,28.5369945768653,SSP1
-583,26168,Amazon,South America_Southern,168,26,12663.0,South America_Southern,26.0,Legumes,Legumes,168.0,irr,2168.91071396958,28.5369945768653,SSP1
-584,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,,,,,,,,,,
-585,26180,Peru_Pacific_Coast,South America_Southern,180,26,5384.0,South America_Southern,26.0,Legumes,Legumes,180.0,rfd,2064.30545447017,27.1606724886302,SSP1
-586,26180,Peru_Pacific_Coast,South America_Southern,180,26,12665.0,South America_Southern,26.0,Legumes,Legumes,180.0,irr,2064.30545447017,27.1606724886302,SSP1
-587,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
-588,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5385.0,South America_Southern,26.0,Legumes,Legumes,195.0,rfd,1316.92075234218,17.3271126956484,SSP1
-589,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12666.0,South America_Southern,26.0,Legumes,Legumes,195.0,irr,1316.92075234218,17.3271126956484,SSP1
-590,26200,La_Puna_Region,South America_Southern,200,26,5386.0,South America_Southern,26.0,Legumes,Legumes,200.0,rfd,2189.67042113904,28.8101361345591,SSP1
-591,26200,La_Puna_Region,South America_Southern,200,26,12667.0,South America_Southern,26.0,Legumes,Legumes,200.0,irr,2189.67042113904,28.8101361345591,SSP1
-592,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
-593,26206,La_Plata,South America_Southern,206,26,5387.0,South America_Southern,26.0,Legumes,Legumes,206.0,rfd,1316.92075234218,17.3271126956484,SSP1
-594,26206,La_Plata,South America_Southern,206,26,12668.0,South America_Southern,26.0,Legumes,Legumes,206.0,irr,1316.92075234218,17.3271126956484,SSP1
-595,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,,,,,,,,,,
-596,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
-597,26213,Negro,South America_Southern,213,26,,,,,,,,,,
-598,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,,,,,,,,,,
-599,27052,Caspian_Sea_East_Coast,South Asia,52,27,5542.0,South Asia,27.0,Legumes,Legumes,52.0,rfd,2875.62438731755,18.9024930743436,SSP1
-600,27052,Caspian_Sea_East_Coast,South Asia,52,27,12823.0,South Asia,27.0,Legumes,Legumes,52.0,irr,2875.62438731755,18.9024930743436,SSP1
-601,27058,Amu_Darya,South Asia,58,27,5543.0,South Asia,27.0,Legumes,Legumes,58.0,rfd,2875.62438731755,18.9024930743436,SSP1
-602,27058,Amu_Darya,South Asia,58,27,12824.0,South Asia,27.0,Legumes,Legumes,58.0,irr,2875.62438731755,18.9024930743436,SSP1
-603,27089,Indus,South Asia,89,27,5544.0,South Asia,27.0,Legumes,Legumes,89.0,rfd,2875.62438731755,18.9024930743436,SSP1
-604,27089,Indus,South Asia,89,27,12825.0,South Asia,27.0,Legumes,Legumes,89.0,irr,2875.62438731755,18.9024930743436,SSP1
-605,27090,Farahrud,South Asia,90,27,5545.0,South Asia,27.0,Legumes,Legumes,90.0,rfd,2892.42864686889,19.0129533977396,SSP1
-606,27090,Farahrud,South Asia,90,27,12826.0,South Asia,27.0,Legumes,Legumes,90.0,irr,2892.42864686889,19.0129533977396,SSP1
-607,27097,Helmand,South Asia,97,27,5546.0,South Asia,27.0,Legumes,Legumes,97.0,rfd,2875.62438731755,18.9024930743436,SSP1
-608,27097,Helmand,South Asia,97,27,12827.0,South Asia,27.0,Legumes,Legumes,97.0,irr,2875.62438731755,18.9024930743436,SSP1
-609,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
-610,27110,Ganges_Bramaputra,South Asia,110,27,5547.0,South Asia,27.0,Legumes,Legumes,110.0,rfd,5969.77094658559,39.2414094382176,SSP1
-611,27110,Ganges_Bramaputra,South Asia,110,27,12828.0,South Asia,27.0,Legumes,Legumes,110.0,irr,5969.77094658559,39.2414094382176,SSP1
-612,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5548.0,South Asia,27.0,Legumes,Legumes,116.0,rfd,4970.10118335981,32.6702275900789,SSP1
-613,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12829.0,South Asia,27.0,Legumes,Legumes,116.0,irr,4970.10118335981,32.6702275900789,SSP1
-614,27154,Sri_Lanka,South Asia,154,27,5549.0,South Asia,27.0,Legumes,Legumes,154.0,rfd,7284.90273500996,47.8862344133355,SSP1
-615,27154,Sri_Lanka,South Asia,154,27,12830.0,South Asia,27.0,Legumes,Legumes,154.0,irr,7284.90273500996,47.8862344133355,SSP1
-616,28065,North_and_South_Korea,South Korea,65,28,5632.0,South Korea,28.0,Legumes,Legumes,65.0,rfd,10452.0563691022,250.669464914871,SSP1
-617,28065,North_and_South_Korea,South Korea,65,28,12913.0,South Korea,28.0,Legumes,Legumes,65.0,irr,10452.0563691022,250.669464914871,SSP1
-618,29037,Russia_South_East_Coast,Southeast Asia,37,29,5744.0,Southeast Asia,29.0,Legumes,Legumes,37.0,rfd,645.785662553834,20.1919627966097,SSP1
-619,29037,Russia_South_East_Coast,Southeast Asia,37,29,13025.0,Southeast Asia,29.0,Legumes,Legumes,37.0,irr,645.785662553834,20.1919627966097,SSP1
-620,29065,North_and_South_Korea,Southeast Asia,65,29,5745.0,Southeast Asia,29.0,Legumes,Legumes,65.0,rfd,645.785662553834,20.1919627966097,SSP1
-621,29065,North_and_South_Korea,Southeast Asia,65,29,13026.0,Southeast Asia,29.0,Legumes,Legumes,65.0,irr,645.785662553834,20.1919627966097,SSP1
-622,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,5746.0,Southeast Asia,29.0,Legumes,Legumes,66.0,rfd,645.785662553834,20.1919627966097,SSP1
-623,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13027.0,Southeast Asia,29.0,Legumes,Legumes,66.0,irr,645.785662553834,20.1919627966097,SSP1
-624,29108,Xun_Jiang,Southeast Asia,108,29,5747.0,Southeast Asia,29.0,Legumes,Legumes,108.0,rfd,5522.85649216195,172.68471458431,SSP1
-625,29108,Xun_Jiang,Southeast Asia,108,29,13028.0,Southeast Asia,29.0,Legumes,Legumes,108.0,irr,5522.85649216195,172.68471458431,SSP1
-626,29109,Hong_(Red_River),Southeast Asia,109,29,5748.0,Southeast Asia,29.0,Legumes,Legumes,109.0,rfd,5436.51935353263,169.985186873715,SSP1
-627,29109,Hong_(Red_River),Southeast Asia,109,29,13029.0,Southeast Asia,29.0,Legumes,Legumes,109.0,irr,5436.51935353263,169.985186873715,SSP1
-628,29110,Ganges_Bramaputra,Southeast Asia,110,29,5749.0,Southeast Asia,29.0,Legumes,Legumes,110.0,rfd,740.787493884161,23.1624119023482,SSP1
-629,29110,Ganges_Bramaputra,Southeast Asia,110,29,13030.0,Southeast Asia,29.0,Legumes,Legumes,110.0,irr,740.787493884161,23.1624119023482,SSP1
-630,29112,South_China_Sea_Coast,Southeast Asia,112,29,5750.0,Southeast Asia,29.0,Legumes,Legumes,112.0,rfd,5268.80821338772,164.741315263139,SSP1
-631,29112,South_China_Sea_Coast,Southeast Asia,112,29,13031.0,Southeast Asia,29.0,Legumes,Legumes,112.0,irr,5268.80821338772,164.741315263139,SSP1
-632,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5751.0,Southeast Asia,29.0,Legumes,Legumes,116.0,rfd,740.908222007167,23.1661867426854,SSP1
-633,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13032.0,Southeast Asia,29.0,Legumes,Legumes,116.0,irr,740.908222007167,23.1661867426854,SSP1
-634,29119,Philippines,Southeast Asia,119,29,5752.0,Southeast Asia,29.0,Legumes,Legumes,119.0,rfd,3776.74665023659,118.088604742662,SSP1
-635,29119,Philippines,Southeast Asia,119,29,13033.0,Southeast Asia,29.0,Legumes,Legumes,119.0,irr,3776.74665023659,118.088604742662,SSP1
-636,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
-637,29125,Mekong,Southeast Asia,125,29,5753.0,Southeast Asia,29.0,Legumes,Legumes,125.0,rfd,4116.13296134776,128.700292435657,SSP1
-638,29125,Mekong,Southeast Asia,125,29,13034.0,Southeast Asia,29.0,Legumes,Legumes,125.0,irr,4116.13296134776,128.700292435657,SSP1
-639,29126,Viet_Nam_Coast,Southeast Asia,126,29,5754.0,Southeast Asia,29.0,Legumes,Legumes,126.0,rfd,5518.07003899541,172.5350552006,SSP1
-640,29126,Viet_Nam_Coast,Southeast Asia,126,29,13035.0,Southeast Asia,29.0,Legumes,Legumes,126.0,irr,5518.07003899541,172.5350552006,SSP1
-641,29127,Salween,Southeast Asia,127,29,5755.0,Southeast Asia,29.0,Legumes,Legumes,127.0,rfd,993.154864699339,31.0532537993738,SSP1
-642,29127,Salween,Southeast Asia,127,29,13036.0,Southeast Asia,29.0,Legumes,Legumes,127.0,irr,993.154864699339,31.0532537993738,SSP1
-643,29137,Irrawaddy,Southeast Asia,137,29,5756.0,Southeast Asia,29.0,Legumes,Legumes,137.0,rfd,740.923064919761,23.1666508402278,SSP1
-644,29137,Irrawaddy,Southeast Asia,137,29,13037.0,Southeast Asia,29.0,Legumes,Legumes,137.0,irr,740.923064919761,23.1666508402278,SSP1
-645,29138,Sittang,Southeast Asia,138,29,5757.0,Southeast Asia,29.0,Legumes,Legumes,138.0,rfd,740.925056615922,23.1667131151545,SSP1
-646,29138,Sittang,Southeast Asia,138,29,13038.0,Southeast Asia,29.0,Legumes,Legumes,138.0,irr,740.925056615922,23.1667131151545,SSP1
-647,29139,Peninsula_Malaysia,Southeast Asia,139,29,5758.0,Southeast Asia,29.0,Legumes,Legumes,139.0,rfd,3681.28224896781,115.103692331945,SSP1
-648,29139,Peninsula_Malaysia,Southeast Asia,139,29,13039.0,Southeast Asia,29.0,Legumes,Legumes,139.0,irr,3681.28224896781,115.103692331945,SSP1
-649,29146,Chao_Phraya,Southeast Asia,146,29,5759.0,Southeast Asia,29.0,Legumes,Legumes,146.0,rfd,9594.87644062092,300.005712980557,SSP1
-650,29146,Chao_Phraya,Southeast Asia,146,29,13040.0,Southeast Asia,29.0,Legumes,Legumes,146.0,irr,9594.87644062092,300.005712980557,SSP1
-651,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5760.0,Southeast Asia,29.0,Legumes,Legumes,148.0,rfd,7943.30246605757,248.365482817578,SSP1
-652,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13041.0,Southeast Asia,29.0,Legumes,Legumes,148.0,irr,7943.30246605757,248.365482817578,SSP1
-653,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
-654,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,5761.0,Southeast Asia,29.0,Legumes,Legumes,158.0,rfd,645.785662553834,20.1919627966097,SSP1
-655,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,13042.0,Southeast Asia,29.0,Legumes,Legumes,158.0,irr,645.785662553834,20.1919627966097,SSP1
-656,29159,North_Borneo_Coast,Southeast Asia,159,29,,,,,,,,,,
-657,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
-658,29165,Kalimantan,Southeast Asia,165,29,,,,,,,,,,
-659,29167,Irian_Jaya_Coast,Southeast Asia,167,29,5762.0,Southeast Asia,29.0,Legumes,Legumes,167.0,rfd,1796.81418007782,56.1814967106483,SSP1
-660,29167,Irian_Jaya_Coast,Southeast Asia,167,29,13043.0,Southeast Asia,29.0,Legumes,Legumes,167.0,irr,1796.81418007782,56.1814967106483,SSP1
-661,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,5763.0,Southeast Asia,29.0,Legumes,Legumes,173.0,rfd,1796.81418007782,56.1814967106483,SSP1
-662,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,13044.0,Southeast Asia,29.0,Legumes,Legumes,173.0,irr,1796.81418007782,56.1814967106483,SSP1
-663,29175,Java_Timor,Southeast Asia,175,29,5764.0,Southeast Asia,29.0,Legumes,Legumes,175.0,rfd,645.785662553834,20.1919627966097,SSP1
-664,29175,Java_Timor,Southeast Asia,175,29,13045.0,Southeast Asia,29.0,Legumes,Legumes,175.0,irr,645.785662553834,20.1919627966097,SSP1
-665,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
-666,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
-667,29178,Sepik,Southeast Asia,178,29,5765.0,Southeast Asia,29.0,Legumes,Legumes,178.0,rfd,1796.81418007782,56.1814967106483,SSP1
-668,29178,Sepik,Southeast Asia,178,29,13046.0,Southeast Asia,29.0,Legumes,Legumes,178.0,irr,1796.81418007782,56.1814967106483,SSP1
-669,29181,Fly,Southeast Asia,181,29,5766.0,Southeast Asia,29.0,Legumes,Legumes,181.0,rfd,1796.81418007782,56.1814967106483,SSP1
-670,29181,Fly,Southeast Asia,181,29,13047.0,Southeast Asia,29.0,Legumes,Legumes,181.0,irr,1796.81418007782,56.1814967106483,SSP1
-671,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
-672,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
-673,30078,China_Coast,Taiwan,78,30,6079.0,Taiwan,30.0,Legumes,Legumes,78.0,rfd,597.428594294682,20.8145569802722,SSP1
-674,30078,China_Coast,Taiwan,78,30,13360.0,Taiwan,30.0,Legumes,Legumes,78.0,irr,597.428594294682,20.8145569802722,SSP1
-675,30103,Taiwan,Taiwan,103,30,6080.0,Taiwan,30.0,Legumes,Legumes,103.0,rfd,1066.61192769703,37.1610179976373,SSP1
-676,30103,Taiwan,Taiwan,103,30,13361.0,Taiwan,30.0,Legumes,Legumes,103.0,irr,1066.61192769703,37.1610179976373,SSP1
-677,31169,South_Chile_Pacific_Coast,Argentina,169,31,6176.0,Argentina,31.0,Legumes,Legumes,169.0,rfd,2038.00121710337,18.8435213779129,SSP1
-678,31169,South_Chile_Pacific_Coast,Argentina,169,31,13457.0,Argentina,31.0,Legumes,Legumes,169.0,irr,2038.00121710337,18.8435213779129,SSP1
-679,31200,La_Puna_Region,Argentina,200,31,6177.0,Argentina,31.0,Legumes,Legumes,200.0,rfd,2038.00121710337,18.8435213779129,SSP1
-680,31200,La_Puna_Region,Argentina,200,31,13458.0,Argentina,31.0,Legumes,Legumes,200.0,irr,2038.00121710337,18.8435213779129,SSP1
-681,31203,Mar_Chiquita,Argentina,203,31,6178.0,Argentina,31.0,Legumes,Legumes,203.0,rfd,2038.00121710337,18.8435213779129,SSP1
-682,31203,Mar_Chiquita,Argentina,203,31,13459.0,Argentina,31.0,Legumes,Legumes,203.0,irr,2038.00121710337,18.8435213779129,SSP1
-683,31205,Salinas_Grandes,Argentina,205,31,6179.0,Argentina,31.0,Legumes,Legumes,205.0,rfd,2038.00121710337,18.8435213779129,SSP1
-684,31205,Salinas_Grandes,Argentina,205,31,13460.0,Argentina,31.0,Legumes,Legumes,205.0,irr,2038.00121710337,18.8435213779129,SSP1
-685,31206,La_Plata,Argentina,206,31,6180.0,Argentina,31.0,Legumes,Legumes,206.0,rfd,2038.00121710337,18.8435213779129,SSP1
-686,31206,La_Plata,Argentina,206,31,13461.0,Argentina,31.0,Legumes,Legumes,206.0,irr,2038.00121710337,18.8435213779129,SSP1
-687,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
-688,31209,Pampas_Region,Argentina,209,31,6181.0,Argentina,31.0,Legumes,Legumes,209.0,rfd,2038.00121710337,18.8435213779129,SSP1
-689,31209,Pampas_Region,Argentina,209,31,13462.0,Argentina,31.0,Legumes,Legumes,209.0,irr,2038.00121710337,18.8435213779129,SSP1
-690,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6182.0,Argentina,31.0,Legumes,Legumes,210.0,rfd,2038.00121710337,18.8435213779129,SSP1
-691,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13463.0,Argentina,31.0,Legumes,Legumes,210.0,irr,2038.00121710337,18.8435213779129,SSP1
-692,31212,South_America_Colorado,Argentina,212,31,6183.0,Argentina,31.0,Legumes,Legumes,212.0,rfd,2038.00121710337,18.8435213779129,SSP1
-693,31212,South_America_Colorado,Argentina,212,31,13464.0,Argentina,31.0,Legumes,Legumes,212.0,irr,2038.00121710337,18.8435213779129,SSP1
-694,31213,Negro,Argentina,213,31,6184.0,Argentina,31.0,Legumes,Legumes,213.0,rfd,2038.00121710337,18.8435213779129,SSP1
-695,31213,Negro,Argentina,213,31,13465.0,Argentina,31.0,Legumes,Legumes,213.0,irr,2038.00121710337,18.8435213779129,SSP1
-696,31214,Central_Patagonia_Highlands,Argentina,214,31,,,,,,,,,,
-697,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6185.0,Argentina,31.0,Legumes,Legumes,215.0,rfd,2038.00121710337,18.8435213779129,SSP1
-698,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13466.0,Argentina,31.0,Legumes,Legumes,215.0,irr,2038.00121710337,18.8435213779129,SSP1
-699,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
-700,32143,Caribbean_Coast,Colombia,143,32,6319.0,Colombia,32.0,Legumes,Legumes,143.0,rfd,2938.59330113795,30.3057772161209,SSP1
-701,32143,Caribbean_Coast,Colombia,143,32,13600.0,Colombia,32.0,Legumes,Legumes,143.0,irr,2938.59330113795,30.3057772161209,SSP1
-702,32156,Orinoco,Colombia,156,32,6320.0,Colombia,32.0,Legumes,Legumes,156.0,rfd,3025.53221321601,31.2023801246721,SSP1
-703,32156,Orinoco,Colombia,156,32,13601.0,Colombia,32.0,Legumes,Legumes,156.0,irr,3025.53221321601,31.2023801246721,SSP1
-704,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6321.0,Colombia,32.0,Legumes,Legumes,157.0,rfd,2928.14607914199,30.1980347863622,SSP1
-705,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13602.0,Colombia,32.0,Legumes,Legumes,157.0,irr,2928.14607914199,30.1980347863622,SSP1
-706,32166,Magdalena,Colombia,166,32,6322.0,Colombia,32.0,Legumes,Legumes,166.0,rfd,2948.54492116535,30.4084084918994,SSP1
-707,32166,Magdalena,Colombia,166,32,13603.0,Colombia,32.0,Legumes,Legumes,166.0,irr,2948.54492116535,30.4084084918994,SSP1
-708,32168,Amazon,Colombia,168,32,6323.0,Colombia,32.0,Legumes,Legumes,168.0,rfd,3306.07749414453,34.095649764796,SSP1
-709,32168,Amazon,Colombia,168,32,13604.0,Colombia,32.0,Legumes,Legumes,168.0,irr,3306.07749414453,34.095649764796,SSP1
+234,11106,Yangtze,China,106,11,1970.0,China,11.0,Legumes,Legumes,106.0,rfd,753.120969137229,24.2888494667867,SSP1
+235,11106,Yangtze,China,106,11,9251.0,China,11.0,Legumes,Legumes,106.0,irr,753.120969137229,24.2888494667867,SSP1
+236,11108,Xun_Jiang,China,108,11,1971.0,China,11.0,Legumes,Legumes,108.0,rfd,753.120969137229,24.2888494667867,SSP1
+237,11108,Xun_Jiang,China,108,11,9252.0,China,11.0,Legumes,Legumes,108.0,irr,753.120969137229,24.2888494667867,SSP1
+238,11109,Hong_(Red_River),China,109,11,1972.0,China,11.0,Legumes,Legumes,109.0,rfd,753.120969137229,24.2888494667867,SSP1
+239,11109,Hong_(Red_River),China,109,11,9253.0,China,11.0,Legumes,Legumes,109.0,irr,753.120969137229,24.2888494667867,SSP1
+240,11110,Ganges_Bramaputra,China,110,11,1973.0,China,11.0,Legumes,Legumes,110.0,rfd,753.120969137229,24.2888494667867,SSP1
+241,11110,Ganges_Bramaputra,China,110,11,9254.0,China,11.0,Legumes,Legumes,110.0,irr,753.120969137229,24.2888494667867,SSP1
+242,11112,South_China_Sea_Coast,China,112,11,1974.0,China,11.0,Legumes,Legumes,112.0,rfd,753.120969137229,24.2888494667867,SSP1
+243,11112,South_China_Sea_Coast,China,112,11,9255.0,China,11.0,Legumes,Legumes,112.0,irr,753.120969137229,24.2888494667867,SSP1
+244,11124,Hainan,China,124,11,1975.0,China,11.0,Legumes,Legumes,124.0,rfd,753.120969137229,24.2888494667867,SSP1
+245,11124,Hainan,China,124,11,9256.0,China,11.0,Legumes,Legumes,124.0,irr,753.120969137229,24.2888494667867,SSP1
+246,11125,Mekong,China,125,11,1976.0,China,11.0,Legumes,Legumes,125.0,rfd,753.120969137229,24.2888494667867,SSP1
+247,11125,Mekong,China,125,11,9257.0,China,11.0,Legumes,Legumes,125.0,irr,753.120969137229,24.2888494667867,SSP1
+248,11127,Salween,China,127,11,1977.0,China,11.0,Legumes,Legumes,127.0,rfd,753.120969137229,24.2888494667867,SSP1
+249,11127,Salween,China,127,11,9258.0,China,11.0,Legumes,Legumes,127.0,irr,753.120969137229,24.2888494667867,SSP1
+250,11137,Irrawaddy,China,137,11,1978.0,China,11.0,Legumes,Legumes,137.0,rfd,753.120969137229,24.2888494667867,SSP1
+251,11137,Irrawaddy,China,137,11,9259.0,China,11.0,Legumes,Legumes,137.0,irr,753.120969137229,24.2888494667867,SSP1
+252,12020,Baltic_Sea_Coast,EU-12,20,12,2359.0,EU-12,12.0,Legumes,Legumes,20.0,rfd,6869.10021575807,85.1402263279946,SSP1
+253,12020,Baltic_Sea_Coast,EU-12,20,12,9640.0,EU-12,12.0,Legumes,Legumes,20.0,irr,6869.10021575807,85.1402263279946,SSP1
+254,12021,Denmark_Germany_Coast,EU-12,21,12,2360.0,EU-12,12.0,Legumes,Legumes,21.0,rfd,6879.04612101301,85.2635025356265,SSP1
+255,12021,Denmark_Germany_Coast,EU-12,21,12,9641.0,EU-12,12.0,Legumes,Legumes,21.0,irr,6879.04612101301,85.2635025356265,SSP1
+256,12022,Narva,EU-12,22,12,2361.0,EU-12,12.0,Legumes,Legumes,22.0,rfd,2112.19832744814,26.18,SSP1
+257,12022,Narva,EU-12,22,12,9642.0,EU-12,12.0,Legumes,Legumes,22.0,irr,2112.19832744814,26.18,SSP1
+258,12025,Daugava,EU-12,25,12,2362.0,EU-12,12.0,Legumes,Legumes,25.0,rfd,7715.82181237737,95.6350606015708,SSP1
+259,12025,Daugava,EU-12,25,12,9643.0,EU-12,12.0,Legumes,Legumes,25.0,irr,7715.82181237737,95.6350606015708,SSP1
+260,12029,Oder,EU-12,29,12,2363.0,EU-12,12.0,Legumes,Legumes,29.0,rfd,6981.72260525837,86.536143614171,SSP1
+261,12029,Oder,EU-12,29,12,9644.0,EU-12,12.0,Legumes,Legumes,29.0,irr,6981.72260525837,86.536143614171,SSP1
+262,12030,Wisla,EU-12,30,12,2364.0,EU-12,12.0,Legumes,Legumes,30.0,rfd,6948.20100613596,86.1206544749077,SSP1
+263,12030,Wisla,EU-12,30,12,9645.0,EU-12,12.0,Legumes,Legumes,30.0,irr,6948.20100613596,86.1206544749077,SSP1
+264,12031,Elbe,EU-12,31,12,2365.0,EU-12,12.0,Legumes,Legumes,31.0,rfd,7266.93861544847,90.0713017713114,SSP1
+265,12031,Elbe,EU-12,31,12,9646.0,EU-12,12.0,Legumes,Legumes,31.0,irr,7266.93861544847,90.0713017713114,SSP1
+266,12033,Poland_Coast,EU-12,33,12,2366.0,EU-12,12.0,Legumes,Legumes,33.0,rfd,6969.53276977075,86.3850546331228,SSP1
+267,12033,Poland_Coast,EU-12,33,12,9647.0,EU-12,12.0,Legumes,Legumes,33.0,irr,6969.53276977075,86.3850546331228,SSP1
+268,12035,Neman,EU-12,35,12,2367.0,EU-12,12.0,Legumes,Legumes,35.0,rfd,7663.02740014679,94.9806913152044,SSP1
+269,12035,Neman,EU-12,35,12,9648.0,EU-12,12.0,Legumes,Legumes,35.0,irr,7663.02740014679,94.9806913152044,SSP1
+270,12049,Dniester,EU-12,49,12,2368.0,EU-12,12.0,Legumes,Legumes,49.0,rfd,6971.61543157706,86.4108685377077,SSP1
+271,12049,Dniester,EU-12,49,12,9649.0,EU-12,12.0,Legumes,Legumes,49.0,irr,6971.61543157706,86.4108685377077,SSP1
+272,12054,Danube,EU-12,54,12,2369.0,EU-12,12.0,Legumes,Legumes,54.0,rfd,7926.31354578461,98.2440360509829,SSP1
+273,12054,Danube,EU-12,54,12,9650.0,EU-12,12.0,Legumes,Legumes,54.0,irr,7926.31354578461,98.2440360509829,SSP1
+274,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2370.0,EU-12,12.0,Legumes,Legumes,55.0,rfd,14682.1258524817,181.98009619786,SSP1
+275,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9651.0,EU-12,12.0,Legumes,Legumes,55.0,irr,14682.1258524817,181.98009619786,SSP1
+276,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
+277,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,2371.0,EU-12,12.0,Legumes,Legumes,75.0,rfd,12061.9986257207,149.504485406387,SSP1
+278,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,9652.0,EU-12,12.0,Legumes,Legumes,75.0,irr,12061.9986257207,149.504485406387,SSP1
+279,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
+280,13008,Scandinavia_North_Coast,EU-15,8,13,,,,,,,,,,
+281,13012,Sweden,EU-15,12,13,2686.0,EU-15,13.0,Legumes,Legumes,12.0,rfd,5164.44748498312,66.7177693232305,SSP1
+282,13012,Sweden,EU-15,12,13,9967.0,EU-15,13.0,Legumes,Legumes,12.0,irr,5164.44748498312,66.7177693232305,SSP1
+283,13013,Finland,EU-15,13,13,2687.0,EU-15,13.0,Legumes,Legumes,13.0,rfd,6538.16736735995,84.46439691382,SSP1
+284,13013,Finland,EU-15,13,13,9968.0,EU-15,13.0,Legumes,Legumes,13.0,irr,6538.16736735995,84.46439691382,SSP1
+285,13016,Scotland,EU-15,16,13,2688.0,EU-15,13.0,Legumes,Legumes,16.0,rfd,3465.37486824992,44.7680186023179,SSP1
+286,13016,Scotland,EU-15,16,13,9969.0,EU-15,13.0,Legumes,Legumes,16.0,irr,3465.37486824992,44.7680186023179,SSP1
+287,13017,Neva,EU-15,17,13,2689.0,EU-15,13.0,Legumes,Legumes,17.0,rfd,6538.16736735995,84.46439691382,SSP1
+288,13017,Neva,EU-15,17,13,9970.0,EU-15,13.0,Legumes,Legumes,17.0,irr,6538.16736735995,84.46439691382,SSP1
+289,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
+290,13021,Denmark_Germany_Coast,EU-15,21,13,2690.0,EU-15,13.0,Legumes,Legumes,21.0,rfd,3476.66852674806,44.9139175982289,SSP1
+291,13021,Denmark_Germany_Coast,EU-15,21,13,9971.0,EU-15,13.0,Legumes,Legumes,21.0,irr,3476.66852674806,44.9139175982289,SSP1
+292,13024,Ireland,EU-15,24,13,2691.0,EU-15,13.0,Legumes,Legumes,24.0,rfd,2667.37322818984,34.458902381096,SSP1
+293,13024,Ireland,EU-15,24,13,9972.0,EU-15,13.0,Legumes,Legumes,24.0,irr,2667.37322818984,34.458902381096,SSP1
+294,13026,England_and_Wales,EU-15,26,13,2692.0,EU-15,13.0,Legumes,Legumes,26.0,rfd,3465.37507501098,44.7680212733949,SSP1
+295,13026,England_and_Wales,EU-15,26,13,9973.0,EU-15,13.0,Legumes,Legumes,26.0,irr,3465.37507501098,44.7680212733949,SSP1
+296,13028,Ems_Weser,EU-15,28,13,2693.0,EU-15,13.0,Legumes,Legumes,28.0,rfd,4262.46485121223,55.0653574304832,SSP1
+297,13028,Ems_Weser,EU-15,28,13,9974.0,EU-15,13.0,Legumes,Legumes,28.0,irr,4262.46485121223,55.0653574304832,SSP1
+298,13029,Oder,EU-15,29,13,2694.0,EU-15,13.0,Legumes,Legumes,29.0,rfd,4269.66684040309,55.1583975194571,SSP1
+299,13029,Oder,EU-15,29,13,9975.0,EU-15,13.0,Legumes,Legumes,29.0,irr,4269.66684040309,55.1583975194571,SSP1
+300,13031,Elbe,EU-15,31,13,2695.0,EU-15,13.0,Legumes,Legumes,31.0,rfd,4277.14838358718,55.2550490729465,SSP1
+301,13031,Elbe,EU-15,31,13,9976.0,EU-15,13.0,Legumes,Legumes,31.0,irr,4277.14838358718,55.2550490729465,SSP1
+302,13032,Rhine,EU-15,32,13,2696.0,EU-15,13.0,Legumes,Legumes,32.0,rfd,3632.37737907359,46.9254681699497,SSP1
+303,13032,Rhine,EU-15,32,13,9977.0,EU-15,13.0,Legumes,Legumes,32.0,irr,3632.37737907359,46.9254681699497,SSP1
+304,13036,Scheldt,EU-15,36,13,2697.0,EU-15,13.0,Legumes,Legumes,36.0,rfd,3065.87316471773,39.6069897453103,SSP1
+305,13036,Scheldt,EU-15,36,13,9978.0,EU-15,13.0,Legumes,Legumes,36.0,irr,3065.87316471773,39.6069897453103,SSP1
+306,13041,France_West_Coast,EU-15,41,13,2698.0,EU-15,13.0,Legumes,Legumes,41.0,rfd,2768.0210193761,35.75913752431,SSP1
+307,13041,France_West_Coast,EU-15,41,13,9979.0,EU-15,13.0,Legumes,Legumes,41.0,irr,2768.0210193761,35.75913752431,SSP1
+308,13044,Loire,EU-15,44,13,2699.0,EU-15,13.0,Legumes,Legumes,44.0,rfd,2767.40012249829,35.7511163652629,SSP1
+309,13044,Loire,EU-15,44,13,9980.0,EU-15,13.0,Legumes,Legumes,44.0,irr,2767.40012249829,35.7511163652629,SSP1
+310,13046,Seine,EU-15,46,13,2700.0,EU-15,13.0,Legumes,Legumes,46.0,rfd,2767.39093318828,35.7509976516411,SSP1
+311,13046,Seine,EU-15,46,13,9981.0,EU-15,13.0,Legumes,Legumes,46.0,irr,2767.39093318828,35.7509976516411,SSP1
+312,13050,Italy_East_Coast,EU-15,50,13,2701.0,EU-15,13.0,Legumes,Legumes,50.0,rfd,9234.98563201089,119.303689870295,SSP1
+313,13050,Italy_East_Coast,EU-15,50,13,9982.0,EU-15,13.0,Legumes,Legumes,50.0,irr,9234.98563201089,119.303689870295,SSP1
+314,13054,Danube,EU-15,54,13,2702.0,EU-15,13.0,Legumes,Legumes,54.0,rfd,5402.70973444593,69.7957996148185,SSP1
+315,13054,Danube,EU-15,54,13,9983.0,EU-15,13.0,Legumes,Legumes,54.0,irr,5402.70973444593,69.7957996148185,SSP1
+316,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2703.0,EU-15,13.0,Legumes,Legumes,55.0,rfd,9586.4391129374,123.843999813707,SSP1
+317,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,9984.0,EU-15,13.0,Legumes,Legumes,55.0,irr,9586.4391129374,123.843999813707,SSP1
+318,13057,Po,EU-15,57,13,2704.0,EU-15,13.0,Legumes,Legumes,57.0,rfd,9246.45296571447,119.451832518083,SSP1
+319,13057,Po,EU-15,57,13,9985.0,EU-15,13.0,Legumes,Legumes,57.0,irr,9246.45296571447,119.451832518083,SSP1
+320,13059,Italy_West_Coast,EU-15,59,13,2705.0,EU-15,13.0,Legumes,Legumes,59.0,rfd,9251.73814373807,119.520109964845,SSP1
+321,13059,Italy_West_Coast,EU-15,59,13,9986.0,EU-15,13.0,Legumes,Legumes,59.0,irr,9251.73814373807,119.520109964845,SSP1
+322,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2706.0,EU-15,13.0,Legumes,Legumes,60.0,rfd,13850.8206613171,178.934118413677,SSP1
+323,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,9987.0,EU-15,13.0,Legumes,Legumes,60.0,irr,13850.8206613171,178.934118413677,SSP1
+324,13061,France_South_Coast,EU-15,61,13,2707.0,EU-15,13.0,Legumes,Legumes,61.0,rfd,2891.06327304469,37.3486792363985,SSP1
+325,13061,France_South_Coast,EU-15,61,13,9988.0,EU-15,13.0,Legumes,Legumes,61.0,irr,2891.06327304469,37.3486792363985,SSP1
+326,13062,Rh(ne,EU-15,62,13,2708.0,EU-15,13.0,Legumes,Legumes,62.0,rfd,2767.51748112431,35.7526324820909,SSP1
+327,13062,Rh(ne,EU-15,62,13,9989.0,EU-15,13.0,Legumes,Legumes,62.0,irr,2767.51748112431,35.7526324820909,SSP1
+328,13063,Mediterranean_Sea_Islands,EU-15,63,13,2709.0,EU-15,13.0,Legumes,Legumes,63.0,rfd,9262.30037636677,119.656559914643,SSP1
+329,13063,Mediterranean_Sea_Islands,EU-15,63,13,9990.0,EU-15,13.0,Legumes,Legumes,63.0,irr,9262.30037636677,119.656559914643,SSP1
+330,13064,Gironde,EU-15,64,13,2710.0,EU-15,13.0,Legumes,Legumes,64.0,rfd,2768.35324986159,35.7634294988062,SSP1
+331,13064,Gironde,EU-15,64,13,9991.0,EU-15,13.0,Legumes,Legumes,64.0,irr,2768.35324986159,35.7634294988062,SSP1
+332,13067,Spain_South_and_East_Coast,EU-15,67,13,2711.0,EU-15,13.0,Legumes,Legumes,67.0,rfd,14634.798196399,189.062061914368,SSP1
+333,13067,Spain_South_and_East_Coast,EU-15,67,13,9992.0,EU-15,13.0,Legumes,Legumes,67.0,irr,14634.798196399,189.062061914368,SSP1
+334,13069,Tiber,EU-15,69,13,2712.0,EU-15,13.0,Legumes,Legumes,69.0,rfd,9250.85471304755,119.508697219301,SSP1
+335,13069,Tiber,EU-15,69,13,9993.0,EU-15,13.0,Legumes,Legumes,69.0,irr,9250.85471304755,119.508697219301,SSP1
+336,13071,Tagus,EU-15,71,13,2713.0,EU-15,13.0,Legumes,Legumes,71.0,rfd,14517.3995100258,187.545427560146,SSP1
+337,13071,Tagus,EU-15,71,13,9994.0,EU-15,13.0,Legumes,Legumes,71.0,irr,14517.3995100258,187.545427560146,SSP1
+338,13073,Ebro,EU-15,73,13,2714.0,EU-15,13.0,Legumes,Legumes,73.0,rfd,14539.1607270447,187.826553442727,SSP1
+339,13073,Ebro,EU-15,73,13,9995.0,EU-15,13.0,Legumes,Legumes,73.0,irr,14539.1607270447,187.826553442727,SSP1
+340,13074,Douro,EU-15,74,13,2715.0,EU-15,13.0,Legumes,Legumes,74.0,rfd,14588.6123677931,188.465402645803,SSP1
+341,13074,Douro,EU-15,74,13,9996.0,EU-15,13.0,Legumes,Legumes,74.0,irr,14588.6123677931,188.465402645803,SSP1
+342,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
+343,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
+344,13081,Guadiana,EU-15,81,13,2716.0,EU-15,13.0,Legumes,Legumes,81.0,rfd,14569.9205448689,188.223929238683,SSP1
+345,13081,Guadiana,EU-15,81,13,9997.0,EU-15,13.0,Legumes,Legumes,81.0,irr,14569.9205448689,188.223929238683,SSP1
+346,13083,Guadalquivir,EU-15,83,13,2717.0,EU-15,13.0,Legumes,Legumes,83.0,rfd,14647.496421842,189.22610604075,SSP1
+347,13083,Guadalquivir,EU-15,83,13,9998.0,EU-15,13.0,Legumes,Legumes,83.0,irr,14647.496421842,189.22610604075,SSP1
+348,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
+349,13101,Caribbean,EU-15,101,13,,,,,,,,,,
+350,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
+351,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
+352,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
+353,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
+354,13216,Antarctica,EU-15,216,13,,,,,,,,,,
+355,14017,Neva,Europe_Eastern,17,14,3128.0,Europe_Eastern,14.0,Legumes,Legumes,17.0,rfd,2882.43941706958,29.5498245206147,SSP1
+356,14017,Neva,Europe_Eastern,17,14,10409.0,Europe_Eastern,14.0,Legumes,Legumes,17.0,irr,2882.43941706958,29.5498245206147,SSP1
+357,14025,Daugava,Europe_Eastern,25,14,3129.0,Europe_Eastern,14.0,Legumes,Legumes,25.0,rfd,2882.71218708202,29.5526208694137,SSP1
+358,14025,Daugava,Europe_Eastern,25,14,10410.0,Europe_Eastern,14.0,Legumes,Legumes,25.0,irr,2882.71218708202,29.5526208694137,SSP1
+359,14030,Wisla,Europe_Eastern,30,14,3130.0,Europe_Eastern,14.0,Legumes,Legumes,30.0,rfd,2991.65598342447,30.6694769758993,SSP1
+360,14030,Wisla,Europe_Eastern,30,14,10411.0,Europe_Eastern,14.0,Legumes,Legumes,30.0,irr,2991.65598342447,30.6694769758993,SSP1
+361,14035,Neman,Europe_Eastern,35,14,3131.0,Europe_Eastern,14.0,Legumes,Legumes,35.0,rfd,2884.81286538165,29.5741563350893,SSP1
+362,14035,Neman,Europe_Eastern,35,14,10412.0,Europe_Eastern,14.0,Legumes,Legumes,35.0,irr,2884.81286538165,29.5741563350893,SSP1
+363,14039,Dnieper,Europe_Eastern,39,14,3132.0,Europe_Eastern,14.0,Legumes,Legumes,39.0,rfd,2967.94262083283,30.4263753518974,SSP1
+364,14039,Dnieper,Europe_Eastern,39,14,10413.0,Europe_Eastern,14.0,Legumes,Legumes,39.0,irr,2967.94262083283,30.4263753518974,SSP1
+365,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3133.0,Europe_Eastern,14.0,Legumes,Legumes,47.0,rfd,3047.57475934352,31.2427379457675,SSP1
+366,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10414.0,Europe_Eastern,14.0,Legumes,Legumes,47.0,irr,3047.57475934352,31.2427379457675,SSP1
+367,14049,Dniester,Europe_Eastern,49,14,3134.0,Europe_Eastern,14.0,Legumes,Legumes,49.0,rfd,3284.54562672129,33.6720856385735,SSP1
+368,14049,Dniester,Europe_Eastern,49,14,10415.0,Europe_Eastern,14.0,Legumes,Legumes,49.0,irr,3284.54562672129,33.6720856385735,SSP1
+369,14053,Don,Europe_Eastern,53,14,3135.0,Europe_Eastern,14.0,Legumes,Legumes,53.0,rfd,3018.16320535902,30.9412203305234,SSP1
+370,14053,Don,Europe_Eastern,53,14,10416.0,Europe_Eastern,14.0,Legumes,Legumes,53.0,irr,3018.16320535902,30.9412203305234,SSP1
+371,14054,Danube,Europe_Eastern,54,14,3136.0,Europe_Eastern,14.0,Legumes,Legumes,54.0,rfd,4029.82730314162,41.3124692061281,SSP1
+372,14054,Danube,Europe_Eastern,54,14,10417.0,Europe_Eastern,14.0,Legumes,Legumes,54.0,irr,4029.82730314162,41.3124692061281,SSP1
+373,15054,Danube,Europe_Non_EU,54,15,3267.0,Europe_Non_EU,15.0,Legumes,Legumes,54.0,rfd,2548.51969374676,19.8313414700981,SSP1
+374,15054,Danube,Europe_Non_EU,54,15,10548.0,Europe_Non_EU,15.0,Legumes,Legumes,54.0,irr,2548.51969374676,19.8313414700981,SSP1
+375,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3268.0,Europe_Non_EU,15.0,Legumes,Legumes,55.0,rfd,2633.35432360921,20.4914833231979,SSP1
+376,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10549.0,Europe_Non_EU,15.0,Legumes,Legumes,55.0,irr,2633.35432360921,20.4914833231979,SSP1
+377,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3269.0,Europe_Non_EU,15.0,Legumes,Legumes,70.0,rfd,2565.20277150936,19.9611610719219,SSP1
+378,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10550.0,Europe_Non_EU,15.0,Legumes,Legumes,70.0,irr,2565.20277150936,19.9611610719219,SSP1
+379,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3270.0,Europe_Non_EU,15.0,Legumes,Legumes,72.0,rfd,3083.7043199186,23.9958880879651,SSP1
+380,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10551.0,Europe_Non_EU,15.0,Legumes,Legumes,72.0,irr,3083.7043199186,23.9958880879651,SSP1
+381,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3271.0,Europe_Non_EU,15.0,Legumes,Legumes,75.0,rfd,2548.51969374676,19.8313414700981,SSP1
+382,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10552.0,Europe_Non_EU,15.0,Legumes,Legumes,75.0,irr,2548.51969374676,19.8313414700981,SSP1
+383,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3272.0,Europe_Non_EU,15.0,Legumes,Legumes,84.0,rfd,2603.91524335335,20.2624027104203,SSP1
+384,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10553.0,Europe_Non_EU,15.0,Legumes,Legumes,84.0,irr,2603.91524335335,20.2624027104203,SSP1
+385,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3273.0,Europe_Non_EU,15.0,Legumes,Legumes,99.0,rfd,2702.75382393785,21.0315165009867,SSP1
+386,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10554.0,Europe_Non_EU,15.0,Legumes,Legumes,99.0,irr,2702.75382393785,21.0315165009867,SSP1
+387,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
+388,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,,,,,,,,,,
+389,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
+390,16012,Sweden,European Free Trade Association,12,16,,,,,,,,,,
+391,16032,Rhine,European Free Trade Association,32,16,3392.0,European Free Trade Association,16.0,Legumes,Legumes,32.0,rfd,3024.29436947997,26.18,SSP1
+392,16032,Rhine,European Free Trade Association,32,16,10673.0,European Free Trade Association,16.0,Legumes,Legumes,32.0,irr,3024.29436947997,26.18,SSP1
+393,16054,Danube,European Free Trade Association,54,16,3393.0,European Free Trade Association,16.0,Legumes,Legumes,54.0,rfd,3024.29436947997,26.18,SSP1
+394,16054,Danube,European Free Trade Association,54,16,10674.0,European Free Trade Association,16.0,Legumes,Legumes,54.0,irr,3024.29436947997,26.18,SSP1
+395,16057,Po,European Free Trade Association,57,16,3394.0,European Free Trade Association,16.0,Legumes,Legumes,57.0,rfd,3024.29436947997,26.18,SSP1
+396,16057,Po,European Free Trade Association,57,16,10675.0,European Free Trade Association,16.0,Legumes,Legumes,57.0,irr,3024.29436947997,26.18,SSP1
+397,16062,Rh(ne,European Free Trade Association,62,16,3395.0,European Free Trade Association,16.0,Legumes,Legumes,62.0,rfd,3024.29436947997,26.18,SSP1
+398,16062,Rh(ne,European Free Trade Association,62,16,10676.0,European Free Trade Association,16.0,Legumes,Legumes,62.0,irr,3024.29436947997,26.18,SSP1
+399,17089,Indus,India,89,17,,,,,,,,,,
+400,17107,Sabarmati,India,107,17,,,,,,,,,,
+401,17110,Ganges_Bramaputra,India,110,17,,,,,,,,,,
+402,17113,Mahi,India,113,17,,,,,,,,,,
+403,17116,Bay_of_Bengal_North_East_Coast,India,116,17,,,,,,,,,,
+404,17117,Tapti,India,117,17,,,,,,,,,,
+405,17118,Yasai,India,118,17,,,,,,,,,,
+406,17120,Brahamani,India,120,17,,,,,,,,,,
+407,17122,Mahandi,India,122,17,,,,,,,,,,
+408,17123,Godavari,India,123,17,,,,,,,,,,
+409,17128,India_North_East_Coast,India,128,17,,,,,,,,,,
+410,17129,India_West_Coast,India,129,17,,,,,,,,,,
+411,17137,Irrawaddy,India,137,17,,,,,,,,,,
+412,17140,Krishna,India,140,17,,,,,,,,,,
+413,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
+414,17145,India_East_Coast,India,145,17,,,,,,,,,,
+415,17147,Pennar,India,147,17,,,,,,,,,,
+416,17153,Cauvery,India,153,17,,,,,,,,,,
+417,17155,India_South_Coast,India,155,17,,,,,,,,,,
+418,17235,Narmada,India,235,17,,,,,,,,,,
+419,18158,Palau_and_East_Indonesia,Indonesia,158,18,3849.0,Indonesia,18.0,Legumes,Legumes,158.0,rfd,1391.32439574455,27.0178909054612,SSP1
+420,18158,Palau_and_East_Indonesia,Indonesia,158,18,11130.0,Indonesia,18.0,Legumes,Legumes,158.0,irr,1391.32439574455,27.0178909054612,SSP1
+421,18159,North_Borneo_Coast,Indonesia,159,18,3850.0,Indonesia,18.0,Legumes,Legumes,159.0,rfd,1390.66131949689,27.0050147410123,SSP1
+422,18159,North_Borneo_Coast,Indonesia,159,18,11131.0,Indonesia,18.0,Legumes,Legumes,159.0,irr,1390.66131949689,27.0050147410123,SSP1
+423,18163,Sumatra,Indonesia,163,18,3851.0,Indonesia,18.0,Legumes,Legumes,163.0,rfd,1391.28693446199,27.0171634512107,SSP1
+424,18163,Sumatra,Indonesia,163,18,11132.0,Indonesia,18.0,Legumes,Legumes,163.0,irr,1391.28693446199,27.0171634512107,SSP1
+425,18164,Sulawesi,Indonesia,164,18,3852.0,Indonesia,18.0,Legumes,Legumes,164.0,rfd,1391.30708208606,27.0175546944828,SSP1
+426,18164,Sulawesi,Indonesia,164,18,11133.0,Indonesia,18.0,Legumes,Legumes,164.0,irr,1391.30708208606,27.0175546944828,SSP1
+427,18165,Kalimantan,Indonesia,165,18,3853.0,Indonesia,18.0,Legumes,Legumes,165.0,rfd,1391.29177434226,27.0172574360194,SSP1
+428,18165,Kalimantan,Indonesia,165,18,11134.0,Indonesia,18.0,Legumes,Legumes,165.0,irr,1391.29177434226,27.0172574360194,SSP1
+429,18167,Irian_Jaya_Coast,Indonesia,167,18,3854.0,Indonesia,18.0,Legumes,Legumes,167.0,rfd,1391.28343830112,27.0170955598597,SSP1
+430,18167,Irian_Jaya_Coast,Indonesia,167,18,11135.0,Indonesia,18.0,Legumes,Legumes,167.0,irr,1391.28343830112,27.0170955598597,SSP1
+431,18175,Java_Timor,Indonesia,175,18,3855.0,Indonesia,18.0,Legumes,Legumes,175.0,rfd,1391.28098438117,27.0170479076071,SSP1
+432,18175,Java_Timor,Indonesia,175,18,11136.0,Indonesia,18.0,Legumes,Legumes,175.0,irr,1391.28098438117,27.0170479076071,SSP1
+433,18178,Sepik,Indonesia,178,18,3856.0,Indonesia,18.0,Legumes,Legumes,178.0,rfd,1387.30594572254,26.9398573105384,SSP1
+434,18178,Sepik,Indonesia,178,18,11137.0,Indonesia,18.0,Legumes,Legumes,178.0,irr,1387.30594572254,26.9398573105384,SSP1
+435,18181,Fly,Indonesia,181,18,3857.0,Indonesia,18.0,Legumes,Legumes,181.0,rfd,1387.30594572254,26.9398573105384,SSP1
+436,18181,Fly,Indonesia,181,18,11138.0,Indonesia,18.0,Legumes,Legumes,181.0,irr,1387.30594572254,26.9398573105384,SSP1
+437,19051,Japan,Japan,51,19,3983.0,Japan,19.0,Legumes,Legumes,51.0,rfd,1081.98342631189,18.7275926855335,SSP1
+438,19051,Japan,Japan,51,19,11264.0,Japan,19.0,Legumes,Legumes,51.0,irr,1081.98342631189,18.7275926855335,SSP1
+439,19103,Taiwan,Japan,103,19,3984.0,Japan,19.0,Legumes,Legumes,103.0,rfd,1081.13938750038,18.7129835753675,SSP1
+440,19103,Taiwan,Japan,103,19,11265.0,Japan,19.0,Legumes,Legumes,103.0,irr,1081.13938750038,18.7129835753675,SSP1
+441,20091,Baja_California,Mexico,91,20,4118.0,Mexico,20.0,Legumes,Legumes,91.0,rfd,1140.47369166071,16.2069121025977,SSP1
+442,20091,Baja_California,Mexico,91,20,11399.0,Mexico,20.0,Legumes,Legumes,91.0,irr,1140.47369166071,16.2069121025977,SSP1
+443,20096,Mexico_Northwest_Coast,Mexico,96,20,4119.0,Mexico,20.0,Legumes,Legumes,96.0,rfd,1140.47369166071,16.2069121025977,SSP1
+444,20096,Mexico_Northwest_Coast,Mexico,96,20,11400.0,Mexico,20.0,Legumes,Legumes,96.0,irr,1140.47369166071,16.2069121025977,SSP1
+445,20105,North_Gulf,Mexico,105,20,4120.0,Mexico,20.0,Legumes,Legumes,105.0,rfd,1140.47369166071,16.2069121025977,SSP1
+446,20105,North_Gulf,Mexico,105,20,11401.0,Mexico,20.0,Legumes,Legumes,105.0,irr,1140.47369166071,16.2069121025977,SSP1
+447,20111,Yucatan_Peninsula,Mexico,111,20,4121.0,Mexico,20.0,Legumes,Legumes,111.0,rfd,1140.47369166071,16.2069121025977,SSP1
+448,20111,Yucatan_Peninsula,Mexico,111,20,11402.0,Mexico,20.0,Legumes,Legumes,111.0,irr,1140.47369166071,16.2069121025977,SSP1
+449,20114,Mexico_Interior,Mexico,114,20,4122.0,Mexico,20.0,Legumes,Legumes,114.0,rfd,1140.47369166071,16.2069121025977,SSP1
+450,20114,Mexico_Interior,Mexico,114,20,11403.0,Mexico,20.0,Legumes,Legumes,114.0,irr,1140.47369166071,16.2069121025977,SSP1
+451,20115,Pacific_Central_Coast,Mexico,115,20,4123.0,Mexico,20.0,Legumes,Legumes,115.0,rfd,1140.47369166071,16.2069121025977,SSP1
+452,20115,Pacific_Central_Coast,Mexico,115,20,11404.0,Mexico,20.0,Legumes,Legumes,115.0,irr,1140.47369166071,16.2069121025977,SSP1
+453,20130,Papaloapan,Mexico,130,20,4124.0,Mexico,20.0,Legumes,Legumes,130.0,rfd,1140.47369166071,16.2069121025977,SSP1
+454,20130,Papaloapan,Mexico,130,20,11405.0,Mexico,20.0,Legumes,Legumes,130.0,irr,1140.47369166071,16.2069121025977,SSP1
+455,20131,Rfo_Lerma,Mexico,131,20,4125.0,Mexico,20.0,Legumes,Legumes,131.0,rfd,1140.47369166071,16.2069121025977,SSP1
+456,20131,Rfo_Lerma,Mexico,131,20,11406.0,Mexico,20.0,Legumes,Legumes,131.0,irr,1140.47369166071,16.2069121025977,SSP1
+457,20132,Rfo_Verde,Mexico,132,20,4126.0,Mexico,20.0,Legumes,Legumes,132.0,rfd,1140.47369166071,16.2069121025977,SSP1
+458,20132,Rfo_Verde,Mexico,132,20,11407.0,Mexico,20.0,Legumes,Legumes,132.0,irr,1140.47369166071,16.2069121025977,SSP1
+459,20133,Grijalva_Usumacinta,Mexico,133,20,4127.0,Mexico,20.0,Legumes,Legumes,133.0,rfd,1140.47369166071,16.2069121025977,SSP1
+460,20133,Grijalva_Usumacinta,Mexico,133,20,11408.0,Mexico,20.0,Legumes,Legumes,133.0,irr,1140.47369166071,16.2069121025977,SSP1
+461,20134,Rfo_Balsas,Mexico,134,20,4128.0,Mexico,20.0,Legumes,Legumes,134.0,rfd,1140.47369166071,16.2069121025977,SSP1
+462,20134,Rfo_Balsas,Mexico,134,20,11409.0,Mexico,20.0,Legumes,Legumes,134.0,irr,1140.47369166071,16.2069121025977,SSP1
+463,20135,Southern_Central_America,Mexico,135,20,4129.0,Mexico,20.0,Legumes,Legumes,135.0,rfd,1140.47369166071,16.2069121025977,SSP1
+464,20135,Southern_Central_America,Mexico,135,20,11410.0,Mexico,20.0,Legumes,Legumes,135.0,irr,1140.47369166071,16.2069121025977,SSP1
+465,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4130.0,Mexico,20.0,Legumes,Legumes,136.0,rfd,1140.47369166071,16.2069121025977,SSP1
+466,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11411.0,Mexico,20.0,Legumes,Legumes,136.0,irr,1140.47369166071,16.2069121025977,SSP1
+467,20217,California_River_Basin,Mexico,217,20,4131.0,Mexico,20.0,Legumes,Legumes,217.0,rfd,1140.47369166071,16.2069121025977,SSP1
+468,20217,California_River_Basin,Mexico,217,20,11412.0,Mexico,20.0,Legumes,Legumes,217.0,irr,1140.47369166071,16.2069121025977,SSP1
+469,20221,Lower_Colorado_River_Basin,Mexico,221,20,4132.0,Mexico,20.0,Legumes,Legumes,221.0,rfd,1140.47369166071,16.2069121025977,SSP1
+470,20221,Lower_Colorado_River_Basin,Mexico,221,20,11413.0,Mexico,20.0,Legumes,Legumes,221.0,irr,1140.47369166071,16.2069121025977,SSP1
+471,20231,Rio_Grande_River_Basin,Mexico,231,20,4133.0,Mexico,20.0,Legumes,Legumes,231.0,rfd,1140.47369166071,16.2069121025977,SSP1
+472,20231,Rio_Grande_River_Basin,Mexico,231,20,11414.0,Mexico,20.0,Legumes,Legumes,231.0,irr,1140.47369166071,16.2069121025977,SSP1
+473,21052,Caspian_Sea_East_Coast,Middle East,52,21,4441.0,Middle East,21.0,Legumes,Legumes,52.0,rfd,3079.08589619441,29.5283001175777,SSP1
+474,21052,Caspian_Sea_East_Coast,Middle East,52,21,11722.0,Middle East,21.0,Legumes,Legumes,52.0,irr,3079.08589619441,29.5283001175777,SSP1
+475,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4442.0,Middle East,21.0,Legumes,Legumes,72.0,rfd,4048.08983824235,38.8210058687461,SSP1
+476,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11723.0,Middle East,21.0,Legumes,Legumes,72.0,irr,4048.08983824235,38.8210058687461,SSP1
+477,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4443.0,Middle East,21.0,Legumes,Legumes,75.0,rfd,1328.2986659916,12.7383265610274,SSP1
+478,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11724.0,Middle East,21.0,Legumes,Legumes,75.0,irr,1328.2986659916,12.7383265610274,SSP1
+479,21082,Central_Iran,Middle East,82,21,4444.0,Middle East,21.0,Legumes,Legumes,82.0,rfd,3553.54688723901,34.0783604309207,SSP1
+480,21082,Central_Iran,Middle East,82,21,11725.0,Middle East,21.0,Legumes,Legumes,82.0,irr,3553.54688723901,34.0783604309207,SSP1
+481,21084,Tigris_Euphrates,Middle East,84,21,4445.0,Middle East,21.0,Legumes,Legumes,84.0,rfd,3358.59403458966,32.2087710346252,SSP1
+482,21084,Tigris_Euphrates,Middle East,84,21,11726.0,Middle East,21.0,Legumes,Legumes,84.0,irr,3358.59403458966,32.2087710346252,SSP1
+483,21088,Persian_Gulf_Coast,Middle East,88,21,4446.0,Middle East,21.0,Legumes,Legumes,88.0,rfd,3028.7561572903,29.0456401057097,SSP1
+484,21088,Persian_Gulf_Coast,Middle East,88,21,11727.0,Middle East,21.0,Legumes,Legumes,88.0,irr,3028.7561572903,29.0456401057097,SSP1
+485,21090,Farahrud,Middle East,90,21,4447.0,Middle East,21.0,Legumes,Legumes,90.0,rfd,2074.35333846249,19.8929584925591,SSP1
+486,21090,Farahrud,Middle East,90,21,11728.0,Middle East,21.0,Legumes,Legumes,90.0,irr,2074.35333846249,19.8929584925591,SSP1
+487,21093,Red_Sea_East_Coast,Middle East,93,21,4448.0,Middle East,21.0,Legumes,Legumes,93.0,rfd,1328.2986659916,12.7383265610274,SSP1
+488,21093,Red_Sea_East_Coast,Middle East,93,21,11729.0,Middle East,21.0,Legumes,Legumes,93.0,irr,1328.2986659916,12.7383265610274,SSP1
+489,21094,Arabian_Peninsula,Middle East,94,21,4449.0,Middle East,21.0,Legumes,Legumes,94.0,rfd,1328.2986659916,12.7383265610274,SSP1
+490,21094,Arabian_Peninsula,Middle East,94,21,11730.0,Middle East,21.0,Legumes,Legumes,94.0,irr,1328.2986659916,12.7383265610274,SSP1
+491,21095,Dead_Sea,Middle East,95,21,4450.0,Middle East,21.0,Legumes,Legumes,95.0,rfd,1328.2986659916,12.7383265610274,SSP1
+492,21095,Dead_Sea,Middle East,95,21,11731.0,Middle East,21.0,Legumes,Legumes,95.0,irr,1328.2986659916,12.7383265610274,SSP1
+493,21097,Helmand,Middle East,97,21,4451.0,Middle East,21.0,Legumes,Legumes,97.0,rfd,1474.20153032499,14.1375286980563,SSP1
+494,21097,Helmand,Middle East,97,21,11732.0,Middle East,21.0,Legumes,Legumes,97.0,irr,1474.20153032499,14.1375286980563,SSP1
+495,21098,Sinai_Peninsula,Middle East,98,21,4452.0,Middle East,21.0,Legumes,Legumes,98.0,rfd,1626.86685282073,15.6015825153832,SSP1
+496,21098,Sinai_Peninsula,Middle East,98,21,11733.0,Middle East,21.0,Legumes,Legumes,98.0,irr,1626.86685282073,15.6015825153832,SSP1
+497,21099,Eastern_Jordan_Syria,Middle East,99,21,4453.0,Middle East,21.0,Legumes,Legumes,99.0,rfd,1328.2986659916,12.7383265610274,SSP1
+498,21099,Eastern_Jordan_Syria,Middle East,99,21,11734.0,Middle East,21.0,Legumes,Legumes,99.0,irr,1328.2986659916,12.7383265610274,SSP1
+499,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4454.0,Middle East,21.0,Legumes,Legumes,100.0,rfd,1328.2986659916,12.7383265610274,SSP1
+500,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11735.0,Middle East,21.0,Legumes,Legumes,100.0,irr,1328.2986659916,12.7383265610274,SSP1
+501,21102,HamuniMashkel,Middle East,102,21,4455.0,Middle East,21.0,Legumes,Legumes,102.0,rfd,1328.2986659916,12.7383265610274,SSP1
+502,21102,HamuniMashkel,Middle East,102,21,11736.0,Middle East,21.0,Legumes,Legumes,102.0,irr,1328.2986659916,12.7383265610274,SSP1
+503,21104,Arabian_Sea_Coast,Middle East,104,21,4456.0,Middle East,21.0,Legumes,Legumes,104.0,rfd,1328.2986659916,12.7383265610274,SSP1
+504,21104,Arabian_Sea_Coast,Middle East,104,21,11737.0,Middle East,21.0,Legumes,Legumes,104.0,irr,1328.2986659916,12.7383265610274,SSP1
+505,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
+506,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
+507,22089,Indus,Pakistan,89,22,4673.0,Pakistan,22.0,Legumes,Legumes,89.0,rfd,5316.20719758321,26.18,SSP1
+508,22089,Indus,Pakistan,89,22,11954.0,Pakistan,22.0,Legumes,Legumes,89.0,irr,5316.20719758321,26.18,SSP1
+509,22097,Helmand,Pakistan,97,22,4674.0,Pakistan,22.0,Legumes,Legumes,97.0,rfd,5316.20719758321,26.18,SSP1
+510,22097,Helmand,Pakistan,97,22,11955.0,Pakistan,22.0,Legumes,Legumes,97.0,irr,5316.20719758321,26.18,SSP1
+511,22102,HamuniMashkel,Pakistan,102,22,4675.0,Pakistan,22.0,Legumes,Legumes,102.0,rfd,5316.20719758321,26.18,SSP1
+512,22102,HamuniMashkel,Pakistan,102,22,11956.0,Pakistan,22.0,Legumes,Legumes,102.0,irr,5316.20719758321,26.18,SSP1
+513,22104,Arabian_Sea_Coast,Pakistan,104,22,4676.0,Pakistan,22.0,Legumes,Legumes,104.0,rfd,5316.20719758321,26.18,SSP1
+514,22104,Arabian_Sea_Coast,Pakistan,104,22,11957.0,Pakistan,22.0,Legumes,Legumes,104.0,irr,5316.20719758321,26.18,SSP1
+515,22107,Sabarmati,Pakistan,107,22,4677.0,Pakistan,22.0,Legumes,Legumes,107.0,rfd,5316.20719758321,26.18,SSP1
+516,22107,Sabarmati,Pakistan,107,22,11958.0,Pakistan,22.0,Legumes,Legumes,107.0,irr,5316.20719758321,26.18,SSP1
+517,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
+518,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
+519,23004,Siberia_West_Coast,Russia,4,23,,,,,,,,,,
+520,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
+521,23006,Lena,Russia,6,23,4913.0,Russia,23.0,Legumes,Legumes,6.0,rfd,1798.88391671401,22.1607226722868,SSP1
+522,23006,Lena,Russia,6,23,12194.0,Russia,23.0,Legumes,Legumes,6.0,irr,1798.88391671401,22.1607226722868,SSP1
+523,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
+524,23009,Russia_Barents_Sea_Coast,Russia,9,23,4914.0,Russia,23.0,Legumes,Legumes,9.0,rfd,1798.88391671401,22.1607226722868,SSP1
+525,23009,Russia_Barents_Sea_Coast,Russia,9,23,12195.0,Russia,23.0,Legumes,Legumes,9.0,irr,1798.88391671401,22.1607226722868,SSP1
+526,23013,Finland,Russia,13,23,4915.0,Russia,23.0,Legumes,Legumes,13.0,rfd,1798.88391671401,22.1607226722868,SSP1
+527,23013,Finland,Russia,13,23,12196.0,Russia,23.0,Legumes,Legumes,13.0,irr,1798.88391671401,22.1607226722868,SSP1
+528,23014,Northern_Dvina,Russia,14,23,4916.0,Russia,23.0,Legumes,Legumes,14.0,rfd,1798.88391671401,22.1607226722868,SSP1
+529,23014,Northern_Dvina,Russia,14,23,12197.0,Russia,23.0,Legumes,Legumes,14.0,irr,1798.88391671401,22.1607226722868,SSP1
+530,23017,Neva,Russia,17,23,4917.0,Russia,23.0,Legumes,Legumes,17.0,rfd,1798.88391671401,22.1607226722868,SSP1
+531,23017,Neva,Russia,17,23,12198.0,Russia,23.0,Legumes,Legumes,17.0,irr,1798.88391671401,22.1607226722868,SSP1
+532,23018,Volga,Russia,18,23,4918.0,Russia,23.0,Legumes,Legumes,18.0,rfd,1798.88391671401,22.1607226722868,SSP1
+533,23018,Volga,Russia,18,23,12199.0,Russia,23.0,Legumes,Legumes,18.0,irr,1798.88391671401,22.1607226722868,SSP1
+534,23020,Baltic_Sea_Coast,Russia,20,23,4919.0,Russia,23.0,Legumes,Legumes,20.0,rfd,1798.88391671401,22.1607226722868,SSP1
+535,23020,Baltic_Sea_Coast,Russia,20,23,12200.0,Russia,23.0,Legumes,Legumes,20.0,irr,1798.88391671401,22.1607226722868,SSP1
+536,23022,Narva,Russia,22,23,4920.0,Russia,23.0,Legumes,Legumes,22.0,rfd,1798.88391671401,22.1607226722868,SSP1
+537,23022,Narva,Russia,22,23,12201.0,Russia,23.0,Legumes,Legumes,22.0,irr,1798.88391671401,22.1607226722868,SSP1
+538,23025,Daugava,Russia,25,23,4921.0,Russia,23.0,Legumes,Legumes,25.0,rfd,1798.88391671401,22.1607226722868,SSP1
+539,23025,Daugava,Russia,25,23,12202.0,Russia,23.0,Legumes,Legumes,25.0,irr,1798.88391671401,22.1607226722868,SSP1
+540,23033,Poland_Coast,Russia,33,23,4922.0,Russia,23.0,Legumes,Legumes,33.0,rfd,1798.88391671401,22.1607226722868,SSP1
+541,23033,Poland_Coast,Russia,33,23,12203.0,Russia,23.0,Legumes,Legumes,33.0,irr,1798.88391671401,22.1607226722868,SSP1
+542,23035,Neman,Russia,35,23,4923.0,Russia,23.0,Legumes,Legumes,35.0,rfd,1798.88391671401,22.1607226722868,SSP1
+543,23035,Neman,Russia,35,23,12204.0,Russia,23.0,Legumes,Legumes,35.0,irr,1798.88391671401,22.1607226722868,SSP1
+544,23037,Russia_South_East_Coast,Russia,37,23,4924.0,Russia,23.0,Legumes,Legumes,37.0,rfd,1798.88391671401,22.1607226722868,SSP1
+545,23037,Russia_South_East_Coast,Russia,37,23,12205.0,Russia,23.0,Legumes,Legumes,37.0,irr,1798.88391671401,22.1607226722868,SSP1
+546,23038,Ural,Russia,38,23,4925.0,Russia,23.0,Legumes,Legumes,38.0,rfd,1798.88391671401,22.1607226722868,SSP1
+547,23038,Ural,Russia,38,23,12206.0,Russia,23.0,Legumes,Legumes,38.0,irr,1798.88391671401,22.1607226722868,SSP1
+548,23039,Dnieper,Russia,39,23,4926.0,Russia,23.0,Legumes,Legumes,39.0,rfd,1798.88391671401,22.1607226722868,SSP1
+549,23039,Dnieper,Russia,39,23,12207.0,Russia,23.0,Legumes,Legumes,39.0,irr,1798.88391671401,22.1607226722868,SSP1
+550,23042,Gobi_Interior,Russia,42,23,4927.0,Russia,23.0,Legumes,Legumes,42.0,rfd,1798.88391671401,22.1607226722868,SSP1
+551,23042,Gobi_Interior,Russia,42,23,12208.0,Russia,23.0,Legumes,Legumes,42.0,irr,1798.88391671401,22.1607226722868,SSP1
+552,23043,Amur,Russia,43,23,4928.0,Russia,23.0,Legumes,Legumes,43.0,rfd,1798.88391671401,22.1607226722868,SSP1
+553,23043,Amur,Russia,43,23,12209.0,Russia,23.0,Legumes,Legumes,43.0,irr,1798.88391671401,22.1607226722868,SSP1
+554,23045,Caspian_Sea_Coast,Russia,45,23,4929.0,Russia,23.0,Legumes,Legumes,45.0,rfd,1798.88391671401,22.1607226722868,SSP1
+555,23045,Caspian_Sea_Coast,Russia,45,23,12210.0,Russia,23.0,Legumes,Legumes,45.0,irr,1798.88391671401,22.1607226722868,SSP1
+556,23047,Black_Sea_North_Coast,Russia,47,23,4930.0,Russia,23.0,Legumes,Legumes,47.0,rfd,1798.88391671401,22.1607226722868,SSP1
+557,23047,Black_Sea_North_Coast,Russia,47,23,12211.0,Russia,23.0,Legumes,Legumes,47.0,irr,1798.88391671401,22.1607226722868,SSP1
+558,23048,Yenisey,Russia,48,23,4931.0,Russia,23.0,Legumes,Legumes,48.0,rfd,1798.88391671401,22.1607226722868,SSP1
+559,23048,Yenisey,Russia,48,23,12212.0,Russia,23.0,Legumes,Legumes,48.0,irr,1798.88391671401,22.1607226722868,SSP1
+560,23053,Don,Russia,53,23,4932.0,Russia,23.0,Legumes,Legumes,53.0,rfd,1798.88391671401,22.1607226722868,SSP1
+561,23053,Don,Russia,53,23,12213.0,Russia,23.0,Legumes,Legumes,53.0,irr,1798.88391671401,22.1607226722868,SSP1
+562,23056,Ob,Russia,56,23,4933.0,Russia,23.0,Legumes,Legumes,56.0,rfd,1798.88391671401,22.1607226722868,SSP1
+563,23056,Ob,Russia,56,23,12214.0,Russia,23.0,Legumes,Legumes,56.0,irr,1798.88391671401,22.1607226722868,SSP1
+564,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
+565,23072,Caspian_Sea_South_West_Coast,Russia,72,23,4934.0,Russia,23.0,Legumes,Legumes,72.0,rfd,1798.88391671401,22.1607226722868,SSP1
+566,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12215.0,Russia,23.0,Legumes,Legumes,72.0,irr,1798.88391671401,22.1607226722868,SSP1
+567,23076,Syr_Darya,Russia,76,23,4935.0,Russia,23.0,Legumes,Legumes,76.0,rfd,1798.88391671401,22.1607226722868,SSP1
+568,23076,Syr_Darya,Russia,76,23,12216.0,Russia,23.0,Legumes,Legumes,76.0,irr,1798.88391671401,22.1607226722868,SSP1
+569,24194,Orange,South Africa,194,24,5194.0,South Africa,24.0,Legumes,Legumes,194.0,rfd,8444.92665396896,109.115061049922,SSP1
+570,24194,Orange,South Africa,194,24,12475.0,South Africa,24.0,Legumes,Legumes,194.0,irr,8444.92665396896,109.115061049922,SSP1
+571,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
+572,24198,South_Africa_South_Coast,South Africa,198,24,5195.0,South Africa,24.0,Legumes,Legumes,198.0,rfd,12089.0515716091,156.200006740359,SSP1
+573,24198,South_Africa_South_Coast,South Africa,198,24,12476.0,South Africa,24.0,Legumes,Legumes,198.0,irr,12089.0515716091,156.200006740359,SSP1
+574,24199,Limpopo,South Africa,199,24,5196.0,South Africa,24.0,Legumes,Legumes,199.0,rfd,8545.21764048884,110.410899079697,SSP1
+575,24199,Limpopo,South Africa,199,24,12477.0,South Africa,24.0,Legumes,Legumes,199.0,irr,8545.21764048884,110.410899079697,SSP1
+576,24204,South_Africa_West_Coast,South Africa,204,24,,,,,,,,,,
+577,24216,Antarctica,South Africa,216,24,,,,,,,,,,
+578,25143,Caribbean_Coast,South America_Northern,143,25,5261.0,South America_Northern,25.0,Legumes,Legumes,143.0,rfd,1284.20068548768,15.935646030257,SSP1
+579,25143,Caribbean_Coast,South America_Northern,143,25,12542.0,South America_Northern,25.0,Legumes,Legumes,143.0,irr,1284.20068548768,15.935646030257,SSP1
+580,25156,Orinoco,South America_Northern,156,25,5262.0,South America_Northern,25.0,Legumes,Legumes,156.0,rfd,1284.20068548768,15.935646030257,SSP1
+581,25156,Orinoco,South America_Northern,156,25,12543.0,South America_Northern,25.0,Legumes,Legumes,156.0,irr,1284.20068548768,15.935646030257,SSP1
+582,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,5263.0,South America_Northern,25.0,Legumes,Legumes,161.0,rfd,6358.78527233328,78.9061650779554,SSP1
+583,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,12544.0,South America_Northern,25.0,Legumes,Legumes,161.0,irr,6358.78527233328,78.9061650779554,SSP1
+584,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
+585,25168,Amazon,South America_Northern,168,25,5264.0,South America_Northern,25.0,Legumes,Legumes,168.0,rfd,8178.01792551974,101.481022680415,SSP1
+586,25168,Amazon,South America_Northern,168,25,12545.0,South America_Northern,25.0,Legumes,Legumes,168.0,irr,8178.01792551974,101.481022680415,SSP1
+587,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5381.0,South America_Southern,26.0,Legumes,Legumes,157.0,rfd,3129.24810178478,42.8374908452613,SSP1
+588,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12662.0,South America_Southern,26.0,Legumes,Legumes,157.0,irr,3129.24810178478,42.8374908452613,SSP1
+589,26168,Amazon,South America_Southern,168,26,5382.0,South America_Southern,26.0,Legumes,Legumes,168.0,rfd,2050.28476785575,28.0671433252945,SSP1
+590,26168,Amazon,South America_Southern,168,26,12663.0,South America_Southern,26.0,Legumes,Legumes,168.0,irr,2050.28476785575,28.0671433252945,SSP1
+591,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,,,,,,,,,,
+592,26180,Peru_Pacific_Coast,South America_Southern,180,26,5384.0,South America_Southern,26.0,Legumes,Legumes,180.0,rfd,1951.40076640383,26.7134818803861,SSP1
+593,26180,Peru_Pacific_Coast,South America_Southern,180,26,12665.0,South America_Southern,26.0,Legumes,Legumes,180.0,irr,1951.40076640383,26.7134818803861,SSP1
+594,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
+595,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5385.0,South America_Southern,26.0,Legumes,Legumes,195.0,rfd,1244.89336587701,17.0418280780188,SSP1
+596,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12666.0,South America_Southern,26.0,Legumes,Legumes,195.0,irr,1244.89336587701,17.0418280780188,SSP1
+597,26200,La_Puna_Region,South America_Southern,200,26,5386.0,South America_Southern,26.0,Legumes,Legumes,200.0,rfd,2069.90904797044,28.3357877064411,SSP1
+598,26200,La_Puna_Region,South America_Southern,200,26,12667.0,South America_Southern,26.0,Legumes,Legumes,200.0,irr,2069.90904797044,28.3357877064411,SSP1
+599,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
+600,26206,La_Plata,South America_Southern,206,26,5387.0,South America_Southern,26.0,Legumes,Legumes,206.0,rfd,1244.89336587701,17.0418280780188,SSP1
+601,26206,La_Plata,South America_Southern,206,26,12668.0,South America_Southern,26.0,Legumes,Legumes,206.0,irr,1244.89336587701,17.0418280780188,SSP1
+602,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,,,,,,,,,,
+603,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
+604,26213,Negro,South America_Southern,213,26,,,,,,,,,,
+605,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,,,,,,,,,,
+606,27052,Caspian_Sea_East_Coast,South Asia,52,27,5542.0,South Asia,27.0,Legumes,Legumes,52.0,rfd,2667.07158952413,18.0657289848438,SSP1
+607,27052,Caspian_Sea_East_Coast,South Asia,52,27,12823.0,South Asia,27.0,Legumes,Legumes,52.0,irr,2667.07158952413,18.0657289848438,SSP1
+608,27058,Amu_Darya,South Asia,58,27,5543.0,South Asia,27.0,Legumes,Legumes,58.0,rfd,2667.07158952413,18.0657289848438,SSP1
+609,27058,Amu_Darya,South Asia,58,27,12824.0,South Asia,27.0,Legumes,Legumes,58.0,irr,2667.07158952413,18.0657289848438,SSP1
+610,27089,Indus,South Asia,89,27,5544.0,South Asia,27.0,Legumes,Legumes,89.0,rfd,2667.07158952413,18.0657289848438,SSP1
+611,27089,Indus,South Asia,89,27,12825.0,South Asia,27.0,Legumes,Legumes,89.0,irr,2667.07158952413,18.0657289848438,SSP1
+612,27090,Farahrud,South Asia,90,27,5545.0,South Asia,27.0,Legumes,Legumes,90.0,rfd,2682.65713102602,18.1712995176937,SSP1
+613,27090,Farahrud,South Asia,90,27,12826.0,South Asia,27.0,Legumes,Legumes,90.0,irr,2682.65713102602,18.1712995176937,SSP1
+614,27097,Helmand,South Asia,97,27,5546.0,South Asia,27.0,Legumes,Legumes,97.0,rfd,2667.07158952413,18.0657289848438,SSP1
+615,27097,Helmand,South Asia,97,27,12827.0,South Asia,27.0,Legumes,Legumes,97.0,irr,2667.07158952413,18.0657289848438,SSP1
+616,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
+617,27110,Ganges_Bramaputra,South Asia,110,27,5547.0,South Asia,27.0,Legumes,Legumes,110.0,rfd,5536.81717188985,37.5042945449538,SSP1
+618,27110,Ganges_Bramaputra,South Asia,110,27,12828.0,South Asia,27.0,Legumes,Legumes,110.0,irr,5536.81717188985,37.5042945449538,SSP1
+619,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5548.0,South Asia,27.0,Legumes,Legumes,116.0,rfd,4609.64781132782,31.2240017861256,SSP1
+620,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12829.0,South Asia,27.0,Legumes,Legumes,116.0,irr,4609.64781132782,31.2240017861256,SSP1
+621,27154,Sri_Lanka,South Asia,154,27,5549.0,South Asia,27.0,Legumes,Legumes,154.0,rfd,6756.56987841723,45.7664356555285,SSP1
+622,27154,Sri_Lanka,South Asia,154,27,12830.0,South Asia,27.0,Legumes,Legumes,154.0,irr,6756.56987841723,45.7664356555285,SSP1
+623,28065,North_and_South_Korea,South Korea,65,28,5632.0,South Korea,28.0,Legumes,Legumes,65.0,rfd,10040.1536060565,249.062747248201,SSP1
+624,28065,North_and_South_Korea,South Korea,65,28,12913.0,South Korea,28.0,Legumes,Legumes,65.0,irr,10040.1536060565,249.062747248201,SSP1
+625,29037,Russia_South_East_Coast,Southeast Asia,37,29,5744.0,Southeast Asia,29.0,Legumes,Legumes,37.0,rfd,634.174644413833,20.145895013152,SSP1
+626,29037,Russia_South_East_Coast,Southeast Asia,37,29,13025.0,Southeast Asia,29.0,Legumes,Legumes,37.0,irr,634.174644413833,20.145895013152,SSP1
+627,29065,North_and_South_Korea,Southeast Asia,65,29,5745.0,Southeast Asia,29.0,Legumes,Legumes,65.0,rfd,634.174644413833,20.145895013152,SSP1
+628,29065,North_and_South_Korea,Southeast Asia,65,29,13026.0,Southeast Asia,29.0,Legumes,Legumes,65.0,irr,634.174644413833,20.145895013152,SSP1
+629,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,5746.0,Southeast Asia,29.0,Legumes,Legumes,66.0,rfd,634.174644413833,20.145895013152,SSP1
+630,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13027.0,Southeast Asia,29.0,Legumes,Legumes,66.0,irr,634.174644413833,20.145895013152,SSP1
+631,29108,Xun_Jiang,Southeast Asia,108,29,5747.0,Southeast Asia,29.0,Legumes,Legumes,108.0,rfd,5423.55731190217,172.290735944489,SSP1
+632,29108,Xun_Jiang,Southeast Asia,108,29,13028.0,Southeast Asia,29.0,Legumes,Legumes,108.0,irr,5423.55731190217,172.290735944489,SSP1
+633,29109,Hong_(Red_River),Southeast Asia,109,29,5748.0,Southeast Asia,29.0,Legumes,Legumes,109.0,rfd,5338.7724872075,169.597367182346,SSP1
+634,29109,Hong_(Red_River),Southeast Asia,109,29,13029.0,Southeast Asia,29.0,Legumes,Legumes,109.0,irr,5338.7724872075,169.597367182346,SSP1
+635,29110,Ganges_Bramaputra,Southeast Asia,110,29,5749.0,Southeast Asia,29.0,Legumes,Legumes,110.0,rfd,727.468373426516,23.109567065686,SSP1
+636,29110,Ganges_Bramaputra,Southeast Asia,110,29,13030.0,Southeast Asia,29.0,Legumes,Legumes,110.0,irr,727.468373426516,23.109567065686,SSP1
+637,29112,South_China_Sea_Coast,Southeast Asia,112,29,5750.0,Southeast Asia,29.0,Legumes,Legumes,112.0,rfd,5174.07673932572,164.365459418191,SSP1
+638,29112,South_China_Sea_Coast,Southeast Asia,112,29,13031.0,Southeast Asia,29.0,Legumes,Legumes,112.0,irr,5174.07673932572,164.365459418191,SSP1
+639,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5751.0,Southeast Asia,29.0,Legumes,Legumes,116.0,rfd,727.586930896769,23.1133332937586,SSP1
+640,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13032.0,Southeast Asia,29.0,Legumes,Legumes,116.0,irr,727.586930896769,23.1133332937586,SSP1
+641,29119,Philippines,Southeast Asia,119,29,5752.0,Southeast Asia,29.0,Legumes,Legumes,119.0,rfd,3717.32300168908,118.088604742662,SSP1
+642,29119,Philippines,Southeast Asia,119,29,13033.0,Southeast Asia,29.0,Legumes,Legumes,119.0,irr,3717.32300168908,118.088604742662,SSP1
+643,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
+644,29125,Mekong,Southeast Asia,125,29,5753.0,Southeast Asia,29.0,Legumes,Legumes,125.0,rfd,4051.36938011717,128.700292435657,SSP1
+645,29125,Mekong,Southeast Asia,125,29,13034.0,Southeast Asia,29.0,Legumes,Legumes,125.0,irr,4051.36938011717,128.700292435657,SSP1
+646,29126,Viet_Nam_Coast,Southeast Asia,126,29,5754.0,Southeast Asia,29.0,Legumes,Legumes,126.0,rfd,5418.85691762137,172.141418007331,SSP1
+647,29126,Viet_Nam_Coast,Southeast Asia,126,29,13035.0,Southeast Asia,29.0,Legumes,Legumes,126.0,irr,5418.85691762137,172.141418007331,SSP1
+648,29127,Salween,Southeast Asia,127,29,5755.0,Southeast Asia,29.0,Legumes,Legumes,127.0,rfd,975.298260227429,30.9824060771342,SSP1
+649,29127,Salween,Southeast Asia,127,29,13036.0,Southeast Asia,29.0,Legumes,Legumes,127.0,irr,975.298260227429,30.9824060771342,SSP1
+650,29137,Irrawaddy,Southeast Asia,137,29,5756.0,Southeast Asia,29.0,Legumes,Legumes,137.0,rfd,727.601506938576,23.1137963324665,SSP1
+651,29137,Irrawaddy,Southeast Asia,137,29,13037.0,Southeast Asia,29.0,Legumes,Legumes,137.0,irr,727.601506938576,23.1137963324665,SSP1
+652,29138,Sittang,Southeast Asia,138,29,5757.0,Southeast Asia,29.0,Legumes,Legumes,138.0,rfd,727.603462824682,23.1138584653135,SSP1
+653,29138,Sittang,Southeast Asia,138,29,13038.0,Southeast Asia,29.0,Legumes,Legumes,138.0,irr,727.603462824682,23.1138584653135,SSP1
+654,29139,Peninsula_Malaysia,Southeast Asia,139,29,5758.0,Southeast Asia,29.0,Legumes,Legumes,139.0,rfd,3623.36064531638,115.103692331945,SSP1
+655,29139,Peninsula_Malaysia,Southeast Asia,139,29,13039.0,Southeast Asia,29.0,Legumes,Legumes,139.0,irr,3623.36064531638,115.103692331945,SSP1
+656,29146,Chao_Phraya,Southeast Asia,146,29,5759.0,Southeast Asia,29.0,Legumes,Legumes,146.0,rfd,9443.90984998965,300.005712980557,SSP1
+657,29146,Chao_Phraya,Southeast Asia,146,29,13040.0,Southeast Asia,29.0,Legumes,Legumes,146.0,irr,9443.90984998965,300.005712980557,SSP1
+658,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5760.0,Southeast Asia,29.0,Legumes,Legumes,148.0,rfd,7818.32187885826,248.365482817578,SSP1
+659,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13041.0,Southeast Asia,29.0,Legumes,Legumes,148.0,irr,7818.32187885826,248.365482817578,SSP1
+660,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
+661,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,5761.0,Southeast Asia,29.0,Legumes,Legumes,158.0,rfd,634.174644413833,20.145895013152,SSP1
+662,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,13042.0,Southeast Asia,29.0,Legumes,Legumes,158.0,irr,634.174644413833,20.145895013152,SSP1
+663,29159,North_Borneo_Coast,Southeast Asia,159,29,,,,,,,,,,
+664,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
+665,29165,Kalimantan,Southeast Asia,165,29,,,,,,,,,,
+666,29167,Irian_Jaya_Coast,Southeast Asia,167,29,5762.0,Southeast Asia,29.0,Legumes,Legumes,167.0,rfd,1764.50804005515,56.053319125791,SSP1
+667,29167,Irian_Jaya_Coast,Southeast Asia,167,29,13043.0,Southeast Asia,29.0,Legumes,Legumes,167.0,irr,1764.50804005515,56.053319125791,SSP1
+668,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,5763.0,Southeast Asia,29.0,Legumes,Legumes,173.0,rfd,1764.50804005515,56.053319125791,SSP1
+669,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,13044.0,Southeast Asia,29.0,Legumes,Legumes,173.0,irr,1764.50804005515,56.053319125791,SSP1
+670,29175,Java_Timor,Southeast Asia,175,29,5764.0,Southeast Asia,29.0,Legumes,Legumes,175.0,rfd,634.174644413833,20.145895013152,SSP1
+671,29175,Java_Timor,Southeast Asia,175,29,13045.0,Southeast Asia,29.0,Legumes,Legumes,175.0,irr,634.174644413833,20.145895013152,SSP1
+672,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
+673,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
+674,29178,Sepik,Southeast Asia,178,29,5765.0,Southeast Asia,29.0,Legumes,Legumes,178.0,rfd,1764.50804005515,56.053319125791,SSP1
+675,29178,Sepik,Southeast Asia,178,29,13046.0,Southeast Asia,29.0,Legumes,Legumes,178.0,irr,1764.50804005515,56.053319125791,SSP1
+676,29181,Fly,Southeast Asia,181,29,5766.0,Southeast Asia,29.0,Legumes,Legumes,181.0,rfd,1764.50804005515,56.053319125791,SSP1
+677,29181,Fly,Southeast Asia,181,29,13047.0,Southeast Asia,29.0,Legumes,Legumes,181.0,irr,1764.50804005515,56.053319125791,SSP1
+678,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
+679,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
+680,30078,China_Coast,Taiwan,78,30,6079.0,Taiwan,30.0,Legumes,Legumes,78.0,rfd,587.678138453979,20.7757761321146,SSP1
+681,30078,China_Coast,Taiwan,78,30,13360.0,Taiwan,30.0,Legumes,Legumes,78.0,irr,587.678138453979,20.7757761321146,SSP1
+682,30103,Taiwan,Taiwan,103,30,6080.0,Taiwan,30.0,Legumes,Legumes,103.0,rfd,1049.20406908515,37.0917810786045,SSP1
+683,30103,Taiwan,Taiwan,103,30,13361.0,Taiwan,30.0,Legumes,Legumes,103.0,irr,1049.20406908515,37.0917810786045,SSP1
+684,31169,South_Chile_Pacific_Coast,Argentina,169,31,6176.0,Argentina,31.0,Legumes,Legumes,169.0,rfd,1911.65505979308,18.3415225732218,SSP1
+685,31169,South_Chile_Pacific_Coast,Argentina,169,31,13457.0,Argentina,31.0,Legumes,Legumes,169.0,irr,1911.65505979308,18.3415225732218,SSP1
+686,31200,La_Puna_Region,Argentina,200,31,6177.0,Argentina,31.0,Legumes,Legumes,200.0,rfd,1911.65505979308,18.3415225732218,SSP1
+687,31200,La_Puna_Region,Argentina,200,31,13458.0,Argentina,31.0,Legumes,Legumes,200.0,irr,1911.65505979308,18.3415225732218,SSP1
+688,31203,Mar_Chiquita,Argentina,203,31,6178.0,Argentina,31.0,Legumes,Legumes,203.0,rfd,1911.65505979308,18.3415225732218,SSP1
+689,31203,Mar_Chiquita,Argentina,203,31,13459.0,Argentina,31.0,Legumes,Legumes,203.0,irr,1911.65505979308,18.3415225732218,SSP1
+690,31205,Salinas_Grandes,Argentina,205,31,6179.0,Argentina,31.0,Legumes,Legumes,205.0,rfd,1911.65505979308,18.3415225732218,SSP1
+691,31205,Salinas_Grandes,Argentina,205,31,13460.0,Argentina,31.0,Legumes,Legumes,205.0,irr,1911.65505979308,18.3415225732218,SSP1
+692,31206,La_Plata,Argentina,206,31,6180.0,Argentina,31.0,Legumes,Legumes,206.0,rfd,1911.65505979308,18.3415225732218,SSP1
+693,31206,La_Plata,Argentina,206,31,13461.0,Argentina,31.0,Legumes,Legumes,206.0,irr,1911.65505979308,18.3415225732218,SSP1
+694,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
+695,31209,Pampas_Region,Argentina,209,31,6181.0,Argentina,31.0,Legumes,Legumes,209.0,rfd,1911.65505979308,18.3415225732218,SSP1
+696,31209,Pampas_Region,Argentina,209,31,13462.0,Argentina,31.0,Legumes,Legumes,209.0,irr,1911.65505979308,18.3415225732218,SSP1
+697,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6182.0,Argentina,31.0,Legumes,Legumes,210.0,rfd,1911.65505979308,18.3415225732218,SSP1
+698,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13463.0,Argentina,31.0,Legumes,Legumes,210.0,irr,1911.65505979308,18.3415225732218,SSP1
+699,31212,South_America_Colorado,Argentina,212,31,6183.0,Argentina,31.0,Legumes,Legumes,212.0,rfd,1911.65505979308,18.3415225732218,SSP1
+700,31212,South_America_Colorado,Argentina,212,31,13464.0,Argentina,31.0,Legumes,Legumes,212.0,irr,1911.65505979308,18.3415225732218,SSP1
+701,31213,Negro,Argentina,213,31,6184.0,Argentina,31.0,Legumes,Legumes,213.0,rfd,1911.65505979308,18.3415225732218,SSP1
+702,31213,Negro,Argentina,213,31,13465.0,Argentina,31.0,Legumes,Legumes,213.0,irr,1911.65505979308,18.3415225732218,SSP1
+703,31214,Central_Patagonia_Highlands,Argentina,214,31,,,,,,,,,,
+704,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6185.0,Argentina,31.0,Legumes,Legumes,215.0,rfd,1911.65505979308,18.3415225732218,SSP1
+705,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13466.0,Argentina,31.0,Legumes,Legumes,215.0,irr,1911.65505979308,18.3415225732218,SSP1
+706,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
+707,32143,Caribbean_Coast,Colombia,143,32,6319.0,Colombia,32.0,Legumes,Legumes,143.0,rfd,2752.12995451644,29.5639151526269,SSP1
+708,32143,Caribbean_Coast,Colombia,143,32,13600.0,Colombia,32.0,Legumes,Legumes,143.0,irr,2752.12995451644,29.5639151526269,SSP1
+709,32156,Orinoco,Colombia,156,32,6320.0,Colombia,32.0,Legumes,Legumes,156.0,rfd,2833.55230855585,30.4385699131689,SSP1
+710,32156,Orinoco,Colombia,156,32,13601.0,Colombia,32.0,Legumes,Legumes,156.0,irr,2833.55230855585,30.4385699131689,SSP1
+711,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6321.0,Colombia,32.0,Legumes,Legumes,157.0,rfd,2742.34564289174,29.45881017449,SSP1
+712,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13602.0,Colombia,32.0,Legumes,Legumes,157.0,irr,2742.34564289174,29.45881017449,SSP1
+713,32166,Magdalena,Colombia,166,32,6322.0,Colombia,32.0,Legumes,Legumes,166.0,rfd,2761.45011173682,29.6640340938929,SSP1
+714,32166,Magdalena,Colombia,166,32,13603.0,Colombia,32.0,Legumes,Legumes,166.0,irr,2761.45011173682,29.6640340938929,SSP1
+715,32168,Amazon,Colombia,168,32,6323.0,Colombia,32.0,Legumes,Legumes,168.0,rfd,3096.29607474582,33.2610145429273,SSP1
+716,32168,Amazon,Colombia,168,32,13604.0,Colombia,32.0,Legumes,Legumes,168.0,irr,3096.29607474582,33.2610145429273,SSP1

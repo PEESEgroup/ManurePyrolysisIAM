@@ -1,132 +1,132 @@
 ,key,glu_nm,reg_nm,glu_id,reg_id,Unnamed: 0,region,GCAM_region_ID,GCAM_commodity,GCAM_subsector,GLU,Irr_Rfd,kg_bio_ha,kg_P_ha,SSP
 0,1007,Pacific_and_Arctic_Coast,USA,7,1,,,,,,,,,,
-1,1023,Saskatchewan_Nelson,USA,23,1,177.0,USA,1.0,NutsSeeds,NutsSeedsTree,23.0,rfd,1536.92663353519,30.6855921085487,SSP1
-2,1023,Saskatchewan_Nelson,USA,23,1,7458.0,USA,1.0,NutsSeeds,NutsSeedsTree,23.0,irr,1536.92663353519,30.6855921085487,SSP1
-3,1027,Fraser,USA,27,1,178.0,USA,1.0,NutsSeeds,NutsSeedsTree,27.0,rfd,1536.92607934697,30.6855810438737,SSP1
-4,1027,Fraser,USA,27,1,7459.0,USA,1.0,NutsSeeds,NutsSeedsTree,27.0,irr,1536.92607934697,30.6855810438737,SSP1
-5,1096,Mexico_Northwest_Coast,USA,96,1,179.0,USA,1.0,NutsSeeds,NutsSeedsTree,96.0,rfd,3385.87383036969,67.6008477065372,SSP1
-6,1096,Mexico_Northwest_Coast,USA,96,1,7460.0,USA,1.0,NutsSeeds,NutsSeedsTree,96.0,irr,3385.87383036969,67.6008477065372,SSP1
+1,1023,Saskatchewan_Nelson,USA,23,1,177.0,USA,1.0,NutsSeeds,NutsSeedsTree,23.0,rfd,1497.47979767827,30.6855921085487,SSP1
+2,1023,Saskatchewan_Nelson,USA,23,1,7458.0,USA,1.0,NutsSeeds,NutsSeedsTree,23.0,irr,1497.47979767827,30.6855921085487,SSP1
+3,1027,Fraser,USA,27,1,178.0,USA,1.0,NutsSeeds,NutsSeedsTree,27.0,rfd,1497.47925771388,30.6855810438737,SSP1
+4,1027,Fraser,USA,27,1,7459.0,USA,1.0,NutsSeeds,NutsSeedsTree,27.0,irr,1497.47925771388,30.6855810438737,SSP1
+5,1096,Mexico_Northwest_Coast,USA,96,1,179.0,USA,1.0,NutsSeeds,NutsSeedsTree,96.0,rfd,3298.97182327022,67.6008477065372,SSP1
+6,1096,Mexico_Northwest_Coast,USA,96,1,7460.0,USA,1.0,NutsSeeds,NutsSeedsTree,96.0,irr,3298.97182327022,67.6008477065372,SSP1
 7,1101,Caribbean,USA,101,1,,,,,,,,,,
 8,1150,Micronesia,USA,150,1,,,,,,,,,,
-9,1217,California_River_Basin,USA,217,1,180.0,USA,1.0,NutsSeeds,NutsSeedsTree,217.0,rfd,5669.77259372107,113.200152409987,SSP1
-10,1217,California_River_Basin,USA,217,1,7461.0,USA,1.0,NutsSeeds,NutsSeedsTree,217.0,irr,5669.77259372107,113.200152409987,SSP1
-11,1218,Upper_Mississippi_Basin,USA,218,1,181.0,USA,1.0,NutsSeeds,NutsSeedsTree,218.0,rfd,1535.68460667612,30.6607943538909,SSP1
-12,1218,Upper_Mississippi_Basin,USA,218,1,7462.0,USA,1.0,NutsSeeds,NutsSeedsTree,218.0,irr,1535.68460667612,30.6607943538909,SSP1
-13,1219,Lower_Mississippi_River_Basin,USA,219,1,182.0,USA,1.0,NutsSeeds,NutsSeedsTree,219.0,rfd,1536.92607934697,30.6855810438737,SSP1
-14,1219,Lower_Mississippi_River_Basin,USA,219,1,7463.0,USA,1.0,NutsSeeds,NutsSeedsTree,219.0,irr,1536.92607934697,30.6855810438737,SSP1
-15,1220,Upper_Colorado_River_Basin,USA,220,1,183.0,USA,1.0,NutsSeeds,NutsSeedsTree,220.0,rfd,1536.92607934698,30.6855810438737,SSP1
-16,1220,Upper_Colorado_River_Basin,USA,220,1,7464.0,USA,1.0,NutsSeeds,NutsSeedsTree,220.0,irr,1536.92607934698,30.6855810438737,SSP1
-17,1221,Lower_Colorado_River_Basin,USA,221,1,184.0,USA,1.0,NutsSeeds,NutsSeedsTree,221.0,rfd,3002.09311495306,59.938453005683,SSP1
-18,1221,Lower_Colorado_River_Basin,USA,221,1,7465.0,USA,1.0,NutsSeeds,NutsSeedsTree,221.0,irr,3002.09311495306,59.938453005683,SSP1
-19,1222,Great_Basin,USA,222,1,185.0,USA,1.0,NutsSeeds,NutsSeedsTree,222.0,rfd,1543.60308535508,30.8188911696796,SSP1
-20,1222,Great_Basin,USA,222,1,7466.0,USA,1.0,NutsSeeds,NutsSeedsTree,222.0,irr,1543.60308535508,30.8188911696796,SSP1
-21,1223,Missouri_River_Basin,USA,223,1,186.0,USA,1.0,NutsSeeds,NutsSeedsTree,223.0,rfd,1536.82246096088,30.683512245363,SSP1
-22,1223,Missouri_River_Basin,USA,223,1,7467.0,USA,1.0,NutsSeeds,NutsSeedsTree,223.0,irr,1536.82246096088,30.683512245363,SSP1
-23,1224,Arkansas_White_Red_Basin,USA,224,1,187.0,USA,1.0,NutsSeeds,NutsSeedsTree,224.0,rfd,1536.92607934697,30.6855810438737,SSP1
-24,1224,Arkansas_White_Red_Basin,USA,224,1,7468.0,USA,1.0,NutsSeeds,NutsSeedsTree,224.0,irr,1536.92607934697,30.6855810438737,SSP1
-25,1225,Texas_Gulf_Coast_Basin,USA,225,1,188.0,USA,1.0,NutsSeeds,NutsSeedsTree,225.0,rfd,1536.92607934697,30.6855810438737,SSP1
-26,1225,Texas_Gulf_Coast_Basin,USA,225,1,7469.0,USA,1.0,NutsSeeds,NutsSeedsTree,225.0,irr,1536.92607934697,30.6855810438737,SSP1
-27,1226,South_Atlantic_Gulf_Basin,USA,226,1,189.0,USA,1.0,NutsSeeds,NutsSeedsTree,226.0,rfd,1536.1874169815,30.6708332403297,SSP1
-28,1226,South_Atlantic_Gulf_Basin,USA,226,1,7470.0,USA,1.0,NutsSeeds,NutsSeedsTree,226.0,irr,1536.1874169815,30.6708332403297,SSP1
-29,1227,Great_Lakes_Basin,USA,227,1,190.0,USA,1.0,NutsSeeds,NutsSeedsTree,227.0,rfd,1535.35134545072,30.6541406088095,SSP1
-30,1227,Great_Lakes_Basin,USA,227,1,7471.0,USA,1.0,NutsSeeds,NutsSeedsTree,227.0,irr,1535.35134545072,30.6541406088095,SSP1
-31,1228,Ohio_River_Basin,USA,228,1,191.0,USA,1.0,NutsSeeds,NutsSeedsTree,228.0,rfd,1535.8934848194,30.6649647217961,SSP1
-32,1228,Ohio_River_Basin,USA,228,1,7472.0,USA,1.0,NutsSeeds,NutsSeedsTree,228.0,irr,1535.8934848194,30.6649647217961,SSP1
-33,1229,Pacific_Northwest_Basin,USA,229,1,192.0,USA,1.0,NutsSeeds,NutsSeedsTree,229.0,rfd,1524.79091108429,30.4432956833678,SSP1
-34,1229,Pacific_Northwest_Basin,USA,229,1,7473.0,USA,1.0,NutsSeeds,NutsSeedsTree,229.0,irr,1524.79091108429,30.4432956833678,SSP1
-35,1230,Tennessee_River_Basin,USA,230,1,193.0,USA,1.0,NutsSeeds,NutsSeedsTree,230.0,rfd,1535.8371881425,30.6638407274382,SSP1
-36,1230,Tennessee_River_Basin,USA,230,1,7474.0,USA,1.0,NutsSeeds,NutsSeedsTree,230.0,irr,1535.8371881425,30.6638407274382,SSP1
-37,1231,Rio_Grande_River_Basin,USA,231,1,194.0,USA,1.0,NutsSeeds,NutsSeedsTree,231.0,rfd,1656.18070393868,33.066565722929,SSP1
-38,1231,Rio_Grande_River_Basin,USA,231,1,7475.0,USA,1.0,NutsSeeds,NutsSeedsTree,231.0,irr,1656.18070393868,33.066565722929,SSP1
-39,1232,New_England_Basin,USA,232,1,195.0,USA,1.0,NutsSeeds,NutsSeedsTree,232.0,rfd,1536.92607934697,30.6855810438737,SSP1
-40,1232,New_England_Basin,USA,232,1,7476.0,USA,1.0,NutsSeeds,NutsSeedsTree,232.0,irr,1536.92607934697,30.6855810438737,SSP1
-41,1233,Mid_Atlantic_Basin,USA,233,1,196.0,USA,1.0,NutsSeeds,NutsSeedsTree,233.0,rfd,1533.43555011615,30.6158906930899,SSP1
-42,1233,Mid_Atlantic_Basin,USA,233,1,7477.0,USA,1.0,NutsSeeds,NutsSeedsTree,233.0,irr,1533.43555011615,30.6158906930899,SSP1
+9,1217,California_River_Basin,USA,217,1,180.0,USA,1.0,NutsSeeds,NutsSeedsTree,217.0,rfd,5524.25192671556,113.200152409987,SSP1
+10,1217,California_River_Basin,USA,217,1,7461.0,USA,1.0,NutsSeeds,NutsSeedsTree,217.0,irr,5524.25192671556,113.200152409987,SSP1
+11,1218,Upper_Mississippi_Basin,USA,218,1,181.0,USA,1.0,NutsSeeds,NutsSeedsTree,218.0,rfd,1496.26964874269,30.6607943538909,SSP1
+12,1218,Upper_Mississippi_Basin,USA,218,1,7462.0,USA,1.0,NutsSeeds,NutsSeedsTree,218.0,irr,1496.26964874269,30.6607943538909,SSP1
+13,1219,Lower_Mississippi_River_Basin,USA,219,1,182.0,USA,1.0,NutsSeeds,NutsSeedsTree,219.0,rfd,1497.47925771388,30.6855810438737,SSP1
+14,1219,Lower_Mississippi_River_Basin,USA,219,1,7463.0,USA,1.0,NutsSeeds,NutsSeedsTree,219.0,irr,1497.47925771388,30.6855810438737,SSP1
+15,1220,Upper_Colorado_River_Basin,USA,220,1,183.0,USA,1.0,NutsSeeds,NutsSeedsTree,220.0,rfd,1497.47925771388,30.6855810438737,SSP1
+16,1220,Upper_Colorado_River_Basin,USA,220,1,7464.0,USA,1.0,NutsSeeds,NutsSeedsTree,220.0,irr,1497.47925771388,30.6855810438737,SSP1
+17,1221,Lower_Colorado_River_Basin,USA,221,1,184.0,USA,1.0,NutsSeeds,NutsSeedsTree,221.0,rfd,2925.04124289307,59.938453005683,SSP1
+18,1221,Lower_Colorado_River_Basin,USA,221,1,7465.0,USA,1.0,NutsSeeds,NutsSeedsTree,221.0,irr,2925.04124289307,59.938453005683,SSP1
+19,1222,Great_Basin,USA,222,1,185.0,USA,1.0,NutsSeeds,NutsSeedsTree,222.0,rfd,1503.98489135178,30.8188911696796,SSP1
+20,1222,Great_Basin,USA,222,1,7466.0,USA,1.0,NutsSeeds,NutsSeedsTree,222.0,irr,1503.98489135178,30.8188911696796,SSP1
+21,1223,Missouri_River_Basin,USA,223,1,186.0,USA,1.0,NutsSeeds,NutsSeedsTree,223.0,rfd,1497.37829880247,30.683512245363,SSP1
+22,1223,Missouri_River_Basin,USA,223,1,7467.0,USA,1.0,NutsSeeds,NutsSeedsTree,223.0,irr,1497.37829880247,30.683512245363,SSP1
+23,1224,Arkansas_White_Red_Basin,USA,224,1,187.0,USA,1.0,NutsSeeds,NutsSeedsTree,224.0,rfd,1497.47925771388,30.6855810438737,SSP1
+24,1224,Arkansas_White_Red_Basin,USA,224,1,7468.0,USA,1.0,NutsSeeds,NutsSeedsTree,224.0,irr,1497.47925771388,30.6855810438737,SSP1
+25,1225,Texas_Gulf_Coast_Basin,USA,225,1,188.0,USA,1.0,NutsSeeds,NutsSeedsTree,225.0,rfd,1497.47925771388,30.6855810438737,SSP1
+26,1225,Texas_Gulf_Coast_Basin,USA,225,1,7469.0,USA,1.0,NutsSeeds,NutsSeedsTree,225.0,irr,1497.47925771388,30.6855810438737,SSP1
+27,1226,South_Atlantic_Gulf_Basin,USA,226,1,189.0,USA,1.0,NutsSeeds,NutsSeedsTree,226.0,rfd,1496.75955389363,30.6708332403297,SSP1
+28,1226,South_Atlantic_Gulf_Basin,USA,226,1,7470.0,USA,1.0,NutsSeeds,NutsSeedsTree,226.0,irr,1496.75955389363,30.6708332403297,SSP1
+29,1227,Great_Lakes_Basin,USA,227,1,190.0,USA,1.0,NutsSeeds,NutsSeedsTree,227.0,rfd,1495.94494101657,30.6541406088095,SSP1
+30,1227,Great_Lakes_Basin,USA,227,1,7471.0,USA,1.0,NutsSeeds,NutsSeedsTree,227.0,irr,1495.94494101657,30.6541406088095,SSP1
+31,1228,Ohio_River_Basin,USA,228,1,191.0,USA,1.0,NutsSeeds,NutsSeedsTree,228.0,rfd,1496.4731658091,30.6649647217961,SSP1
+32,1228,Ohio_River_Basin,USA,228,1,7472.0,USA,1.0,NutsSeeds,NutsSeedsTree,228.0,irr,1496.4731658091,30.6649647217961,SSP1
+33,1229,Pacific_Northwest_Basin,USA,229,1,192.0,USA,1.0,NutsSeeds,NutsSeedsTree,229.0,rfd,1485.65555128686,30.4432956833678,SSP1
+34,1229,Pacific_Northwest_Basin,USA,229,1,7473.0,USA,1.0,NutsSeeds,NutsSeedsTree,229.0,irr,1485.65555128686,30.4432956833678,SSP1
+35,1230,Tennessee_River_Basin,USA,230,1,193.0,USA,1.0,NutsSeeds,NutsSeedsTree,230.0,rfd,1496.41831404552,30.6638407274382,SSP1
+36,1230,Tennessee_River_Basin,USA,230,1,7474.0,USA,1.0,NutsSeeds,NutsSeedsTree,230.0,irr,1496.41831404552,30.6638407274382,SSP1
+37,1231,Rio_Grande_River_Basin,USA,231,1,194.0,USA,1.0,NutsSeeds,NutsSeedsTree,231.0,rfd,1613.67308714543,33.066565722929,SSP1
+38,1231,Rio_Grande_River_Basin,USA,231,1,7475.0,USA,1.0,NutsSeeds,NutsSeedsTree,231.0,irr,1613.67308714543,33.066565722929,SSP1
+39,1232,New_England_Basin,USA,232,1,195.0,USA,1.0,NutsSeeds,NutsSeedsTree,232.0,rfd,1497.47925771388,30.6855810438737,SSP1
+40,1232,New_England_Basin,USA,232,1,7476.0,USA,1.0,NutsSeeds,NutsSeedsTree,232.0,irr,1497.47925771388,30.6855810438737,SSP1
+41,1233,Mid_Atlantic_Basin,USA,233,1,196.0,USA,1.0,NutsSeeds,NutsSeedsTree,233.0,rfd,1494.0783165809,30.6158906930899,SSP1
+42,1233,Mid_Atlantic_Basin,USA,233,1,7477.0,USA,1.0,NutsSeeds,NutsSeedsTree,233.0,irr,1494.0783165809,30.6158906930899,SSP1
 43,1234,Hawaii,USA,234,1,,,,,,,,,,
-44,2087,Nile,Africa_Eastern,87,2,423.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1398.7080754485,18.07,SSP1
-45,2087,Nile,Africa_Eastern,87,2,7704.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,87.0,irr,1398.7080754485,18.07,SSP1
-46,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,424.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,100.0,rfd,1398.7080754485,18.07,SSP1
-47,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7705.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,100.0,irr,1398.7080754485,18.07,SSP1
+44,2087,Nile,Africa_Eastern,87,2,423.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1391.88883785956,18.07,SSP1
+45,2087,Nile,Africa_Eastern,87,2,7704.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,87.0,irr,1391.88883785956,18.07,SSP1
+46,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,424.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,100.0,rfd,1391.88883785956,18.07,SSP1
+47,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7705.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,100.0,irr,1391.88883785956,18.07,SSP1
 48,2144,Africa_North_Interior,Africa_Eastern,144,2,,,,,,,,,,
 49,2151,Lake_Chad,Africa_Eastern,151,2,,,,,,,,,,
-50,2170,Shebelli_Juba,Africa_Eastern,170,2,425.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,170.0,rfd,1398.7080754485,18.07,SSP1
-51,2170,Shebelli_Juba,Africa_Eastern,170,2,7706.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,170.0,irr,1398.7080754485,18.07,SSP1
-52,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,426.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,171.0,rfd,1398.7080754485,18.07,SSP1
-53,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7707.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,171.0,irr,1398.7080754485,18.07,SSP1
-54,2177,Madagascar,Africa_Eastern,177,2,427.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,177.0,rfd,3870.57931733946,50.0042642864539,SSP1
-55,2177,Madagascar,Africa_Eastern,177,2,7708.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,177.0,irr,3870.57931733946,50.0042642864539,SSP1
-56,2179,Rift_Valley,Africa_Eastern,179,2,428.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,179.0,rfd,1398.7080754485,18.07,SSP1
-57,2179,Rift_Valley,Africa_Eastern,179,2,7709.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,179.0,irr,1398.7080754485,18.07,SSP1
+50,2170,Shebelli_Juba,Africa_Eastern,170,2,425.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,170.0,rfd,1391.88883785956,18.07,SSP1
+51,2170,Shebelli_Juba,Africa_Eastern,170,2,7706.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,170.0,irr,1391.88883785956,18.07,SSP1
+52,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,426.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,171.0,rfd,1391.88883785956,18.07,SSP1
+53,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7707.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,171.0,irr,1391.88883785956,18.07,SSP1
+54,2177,Madagascar,Africa_Eastern,177,2,427.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,177.0,rfd,3605.56081053049,46.8086833331296,SSP1
+55,2177,Madagascar,Africa_Eastern,177,2,7708.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,177.0,irr,3605.56081053049,46.8086833331296,SSP1
+56,2179,Rift_Valley,Africa_Eastern,179,2,428.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,179.0,rfd,1391.88883785956,18.07,SSP1
+57,2179,Rift_Valley,Africa_Eastern,179,2,7709.0,Africa_Eastern,2.0,NutsSeeds,NutsSeedsTree,179.0,irr,1391.88883785956,18.07,SSP1
 58,2183,Congo,Africa_Eastern,183,2,,,,,,,,,,
-59,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,559.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1202.42298156601,18.07,SSP1
-60,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7840.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,75.0,irr,1202.42298156601,18.07,SSP1
+59,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,559.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1186.50273389248,18.07,SSP1
+60,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7840.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,75.0,irr,1186.50273389248,18.07,SSP1
 61,3080,Mediterranean_South_Coast,Africa_Northern,80,3,,,,,,,,,,
 62,3086,Africa_North_West_Coast,Africa_Northern,86,3,,,,,,,,,,
-63,3087,Nile,Africa_Northern,87,3,562.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1202.42298156601,18.07,SSP1
-64,3087,Nile,Africa_Northern,87,3,7843.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,87.0,irr,1202.42298156601,18.07,SSP1
+63,3087,Nile,Africa_Northern,87,3,562.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1186.50273389248,18.07,SSP1
+64,3087,Nile,Africa_Northern,87,3,7843.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,87.0,irr,1186.50273389248,18.07,SSP1
 65,3095,Dead_Sea,Africa_Northern,95,3,,,,,,,,,,
 66,3098,Sinai_Peninsula,Africa_Northern,98,3,,,,,,,,,,
 67,3100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Northern,100,3,,,,,,,,,,
-68,3144,Africa_North_Interior,Africa_Northern,144,3,563.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,144.0,rfd,13165.3962965829,197.849437948548,SSP1
-69,3144,Africa_North_Interior,Africa_Northern,144,3,7844.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,144.0,irr,13165.3962965829,197.849437948548,SSP1
+68,3144,Africa_North_Interior,Africa_Northern,144,3,563.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,144.0,rfd,12991.0846167705,197.849437948548,SSP1
+69,3144,Africa_North_Interior,Africa_Northern,144,3,7844.0,Africa_Northern,3.0,NutsSeeds,NutsSeedsTree,144.0,irr,12991.0846167705,197.849437948548,SSP1
 70,3149,Niger,Africa_Northern,149,3,,,,,,,,,,
 71,3151,Lake_Chad,Africa_Northern,151,3,,,,,,,,,,
-72,4087,Nile,Africa_Southern,87,4,726.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1278.36905028927,22.6911452842353,SSP1
-73,4087,Nile,Africa_Southern,87,4,8007.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,87.0,irr,1278.36905028927,22.6911452842353,SSP1
-74,4162,Gulf_of_Guinea,Africa_Southern,162,4,727.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,162.0,rfd,2113.01156810317,37.50611176659,SSP1
-75,4162,Gulf_of_Guinea,Africa_Southern,162,4,8008.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,162.0,irr,2113.01156810317,37.50611176659,SSP1
-76,4171,Africa_East_Central_Coast,Africa_Southern,171,4,728.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,171.0,rfd,1199.16288298021,21.2852299506229,SSP1
-77,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8009.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,171.0,irr,1199.16288298021,21.2852299506229,SSP1
-78,4179,Rift_Valley,Africa_Southern,179,4,729.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,179.0,rfd,1278.34573323578,22.6907314048096,SSP1
-79,4179,Rift_Valley,Africa_Southern,179,4,8010.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,179.0,irr,1278.34573323578,22.6907314048096,SSP1
-80,4182,Angola_Coast,Africa_Southern,182,4,730.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,182.0,rfd,2113.01156810317,37.50611176659,SSP1
-81,4182,Angola_Coast,Africa_Southern,182,4,8011.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,182.0,irr,2113.01156810317,37.50611176659,SSP1
-82,4183,Congo,Africa_Southern,183,4,731.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,183.0,rfd,1292.0283410305,22.9335987061315,SSP1
-83,4183,Congo,Africa_Southern,183,4,8012.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,183.0,irr,1292.0283410305,22.9335987061315,SSP1
-84,4188,Zambezi,Africa_Southern,188,4,732.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,188.0,rfd,1151.86727793471,20.4457294596257,SSP1
-85,4188,Zambezi,Africa_Southern,188,4,8013.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,188.0,irr,1151.86727793471,20.4457294596257,SSP1
-86,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,733.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,190.0,rfd,1068.0121989233,18.9572955991233,SSP1
-87,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8014.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,190.0,irr,1068.0121989233,18.9572955991233,SSP1
+72,4087,Nile,Africa_Southern,87,4,726.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,87.0,rfd,1240.81245498911,22.4893855782836,SSP1
+73,4087,Nile,Africa_Southern,87,4,8007.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,87.0,irr,1240.81245498911,22.4893855782836,SSP1
+74,4162,Gulf_of_Guinea,Africa_Southern,162,4,727.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,162.0,rfd,2050.93440790452,37.1726238801643,SSP1
+75,4162,Gulf_of_Guinea,Africa_Southern,162,4,8008.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,162.0,irr,2050.93440790452,37.1726238801643,SSP1
+76,4171,Africa_East_Central_Coast,Africa_Southern,171,4,728.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,171.0,rfd,1163.93324793479,21.0959710268375,SSP1
+77,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8009.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,171.0,irr,1163.93324793479,21.0959710268375,SSP1
+78,4179,Rift_Valley,Africa_Southern,179,4,729.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,179.0,rfd,1240.78982295623,22.4889753788921,SSP1
+79,4179,Rift_Valley,Africa_Southern,179,4,8010.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,179.0,irr,1240.78982295623,22.4889753788921,SSP1
+80,4182,Angola_Coast,Africa_Southern,182,4,730.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,182.0,rfd,2050.93440790452,37.1726238801643,SSP1
+81,4182,Angola_Coast,Africa_Southern,182,4,8011.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,182.0,irr,2050.93440790452,37.1726238801643,SSP1
+82,4183,Congo,Africa_Southern,183,4,731.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,183.0,rfd,1254.07045593508,22.729683210752,SSP1
+83,4183,Congo,Africa_Southern,183,4,8012.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,183.0,irr,1254.07045593508,22.729683210752,SSP1
+84,4188,Zambezi,Africa_Southern,188,4,732.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,188.0,rfd,1118.0271179378,20.263935005795,SSP1
+85,4188,Zambezi,Africa_Southern,188,4,8013.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,188.0,irr,1118.0271179378,20.263935005795,SSP1
+86,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,733.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,190.0,rfd,1036.63557734324,18.7887356459871,SSP1
+87,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8014.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,190.0,irr,1036.63557734324,18.7887356459871,SSP1
 88,4194,Orange,Africa_Southern,194,4,,,,,,,,,,
 89,4196,Namibia_Coast,Africa_Southern,196,4,,,,,,,,,,
-90,4197,Africa_South_Interior,Africa_Southern,197,4,734.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,197.0,rfd,1763.52523316338,31.3027034478584,SSP1
-91,4197,Africa_South_Interior,Africa_Southern,197,4,8015.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,197.0,irr,1763.52523316338,31.3027034478584,SSP1
-92,4198,South_Africa_South_Coast,Africa_Southern,198,4,735.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,198.0,rfd,1524.13237888603,27.0534625614445,SSP1
-93,4198,South_Africa_South_Coast,Africa_Southern,198,4,8016.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,198.0,irr,1524.13237888603,27.0534625614445,SSP1
-94,4199,Limpopo,Africa_Southern,199,4,736.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,199.0,rfd,1062.455517661,18.8586640953393,SSP1
-95,4199,Limpopo,Africa_Southern,199,4,8017.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,199.0,irr,1062.455517661,18.8586640953393,SSP1
+90,4197,Africa_South_Interior,Africa_Southern,197,4,734.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,197.0,rfd,1711.71546550002,31.0243735458626,SSP1
+91,4197,Africa_South_Interior,Africa_Southern,197,4,8015.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,197.0,irr,1711.71546550002,31.0243735458626,SSP1
+92,4198,South_Africa_South_Coast,Africa_Southern,198,4,735.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,198.0,rfd,1492.62740771524,27.0534625614445,SSP1
+93,4198,South_Africa_South_Coast,Africa_Southern,198,4,8016.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,198.0,irr,1492.62740771524,27.0534625614445,SSP1
+94,4199,Limpopo,Africa_Southern,199,4,736.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,199.0,rfd,1031.24214317248,18.6909811302507,SSP1
+95,4199,Limpopo,Africa_Southern,199,4,8017.0,Africa_Southern,4.0,NutsSeeds,NutsSeedsTree,199.0,irr,1031.24214317248,18.6909811302507,SSP1
 96,5086,Africa_North_West_Coast,Africa_Western,86,5,,,,,,,,,,
 97,5087,Nile,Africa_Western,87,5,,,,,,,,,,
-98,5142,Africa_West_Coast,Africa_Western,142,5,937.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,142.0,rfd,1063.72034521726,18.07,SSP1
-99,5142,Africa_West_Coast,Africa_Western,142,5,8218.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,142.0,irr,1063.72034521726,18.07,SSP1
-100,5144,Africa_North_Interior,Africa_Western,144,5,938.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,144.0,rfd,1063.72034521726,18.07,SSP1
-101,5144,Africa_North_Interior,Africa_Western,144,5,8219.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,144.0,irr,1063.72034521726,18.07,SSP1
-102,5149,Niger,Africa_Western,149,5,939.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,149.0,rfd,1063.72034521726,18.07,SSP1
-103,5149,Niger,Africa_Western,149,5,8220.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,149.0,irr,1063.72034521726,18.07,SSP1
-104,5151,Lake_Chad,Africa_Western,151,5,940.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,151.0,rfd,1063.72034521726,18.07,SSP1
-105,5151,Lake_Chad,Africa_Western,151,5,8221.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,151.0,irr,1063.72034521726,18.07,SSP1
-106,5152,Senegal,Africa_Western,152,5,941.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,152.0,rfd,1063.72034521726,18.07,SSP1
-107,5152,Senegal,Africa_Western,152,5,8222.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,152.0,irr,1063.72034521726,18.07,SSP1
-108,5160,Volta,Africa_Western,160,5,942.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,160.0,rfd,1063.72034521726,18.07,SSP1
-109,5160,Volta,Africa_Western,160,5,8223.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,160.0,irr,1063.72034521726,18.07,SSP1
-110,5162,Gulf_of_Guinea,Africa_Western,162,5,943.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,162.0,rfd,1063.72034521726,18.07,SSP1
-111,5162,Gulf_of_Guinea,Africa_Western,162,5,8224.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,162.0,irr,1063.72034521726,18.07,SSP1
-112,5183,Congo,Africa_Western,183,5,944.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,183.0,rfd,1063.72034521726,18.07,SSP1
-113,5183,Congo,Africa_Western,183,5,8225.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,183.0,irr,1063.72034521726,18.07,SSP1
+98,5142,Africa_West_Coast,Africa_Western,142,5,937.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,142.0,rfd,1048.820719056,18.07,SSP1
+99,5142,Africa_West_Coast,Africa_Western,142,5,8218.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,142.0,irr,1048.820719056,18.07,SSP1
+100,5144,Africa_North_Interior,Africa_Western,144,5,938.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,144.0,rfd,1048.820719056,18.07,SSP1
+101,5144,Africa_North_Interior,Africa_Western,144,5,8219.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,144.0,irr,1048.820719056,18.07,SSP1
+102,5149,Niger,Africa_Western,149,5,939.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,149.0,rfd,1048.820719056,18.07,SSP1
+103,5149,Niger,Africa_Western,149,5,8220.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,149.0,irr,1048.820719056,18.07,SSP1
+104,5151,Lake_Chad,Africa_Western,151,5,940.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,151.0,rfd,1048.820719056,18.07,SSP1
+105,5151,Lake_Chad,Africa_Western,151,5,8221.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,151.0,irr,1048.820719056,18.07,SSP1
+106,5152,Senegal,Africa_Western,152,5,941.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,152.0,rfd,1048.820719056,18.07,SSP1
+107,5152,Senegal,Africa_Western,152,5,8222.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,152.0,irr,1048.820719056,18.07,SSP1
+108,5160,Volta,Africa_Western,160,5,942.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,160.0,rfd,1048.820719056,18.07,SSP1
+109,5160,Volta,Africa_Western,160,5,8223.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,160.0,irr,1048.820719056,18.07,SSP1
+110,5162,Gulf_of_Guinea,Africa_Western,162,5,943.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,162.0,rfd,1048.820719056,18.07,SSP1
+111,5162,Gulf_of_Guinea,Africa_Western,162,5,8224.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,162.0,irr,1048.820719056,18.07,SSP1
+112,5183,Congo,Africa_Western,183,5,944.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,183.0,rfd,1048.820719056,18.07,SSP1
+113,5183,Congo,Africa_Western,183,5,8225.0,Africa_Western,5.0,NutsSeeds,NutsSeedsTree,183.0,irr,1048.820719056,18.07,SSP1
 114,5188,Zambezi,Africa_Western,188,5,,,,,,,,,,
 115,6175,Java_Timor,Australia_NZ,175,6,,,,,,,,,,
-116,6184,Australia_North_Coast,Australia_NZ,184,6,1110.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,184.0,rfd,7404.88258350058,99.1813274352797,SSP1
-117,6184,Australia_North_Coast,Australia_NZ,184,6,8391.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,184.0,irr,7404.88258350058,99.1813274352797,SSP1
-118,6189,Australia_East_Coast,Australia_NZ,189,6,1111.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,189.0,rfd,7384.24022336892,98.9048427434336,SSP1
-119,6189,Australia_East_Coast,Australia_NZ,189,6,8392.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,189.0,irr,7384.24022336892,98.9048427434336,SSP1
+116,6184,Australia_North_Coast,Australia_NZ,184,6,1110.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,184.0,rfd,7348.35974914686,99.1813274352797,SSP1
+117,6184,Australia_North_Coast,Australia_NZ,184,6,8391.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,184.0,irr,7348.35974914686,99.1813274352797,SSP1
+118,6189,Australia_East_Coast,Australia_NZ,189,6,1111.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,189.0,rfd,7327.8749559569,98.9048427434336,SSP1
+119,6189,Australia_East_Coast,Australia_NZ,189,6,8392.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,189.0,irr,7327.8749559569,98.9048427434336,SSP1
 120,6191,Australia_West_Coast,Australia_NZ,191,6,,,,,,,,,,
-121,6193,Australia_Interior,Australia_NZ,193,6,1112.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,193.0,rfd,7378.42125401171,98.8269032084518,SSP1
-122,6193,Australia_Interior,Australia_NZ,193,6,8393.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,193.0,irr,7378.42125401171,98.8269032084518,SSP1
+121,6193,Australia_Interior,Australia_NZ,193,6,1112.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,193.0,rfd,7322.10040386592,98.8269032084518,SSP1
+122,6193,Australia_Interior,Australia_NZ,193,6,8393.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,193.0,irr,7322.10040386592,98.8269032084518,SSP1
 123,6201,New_Zealand,Australia_NZ,201,6,,,,,,,,,,
-124,6202,Australia_South_Coast,Australia_NZ,202,6,1113.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,202.0,rfd,7378.42125401171,98.8269032084518,SSP1
-125,6202,Australia_South_Coast,Australia_NZ,202,6,8394.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,202.0,irr,7378.42125401171,98.8269032084518,SSP1
-126,6208,Murray_Darling,Australia_NZ,208,6,1114.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,208.0,rfd,7400.30214428491,99.1199768282277,SSP1
-127,6208,Murray_Darling,Australia_NZ,208,6,8395.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,208.0,irr,7400.30214428491,99.1199768282277,SSP1
+124,6202,Australia_South_Coast,Australia_NZ,202,6,1113.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,202.0,rfd,7322.10040386592,98.8269032084518,SSP1
+125,6202,Australia_South_Coast,Australia_NZ,202,6,8394.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,202.0,irr,7322.10040386592,98.8269032084518,SSP1
+126,6208,Murray_Darling,Australia_NZ,208,6,1114.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,208.0,rfd,7343.81427326844,99.1199768282277,SSP1
+127,6208,Murray_Darling,Australia_NZ,208,6,8395.0,Australia_NZ,6.0,NutsSeeds,NutsSeedsTree,208.0,irr,7343.81427326844,99.1199768282277,SSP1
 128,6211,Tasmania,Australia_NZ,211,6,,,,,,,,,,
 129,6216,Antarctica,Australia_NZ,216,6,,,,,,,,,,
 130,7156,Orinoco,Brazil,156,7,,,,,,,,,,
@@ -138,131 +138,131 @@
 136,7187,Parnaiba,Brazil,187,7,,,,,,,,,,
 137,7192,Sao_Francisco,Brazil,192,7,,,,,,,,,,
 138,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,,,,,,,,,,
-139,7206,La_Plata,Brazil,206,7,1250.0,Brazil,7.0,NutsSeeds,NutsSeedsTree,206.0,rfd,6160.33419659387,118.18698445517,SSP1
-140,7206,La_Plata,Brazil,206,7,8531.0,Brazil,7.0,NutsSeeds,NutsSeedsTree,206.0,irr,6160.33419659387,118.18698445517,SSP1
-141,8002,Northwest_Territories,Canada,2,8,6526.0,Canada,8.0,NutsSeeds,NutsSeedsTree,2.0,rfd,755.07048640979,18.07,SSP1
-142,8002,Northwest_Territories,Canada,2,8,13807.0,Canada,8.0,NutsSeeds,NutsSeedsTree,2.0,irr,755.07048640979,18.07,SSP1
-143,8007,Pacific_and_Arctic_Coast,Canada,7,8,6527.0,Canada,8.0,NutsSeeds,NutsSeedsTree,7.0,rfd,755.07048640979,18.07,SSP1
-144,8007,Pacific_and_Arctic_Coast,Canada,7,8,13808.0,Canada,8.0,NutsSeeds,NutsSeedsTree,7.0,irr,755.07048640979,18.07,SSP1
-145,8010,Mackenzie,Canada,10,8,6528.0,Canada,8.0,NutsSeeds,NutsSeedsTree,10.0,rfd,755.07048640979,18.07,SSP1
-146,8010,Mackenzie,Canada,10,8,13809.0,Canada,8.0,NutsSeeds,NutsSeedsTree,10.0,irr,755.07048640979,18.07,SSP1
-147,8015,Hudson_Bay_Coast,Canada,15,8,6529.0,Canada,8.0,NutsSeeds,NutsSeedsTree,15.0,rfd,755.07048640979,18.07,SSP1
-148,8015,Hudson_Bay_Coast,Canada,15,8,13810.0,Canada,8.0,NutsSeeds,NutsSeedsTree,15.0,irr,755.07048640979,18.07,SSP1
-149,8019,Atlantic_Ocean_Seaboard,Canada,19,8,6530.0,Canada,8.0,NutsSeeds,NutsSeedsTree,19.0,rfd,755.07048640979,18.07,SSP1
-150,8019,Atlantic_Ocean_Seaboard,Canada,19,8,13811.0,Canada,8.0,NutsSeeds,NutsSeedsTree,19.0,irr,755.07048640979,18.07,SSP1
-151,8023,Saskatchewan_Nelson,Canada,23,8,6531.0,Canada,8.0,NutsSeeds,NutsSeedsTree,23.0,rfd,755.07048640979,18.07,SSP1
-152,8023,Saskatchewan_Nelson,Canada,23,8,13812.0,Canada,8.0,NutsSeeds,NutsSeedsTree,23.0,irr,755.07048640979,18.07,SSP1
-153,8027,Fraser,Canada,27,8,6532.0,Canada,8.0,NutsSeeds,NutsSeedsTree,27.0,rfd,755.07048640979,18.07,SSP1
-154,8027,Fraser,Canada,27,8,13813.0,Canada,8.0,NutsSeeds,NutsSeedsTree,27.0,irr,755.07048640979,18.07,SSP1
+139,7206,La_Plata,Brazil,206,7,1250.0,Brazil,7.0,NutsSeeds,NutsSeedsTree,206.0,rfd,6036.72247518869,118.18698445517,SSP1
+140,7206,La_Plata,Brazil,206,7,8531.0,Brazil,7.0,NutsSeeds,NutsSeedsTree,206.0,irr,6036.72247518869,118.18698445517,SSP1
+141,8002,Northwest_Territories,Canada,2,8,6526.0,Canada,8.0,NutsSeeds,NutsSeedsTree,2.0,rfd,732.22471911988,18.07,SSP1
+142,8002,Northwest_Territories,Canada,2,8,13807.0,Canada,8.0,NutsSeeds,NutsSeedsTree,2.0,irr,732.22471911988,18.07,SSP1
+143,8007,Pacific_and_Arctic_Coast,Canada,7,8,6527.0,Canada,8.0,NutsSeeds,NutsSeedsTree,7.0,rfd,732.22471911988,18.07,SSP1
+144,8007,Pacific_and_Arctic_Coast,Canada,7,8,13808.0,Canada,8.0,NutsSeeds,NutsSeedsTree,7.0,irr,732.22471911988,18.07,SSP1
+145,8010,Mackenzie,Canada,10,8,6528.0,Canada,8.0,NutsSeeds,NutsSeedsTree,10.0,rfd,732.22471911988,18.07,SSP1
+146,8010,Mackenzie,Canada,10,8,13809.0,Canada,8.0,NutsSeeds,NutsSeedsTree,10.0,irr,732.22471911988,18.07,SSP1
+147,8015,Hudson_Bay_Coast,Canada,15,8,6529.0,Canada,8.0,NutsSeeds,NutsSeedsTree,15.0,rfd,732.22471911988,18.07,SSP1
+148,8015,Hudson_Bay_Coast,Canada,15,8,13810.0,Canada,8.0,NutsSeeds,NutsSeedsTree,15.0,irr,732.22471911988,18.07,SSP1
+149,8019,Atlantic_Ocean_Seaboard,Canada,19,8,6530.0,Canada,8.0,NutsSeeds,NutsSeedsTree,19.0,rfd,732.22471911988,18.07,SSP1
+150,8019,Atlantic_Ocean_Seaboard,Canada,19,8,13811.0,Canada,8.0,NutsSeeds,NutsSeedsTree,19.0,irr,732.22471911988,18.07,SSP1
+151,8023,Saskatchewan_Nelson,Canada,23,8,6531.0,Canada,8.0,NutsSeeds,NutsSeedsTree,23.0,rfd,732.22471911988,18.07,SSP1
+152,8023,Saskatchewan_Nelson,Canada,23,8,13812.0,Canada,8.0,NutsSeeds,NutsSeedsTree,23.0,irr,732.22471911988,18.07,SSP1
+153,8027,Fraser,Canada,27,8,6532.0,Canada,8.0,NutsSeeds,NutsSeedsTree,27.0,rfd,732.22471911988,18.07,SSP1
+154,8027,Fraser,Canada,27,8,13813.0,Canada,8.0,NutsSeeds,NutsSeedsTree,27.0,irr,732.22471911988,18.07,SSP1
 155,8034,Churchill,Canada,34,8,,,,,,,,,,
-156,8040,St_Lawrence,Canada,40,8,6533.0,Canada,8.0,NutsSeeds,NutsSeedsTree,40.0,rfd,755.07048640979,18.07,SSP1
-157,8040,St_Lawrence,Canada,40,8,13814.0,Canada,8.0,NutsSeeds,NutsSeedsTree,40.0,irr,755.07048640979,18.07,SSP1
-158,8223,Missouri_River_Basin,Canada,223,8,6534.0,Canada,8.0,NutsSeeds,NutsSeedsTree,223.0,rfd,755.07048640979,18.07,SSP1
-159,8223,Missouri_River_Basin,Canada,223,8,13815.0,Canada,8.0,NutsSeeds,NutsSeedsTree,223.0,irr,755.07048640979,18.07,SSP1
-160,8227,Great_Lakes_Basin,Canada,227,8,6535.0,Canada,8.0,NutsSeeds,NutsSeedsTree,227.0,rfd,755.07048640979,18.07,SSP1
-161,8227,Great_Lakes_Basin,Canada,227,8,13816.0,Canada,8.0,NutsSeeds,NutsSeedsTree,227.0,irr,755.07048640979,18.07,SSP1
-162,8229,Pacific_Northwest_Basin,Canada,229,8,6536.0,Canada,8.0,NutsSeeds,NutsSeedsTree,229.0,rfd,755.07048640979,18.07,SSP1
-163,8229,Pacific_Northwest_Basin,Canada,229,8,13817.0,Canada,8.0,NutsSeeds,NutsSeedsTree,229.0,irr,755.07048640979,18.07,SSP1
-164,8232,New_England_Basin,Canada,232,8,6537.0,Canada,8.0,NutsSeeds,NutsSeedsTree,232.0,rfd,755.07048640979,18.07,SSP1
-165,8232,New_England_Basin,Canada,232,8,13818.0,Canada,8.0,NutsSeeds,NutsSeedsTree,232.0,irr,755.07048640979,18.07,SSP1
-166,9101,Caribbean,Central America and Caribbean,101,9,1559.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,101.0,rfd,8469.62456825155,168.534966497758,SSP1
-167,9101,Caribbean,Central America and Caribbean,101,9,8840.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,101.0,irr,8469.62456825155,168.534966497758,SSP1
-168,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,1560.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,111.0,rfd,908.097109630607,18.07,SSP1
-169,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,8841.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,111.0,irr,908.097109630607,18.07,SSP1
-170,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,1561.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,133.0,rfd,908.097109630607,18.07,SSP1
-171,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,8842.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,133.0,irr,908.097109630607,18.07,SSP1
-172,9135,Southern_Central_America,Central America and Caribbean,135,9,1562.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,135.0,rfd,908.097109630607,18.07,SSP1
-173,9135,Southern_Central_America,Central America and Caribbean,135,9,8843.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,135.0,irr,908.097109630607,18.07,SSP1
+156,8040,St_Lawrence,Canada,40,8,6533.0,Canada,8.0,NutsSeeds,NutsSeedsTree,40.0,rfd,732.22471911988,18.07,SSP1
+157,8040,St_Lawrence,Canada,40,8,13814.0,Canada,8.0,NutsSeeds,NutsSeedsTree,40.0,irr,732.22471911988,18.07,SSP1
+158,8223,Missouri_River_Basin,Canada,223,8,6534.0,Canada,8.0,NutsSeeds,NutsSeedsTree,223.0,rfd,732.22471911988,18.07,SSP1
+159,8223,Missouri_River_Basin,Canada,223,8,13815.0,Canada,8.0,NutsSeeds,NutsSeedsTree,223.0,irr,732.22471911988,18.07,SSP1
+160,8227,Great_Lakes_Basin,Canada,227,8,6535.0,Canada,8.0,NutsSeeds,NutsSeedsTree,227.0,rfd,732.22471911988,18.07,SSP1
+161,8227,Great_Lakes_Basin,Canada,227,8,13816.0,Canada,8.0,NutsSeeds,NutsSeedsTree,227.0,irr,732.22471911988,18.07,SSP1
+162,8229,Pacific_Northwest_Basin,Canada,229,8,6536.0,Canada,8.0,NutsSeeds,NutsSeedsTree,229.0,rfd,732.22471911988,18.07,SSP1
+163,8229,Pacific_Northwest_Basin,Canada,229,8,13817.0,Canada,8.0,NutsSeeds,NutsSeedsTree,229.0,irr,732.22471911988,18.07,SSP1
+164,8232,New_England_Basin,Canada,232,8,6537.0,Canada,8.0,NutsSeeds,NutsSeedsTree,232.0,rfd,732.22471911988,18.07,SSP1
+165,8232,New_England_Basin,Canada,232,8,13818.0,Canada,8.0,NutsSeeds,NutsSeedsTree,232.0,irr,732.22471911988,18.07,SSP1
+166,9101,Caribbean,Central America and Caribbean,101,9,1559.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,101.0,rfd,7999.55564406602,162.937910113549,SSP1
+167,9101,Caribbean,Central America and Caribbean,101,9,8840.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,101.0,irr,7999.55564406602,162.937910113549,SSP1
+168,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,1560.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,111.0,rfd,887.159841362496,18.07,SSP1
+169,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,8841.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,111.0,irr,887.159841362496,18.07,SSP1
+170,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,1561.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,133.0,rfd,887.159841362496,18.07,SSP1
+171,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,8842.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,133.0,irr,887.159841362496,18.07,SSP1
+172,9135,Southern_Central_America,Central America and Caribbean,135,9,1562.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,135.0,rfd,887.159841362496,18.07,SSP1
+173,9135,Southern_Central_America,Central America and Caribbean,135,9,8843.0,Central America and Caribbean,9.0,NutsSeeds,NutsSeedsTree,135.0,irr,887.159841362496,18.07,SSP1
 174,9143,Caribbean_Coast,Central America and Caribbean,143,9,,,,,,,,,,
 175,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,,,,,,,,,,
-176,10018,Volga,Central Asia,18,10,1751.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,18.0,rfd,1715.80517369555,22.3889328206815,SSP1
-177,10018,Volga,Central Asia,18,10,9032.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,18.0,irr,1715.80517369555,22.3889328206815,SSP1
-178,10038,Ural,Central Asia,38,10,1752.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,38.0,rfd,2843.75530154491,37.1071537612948,SSP1
-179,10038,Ural,Central Asia,38,10,9033.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,38.0,irr,2843.75530154491,37.1071537612948,SSP1
-180,10042,Gobi_Interior,Central Asia,42,10,1753.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,42.0,rfd,2141.48383087019,27.9434625568017,SSP1
-181,10042,Gobi_Interior,Central Asia,42,10,9034.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,42.0,irr,2141.48383087019,27.9434625568017,SSP1
-182,10043,Amur,Central Asia,43,10,1754.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,43.0,rfd,1775.6274480841,23.1695324499395,SSP1
-183,10043,Amur,Central Asia,43,10,9035.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,43.0,irr,1775.6274480841,23.1695324499395,SSP1
-184,10045,Caspian_Sea_Coast,Central Asia,45,10,1755.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,45.0,rfd,1661.34065959328,21.6782447040811,SSP1
-185,10045,Caspian_Sea_Coast,Central Asia,45,10,9036.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,45.0,irr,1661.34065959328,21.6782447040811,SSP1
+176,10018,Volga,Central Asia,18,10,1751.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,18.0,rfd,1596.17906563283,20.9457986143428,SSP1
+177,10018,Volga,Central Asia,18,10,9032.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,18.0,irr,1596.17906563283,20.9457986143428,SSP1
+178,10038,Ural,Central Asia,38,10,1752.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,38.0,rfd,2825.94818535086,37.0833967562775,SSP1
+179,10038,Ural,Central Asia,38,10,9033.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,38.0,irr,2825.94818535086,37.0833967562775,SSP1
+180,10042,Gobi_Interior,Central Asia,42,10,1753.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,42.0,rfd,1992.17936431792,26.1422973569127,SSP1
+181,10042,Gobi_Interior,Central Asia,42,10,9034.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,42.0,irr,1992.17936431792,26.1422973569127,SSP1
+182,10043,Amur,Central Asia,43,10,1754.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,43.0,rfd,1651.83052507674,21.6760827580232,SSP1
+183,10043,Amur,Central Asia,43,10,9035.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,43.0,irr,1651.83052507674,21.6760827580232,SSP1
+184,10045,Caspian_Sea_Coast,Central Asia,45,10,1755.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,45.0,rfd,1545.51182289299,20.2809196633386,SSP1
+185,10045,Caspian_Sea_Coast,Central Asia,45,10,9036.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,45.0,irr,1545.51182289299,20.2809196633386,SSP1
 186,10047,Black_Sea_North_Coast,Central Asia,47,10,,,,,,,,,,
-187,10048,Yenisey,Central Asia,48,10,1756.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,48.0,rfd,1775.48696708296,23.1676993632083,SSP1
-188,10048,Yenisey,Central Asia,48,10,9037.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,48.0,irr,1775.48696708296,23.1676993632083,SSP1
-189,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1757.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,52.0,rfd,5592.72257978537,72.9774522440862,SSP1
-190,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9038.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,52.0,irr,5592.72257978537,72.9774522440862,SSP1
-191,10056,Ob,Central Asia,56,10,1758.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,56.0,rfd,2826.88576627767,36.887029182115,SSP1
-192,10056,Ob,Central Asia,56,10,9039.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,56.0,irr,2826.88576627767,36.887029182115,SSP1
-193,10058,Amu_Darya,Central Asia,58,10,1759.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,58.0,rfd,4595.72048398132,59.9679257038683,SSP1
-194,10058,Amu_Darya,Central Asia,58,10,9040.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,58.0,irr,4595.72048398132,59.9679257038683,SSP1
-195,10068,Lake_Balkash,Central Asia,68,10,1760.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,68.0,rfd,2516.59482987403,32.8381528664872,SSP1
-196,10068,Lake_Balkash,Central Asia,68,10,9041.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,68.0,irr,2516.59482987403,32.8381528664872,SSP1
-197,10070,Black_Sea_South_Coast,Central Asia,70,10,1761.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,70.0,rfd,1399.46667553698,18.2611440178228,SSP1
-198,10070,Black_Sea_South_Coast,Central Asia,70,10,9042.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,70.0,irr,1399.46667553698,18.2611440178228,SSP1
-199,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1762.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,72.0,rfd,1682.02239564377,21.9481133384391,SSP1
-200,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9043.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,72.0,irr,1682.02239564377,21.9481133384391,SSP1
-201,10076,Syr_Darya,Central Asia,76,10,1763.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,76.0,rfd,3257.91106444832,42.51132533922,SSP1
-202,10076,Syr_Darya,Central Asia,76,10,9044.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,76.0,irr,3257.91106444832,42.51132533922,SSP1
-203,10085,Tarim_Interior,Central Asia,85,10,1764.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,85.0,rfd,2506.02421173235,32.7002206215707,SSP1
-204,10085,Tarim_Interior,Central Asia,85,10,9045.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,85.0,irr,2506.02421173235,32.7002206215707,SSP1
-205,11037,Russia_South_East_Coast,China,37,11,2035.0,China,11.0,NutsSeeds,NutsSeedsTree,37.0,rfd,453.317673594614,18.07,SSP1
-206,11037,Russia_South_East_Coast,China,37,11,9316.0,China,11.0,NutsSeeds,NutsSeedsTree,37.0,irr,453.317673594614,18.07,SSP1
-207,11042,Gobi_Interior,China,42,11,2036.0,China,11.0,NutsSeeds,NutsSeedsTree,42.0,rfd,453.317673594614,18.07,SSP1
-208,11042,Gobi_Interior,China,42,11,9317.0,China,11.0,NutsSeeds,NutsSeedsTree,42.0,irr,453.317673594614,18.07,SSP1
-209,11043,Amur,China,43,11,2037.0,China,11.0,NutsSeeds,NutsSeedsTree,43.0,rfd,453.317673594614,18.07,SSP1
-210,11043,Amur,China,43,11,9318.0,China,11.0,NutsSeeds,NutsSeedsTree,43.0,irr,453.317673594614,18.07,SSP1
-211,11056,Ob,China,56,11,2038.0,China,11.0,NutsSeeds,NutsSeedsTree,56.0,rfd,453.317673594614,18.07,SSP1
-212,11056,Ob,China,56,11,9319.0,China,11.0,NutsSeeds,NutsSeedsTree,56.0,irr,453.317673594614,18.07,SSP1
+187,10048,Yenisey,Central Asia,48,10,1756.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,48.0,rfd,1651.69983842502,21.6743678274447,SSP1
+188,10048,Yenisey,Central Asia,48,10,9037.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,48.0,irr,1651.69983842502,21.6743678274447,SSP1
+189,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1757.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,52.0,rfd,5561.26236482892,72.9774522440862,SSP1
+190,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9038.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,52.0,irr,5561.26236482892,72.9774522440862,SSP1
+191,10056,Ob,Central Asia,56,10,1758.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,56.0,rfd,2798.67026906994,36.725443345322,SSP1
+192,10056,Ob,Central Asia,56,10,9039.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,56.0,irr,2798.67026906994,36.725443345322,SSP1
+193,10058,Amu_Darya,Central Asia,58,10,1759.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,58.0,rfd,4569.86861090104,59.9679257038683,SSP1
+194,10058,Amu_Darya,Central Asia,58,10,9040.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,58.0,irr,4569.86861090104,59.9679257038683,SSP1
+195,10068,Lake_Balkash,Central Asia,68,10,1760.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,68.0,rfd,2497.76997707939,32.776890795842,SSP1
+196,10068,Lake_Balkash,Central Asia,68,10,9041.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,68.0,irr,2497.76997707939,32.776890795842,SSP1
+197,10070,Black_Sea_South_Coast,Central Asia,70,10,1761.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,70.0,rfd,1377.02821682984,18.07,SSP1
+198,10070,Black_Sea_South_Coast,Central Asia,70,10,9042.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,70.0,irr,1377.02821682984,18.07,SSP1
+199,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1762.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,72.0,rfd,1564.75162624062,20.533393245392,SSP1
+200,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9043.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,72.0,irr,1564.75162624062,20.533393245392,SSP1
+201,10076,Syr_Darya,Central Asia,76,10,1763.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,76.0,rfd,3239.58464454561,42.51132533922,SSP1
+202,10076,Syr_Darya,Central Asia,76,10,9044.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,76.0,irr,3239.58464454561,42.51132533922,SSP1
+203,10085,Tarim_Interior,Central Asia,85,10,1764.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,85.0,rfd,2491.92731004227,32.7002206215707,SSP1
+204,10085,Tarim_Interior,Central Asia,85,10,9045.0,Central Asia,10.0,NutsSeeds,NutsSeedsTree,85.0,irr,2491.92731004227,32.7002206215707,SSP1
+205,11037,Russia_South_East_Coast,China,37,11,2035.0,China,11.0,NutsSeeds,NutsSeedsTree,37.0,rfd,445.625486630216,18.07,SSP1
+206,11037,Russia_South_East_Coast,China,37,11,9316.0,China,11.0,NutsSeeds,NutsSeedsTree,37.0,irr,445.625486630216,18.07,SSP1
+207,11042,Gobi_Interior,China,42,11,2036.0,China,11.0,NutsSeeds,NutsSeedsTree,42.0,rfd,445.625486630216,18.07,SSP1
+208,11042,Gobi_Interior,China,42,11,9317.0,China,11.0,NutsSeeds,NutsSeedsTree,42.0,irr,445.625486630216,18.07,SSP1
+209,11043,Amur,China,43,11,2037.0,China,11.0,NutsSeeds,NutsSeedsTree,43.0,rfd,445.625486630216,18.07,SSP1
+210,11043,Amur,China,43,11,9318.0,China,11.0,NutsSeeds,NutsSeedsTree,43.0,irr,445.625486630216,18.07,SSP1
+211,11056,Ob,China,56,11,2038.0,China,11.0,NutsSeeds,NutsSeedsTree,56.0,rfd,445.625486630216,18.07,SSP1
+212,11056,Ob,China,56,11,9319.0,China,11.0,NutsSeeds,NutsSeedsTree,56.0,irr,445.625486630216,18.07,SSP1
 213,11058,Amu_Darya,China,58,11,,,,,,,,,,
-214,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2039.0,China,11.0,NutsSeeds,NutsSeedsTree,66.0,rfd,453.317673594614,18.07,SSP1
-215,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9320.0,China,11.0,NutsSeeds,NutsSeedsTree,66.0,irr,453.317673594614,18.07,SSP1
-216,11068,Lake_Balkash,China,68,11,2040.0,China,11.0,NutsSeeds,NutsSeedsTree,68.0,rfd,453.317673594614,18.07,SSP1
-217,11068,Lake_Balkash,China,68,11,9321.0,China,11.0,NutsSeeds,NutsSeedsTree,68.0,irr,453.317673594614,18.07,SSP1
+214,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2039.0,China,11.0,NutsSeeds,NutsSeedsTree,66.0,rfd,445.625486630216,18.07,SSP1
+215,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9320.0,China,11.0,NutsSeeds,NutsSeedsTree,66.0,irr,445.625486630216,18.07,SSP1
+216,11068,Lake_Balkash,China,68,11,2040.0,China,11.0,NutsSeeds,NutsSeedsTree,68.0,rfd,445.625486630216,18.07,SSP1
+217,11068,Lake_Balkash,China,68,11,9321.0,China,11.0,NutsSeeds,NutsSeedsTree,68.0,irr,445.625486630216,18.07,SSP1
 218,11076,Syr_Darya,China,76,11,,,,,,,,,,
-219,11077,Ziya_He_Interior,China,77,11,2041.0,China,11.0,NutsSeeds,NutsSeedsTree,77.0,rfd,453.317673594614,18.07,SSP1
-220,11077,Ziya_He_Interior,China,77,11,9322.0,China,11.0,NutsSeeds,NutsSeedsTree,77.0,irr,453.317673594614,18.07,SSP1
-221,11078,China_Coast,China,78,11,2042.0,China,11.0,NutsSeeds,NutsSeedsTree,78.0,rfd,453.317673594614,18.07,SSP1
-222,11078,China_Coast,China,78,11,9323.0,China,11.0,NutsSeeds,NutsSeedsTree,78.0,irr,453.317673594614,18.07,SSP1
-223,11079,Huang_He,China,79,11,2043.0,China,11.0,NutsSeeds,NutsSeedsTree,79.0,rfd,453.317673594614,18.07,SSP1
-224,11079,Huang_He,China,79,11,9324.0,China,11.0,NutsSeeds,NutsSeedsTree,79.0,irr,453.317673594614,18.07,SSP1
-225,11085,Tarim_Interior,China,85,11,2044.0,China,11.0,NutsSeeds,NutsSeedsTree,85.0,rfd,453.317673594614,18.07,SSP1
-226,11085,Tarim_Interior,China,85,11,9325.0,China,11.0,NutsSeeds,NutsSeedsTree,85.0,irr,453.317673594614,18.07,SSP1
+219,11077,Ziya_He_Interior,China,77,11,2041.0,China,11.0,NutsSeeds,NutsSeedsTree,77.0,rfd,445.625486630216,18.07,SSP1
+220,11077,Ziya_He_Interior,China,77,11,9322.0,China,11.0,NutsSeeds,NutsSeedsTree,77.0,irr,445.625486630216,18.07,SSP1
+221,11078,China_Coast,China,78,11,2042.0,China,11.0,NutsSeeds,NutsSeedsTree,78.0,rfd,445.625486630216,18.07,SSP1
+222,11078,China_Coast,China,78,11,9323.0,China,11.0,NutsSeeds,NutsSeedsTree,78.0,irr,445.625486630216,18.07,SSP1
+223,11079,Huang_He,China,79,11,2043.0,China,11.0,NutsSeeds,NutsSeedsTree,79.0,rfd,445.625486630216,18.07,SSP1
+224,11079,Huang_He,China,79,11,9324.0,China,11.0,NutsSeeds,NutsSeedsTree,79.0,irr,445.625486630216,18.07,SSP1
+225,11085,Tarim_Interior,China,85,11,2044.0,China,11.0,NutsSeeds,NutsSeedsTree,85.0,rfd,445.625486630216,18.07,SSP1
+226,11085,Tarim_Interior,China,85,11,9325.0,China,11.0,NutsSeeds,NutsSeedsTree,85.0,irr,445.625486630216,18.07,SSP1
 227,11089,Indus,China,89,11,,,,,,,,,,
 228,11092,Plateau_of_Tibet_Interior,China,92,11,,,,,,,,,,
-229,11106,Yangtze,China,106,11,2045.0,China,11.0,NutsSeeds,NutsSeedsTree,106.0,rfd,453.317673594614,18.07,SSP1
-230,11106,Yangtze,China,106,11,9326.0,China,11.0,NutsSeeds,NutsSeedsTree,106.0,irr,453.317673594614,18.07,SSP1
-231,11108,Xun_Jiang,China,108,11,2046.0,China,11.0,NutsSeeds,NutsSeedsTree,108.0,rfd,453.317673594614,18.07,SSP1
-232,11108,Xun_Jiang,China,108,11,9327.0,China,11.0,NutsSeeds,NutsSeedsTree,108.0,irr,453.317673594614,18.07,SSP1
-233,11109,Hong_(Red_River),China,109,11,2047.0,China,11.0,NutsSeeds,NutsSeedsTree,109.0,rfd,453.317673594614,18.07,SSP1
-234,11109,Hong_(Red_River),China,109,11,9328.0,China,11.0,NutsSeeds,NutsSeedsTree,109.0,irr,453.317673594614,18.07,SSP1
-235,11110,Ganges_Bramaputra,China,110,11,2048.0,China,11.0,NutsSeeds,NutsSeedsTree,110.0,rfd,453.317673594614,18.07,SSP1
-236,11110,Ganges_Bramaputra,China,110,11,9329.0,China,11.0,NutsSeeds,NutsSeedsTree,110.0,irr,453.317673594614,18.07,SSP1
-237,11112,South_China_Sea_Coast,China,112,11,2049.0,China,11.0,NutsSeeds,NutsSeedsTree,112.0,rfd,453.317673594614,18.07,SSP1
-238,11112,South_China_Sea_Coast,China,112,11,9330.0,China,11.0,NutsSeeds,NutsSeedsTree,112.0,irr,453.317673594614,18.07,SSP1
-239,11124,Hainan,China,124,11,2050.0,China,11.0,NutsSeeds,NutsSeedsTree,124.0,rfd,453.317673594614,18.07,SSP1
-240,11124,Hainan,China,124,11,9331.0,China,11.0,NutsSeeds,NutsSeedsTree,124.0,irr,453.317673594614,18.07,SSP1
-241,11125,Mekong,China,125,11,2051.0,China,11.0,NutsSeeds,NutsSeedsTree,125.0,rfd,453.317673594614,18.07,SSP1
-242,11125,Mekong,China,125,11,9332.0,China,11.0,NutsSeeds,NutsSeedsTree,125.0,irr,453.317673594614,18.07,SSP1
-243,11127,Salween,China,127,11,2052.0,China,11.0,NutsSeeds,NutsSeedsTree,127.0,rfd,453.317673594614,18.07,SSP1
-244,11127,Salween,China,127,11,9333.0,China,11.0,NutsSeeds,NutsSeedsTree,127.0,irr,453.317673594614,18.07,SSP1
-245,11137,Irrawaddy,China,137,11,2053.0,China,11.0,NutsSeeds,NutsSeedsTree,137.0,rfd,453.317673594614,18.07,SSP1
-246,11137,Irrawaddy,China,137,11,9334.0,China,11.0,NutsSeeds,NutsSeedsTree,137.0,irr,453.317673594614,18.07,SSP1
+229,11106,Yangtze,China,106,11,2045.0,China,11.0,NutsSeeds,NutsSeedsTree,106.0,rfd,445.625486630216,18.07,SSP1
+230,11106,Yangtze,China,106,11,9326.0,China,11.0,NutsSeeds,NutsSeedsTree,106.0,irr,445.625486630216,18.07,SSP1
+231,11108,Xun_Jiang,China,108,11,2046.0,China,11.0,NutsSeeds,NutsSeedsTree,108.0,rfd,445.625486630216,18.07,SSP1
+232,11108,Xun_Jiang,China,108,11,9327.0,China,11.0,NutsSeeds,NutsSeedsTree,108.0,irr,445.625486630216,18.07,SSP1
+233,11109,Hong_(Red_River),China,109,11,2047.0,China,11.0,NutsSeeds,NutsSeedsTree,109.0,rfd,445.625486630216,18.07,SSP1
+234,11109,Hong_(Red_River),China,109,11,9328.0,China,11.0,NutsSeeds,NutsSeedsTree,109.0,irr,445.625486630216,18.07,SSP1
+235,11110,Ganges_Bramaputra,China,110,11,2048.0,China,11.0,NutsSeeds,NutsSeedsTree,110.0,rfd,445.625486630216,18.07,SSP1
+236,11110,Ganges_Bramaputra,China,110,11,9329.0,China,11.0,NutsSeeds,NutsSeedsTree,110.0,irr,445.625486630216,18.07,SSP1
+237,11112,South_China_Sea_Coast,China,112,11,2049.0,China,11.0,NutsSeeds,NutsSeedsTree,112.0,rfd,445.625486630216,18.07,SSP1
+238,11112,South_China_Sea_Coast,China,112,11,9330.0,China,11.0,NutsSeeds,NutsSeedsTree,112.0,irr,445.625486630216,18.07,SSP1
+239,11124,Hainan,China,124,11,2050.0,China,11.0,NutsSeeds,NutsSeedsTree,124.0,rfd,445.625486630216,18.07,SSP1
+240,11124,Hainan,China,124,11,9331.0,China,11.0,NutsSeeds,NutsSeedsTree,124.0,irr,445.625486630216,18.07,SSP1
+241,11125,Mekong,China,125,11,2051.0,China,11.0,NutsSeeds,NutsSeedsTree,125.0,rfd,445.625486630216,18.07,SSP1
+242,11125,Mekong,China,125,11,9332.0,China,11.0,NutsSeeds,NutsSeedsTree,125.0,irr,445.625486630216,18.07,SSP1
+243,11127,Salween,China,127,11,2052.0,China,11.0,NutsSeeds,NutsSeedsTree,127.0,rfd,445.625486630216,18.07,SSP1
+244,11127,Salween,China,127,11,9333.0,China,11.0,NutsSeeds,NutsSeedsTree,127.0,irr,445.625486630216,18.07,SSP1
+245,11137,Irrawaddy,China,137,11,2053.0,China,11.0,NutsSeeds,NutsSeedsTree,137.0,rfd,445.625486630216,18.07,SSP1
+246,11137,Irrawaddy,China,137,11,9334.0,China,11.0,NutsSeeds,NutsSeedsTree,137.0,irr,445.625486630216,18.07,SSP1
 247,12020,Baltic_Sea_Coast,EU-12,20,12,,,,,,,,,,
 248,12021,Denmark_Germany_Coast,EU-12,21,12,,,,,,,,,,
 249,12022,Narva,EU-12,22,12,,,,,,,,,,
 250,12025,Daugava,EU-12,25,12,,,,,,,,,,
-251,12029,Oder,EU-12,29,12,2382.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,29.0,rfd,4313.51027210857,85.1081485269213,SSP1
-252,12029,Oder,EU-12,29,12,9663.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,29.0,irr,4313.51027210857,85.1081485269213,SSP1
-253,12030,Wisla,EU-12,30,12,2383.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,30.0,rfd,7035.86113784992,138.821766255401,SSP1
-254,12030,Wisla,EU-12,30,12,9664.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,30.0,irr,7035.86113784992,138.821766255401,SSP1
-255,12031,Elbe,EU-12,31,12,2384.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,31.0,rfd,4313.51027210857,85.1081485269213,SSP1
-256,12031,Elbe,EU-12,31,12,9665.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,31.0,irr,4313.51027210857,85.1081485269213,SSP1
+251,12029,Oder,EU-12,29,12,2382.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,29.0,rfd,4188.32999191617,85.1081485269213,SSP1
+252,12029,Oder,EU-12,29,12,9663.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,29.0,irr,4188.32999191617,85.1081485269213,SSP1
+253,12030,Wisla,EU-12,30,12,2383.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,30.0,rfd,6831.67683943157,138.821766255401,SSP1
+254,12030,Wisla,EU-12,30,12,9664.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,30.0,irr,6831.67683943157,138.821766255401,SSP1
+255,12031,Elbe,EU-12,31,12,2384.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,31.0,rfd,4188.32999191617,85.1081485269213,SSP1
+256,12031,Elbe,EU-12,31,12,9665.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,31.0,irr,4188.32999191617,85.1081485269213,SSP1
 257,12033,Poland_Coast,EU-12,33,12,,,,,,,,,,
 258,12035,Neman,EU-12,35,12,,,,,,,,,,
 259,12049,Dniester,EU-12,49,12,,,,,,,,,,
-260,12054,Danube,EU-12,54,12,2385.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,54.0,rfd,2884.14625300642,56.9059378996782,SSP1
-261,12054,Danube,EU-12,54,12,9666.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,54.0,irr,2884.14625300642,56.9059378996782,SSP1
-262,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2386.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,55.0,rfd,7155.35574786943,141.17946668409,SSP1
-263,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9667.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,55.0,irr,7155.35574786943,141.17946668409,SSP1
+260,12054,Danube,EU-12,54,12,2385.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,54.0,rfd,2800.44684966857,56.9059378996782,SSP1
+261,12054,Danube,EU-12,54,12,9666.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,54.0,irr,2800.44684966857,56.9059378996782,SSP1
+262,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2386.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,55.0,rfd,6947.70365458793,141.17946668409,SSP1
+263,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9667.0,EU-12,12.0,NutsSeeds,NutsSeedsTree,55.0,irr,6947.70365458793,141.17946668409,SSP1
 264,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
 265,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,,,,,,,,,,
 266,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
@@ -272,434 +272,436 @@
 270,13016,Scotland,EU-15,16,13,,,,,,,,,,
 271,13017,Neva,EU-15,17,13,,,,,,,,,,
 272,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
-273,13021,Denmark_Germany_Coast,EU-15,21,13,2756.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,21.0,rfd,2274.53004859647,46.6404874138184,SSP1
-274,13021,Denmark_Germany_Coast,EU-15,21,13,10037.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,21.0,irr,2274.53004859647,46.6404874138184,SSP1
+273,13021,Denmark_Germany_Coast,EU-15,21,13,2756.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,21.0,rfd,2205.00998450991,46.6404874138184,SSP1
+274,13021,Denmark_Germany_Coast,EU-15,21,13,10037.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,21.0,irr,2205.00998450991,46.6404874138184,SSP1
 275,13024,Ireland,EU-15,24,13,,,,,,,,,,
 276,13026,England_and_Wales,EU-15,26,13,,,,,,,,,,
-277,13028,Ems_Weser,EU-15,28,13,2757.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,28.0,rfd,2274.53004859647,46.6404874138185,SSP1
-278,13028,Ems_Weser,EU-15,28,13,10038.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,28.0,irr,2274.53004859647,46.6404874138185,SSP1
-279,13029,Oder,EU-15,29,13,2758.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,29.0,rfd,2274.53004859647,46.6404874138185,SSP1
-280,13029,Oder,EU-15,29,13,10039.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,29.0,irr,2274.53004859647,46.6404874138185,SSP1
-281,13031,Elbe,EU-15,31,13,2759.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,31.0,rfd,2278.06224033493,46.712916944667,SSP1
-282,13031,Elbe,EU-15,31,13,10040.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,31.0,irr,2278.06224033493,46.712916944667,SSP1
-283,13032,Rhine,EU-15,32,13,2760.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,32.0,rfd,2844.59540200621,58.3299904639836,SSP1
-284,13032,Rhine,EU-15,32,13,10041.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,32.0,irr,2844.59540200621,58.3299904639836,SSP1
-285,13036,Scheldt,EU-15,36,13,2761.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,36.0,rfd,3747.94151148894,76.8535983959386,SSP1
-286,13036,Scheldt,EU-15,36,13,10042.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,36.0,irr,3747.94151148894,76.8535983959386,SSP1
-287,13041,France_West_Coast,EU-15,41,13,2762.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,41.0,rfd,3270.95887563767,67.0728075737821,SSP1
-288,13041,France_West_Coast,EU-15,41,13,10043.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,41.0,irr,3270.95887563767,67.0728075737821,SSP1
-289,13044,Loire,EU-15,44,13,2763.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,44.0,rfd,3243.84973716822,66.5169198059489,SSP1
-290,13044,Loire,EU-15,44,13,10044.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,44.0,irr,3243.84973716822,66.5169198059489,SSP1
-291,13046,Seine,EU-15,46,13,2764.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,46.0,rfd,3243.88264951137,66.5175946916148,SSP1
-292,13046,Seine,EU-15,46,13,10045.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,46.0,irr,3243.88264951137,66.5175946916148,SSP1
-293,13050,Italy_East_Coast,EU-15,50,13,2765.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,50.0,rfd,5526.82657447745,113.330613259797,SSP1
-294,13050,Italy_East_Coast,EU-15,50,13,10046.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,50.0,irr,5526.82657447745,113.330613259797,SSP1
-295,13054,Danube,EU-15,54,13,2766.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,54.0,rfd,2450.39382067841,50.2466706134626,SSP1
-296,13054,Danube,EU-15,54,13,10047.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,54.0,irr,2450.39382067841,50.2466706134626,SSP1
-297,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2767.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,55.0,rfd,3850.9275525903,78.9653837103383,SSP1
-298,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10048.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,55.0,irr,3850.9275525903,78.9653837103383,SSP1
-299,13057,Po,EU-15,57,13,2768.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,57.0,rfd,5532.04117825151,113.437541573117,SSP1
-300,13057,Po,EU-15,57,13,10049.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,57.0,irr,5532.04117825151,113.437541573117,SSP1
-301,13059,Italy_West_Coast,EU-15,59,13,2769.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,59.0,rfd,5532.09512890615,113.43864786091,SSP1
-302,13059,Italy_West_Coast,EU-15,59,13,10050.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,59.0,irr,5532.09512890615,113.43864786091,SSP1
-303,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2770.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,60.0,rfd,10594.7458604104,217.251080617728,SSP1
-304,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10051.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,60.0,irr,10594.7458604104,217.251080617728,SSP1
-305,13061,France_South_Coast,EU-15,61,13,2771.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,61.0,rfd,7713.3896577543,158.167289753925,SSP1
-306,13061,France_South_Coast,EU-15,61,13,10052.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,61.0,irr,7713.3896577543,158.167289753925,SSP1
-307,13062,Rh(ne,EU-15,62,13,2772.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,62.0,rfd,3249.84607954246,66.6398780984575,SSP1
-308,13062,Rh(ne,EU-15,62,13,10053.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,62.0,irr,3249.84607954246,66.6398780984575,SSP1
-309,13063,Mediterranean_Sea_Islands,EU-15,63,13,2773.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,63.0,rfd,7625.63165666761,156.367763760557,SSP1
-310,13063,Mediterranean_Sea_Islands,EU-15,63,13,10054.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,63.0,irr,7625.63165666761,156.367763760557,SSP1
-311,13064,Gironde,EU-15,64,13,2774.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,64.0,rfd,3291.93200017991,67.5028730072304,SSP1
-312,13064,Gironde,EU-15,64,13,10055.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,64.0,irr,3291.93200017991,67.5028730072304,SSP1
+277,13028,Ems_Weser,EU-15,28,13,2757.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,28.0,rfd,2205.00998450992,46.6404874138185,SSP1
+278,13028,Ems_Weser,EU-15,28,13,10038.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,28.0,irr,2205.00998450992,46.6404874138185,SSP1
+279,13029,Oder,EU-15,29,13,2758.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,29.0,rfd,2205.00998450992,46.6404874138185,SSP1
+280,13029,Oder,EU-15,29,13,10039.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,29.0,irr,2205.00998450992,46.6404874138185,SSP1
+281,13031,Elbe,EU-15,31,13,2759.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,31.0,rfd,2208.43421627828,46.712916944667,SSP1
+282,13031,Elbe,EU-15,31,13,10040.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,31.0,irr,2208.43421627828,46.712916944667,SSP1
+283,13032,Rhine,EU-15,32,13,2760.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,32.0,rfd,2757.65152770135,58.3299904639836,SSP1
+284,13032,Rhine,EU-15,32,13,10041.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,32.0,irr,2757.65152770135,58.3299904639836,SSP1
+285,13036,Scheldt,EU-15,36,13,2761.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,36.0,rfd,3633.38723939562,76.8535983959386,SSP1
+286,13036,Scheldt,EU-15,36,13,10042.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,36.0,irr,3633.38723939562,76.8535983959386,SSP1
+287,13041,France_West_Coast,EU-15,41,13,2762.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,41.0,rfd,3170.98337924924,67.0728075737821,SSP1
+288,13041,France_West_Coast,EU-15,41,13,10043.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,41.0,irr,3170.98337924924,67.0728075737821,SSP1
+289,13044,Loire,EU-15,44,13,2763.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,44.0,rfd,3144.70282031203,66.5169198059489,SSP1
+290,13044,Loire,EU-15,44,13,10044.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,44.0,irr,3144.70282031203,66.5169198059489,SSP1
+291,13046,Seine,EU-15,46,13,2764.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,46.0,rfd,3144.73472670311,66.5175946916148,SSP1
+292,13046,Seine,EU-15,46,13,10045.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,46.0,irr,3144.73472670311,66.5175946916148,SSP1
+293,13050,Italy_East_Coast,EU-15,50,13,2765.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,50.0,rfd,5357.90142095397,113.330613259797,SSP1
+294,13050,Italy_East_Coast,EU-15,50,13,10046.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,50.0,irr,5357.90142095397,113.330613259797,SSP1
+295,13054,Danube,EU-15,54,13,2766.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,54.0,rfd,2375.49855360732,50.2466706134626,SSP1
+296,13054,Danube,EU-15,54,13,10047.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,54.0,irr,2375.49855360732,50.2466706134626,SSP1
+297,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2767.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,55.0,rfd,3733.22555502208,78.9653837103383,SSP1
+298,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10048.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,55.0,irr,3733.22555502208,78.9653837103383,SSP1
+299,13057,Po,EU-15,57,13,2768.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,57.0,rfd,5362.95664253442,113.437541573117,SSP1
+300,13057,Po,EU-15,57,13,10049.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,57.0,irr,5362.95664253442,113.437541573117,SSP1
+301,13059,Italy_West_Coast,EU-15,59,13,2769.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,59.0,rfd,5363.00894420976,113.43864786091,SSP1
+302,13059,Italy_West_Coast,EU-15,59,13,10050.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,59.0,irr,5363.00894420976,113.43864786091,SSP1
+303,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2770.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,60.0,rfd,10270.9218636024,217.251080617728,SSP1
+304,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10051.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,60.0,irr,10270.9218636024,217.251080617728,SSP1
+305,13061,France_South_Coast,EU-15,61,13,2771.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,61.0,rfd,7477.63311382008,158.167289753925,SSP1
+306,13061,France_South_Coast,EU-15,61,13,10052.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,61.0,irr,7477.63311382008,158.167289753925,SSP1
+307,13062,Rh(ne,EU-15,62,13,2772.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,62.0,rfd,3150.51588697779,66.6398780984575,SSP1
+308,13062,Rh(ne,EU-15,62,13,10053.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,62.0,irr,3150.51588697779,66.6398780984575,SSP1
+309,13063,Mediterranean_Sea_Islands,EU-15,63,13,2773.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,63.0,rfd,7392.55739950442,156.367763760557,SSP1
+310,13063,Mediterranean_Sea_Islands,EU-15,63,13,10054.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,63.0,irr,7392.55739950442,156.367763760557,SSP1
+311,13064,Gironde,EU-15,64,13,2774.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,64.0,rfd,3191.31546897061,67.5028730072304,SSP1
+312,13064,Gironde,EU-15,64,13,10055.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,64.0,irr,3191.31546897061,67.5028730072304,SSP1
 313,13067,Spain_South_and_East_Coast,EU-15,67,13,,,,,,,,,,
-314,13069,Tiber,EU-15,69,13,2776.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,69.0,rfd,5531.98265604363,113.436341543114,SSP1
-315,13069,Tiber,EU-15,69,13,10057.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,69.0,irr,5531.98265604363,113.436341543114,SSP1
-316,13071,Tagus,EU-15,71,13,,,,,,,,,,
-317,13073,Ebro,EU-15,73,13,,,,,,,,,,
-318,13074,Douro,EU-15,74,13,,,,,,,,,,
-319,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
-320,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
-321,13081,Guadiana,EU-15,81,13,,,,,,,,,,
-322,13083,Guadalquivir,EU-15,83,13,,,,,,,,,,
-323,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
-324,13101,Caribbean,EU-15,101,13,,,,,,,,,,
-325,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
-326,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
-327,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
-328,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
-329,13216,Antarctica,EU-15,216,13,,,,,,,,,,
-330,14017,Neva,Europe_Eastern,17,14,3145.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,17.0,rfd,1034.25971310305,18.07,SSP1
-331,14017,Neva,Europe_Eastern,17,14,10426.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,17.0,irr,1034.25971310305,18.07,SSP1
-332,14025,Daugava,Europe_Eastern,25,14,3146.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,25.0,rfd,1034.25971310305,18.07,SSP1
-333,14025,Daugava,Europe_Eastern,25,14,10427.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,25.0,irr,1034.25971310305,18.07,SSP1
-334,14030,Wisla,Europe_Eastern,30,14,3147.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,30.0,rfd,1034.25971310305,18.07,SSP1
-335,14030,Wisla,Europe_Eastern,30,14,10428.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,30.0,irr,1034.25971310305,18.07,SSP1
-336,14035,Neman,Europe_Eastern,35,14,3148.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,35.0,rfd,1034.25971310305,18.07,SSP1
-337,14035,Neman,Europe_Eastern,35,14,10429.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,35.0,irr,1034.25971310305,18.07,SSP1
-338,14039,Dnieper,Europe_Eastern,39,14,3149.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,39.0,rfd,1034.25971310305,18.07,SSP1
-339,14039,Dnieper,Europe_Eastern,39,14,10430.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,39.0,irr,1034.25971310305,18.07,SSP1
-340,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3150.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,47.0,rfd,1034.25971310305,18.07,SSP1
-341,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10431.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,47.0,irr,1034.25971310305,18.07,SSP1
-342,14049,Dniester,Europe_Eastern,49,14,3151.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,49.0,rfd,1034.25971310305,18.07,SSP1
-343,14049,Dniester,Europe_Eastern,49,14,10432.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,49.0,irr,1034.25971310305,18.07,SSP1
-344,14053,Don,Europe_Eastern,53,14,3152.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,53.0,rfd,1034.25971310305,18.07,SSP1
-345,14053,Don,Europe_Eastern,53,14,10433.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,53.0,irr,1034.25971310305,18.07,SSP1
-346,14054,Danube,Europe_Eastern,54,14,3153.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,54.0,rfd,1034.25971310305,18.07,SSP1
-347,14054,Danube,Europe_Eastern,54,14,10434.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,54.0,irr,1034.25971310305,18.07,SSP1
-348,15054,Danube,Europe_Non_EU,54,15,3285.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,54.0,rfd,1208.39586647313,18.07,SSP1
-349,15054,Danube,Europe_Non_EU,54,15,10566.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,54.0,irr,1208.39586647313,18.07,SSP1
-350,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3286.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,55.0,rfd,2059.63018564428,30.7991101982305,SSP1
-351,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10567.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,55.0,irr,2059.63018564428,30.7991101982305,SSP1
-352,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3287.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,70.0,rfd,1526.39995147041,22.8253405099543,SSP1
-353,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10568.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,70.0,irr,1526.39995147041,22.8253405099543,SSP1
-354,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3288.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,72.0,rfd,1513.667856124,22.6349484627014,SSP1
-355,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10569.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,72.0,irr,1513.667856124,22.6349484627014,SSP1
-356,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3289.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1526.38161989493,22.8250663849112,SSP1
-357,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10570.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,75.0,irr,1526.38161989493,22.8250663849112,SSP1
-358,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3290.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,84.0,rfd,1525.08607585691,22.8056931965244,SSP1
-359,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10571.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,84.0,irr,1525.08607585691,22.8056931965244,SSP1
-360,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3291.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,99.0,rfd,1523.77401434924,22.786073010705,SSP1
-361,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10572.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,99.0,irr,1523.77401434924,22.786073010705,SSP1
-362,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
-363,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,,,,,,,,,,
-364,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
-365,16012,Sweden,European Free Trade Association,12,16,,,,,,,,,,
-366,16032,Rhine,European Free Trade Association,32,16,3400.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,32.0,rfd,4665.60732720774,76.583866216073,SSP1
-367,16032,Rhine,European Free Trade Association,32,16,10681.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,32.0,irr,4665.60732720774,76.583866216073,SSP1
-368,16054,Danube,European Free Trade Association,54,16,3401.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,54.0,rfd,4665.60732720774,76.583866216073,SSP1
-369,16054,Danube,European Free Trade Association,54,16,10682.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,54.0,irr,4665.60732720774,76.583866216073,SSP1
-370,16057,Po,European Free Trade Association,57,16,3402.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,57.0,rfd,4665.60732720774,76.583866216073,SSP1
-371,16057,Po,European Free Trade Association,57,16,10683.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,57.0,irr,4665.60732720774,76.583866216073,SSP1
-372,16062,Rh(ne,European Free Trade Association,62,16,3403.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,62.0,rfd,4665.60732720774,76.583866216073,SSP1
-373,16062,Rh(ne,European Free Trade Association,62,16,10684.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,62.0,irr,4665.60732720774,76.583866216073,SSP1
-374,17089,Indus,India,89,17,3613.0,India,17.0,NutsSeeds,NutsSeedsTree,89.0,rfd,6764.91485841307,88.1257055040803,SSP1
-375,17089,Indus,India,89,17,10894.0,India,17.0,NutsSeeds,NutsSeedsTree,89.0,irr,6764.91485841307,88.1257055040803,SSP1
-376,17107,Sabarmati,India,107,17,3614.0,India,17.0,NutsSeeds,NutsSeedsTree,107.0,rfd,6764.91485841307,88.1257055040803,SSP1
-377,17107,Sabarmati,India,107,17,10895.0,India,17.0,NutsSeeds,NutsSeedsTree,107.0,irr,6764.91485841307,88.1257055040803,SSP1
-378,17110,Ganges_Bramaputra,India,110,17,3615.0,India,17.0,NutsSeeds,NutsSeedsTree,110.0,rfd,6707.18292496595,87.3736387786854,SSP1
-379,17110,Ganges_Bramaputra,India,110,17,10896.0,India,17.0,NutsSeeds,NutsSeedsTree,110.0,irr,6707.18292496595,87.3736387786854,SSP1
-380,17113,Mahi,India,113,17,3616.0,India,17.0,NutsSeeds,NutsSeedsTree,113.0,rfd,9999.37188251021,130.260575363781,SSP1
-381,17113,Mahi,India,113,17,10897.0,India,17.0,NutsSeeds,NutsSeedsTree,113.0,irr,9999.37188251021,130.260575363781,SSP1
-382,17116,Bay_of_Bengal_North_East_Coast,India,116,17,3617.0,India,17.0,NutsSeeds,NutsSeedsTree,116.0,rfd,5989.71191213111,78.0272330207229,SSP1
-383,17116,Bay_of_Bengal_North_East_Coast,India,116,17,10898.0,India,17.0,NutsSeeds,NutsSeedsTree,116.0,irr,5989.71191213111,78.0272330207229,SSP1
-384,17117,Tapti,India,117,17,3618.0,India,17.0,NutsSeeds,NutsSeedsTree,117.0,rfd,10057.9827348347,131.02409165621,SSP1
-385,17117,Tapti,India,117,17,10899.0,India,17.0,NutsSeeds,NutsSeedsTree,117.0,irr,10057.9827348347,131.02409165621,SSP1
-386,17118,Yasai,India,118,17,3619.0,India,17.0,NutsSeeds,NutsSeedsTree,118.0,rfd,7501.21038225649,97.7173358285185,SSP1
-387,17118,Yasai,India,118,17,10900.0,India,17.0,NutsSeeds,NutsSeedsTree,118.0,irr,7501.21038225649,97.7173358285185,SSP1
-388,17120,Brahamani,India,120,17,3620.0,India,17.0,NutsSeeds,NutsSeedsTree,120.0,rfd,8912.29423122613,116.099349840301,SSP1
-389,17120,Brahamani,India,120,17,10901.0,India,17.0,NutsSeeds,NutsSeedsTree,120.0,irr,8912.29423122613,116.099349840301,SSP1
-390,17122,Mahandi,India,122,17,3621.0,India,17.0,NutsSeeds,NutsSeedsTree,122.0,rfd,9993.1767564466,130.179872226126,SSP1
-391,17122,Mahandi,India,122,17,10902.0,India,17.0,NutsSeeds,NutsSeedsTree,122.0,irr,9993.1767564466,130.179872226126,SSP1
-392,17123,Godavari,India,123,17,3622.0,India,17.0,NutsSeeds,NutsSeedsTree,123.0,rfd,9911.80226562609,129.119816842772,SSP1
-393,17123,Godavari,India,123,17,10903.0,India,17.0,NutsSeeds,NutsSeedsTree,123.0,irr,9911.80226562609,129.119816842772,SSP1
-394,17128,India_North_East_Coast,India,128,17,3623.0,India,17.0,NutsSeeds,NutsSeedsTree,128.0,rfd,10043.9769596507,130.841640162723,SSP1
-395,17128,India_North_East_Coast,India,128,17,10904.0,India,17.0,NutsSeeds,NutsSeedsTree,128.0,irr,10043.9769596507,130.841640162723,SSP1
-396,17129,India_West_Coast,India,129,17,3624.0,India,17.0,NutsSeeds,NutsSeedsTree,129.0,rfd,8065.71357309052,105.071048771363,SSP1
-397,17129,India_West_Coast,India,129,17,10905.0,India,17.0,NutsSeeds,NutsSeedsTree,129.0,irr,8065.71357309052,105.071048771363,SSP1
-398,17137,Irrawaddy,India,137,17,3625.0,India,17.0,NutsSeeds,NutsSeedsTree,137.0,rfd,6094.51420199993,79.3924794320132,SSP1
-399,17137,Irrawaddy,India,137,17,10906.0,India,17.0,NutsSeeds,NutsSeedsTree,137.0,irr,6094.51420199993,79.3924794320132,SSP1
-400,17140,Krishna,India,140,17,3626.0,India,17.0,NutsSeeds,NutsSeedsTree,140.0,rfd,8136.37275032899,105.99151709577,SSP1
-401,17140,Krishna,India,140,17,10907.0,India,17.0,NutsSeeds,NutsSeedsTree,140.0,irr,8136.37275032899,105.99151709577,SSP1
-402,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
-403,17145,India_East_Coast,India,145,17,3627.0,India,17.0,NutsSeeds,NutsSeedsTree,145.0,rfd,8867.93709872945,115.521514985432,SSP1
-404,17145,India_East_Coast,India,145,17,10908.0,India,17.0,NutsSeeds,NutsSeedsTree,145.0,irr,8867.93709872945,115.521514985432,SSP1
-405,17147,Pennar,India,147,17,3628.0,India,17.0,NutsSeeds,NutsSeedsTree,147.0,rfd,9216.29557601332,120.059537594954,SSP1
-406,17147,Pennar,India,147,17,10909.0,India,17.0,NutsSeeds,NutsSeedsTree,147.0,irr,9216.29557601332,120.059537594954,SSP1
-407,17153,Cauvery,India,153,17,3629.0,India,17.0,NutsSeeds,NutsSeedsTree,153.0,rfd,7876.43866439476,102.605388048037,SSP1
-408,17153,Cauvery,India,153,17,10910.0,India,17.0,NutsSeeds,NutsSeedsTree,153.0,irr,7876.43866439476,102.605388048037,SSP1
-409,17155,India_South_Coast,India,155,17,3630.0,India,17.0,NutsSeeds,NutsSeedsTree,155.0,rfd,8015.09382726297,104.411631630593,SSP1
-410,17155,India_South_Coast,India,155,17,10911.0,India,17.0,NutsSeeds,NutsSeedsTree,155.0,irr,8015.09382726297,104.411631630593,SSP1
-411,17235,Narmada,India,235,17,3631.0,India,17.0,NutsSeeds,NutsSeedsTree,235.0,rfd,9990.51144774554,130.145151580769,SSP1
-412,17235,Narmada,India,235,17,10912.0,India,17.0,NutsSeeds,NutsSeedsTree,235.0,irr,9990.51144774554,130.145151580769,SSP1
-413,18158,Palau_and_East_Indonesia,Indonesia,158,18,3885.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,158.0,rfd,2639.62886236003,63.3567575059519,SSP1
-414,18158,Palau_and_East_Indonesia,Indonesia,158,18,11166.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,158.0,irr,2639.62886236003,63.3567575059519,SSP1
-415,18159,North_Borneo_Coast,Indonesia,159,18,3886.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,159.0,rfd,2637.79045258449,63.312631725996,SSP1
-416,18159,North_Borneo_Coast,Indonesia,159,18,11167.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,159.0,irr,2637.79045258449,63.312631725996,SSP1
-417,18163,Sumatra,Indonesia,163,18,3887.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,163.0,rfd,2639.58733182953,63.3557606840926,SSP1
-418,18163,Sumatra,Indonesia,163,18,11168.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,163.0,irr,2639.58733182953,63.3557606840926,SSP1
-419,18164,Sulawesi,Indonesia,164,18,3888.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,164.0,rfd,2639.59689842466,63.3559903029064,SSP1
-420,18164,Sulawesi,Indonesia,164,18,11169.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,164.0,irr,2639.59689842466,63.3559903029064,SSP1
-421,18165,Kalimantan,Indonesia,165,18,3889.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,165.0,rfd,2639.59500816389,63.3559449325913,SSP1
-422,18165,Kalimantan,Indonesia,165,18,11170.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,165.0,irr,2639.59500816389,63.3559449325913,SSP1
-423,18167,Irian_Jaya_Coast,Indonesia,167,18,3890.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,167.0,rfd,2639.65582431363,63.3574046507003,SSP1
-424,18167,Irian_Jaya_Coast,Indonesia,167,18,11171.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,167.0,irr,2639.65582431363,63.3574046507003,SSP1
-425,18175,Java_Timor,Indonesia,175,18,3891.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,175.0,rfd,2639.60183611787,63.35610881814,SSP1
-426,18175,Java_Timor,Indonesia,175,18,11172.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,175.0,irr,2639.60183611787,63.35610881814,SSP1
-427,18178,Sepik,Indonesia,178,18,3892.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,178.0,rfd,2642.60454124359,63.4281801851509,SSP1
-428,18178,Sepik,Indonesia,178,18,11173.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,178.0,irr,2642.60454124359,63.4281801851509,SSP1
-429,18181,Fly,Indonesia,181,18,3893.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,181.0,rfd,2636.82884012219,63.28955096322,SSP1
-430,18181,Fly,Indonesia,181,18,11174.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,181.0,irr,2636.82884012219,63.28955096322,SSP1
-431,19051,Japan,Japan,51,19,3989.0,Japan,19.0,NutsSeeds,NutsSeedsTree,51.0,rfd,2007.83677494134,46.8873848458625,SSP1
-432,19051,Japan,Japan,51,19,11270.0,Japan,19.0,NutsSeeds,NutsSeedsTree,51.0,irr,2007.83677494134,46.8873848458625,SSP1
-433,19103,Taiwan,Japan,103,19,3990.0,Japan,19.0,NutsSeeds,NutsSeedsTree,103.0,rfd,2007.83677494134,46.8873848458625,SSP1
-434,19103,Taiwan,Japan,103,19,11271.0,Japan,19.0,NutsSeeds,NutsSeedsTree,103.0,irr,2007.83677494134,46.8873848458625,SSP1
-435,20091,Baja_California,Mexico,91,20,4178.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,91.0,rfd,877.58119014721,18.07,SSP1
-436,20091,Baja_California,Mexico,91,20,11459.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,91.0,irr,877.58119014721,18.07,SSP1
-437,20096,Mexico_Northwest_Coast,Mexico,96,20,4179.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,96.0,rfd,877.58119014721,18.07,SSP1
-438,20096,Mexico_Northwest_Coast,Mexico,96,20,11460.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,96.0,irr,877.58119014721,18.07,SSP1
-439,20105,North_Gulf,Mexico,105,20,4180.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,105.0,rfd,877.58119014721,18.07,SSP1
-440,20105,North_Gulf,Mexico,105,20,11461.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,105.0,irr,877.58119014721,18.07,SSP1
-441,20111,Yucatan_Peninsula,Mexico,111,20,4181.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,111.0,rfd,877.58119014721,18.07,SSP1
-442,20111,Yucatan_Peninsula,Mexico,111,20,11462.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,111.0,irr,877.58119014721,18.07,SSP1
-443,20114,Mexico_Interior,Mexico,114,20,4182.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,114.0,rfd,877.58119014721,18.07,SSP1
-444,20114,Mexico_Interior,Mexico,114,20,11463.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,114.0,irr,877.58119014721,18.07,SSP1
-445,20115,Pacific_Central_Coast,Mexico,115,20,4183.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,115.0,rfd,877.58119014721,18.07,SSP1
-446,20115,Pacific_Central_Coast,Mexico,115,20,11464.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,115.0,irr,877.58119014721,18.07,SSP1
-447,20130,Papaloapan,Mexico,130,20,4184.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,130.0,rfd,877.58119014721,18.07,SSP1
-448,20130,Papaloapan,Mexico,130,20,11465.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,130.0,irr,877.58119014721,18.07,SSP1
-449,20131,Rfo_Lerma,Mexico,131,20,4185.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,131.0,rfd,877.58119014721,18.07,SSP1
-450,20131,Rfo_Lerma,Mexico,131,20,11466.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,131.0,irr,877.58119014721,18.07,SSP1
-451,20132,Rfo_Verde,Mexico,132,20,4186.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,132.0,rfd,877.58119014721,18.07,SSP1
-452,20132,Rfo_Verde,Mexico,132,20,11467.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,132.0,irr,877.58119014721,18.07,SSP1
-453,20133,Grijalva_Usumacinta,Mexico,133,20,4187.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,133.0,rfd,877.58119014721,18.07,SSP1
-454,20133,Grijalva_Usumacinta,Mexico,133,20,11468.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,133.0,irr,877.58119014721,18.07,SSP1
-455,20134,Rfo_Balsas,Mexico,134,20,4188.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,134.0,rfd,877.58119014721,18.07,SSP1
-456,20134,Rfo_Balsas,Mexico,134,20,11469.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,134.0,irr,877.58119014721,18.07,SSP1
-457,20135,Southern_Central_America,Mexico,135,20,4189.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,135.0,rfd,877.58119014721,18.07,SSP1
-458,20135,Southern_Central_America,Mexico,135,20,11470.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,135.0,irr,877.58119014721,18.07,SSP1
-459,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4190.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,136.0,rfd,877.58119014721,18.07,SSP1
-460,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11471.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,136.0,irr,877.58119014721,18.07,SSP1
-461,20217,California_River_Basin,Mexico,217,20,4191.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,217.0,rfd,877.58119014721,18.07,SSP1
-462,20217,California_River_Basin,Mexico,217,20,11472.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,217.0,irr,877.58119014721,18.07,SSP1
-463,20221,Lower_Colorado_River_Basin,Mexico,221,20,4192.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,221.0,rfd,1724.11211542523,35.5006537007794,SSP1
-464,20221,Lower_Colorado_River_Basin,Mexico,221,20,11473.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,221.0,irr,1724.11211542523,35.5006537007794,SSP1
-465,20231,Rio_Grande_River_Basin,Mexico,231,20,4193.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,231.0,rfd,877.58119014721,18.07,SSP1
-466,20231,Rio_Grande_River_Basin,Mexico,231,20,11474.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,231.0,irr,877.58119014721,18.07,SSP1
-467,21052,Caspian_Sea_East_Coast,Middle East,52,21,4489.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,52.0,rfd,3273.17789857215,51.5216091789774,SSP1
-468,21052,Caspian_Sea_East_Coast,Middle East,52,21,11770.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,52.0,irr,3273.17789857215,51.5216091789774,SSP1
-469,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4490.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,72.0,rfd,3560.77734521267,56.0485816653696,SSP1
-470,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11771.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,72.0,irr,3560.77734521267,56.0485816653696,SSP1
-471,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4491.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1147.99063091633,18.07,SSP1
-472,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11772.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,75.0,irr,1147.99063091633,18.07,SSP1
-473,21082,Central_Iran,Middle East,82,21,4492.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,82.0,rfd,2262.34800659273,35.6105941792397,SSP1
-474,21082,Central_Iran,Middle East,82,21,11773.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,82.0,irr,2262.34800659273,35.6105941792397,SSP1
-475,21084,Tigris_Euphrates,Middle East,84,21,4493.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,84.0,rfd,2791.03895324656,43.9324786517715,SSP1
-476,21084,Tigris_Euphrates,Middle East,84,21,11774.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,84.0,irr,2791.03895324656,43.9324786517715,SSP1
-477,21088,Persian_Gulf_Coast,Middle East,88,21,4494.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,88.0,rfd,2447.09105653066,38.5185507622248,SSP1
-478,21088,Persian_Gulf_Coast,Middle East,88,21,11775.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,88.0,irr,2447.09105653066,38.5185507622248,SSP1
-479,21090,Farahrud,Middle East,90,21,4495.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,90.0,rfd,3481.63423477628,54.8028258490141,SSP1
-480,21090,Farahrud,Middle East,90,21,11776.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,90.0,irr,3481.63423477628,54.8028258490141,SSP1
-481,21093,Red_Sea_East_Coast,Middle East,93,21,4496.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,93.0,rfd,3974.11895871385,62.5548045863742,SSP1
-482,21093,Red_Sea_East_Coast,Middle East,93,21,11777.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,93.0,irr,3974.11895871385,62.5548045863742,SSP1
-483,21094,Arabian_Peninsula,Middle East,94,21,4497.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,94.0,rfd,1147.99063091633,18.07,SSP1
-484,21094,Arabian_Peninsula,Middle East,94,21,11778.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,94.0,irr,1147.99063091633,18.07,SSP1
-485,21095,Dead_Sea,Middle East,95,21,4498.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,95.0,rfd,1147.99063091633,18.07,SSP1
-486,21095,Dead_Sea,Middle East,95,21,11779.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,95.0,irr,1147.99063091633,18.07,SSP1
-487,21097,Helmand,Middle East,97,21,4499.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,97.0,rfd,3619.0831769131,56.9663473251692,SSP1
-488,21097,Helmand,Middle East,97,21,11780.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,97.0,irr,3619.0831769131,56.9663473251692,SSP1
-489,21098,Sinai_Peninsula,Middle East,98,21,4500.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,98.0,rfd,1147.99063091633,18.07,SSP1
-490,21098,Sinai_Peninsula,Middle East,98,21,11781.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,98.0,irr,1147.99063091633,18.07,SSP1
-491,21099,Eastern_Jordan_Syria,Middle East,99,21,4501.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,99.0,rfd,1377.77656591586,21.6869562134207,SSP1
-492,21099,Eastern_Jordan_Syria,Middle East,99,21,11782.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,99.0,irr,1377.77656591586,21.6869562134207,SSP1
-493,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4502.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,100.0,rfd,3997.41929641615,62.9215646373202,SSP1
-494,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11783.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,100.0,irr,3997.41929641615,62.9215646373202,SSP1
-495,21102,HamuniMashkel,Middle East,102,21,4503.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,102.0,rfd,3596.46082604985,56.6102591576442,SSP1
-496,21102,HamuniMashkel,Middle East,102,21,11784.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,102.0,irr,3596.46082604985,56.6102591576442,SSP1
-497,21104,Arabian_Sea_Coast,Middle East,104,21,4504.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,104.0,rfd,3613.9836942457,56.8860786807063,SSP1
-498,21104,Arabian_Sea_Coast,Middle East,104,21,11785.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,104.0,irr,3613.9836942457,56.8860786807063,SSP1
-499,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
-500,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
-501,22089,Indus,Pakistan,89,22,4686.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,89.0,rfd,1479.83528477678,18.78938631461,SSP1
-502,22089,Indus,Pakistan,89,22,11967.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,89.0,irr,1479.83528477678,18.78938631461,SSP1
-503,22097,Helmand,Pakistan,97,22,4687.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,97.0,rfd,1516.27898577271,19.252109959458,SSP1
-504,22097,Helmand,Pakistan,97,22,11968.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,97.0,irr,1516.27898577271,19.252109959458,SSP1
-505,22102,HamuniMashkel,Pakistan,102,22,4688.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,102.0,rfd,1486.61425897989,18.8754585730764,SSP1
-506,22102,HamuniMashkel,Pakistan,102,22,11969.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,102.0,irr,1486.61425897989,18.8754585730764,SSP1
-507,22104,Arabian_Sea_Coast,Pakistan,104,22,4689.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,104.0,rfd,1482.56257324114,18.8240145445727,SSP1
-508,22104,Arabian_Sea_Coast,Pakistan,104,22,11970.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,104.0,irr,1482.56257324114,18.8240145445727,SSP1
-509,22107,Sabarmati,Pakistan,107,22,4690.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,107.0,rfd,1479.24318760667,18.7818684897686,SSP1
-510,22107,Sabarmati,Pakistan,107,22,11971.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,107.0,irr,1479.24318760667,18.7818684897686,SSP1
-511,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
-512,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
-513,23004,Siberia_West_Coast,Russia,4,23,4956.0,Russia,23.0,NutsSeeds,NutsSeedsTree,4.0,rfd,930.965375811122,18.07,SSP1
-514,23004,Siberia_West_Coast,Russia,4,23,12237.0,Russia,23.0,NutsSeeds,NutsSeedsTree,4.0,irr,930.965375811122,18.07,SSP1
-515,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
-516,23006,Lena,Russia,6,23,4957.0,Russia,23.0,NutsSeeds,NutsSeedsTree,6.0,rfd,930.965375811122,18.07,SSP1
-517,23006,Lena,Russia,6,23,12238.0,Russia,23.0,NutsSeeds,NutsSeedsTree,6.0,irr,930.965375811122,18.07,SSP1
-518,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
-519,23009,Russia_Barents_Sea_Coast,Russia,9,23,4958.0,Russia,23.0,NutsSeeds,NutsSeedsTree,9.0,rfd,930.965375811122,18.07,SSP1
-520,23009,Russia_Barents_Sea_Coast,Russia,9,23,12239.0,Russia,23.0,NutsSeeds,NutsSeedsTree,9.0,irr,930.965375811122,18.07,SSP1
-521,23013,Finland,Russia,13,23,4959.0,Russia,23.0,NutsSeeds,NutsSeedsTree,13.0,rfd,930.965375811122,18.07,SSP1
-522,23013,Finland,Russia,13,23,12240.0,Russia,23.0,NutsSeeds,NutsSeedsTree,13.0,irr,930.965375811122,18.07,SSP1
-523,23014,Northern_Dvina,Russia,14,23,4960.0,Russia,23.0,NutsSeeds,NutsSeedsTree,14.0,rfd,930.965375811122,18.07,SSP1
-524,23014,Northern_Dvina,Russia,14,23,12241.0,Russia,23.0,NutsSeeds,NutsSeedsTree,14.0,irr,930.965375811122,18.07,SSP1
-525,23017,Neva,Russia,17,23,4961.0,Russia,23.0,NutsSeeds,NutsSeedsTree,17.0,rfd,930.965375811122,18.07,SSP1
-526,23017,Neva,Russia,17,23,12242.0,Russia,23.0,NutsSeeds,NutsSeedsTree,17.0,irr,930.965375811122,18.07,SSP1
-527,23018,Volga,Russia,18,23,4962.0,Russia,23.0,NutsSeeds,NutsSeedsTree,18.0,rfd,930.965375811122,18.07,SSP1
-528,23018,Volga,Russia,18,23,12243.0,Russia,23.0,NutsSeeds,NutsSeedsTree,18.0,irr,930.965375811122,18.07,SSP1
-529,23020,Baltic_Sea_Coast,Russia,20,23,4963.0,Russia,23.0,NutsSeeds,NutsSeedsTree,20.0,rfd,930.965375811122,18.07,SSP1
-530,23020,Baltic_Sea_Coast,Russia,20,23,12244.0,Russia,23.0,NutsSeeds,NutsSeedsTree,20.0,irr,930.965375811122,18.07,SSP1
-531,23022,Narva,Russia,22,23,4964.0,Russia,23.0,NutsSeeds,NutsSeedsTree,22.0,rfd,930.965375811122,18.07,SSP1
-532,23022,Narva,Russia,22,23,12245.0,Russia,23.0,NutsSeeds,NutsSeedsTree,22.0,irr,930.965375811122,18.07,SSP1
-533,23025,Daugava,Russia,25,23,4965.0,Russia,23.0,NutsSeeds,NutsSeedsTree,25.0,rfd,930.965375811122,18.07,SSP1
-534,23025,Daugava,Russia,25,23,12246.0,Russia,23.0,NutsSeeds,NutsSeedsTree,25.0,irr,930.965375811122,18.07,SSP1
-535,23033,Poland_Coast,Russia,33,23,4966.0,Russia,23.0,NutsSeeds,NutsSeedsTree,33.0,rfd,930.965375811122,18.07,SSP1
-536,23033,Poland_Coast,Russia,33,23,12247.0,Russia,23.0,NutsSeeds,NutsSeedsTree,33.0,irr,930.965375811122,18.07,SSP1
-537,23035,Neman,Russia,35,23,4967.0,Russia,23.0,NutsSeeds,NutsSeedsTree,35.0,rfd,930.965375811122,18.07,SSP1
-538,23035,Neman,Russia,35,23,12248.0,Russia,23.0,NutsSeeds,NutsSeedsTree,35.0,irr,930.965375811122,18.07,SSP1
-539,23037,Russia_South_East_Coast,Russia,37,23,4968.0,Russia,23.0,NutsSeeds,NutsSeedsTree,37.0,rfd,930.965375811122,18.07,SSP1
-540,23037,Russia_South_East_Coast,Russia,37,23,12249.0,Russia,23.0,NutsSeeds,NutsSeedsTree,37.0,irr,930.965375811122,18.07,SSP1
-541,23038,Ural,Russia,38,23,4969.0,Russia,23.0,NutsSeeds,NutsSeedsTree,38.0,rfd,930.965375811122,18.07,SSP1
-542,23038,Ural,Russia,38,23,12250.0,Russia,23.0,NutsSeeds,NutsSeedsTree,38.0,irr,930.965375811122,18.07,SSP1
-543,23039,Dnieper,Russia,39,23,4970.0,Russia,23.0,NutsSeeds,NutsSeedsTree,39.0,rfd,930.965375811122,18.07,SSP1
-544,23039,Dnieper,Russia,39,23,12251.0,Russia,23.0,NutsSeeds,NutsSeedsTree,39.0,irr,930.965375811122,18.07,SSP1
-545,23042,Gobi_Interior,Russia,42,23,4971.0,Russia,23.0,NutsSeeds,NutsSeedsTree,42.0,rfd,930.965375811122,18.07,SSP1
-546,23042,Gobi_Interior,Russia,42,23,12252.0,Russia,23.0,NutsSeeds,NutsSeedsTree,42.0,irr,930.965375811122,18.07,SSP1
-547,23043,Amur,Russia,43,23,4972.0,Russia,23.0,NutsSeeds,NutsSeedsTree,43.0,rfd,930.965375811122,18.07,SSP1
-548,23043,Amur,Russia,43,23,12253.0,Russia,23.0,NutsSeeds,NutsSeedsTree,43.0,irr,930.965375811122,18.07,SSP1
-549,23045,Caspian_Sea_Coast,Russia,45,23,4973.0,Russia,23.0,NutsSeeds,NutsSeedsTree,45.0,rfd,930.965375811122,18.07,SSP1
-550,23045,Caspian_Sea_Coast,Russia,45,23,12254.0,Russia,23.0,NutsSeeds,NutsSeedsTree,45.0,irr,930.965375811122,18.07,SSP1
-551,23047,Black_Sea_North_Coast,Russia,47,23,4974.0,Russia,23.0,NutsSeeds,NutsSeedsTree,47.0,rfd,930.965375811122,18.07,SSP1
-552,23047,Black_Sea_North_Coast,Russia,47,23,12255.0,Russia,23.0,NutsSeeds,NutsSeedsTree,47.0,irr,930.965375811122,18.07,SSP1
-553,23048,Yenisey,Russia,48,23,4975.0,Russia,23.0,NutsSeeds,NutsSeedsTree,48.0,rfd,930.965375811122,18.07,SSP1
-554,23048,Yenisey,Russia,48,23,12256.0,Russia,23.0,NutsSeeds,NutsSeedsTree,48.0,irr,930.965375811122,18.07,SSP1
-555,23053,Don,Russia,53,23,4976.0,Russia,23.0,NutsSeeds,NutsSeedsTree,53.0,rfd,930.965375811122,18.07,SSP1
-556,23053,Don,Russia,53,23,12257.0,Russia,23.0,NutsSeeds,NutsSeedsTree,53.0,irr,930.965375811122,18.07,SSP1
-557,23056,Ob,Russia,56,23,4977.0,Russia,23.0,NutsSeeds,NutsSeedsTree,56.0,rfd,930.965375811122,18.07,SSP1
-558,23056,Ob,Russia,56,23,12258.0,Russia,23.0,NutsSeeds,NutsSeedsTree,56.0,irr,930.965375811122,18.07,SSP1
-559,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
-560,23072,Caspian_Sea_South_West_Coast,Russia,72,23,,,,,,,,,,
-561,23076,Syr_Darya,Russia,76,23,4978.0,Russia,23.0,NutsSeeds,NutsSeedsTree,76.0,rfd,930.965375811122,18.07,SSP1
-562,23076,Syr_Darya,Russia,76,23,12259.0,Russia,23.0,NutsSeeds,NutsSeedsTree,76.0,irr,930.965375811122,18.07,SSP1
-563,24194,Orange,South Africa,194,24,5206.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,194.0,rfd,3331.63793990824,63.0418924744509,SSP1
-564,24194,Orange,South Africa,194,24,12487.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,194.0,irr,3331.63793990824,63.0418924744509,SSP1
-565,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
-566,24198,South_Africa_South_Coast,South Africa,198,24,5207.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,198.0,rfd,3331.63793990824,63.0418924744509,SSP1
-567,24198,South_Africa_South_Coast,South Africa,198,24,12488.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,198.0,irr,3331.63793990824,63.0418924744509,SSP1
-568,24199,Limpopo,South Africa,199,24,5208.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,199.0,rfd,3331.63793990824,63.0418924744509,SSP1
-569,24199,Limpopo,South Africa,199,24,12489.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,199.0,irr,3331.63793990824,63.0418924744509,SSP1
-570,24204,South_Africa_West_Coast,South Africa,204,24,5209.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,204.0,rfd,3331.63793990824,63.0418924744509,SSP1
-571,24204,South_Africa_West_Coast,South Africa,204,24,12490.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,204.0,irr,3331.63793990824,63.0418924744509,SSP1
-572,24216,Antarctica,South Africa,216,24,,,,,,,,,,
-573,25143,Caribbean_Coast,South America_Northern,143,25,7188.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,143.0,rfd,955.647672591855,18.07,SSP1
-574,25143,Caribbean_Coast,South America_Northern,143,25,14469.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,143.0,irr,955.647672591855,18.07,SSP1
-575,25156,Orinoco,South America_Northern,156,25,7189.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,156.0,rfd,955.647672591855,18.07,SSP1
-576,25156,Orinoco,South America_Northern,156,25,14470.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,156.0,irr,955.647672591855,18.07,SSP1
-577,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,7190.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,161.0,rfd,955.647672591855,18.07,SSP1
-578,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,14471.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,161.0,irr,955.647672591855,18.07,SSP1
-579,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
-580,25168,Amazon,South America_Northern,168,25,7191.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,168.0,rfd,955.647672591855,18.07,SSP1
-581,25168,Amazon,South America_Northern,168,25,14472.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,168.0,irr,955.647672591855,18.07,SSP1
-582,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5410.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,157.0,rfd,893.041620263346,18.07,SSP1
-583,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12691.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,157.0,irr,893.041620263346,18.07,SSP1
-584,26168,Amazon,South America_Southern,168,26,5411.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,168.0,rfd,992.098064180985,20.0743298105903,SSP1
-585,26168,Amazon,South America_Southern,168,26,12692.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,168.0,irr,992.098064180985,20.0743298105903,SSP1
-586,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5412.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,169.0,rfd,12946.572946569,261.963796351971,SSP1
-587,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12693.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,169.0,irr,12946.572946569,261.963796351971,SSP1
-588,26180,Peru_Pacific_Coast,South America_Southern,180,26,5413.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,180.0,rfd,1107.74912845566,22.4144388089001,SSP1
-589,26180,Peru_Pacific_Coast,South America_Southern,180,26,12694.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,180.0,irr,1107.74912845566,22.4144388089001,SSP1
-590,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
-591,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,,,,,,,,,,
-592,26200,La_Puna_Region,South America_Southern,200,26,5414.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,200.0,rfd,1062.47761661015,21.4984051095894,SSP1
-593,26200,La_Puna_Region,South America_Southern,200,26,12695.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,200.0,irr,1062.47761661015,21.4984051095894,SSP1
-594,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
-595,26206,La_Plata,South America_Southern,206,26,5415.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,206.0,rfd,967.56668507658,19.5779565057427,SSP1
-596,26206,La_Plata,South America_Southern,206,26,12696.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,206.0,irr,967.56668507658,19.5779565057427,SSP1
-597,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,,,,,,,,,,
-598,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
-599,26213,Negro,South America_Southern,213,26,5417.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,213.0,rfd,3445.50543257829,69.7171125667469,SSP1
-600,26213,Negro,South America_Southern,213,26,12698.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,213.0,irr,3445.50543257829,69.7171125667469,SSP1
-601,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,,,,,,,,,,
-602,27052,Caspian_Sea_East_Coast,South Asia,52,27,,,,,,,,,,
-603,27058,Amu_Darya,South Asia,58,27,,,,,,,,,,
-604,27089,Indus,South Asia,89,27,,,,,,,,,,
-605,27090,Farahrud,South Asia,90,27,,,,,,,,,,
-606,27097,Helmand,South Asia,97,27,,,,,,,,,,
-607,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
-608,27110,Ganges_Bramaputra,South Asia,110,27,5561.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,110.0,rfd,1907.02274574553,26.4149754052483,SSP1
-609,27110,Ganges_Bramaputra,South Asia,110,27,12842.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,110.0,irr,1907.02274574553,26.4149754052483,SSP1
-610,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5562.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,116.0,rfd,1905.38308245352,26.3922637382648,SSP1
-611,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12843.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,116.0,irr,1905.38308245352,26.3922637382648,SSP1
-612,27154,Sri_Lanka,South Asia,154,27,5563.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,154.0,rfd,3846.9341739021,53.2855058052846,SSP1
-613,27154,Sri_Lanka,South Asia,154,27,12844.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,154.0,irr,3846.9341739021,53.2855058052846,SSP1
-614,28065,North_and_South_Korea,South Korea,65,28,5635.0,South Korea,28.0,NutsSeeds,NutsSeedsTree,65.0,rfd,841.782352771922,26.8013827680162,SSP1
-615,28065,North_and_South_Korea,South Korea,65,28,12916.0,South Korea,28.0,NutsSeeds,NutsSeedsTree,65.0,irr,841.782352771922,26.8013827680162,SSP1
-616,29037,Russia_South_East_Coast,Southeast Asia,37,29,5835.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,37.0,rfd,466.747708837104,18.07,SSP1
-617,29037,Russia_South_East_Coast,Southeast Asia,37,29,13116.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,37.0,irr,466.747708837104,18.07,SSP1
-618,29065,North_and_South_Korea,Southeast Asia,65,29,5836.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,65.0,rfd,466.747708837104,18.07,SSP1
-619,29065,North_and_South_Korea,Southeast Asia,65,29,13117.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,65.0,irr,466.747708837104,18.07,SSP1
-620,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,5837.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,66.0,rfd,466.747708837104,18.07,SSP1
-621,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13118.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,66.0,irr,466.747708837104,18.07,SSP1
-622,29108,Xun_Jiang,Southeast Asia,108,29,5838.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,108.0,rfd,1957.95889066074,75.8018014537001,SSP1
-623,29108,Xun_Jiang,Southeast Asia,108,29,13119.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,108.0,irr,1957.95889066074,75.8018014537001,SSP1
-624,29109,Hong_(Red_River),Southeast Asia,109,29,5839.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,109.0,rfd,1957.96529913418,75.8020495558608,SSP1
-625,29109,Hong_(Red_River),Southeast Asia,109,29,13120.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,109.0,irr,1957.96529913418,75.8020495558608,SSP1
-626,29110,Ganges_Bramaputra,Southeast Asia,110,29,5840.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,110.0,rfd,505.062878029681,19.5533604840501,SSP1
-627,29110,Ganges_Bramaputra,Southeast Asia,110,29,13121.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,110.0,irr,505.062878029681,19.5533604840501,SSP1
-628,29112,South_China_Sea_Coast,Southeast Asia,112,29,5841.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,112.0,rfd,1957.9742965812,75.8023978893708,SSP1
-629,29112,South_China_Sea_Coast,Southeast Asia,112,29,13122.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,112.0,irr,1957.9742965812,75.8023978893708,SSP1
-630,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5842.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,116.0,rfd,505.062878029681,19.5533604840501,SSP1
-631,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13123.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,116.0,irr,505.062878029681,19.5533604840501,SSP1
-632,29119,Philippines,Southeast Asia,119,29,5843.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,119.0,rfd,4796.10961044878,185.679970185041,SSP1
-633,29119,Philippines,Southeast Asia,119,29,13124.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,119.0,irr,4796.10961044878,185.679970185041,SSP1
-634,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
-635,29125,Mekong,Southeast Asia,125,29,5844.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,125.0,rfd,3339.3967058412,129.283759367334,SSP1
-636,29125,Mekong,Southeast Asia,125,29,13125.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,125.0,irr,3339.3967058412,129.283759367334,SSP1
-637,29126,Viet_Nam_Coast,Southeast Asia,126,29,5845.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,126.0,rfd,1955.64088228497,75.7120604425348,SSP1
-638,29126,Viet_Nam_Coast,Southeast Asia,126,29,13126.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,126.0,irr,1955.64088228497,75.7120604425348,SSP1
-639,29127,Salween,Southeast Asia,127,29,5846.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,127.0,rfd,903.398367634465,34.9748015771236,SSP1
-640,29127,Salween,Southeast Asia,127,29,13127.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,127.0,irr,903.398367634465,34.9748015771236,SSP1
-641,29137,Irrawaddy,Southeast Asia,137,29,5847.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,137.0,rfd,505.062878029681,19.5533604840501,SSP1
-642,29137,Irrawaddy,Southeast Asia,137,29,13128.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,137.0,irr,505.062878029681,19.5533604840501,SSP1
-643,29138,Sittang,Southeast Asia,138,29,5848.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,138.0,rfd,505.062878029681,19.5533604840501,SSP1
-644,29138,Sittang,Southeast Asia,138,29,13129.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,138.0,irr,505.062878029681,19.5533604840501,SSP1
-645,29139,Peninsula_Malaysia,Southeast Asia,139,29,,,,,,,,,,
-646,29146,Chao_Phraya,Southeast Asia,146,29,5850.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,146.0,rfd,7280.35539297129,281.856813563716,SSP1
-647,29146,Chao_Phraya,Southeast Asia,146,29,13131.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,146.0,irr,7280.35539297129,281.856813563716,SSP1
-648,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5851.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,148.0,rfd,7065.04621655528,273.521182249037,SSP1
-649,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13132.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,148.0,irr,7065.04621655528,273.521182249037,SSP1
-650,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
-651,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,,,,,,,,,,
-652,29159,North_Borneo_Coast,Southeast Asia,159,29,,,,,,,,,,
-653,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
-654,29165,Kalimantan,Southeast Asia,165,29,,,,,,,,,,
-655,29167,Irian_Jaya_Coast,Southeast Asia,167,29,5854.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,167.0,rfd,2075.54929854108,80.3542794416304,SSP1
-656,29167,Irian_Jaya_Coast,Southeast Asia,167,29,13135.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,167.0,irr,2075.54929854108,80.3542794416304,SSP1
-657,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,5855.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,173.0,rfd,2075.54929854108,80.3542794416304,SSP1
-658,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,13136.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,173.0,irr,2075.54929854108,80.3542794416304,SSP1
-659,29175,Java_Timor,Southeast Asia,175,29,5856.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,175.0,rfd,466.747708837104,18.07,SSP1
-660,29175,Java_Timor,Southeast Asia,175,29,13137.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,175.0,irr,466.747708837104,18.07,SSP1
-661,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
-662,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
-663,29178,Sepik,Southeast Asia,178,29,5857.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,178.0,rfd,2075.54929854108,80.3542794416304,SSP1
-664,29178,Sepik,Southeast Asia,178,29,13138.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,178.0,irr,2075.54929854108,80.3542794416304,SSP1
-665,29181,Fly,Southeast Asia,181,29,5858.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,181.0,rfd,2075.54929854108,80.3542794416304,SSP1
-666,29181,Fly,Southeast Asia,181,29,13139.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,181.0,irr,2075.54929854108,80.3542794416304,SSP1
-667,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
-668,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
-669,30078,China_Coast,Taiwan,78,30,6086.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,78.0,rfd,425.390186571349,18.07,SSP1
-670,30078,China_Coast,Taiwan,78,30,13367.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,78.0,irr,425.390186571349,18.07,SSP1
-671,30103,Taiwan,Taiwan,103,30,6087.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,103.0,rfd,476.923858004419,20.2590806891931,SSP1
-672,30103,Taiwan,Taiwan,103,30,13368.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,103.0,irr,476.923858004419,20.2590806891931,SSP1
-673,31169,South_Chile_Pacific_Coast,Argentina,169,31,,,,,,,,,,
-674,31200,La_Puna_Region,Argentina,200,31,,,,,,,,,,
-675,31203,Mar_Chiquita,Argentina,203,31,6201.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,203.0,rfd,1089.60927253251,18.07,SSP1
-676,31203,Mar_Chiquita,Argentina,203,31,13482.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,203.0,irr,1089.60927253251,18.07,SSP1
-677,31205,Salinas_Grandes,Argentina,205,31,6202.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,205.0,rfd,1089.60927253251,18.07,SSP1
-678,31205,Salinas_Grandes,Argentina,205,31,13483.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,205.0,irr,1089.60927253251,18.07,SSP1
-679,31206,La_Plata,Argentina,206,31,6203.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,206.0,rfd,1089.60927253251,18.07,SSP1
-680,31206,La_Plata,Argentina,206,31,13484.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,206.0,irr,1089.60927253251,18.07,SSP1
-681,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
-682,31209,Pampas_Region,Argentina,209,31,6204.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,209.0,rfd,1089.60927253251,18.07,SSP1
-683,31209,Pampas_Region,Argentina,209,31,13485.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,209.0,irr,1089.60927253251,18.07,SSP1
-684,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6205.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,210.0,rfd,1089.60927253251,18.07,SSP1
-685,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13486.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,210.0,irr,1089.60927253251,18.07,SSP1
-686,31212,South_America_Colorado,Argentina,212,31,6206.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,212.0,rfd,1089.60927253251,18.07,SSP1
-687,31212,South_America_Colorado,Argentina,212,31,13487.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,212.0,irr,1089.60927253251,18.07,SSP1
-688,31213,Negro,Argentina,213,31,6207.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,213.0,rfd,1089.60927253251,18.07,SSP1
-689,31213,Negro,Argentina,213,31,13488.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,213.0,irr,1089.60927253251,18.07,SSP1
-690,31214,Central_Patagonia_Highlands,Argentina,214,31,,,,,,,,,,
-691,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6208.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,215.0,rfd,1089.60927253251,18.07,SSP1
-692,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13489.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,215.0,irr,1089.60927253251,18.07,SSP1
-693,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
-694,32143,Caribbean_Coast,Colombia,143,32,7272.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,143.0,rfd,1037.37201195008,18.07,SSP1
-695,32143,Caribbean_Coast,Colombia,143,32,14553.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,143.0,irr,1037.37201195008,18.07,SSP1
-696,32156,Orinoco,Colombia,156,32,7273.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,156.0,rfd,1037.37201195008,18.07,SSP1
-697,32156,Orinoco,Colombia,156,32,14554.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,156.0,irr,1037.37201195008,18.07,SSP1
-698,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,7274.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,157.0,rfd,1037.37201195008,18.07,SSP1
-699,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,14555.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,157.0,irr,1037.37201195008,18.07,SSP1
-700,32166,Magdalena,Colombia,166,32,7275.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,166.0,rfd,1037.37201195008,18.07,SSP1
-701,32166,Magdalena,Colombia,166,32,14556.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,166.0,irr,1037.37201195008,18.07,SSP1
-702,32168,Amazon,Colombia,168,32,7276.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,168.0,rfd,1037.37201195008,18.07,SSP1
-703,32168,Amazon,Colombia,168,32,14557.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,168.0,irr,1037.37201195008,18.07,SSP1
+314,13069,Tiber,EU-15,69,13,2776.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,69.0,rfd,5362.89990903346,113.436341543114,SSP1
+315,13069,Tiber,EU-15,69,13,10057.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,69.0,irr,5362.89990903346,113.436341543114,SSP1
+316,13071,Tagus,EU-15,71,13,2777.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,71.0,rfd,14695.2907687407,310.835564898445,SSP1
+317,13071,Tagus,EU-15,71,13,10058.0,EU-15,13.0,NutsSeeds,NutsSeedsTree,71.0,irr,14695.2907687407,310.835564898445,SSP1
+318,13073,Ebro,EU-15,73,13,,,,,,,,,,
+319,13074,Douro,EU-15,74,13,,,,,,,,,,
+320,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
+321,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
+322,13081,Guadiana,EU-15,81,13,,,,,,,,,,
+323,13083,Guadalquivir,EU-15,83,13,,,,,,,,,,
+324,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
+325,13101,Caribbean,EU-15,101,13,,,,,,,,,,
+326,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
+327,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
+328,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
+329,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
+330,13216,Antarctica,EU-15,216,13,,,,,,,,,,
+331,14017,Neva,Europe_Eastern,17,14,3145.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,17.0,rfd,1009.5360265134,18.07,SSP1
+332,14017,Neva,Europe_Eastern,17,14,10426.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,17.0,irr,1009.5360265134,18.07,SSP1
+333,14025,Daugava,Europe_Eastern,25,14,3146.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,25.0,rfd,1009.5360265134,18.07,SSP1
+334,14025,Daugava,Europe_Eastern,25,14,10427.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,25.0,irr,1009.5360265134,18.07,SSP1
+335,14030,Wisla,Europe_Eastern,30,14,3147.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,30.0,rfd,1009.5360265134,18.07,SSP1
+336,14030,Wisla,Europe_Eastern,30,14,10428.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,30.0,irr,1009.5360265134,18.07,SSP1
+337,14035,Neman,Europe_Eastern,35,14,3148.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,35.0,rfd,1009.5360265134,18.07,SSP1
+338,14035,Neman,Europe_Eastern,35,14,10429.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,35.0,irr,1009.5360265134,18.07,SSP1
+339,14039,Dnieper,Europe_Eastern,39,14,3149.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,39.0,rfd,1009.5360265134,18.07,SSP1
+340,14039,Dnieper,Europe_Eastern,39,14,10430.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,39.0,irr,1009.5360265134,18.07,SSP1
+341,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3150.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,47.0,rfd,1009.5360265134,18.07,SSP1
+342,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10431.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,47.0,irr,1009.5360265134,18.07,SSP1
+343,14049,Dniester,Europe_Eastern,49,14,3151.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,49.0,rfd,1009.5360265134,18.07,SSP1
+344,14049,Dniester,Europe_Eastern,49,14,10432.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,49.0,irr,1009.5360265134,18.07,SSP1
+345,14053,Don,Europe_Eastern,53,14,3152.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,53.0,rfd,1009.5360265134,18.07,SSP1
+346,14053,Don,Europe_Eastern,53,14,10433.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,53.0,irr,1009.5360265134,18.07,SSP1
+347,14054,Danube,Europe_Eastern,54,14,3153.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,54.0,rfd,1009.5360265134,18.07,SSP1
+348,14054,Danube,Europe_Eastern,54,14,10434.0,Europe_Eastern,14.0,NutsSeeds,NutsSeedsTree,54.0,irr,1009.5360265134,18.07,SSP1
+349,15054,Danube,Europe_Non_EU,54,15,3285.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,54.0,rfd,1190.13949191971,18.07,SSP1
+350,15054,Danube,Europe_Non_EU,54,15,10566.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,54.0,irr,1190.13949191971,18.07,SSP1
+351,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3286.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,55.0,rfd,1912.36209745321,29.0355738428943,SSP1
+352,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10567.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,55.0,irr,1912.36209745321,29.0355738428943,SSP1
+353,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3287.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,70.0,rfd,1417.25899780078,21.5183768492137,SSP1
+354,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10568.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,70.0,irr,1417.25899780078,21.5183768492137,SSP1
+355,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3288.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,72.0,rfd,1405.4372752744,21.3388865226578,SSP1
+356,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10569.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,72.0,irr,1405.4372752744,21.3388865226578,SSP1
+357,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3289.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1417.24197697327,21.5181184203864,SSP1
+358,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10570.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,75.0,irr,1417.24197697327,21.5181184203864,SSP1
+359,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3290.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,84.0,rfd,1416.03906718336,21.4998545277493,SSP1
+360,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10571.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,84.0,irr,1416.03906718336,21.4998545277493,SSP1
+361,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3291.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,99.0,rfd,1414.82082095922,21.4813577805867,SSP1
+362,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10572.0,Europe_Non_EU,15.0,NutsSeeds,NutsSeedsTree,99.0,irr,1414.82082095922,21.4813577805867,SSP1
+363,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
+364,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,,,,,,,,,,
+365,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
+366,16012,Sweden,European Free Trade Association,12,16,,,,,,,,,,
+367,16032,Rhine,European Free Trade Association,32,16,3400.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,32.0,rfd,4561.81819221593,76.583866216073,SSP1
+368,16032,Rhine,European Free Trade Association,32,16,10681.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,32.0,irr,4561.81819221593,76.583866216073,SSP1
+369,16054,Danube,European Free Trade Association,54,16,3401.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,54.0,rfd,4561.81819221593,76.583866216073,SSP1
+370,16054,Danube,European Free Trade Association,54,16,10682.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,54.0,irr,4561.81819221593,76.583866216073,SSP1
+371,16057,Po,European Free Trade Association,57,16,3402.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,57.0,rfd,4561.81819221593,76.583866216073,SSP1
+372,16057,Po,European Free Trade Association,57,16,10683.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,57.0,irr,4561.81819221593,76.583866216073,SSP1
+373,16062,Rh(ne,European Free Trade Association,62,16,3403.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,62.0,rfd,4561.81819221593,76.583866216073,SSP1
+374,16062,Rh(ne,European Free Trade Association,62,16,10684.0,European Free Trade Association,16.0,NutsSeeds,NutsSeedsTree,62.0,irr,4561.81819221593,76.583866216073,SSP1
+375,17089,Indus,India,89,17,3613.0,India,17.0,NutsSeeds,NutsSeedsTree,89.0,rfd,6723.57690173179,88.1257055040803,SSP1
+376,17089,Indus,India,89,17,10894.0,India,17.0,NutsSeeds,NutsSeedsTree,89.0,irr,6723.57690173179,88.1257055040803,SSP1
+377,17107,Sabarmati,India,107,17,3614.0,India,17.0,NutsSeeds,NutsSeedsTree,107.0,rfd,6723.57690173179,88.1257055040803,SSP1
+378,17107,Sabarmati,India,107,17,10895.0,India,17.0,NutsSeeds,NutsSeedsTree,107.0,irr,6723.57690173179,88.1257055040803,SSP1
+379,17110,Ganges_Bramaputra,India,110,17,3615.0,India,17.0,NutsSeeds,NutsSeedsTree,110.0,rfd,6666.19774732386,87.3736387786854,SSP1
+380,17110,Ganges_Bramaputra,India,110,17,10896.0,India,17.0,NutsSeeds,NutsSeedsTree,110.0,irr,6666.19774732386,87.3736387786854,SSP1
+381,17113,Mahi,India,113,17,3616.0,India,17.0,NutsSeeds,NutsSeedsTree,113.0,rfd,9938.2693246258,130.260575363781,SSP1
+382,17113,Mahi,India,113,17,10897.0,India,17.0,NutsSeeds,NutsSeedsTree,113.0,irr,9938.2693246258,130.260575363781,SSP1
+383,17116,Bay_of_Bengal_North_East_Coast,India,116,17,3617.0,India,17.0,NutsSeeds,NutsSeedsTree,116.0,rfd,5953.11094127792,78.0272330207229,SSP1
+384,17116,Bay_of_Bengal_North_East_Coast,India,116,17,10898.0,India,17.0,NutsSeeds,NutsSeedsTree,116.0,irr,5953.11094127792,78.0272330207229,SSP1
+385,17117,Tapti,India,117,17,3618.0,India,17.0,NutsSeeds,NutsSeedsTree,117.0,rfd,9996.52202715462,131.02409165621,SSP1
+386,17117,Tapti,India,117,17,10899.0,India,17.0,NutsSeeds,NutsSeedsTree,117.0,irr,9996.52202715462,131.02409165621,SSP1
+387,17118,Yasai,India,118,17,3619.0,India,17.0,NutsSeeds,NutsSeedsTree,118.0,rfd,7455.37318898372,97.7173358285185,SSP1
+388,17118,Yasai,India,118,17,10900.0,India,17.0,NutsSeeds,NutsSeedsTree,118.0,irr,7455.37318898372,97.7173358285185,SSP1
+389,17120,Brahamani,India,120,17,3620.0,India,17.0,NutsSeeds,NutsSeedsTree,120.0,rfd,8857.83441309506,116.099349840301,SSP1
+390,17120,Brahamani,India,120,17,10901.0,India,17.0,NutsSeeds,NutsSeedsTree,120.0,irr,8857.83441309506,116.099349840301,SSP1
+391,17122,Mahandi,India,122,17,3621.0,India,17.0,NutsSeeds,NutsSeedsTree,122.0,rfd,9932.1120547449,130.179872226126,SSP1
+392,17122,Mahandi,India,122,17,10902.0,India,17.0,NutsSeeds,NutsSeedsTree,122.0,irr,9932.1120547449,130.179872226126,SSP1
+393,17123,Godavari,India,123,17,3622.0,India,17.0,NutsSeeds,NutsSeedsTree,123.0,rfd,9851.23481411111,129.119816842772,SSP1
+394,17123,Godavari,India,123,17,10903.0,India,17.0,NutsSeeds,NutsSeedsTree,123.0,irr,9851.23481411111,129.119816842772,SSP1
+395,17128,India_North_East_Coast,India,128,17,3623.0,India,17.0,NutsSeeds,NutsSeedsTree,128.0,rfd,9982.60183621515,130.841640162723,SSP1
+396,17128,India_North_East_Coast,India,128,17,10904.0,India,17.0,NutsSeeds,NutsSeedsTree,128.0,irr,9982.60183621515,130.841640162723,SSP1
+397,17129,India_West_Coast,India,129,17,3624.0,India,17.0,NutsSeeds,NutsSeedsTree,129.0,rfd,8016.42690426076,105.071048771363,SSP1
+398,17129,India_West_Coast,India,129,17,10905.0,India,17.0,NutsSeeds,NutsSeedsTree,129.0,irr,8016.42690426076,105.071048771363,SSP1
+399,17137,Irrawaddy,India,137,17,3625.0,India,17.0,NutsSeeds,NutsSeedsTree,137.0,rfd,6057.27282212322,79.3924794320132,SSP1
+400,17137,Irrawaddy,India,137,17,10906.0,India,17.0,NutsSeeds,NutsSeedsTree,137.0,irr,6057.27282212322,79.3924794320132,SSP1
+401,17140,Krishna,India,140,17,3626.0,India,17.0,NutsSeeds,NutsSeedsTree,140.0,rfd,8086.65430873211,105.99151709577,SSP1
+402,17140,Krishna,India,140,17,10907.0,India,17.0,NutsSeeds,NutsSeedsTree,140.0,irr,8086.65430873211,105.99151709577,SSP1
+403,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
+404,17145,India_East_Coast,India,145,17,3627.0,India,17.0,NutsSeeds,NutsSeedsTree,145.0,rfd,8813.74833104913,115.521514985432,SSP1
+405,17145,India_East_Coast,India,145,17,10908.0,India,17.0,NutsSeeds,NutsSeedsTree,145.0,irr,8813.74833104913,115.521514985432,SSP1
+406,17147,Pennar,India,147,17,3628.0,India,17.0,NutsSeeds,NutsSeedsTree,147.0,rfd,9159.97811522379,120.059537594954,SSP1
+407,17147,Pennar,India,147,17,10909.0,India,17.0,NutsSeeds,NutsSeedsTree,147.0,irr,9159.97811522379,120.059537594954,SSP1
+408,17153,Cauvery,India,153,17,3629.0,India,17.0,NutsSeeds,NutsSeedsTree,153.0,rfd,7828.30858631896,102.605388048037,SSP1
+409,17153,Cauvery,India,153,17,10910.0,India,17.0,NutsSeeds,NutsSeedsTree,153.0,irr,7828.30858631896,102.605388048037,SSP1
+410,17155,India_South_Coast,India,155,17,3630.0,India,17.0,NutsSeeds,NutsSeedsTree,155.0,rfd,7966.11647745704,104.411631630593,SSP1
+411,17155,India_South_Coast,India,155,17,10911.0,India,17.0,NutsSeeds,NutsSeedsTree,155.0,irr,7966.11647745704,104.411631630593,SSP1
+412,17235,Narmada,India,235,17,3631.0,India,17.0,NutsSeeds,NutsSeedsTree,235.0,rfd,9929.46303278475,130.145151580769,SSP1
+413,17235,Narmada,India,235,17,10912.0,India,17.0,NutsSeeds,NutsSeedsTree,235.0,irr,9929.46303278475,130.145151580769,SSP1
+414,18158,Palau_and_East_Indonesia,Indonesia,158,18,3885.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,158.0,rfd,2586.35739190037,62.7171322351505,SSP1
+415,18158,Palau_and_East_Indonesia,Indonesia,158,18,11166.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,158.0,irr,2586.35739190037,62.7171322351505,SSP1
+416,18159,North_Borneo_Coast,Indonesia,159,18,3886.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,159.0,rfd,2584.55608385281,62.6734519319687,SSP1
+417,18159,North_Borneo_Coast,Indonesia,159,18,11167.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,159.0,irr,2584.55608385281,62.6734519319687,SSP1
+418,18163,Sumatra,Indonesia,163,18,3887.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,163.0,rfd,2586.31669951512,62.7161454768183,SSP1
+419,18163,Sumatra,Indonesia,163,18,11168.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,163.0,irr,2586.31669951512,62.7161454768183,SSP1
+420,18164,Sulawesi,Indonesia,164,18,3888.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,164.0,rfd,2586.32607304274,62.7163727774896,SSP1
+421,18164,Sulawesi,Indonesia,164,18,11169.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,164.0,irr,2586.32607304274,62.7163727774896,SSP1
+422,18165,Kalimantan,Indonesia,165,18,3889.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,165.0,rfd,2586.32422093013,62.7163278652156,SSP1
+423,18165,Kalimantan,Indonesia,165,18,11170.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,165.0,irr,2586.32422093013,62.7163278652156,SSP1
+424,18167,Irian_Jaya_Coast,Indonesia,167,18,3890.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,167.0,rfd,2586.38380972334,62.7177728465763,SSP1
+425,18167,Irian_Jaya_Coast,Indonesia,167,18,11171.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,167.0,irr,2586.38380972334,62.7177728465763,SSP1
+426,18175,Java_Timor,Indonesia,175,18,3891.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,175.0,rfd,2586.33091108627,62.7164900962393,SSP1
+427,18175,Java_Timor,Indonesia,175,18,11172.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,175.0,irr,2586.33091108627,62.7164900962393,SSP1
+428,18178,Sepik,Indonesia,178,18,3892.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,178.0,rfd,2589.27301734535,62.7878338586591,SSP1
+429,18178,Sepik,Indonesia,178,18,11173.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,178.0,irr,2589.27301734535,62.7878338586591,SSP1
+430,18181,Fly,Indonesia,181,18,3893.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,181.0,rfd,2583.61387809977,62.6506041836291,SSP1
+431,18181,Fly,Indonesia,181,18,11174.0,Indonesia,18.0,NutsSeeds,NutsSeedsTree,181.0,irr,2583.61387809977,62.6506041836291,SSP1
+432,19051,Japan,Japan,51,19,3989.0,Japan,19.0,NutsSeeds,NutsSeedsTree,51.0,rfd,1907.40087683784,45.6934360541541,SSP1
+433,19051,Japan,Japan,51,19,11270.0,Japan,19.0,NutsSeeds,NutsSeedsTree,51.0,irr,1907.40087683784,45.6934360541541,SSP1
+434,19103,Taiwan,Japan,103,19,3990.0,Japan,19.0,NutsSeeds,NutsSeedsTree,103.0,rfd,1907.40087683784,45.6934360541541,SSP1
+435,19103,Taiwan,Japan,103,19,11271.0,Japan,19.0,NutsSeeds,NutsSeedsTree,103.0,irr,1907.40087683784,45.6934360541541,SSP1
+436,20091,Baja_California,Mexico,91,20,4178.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,91.0,rfd,857.416697435306,18.07,SSP1
+437,20091,Baja_California,Mexico,91,20,11459.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,91.0,irr,857.416697435306,18.07,SSP1
+438,20096,Mexico_Northwest_Coast,Mexico,96,20,4179.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,96.0,rfd,857.416697435306,18.07,SSP1
+439,20096,Mexico_Northwest_Coast,Mexico,96,20,11460.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,96.0,irr,857.416697435306,18.07,SSP1
+440,20105,North_Gulf,Mexico,105,20,4180.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,105.0,rfd,857.416697435306,18.07,SSP1
+441,20105,North_Gulf,Mexico,105,20,11461.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,105.0,irr,857.416697435306,18.07,SSP1
+442,20111,Yucatan_Peninsula,Mexico,111,20,4181.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,111.0,rfd,857.416697435306,18.07,SSP1
+443,20111,Yucatan_Peninsula,Mexico,111,20,11462.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,111.0,irr,857.416697435306,18.07,SSP1
+444,20114,Mexico_Interior,Mexico,114,20,4182.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,114.0,rfd,857.416697435306,18.07,SSP1
+445,20114,Mexico_Interior,Mexico,114,20,11463.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,114.0,irr,857.416697435306,18.07,SSP1
+446,20115,Pacific_Central_Coast,Mexico,115,20,4183.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,115.0,rfd,857.416697435306,18.07,SSP1
+447,20115,Pacific_Central_Coast,Mexico,115,20,11464.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,115.0,irr,857.416697435306,18.07,SSP1
+448,20130,Papaloapan,Mexico,130,20,4184.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,130.0,rfd,857.416697435306,18.07,SSP1
+449,20130,Papaloapan,Mexico,130,20,11465.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,130.0,irr,857.416697435306,18.07,SSP1
+450,20131,Rfo_Lerma,Mexico,131,20,4185.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,131.0,rfd,857.416697435306,18.07,SSP1
+451,20131,Rfo_Lerma,Mexico,131,20,11466.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,131.0,irr,857.416697435306,18.07,SSP1
+452,20132,Rfo_Verde,Mexico,132,20,4186.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,132.0,rfd,857.416697435306,18.07,SSP1
+453,20132,Rfo_Verde,Mexico,132,20,11467.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,132.0,irr,857.416697435306,18.07,SSP1
+454,20133,Grijalva_Usumacinta,Mexico,133,20,4187.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,133.0,rfd,857.416697435306,18.07,SSP1
+455,20133,Grijalva_Usumacinta,Mexico,133,20,11468.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,133.0,irr,857.416697435306,18.07,SSP1
+456,20134,Rfo_Balsas,Mexico,134,20,4188.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,134.0,rfd,857.416697435306,18.07,SSP1
+457,20134,Rfo_Balsas,Mexico,134,20,11469.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,134.0,irr,857.416697435306,18.07,SSP1
+458,20135,Southern_Central_America,Mexico,135,20,4189.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,135.0,rfd,857.416697435306,18.07,SSP1
+459,20135,Southern_Central_America,Mexico,135,20,11470.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,135.0,irr,857.416697435306,18.07,SSP1
+460,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4190.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,136.0,rfd,857.416697435306,18.07,SSP1
+461,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11471.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,136.0,irr,857.416697435306,18.07,SSP1
+462,20217,California_River_Basin,Mexico,217,20,4191.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,217.0,rfd,857.416697435306,18.07,SSP1
+463,20217,California_River_Basin,Mexico,217,20,11472.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,217.0,irr,857.416697435306,18.07,SSP1
+464,20221,Lower_Colorado_River_Basin,Mexico,221,20,4192.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,221.0,rfd,1684.49658289522,35.5006537007794,SSP1
+465,20221,Lower_Colorado_River_Basin,Mexico,221,20,11473.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,221.0,irr,1684.49658289522,35.5006537007794,SSP1
+466,20231,Rio_Grande_River_Basin,Mexico,231,20,4193.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,231.0,rfd,857.416697435306,18.07,SSP1
+467,20231,Rio_Grande_River_Basin,Mexico,231,20,11474.0,Mexico,20.0,NutsSeeds,NutsSeedsTree,231.0,irr,857.416697435306,18.07,SSP1
+468,21052,Caspian_Sea_East_Coast,Middle East,52,21,4489.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,52.0,rfd,3073.29910820154,49.1111081714439,SSP1
+469,21052,Caspian_Sea_East_Coast,Middle East,52,21,11770.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,52.0,irr,3073.29910820154,49.1111081714439,SSP1
+470,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4490.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,72.0,rfd,3343.33610291092,53.4262807565245,SSP1
+471,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11771.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,72.0,irr,3343.33610291092,53.4262807565245,SSP1
+472,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4491.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,75.0,rfd,1130.79335720412,18.07,SSP1
+473,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11772.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,75.0,irr,1130.79335720412,18.07,SSP1
+474,21082,Central_Iran,Middle East,82,21,4492.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,82.0,rfd,2124.19621742406,33.9445093166778,SSP1
+475,21082,Central_Iran,Middle East,82,21,11773.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,82.0,irr,2124.19621742406,33.9445093166778,SSP1
+476,21084,Tigris_Euphrates,Middle East,84,21,4493.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,84.0,rfd,2627.18138242762,41.9821776260201,SSP1
+477,21084,Tigris_Euphrates,Middle East,84,21,11774.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,84.0,irr,2627.18138242762,41.9821776260201,SSP1
+478,21088,Persian_Gulf_Coast,Middle East,88,21,4494.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,88.0,rfd,2297.65780986251,36.7164136220875,SSP1
+479,21088,Persian_Gulf_Coast,Middle East,88,21,11775.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,88.0,irr,2297.65780986251,36.7164136220875,SSP1
+480,21090,Farahrud,Middle East,90,21,4495.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,90.0,rfd,3269.02591927239,52.2388091377769,SSP1
+481,21090,Farahrud,Middle East,90,21,11776.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,90.0,irr,3269.02591927239,52.2388091377769,SSP1
+482,21093,Red_Sea_East_Coast,Middle East,93,21,4496.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,93.0,rfd,3914.58536178605,62.5548045863742,SSP1
+483,21093,Red_Sea_East_Coast,Middle East,93,21,11777.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,93.0,irr,3914.58536178605,62.5548045863742,SSP1
+484,21094,Arabian_Peninsula,Middle East,94,21,4497.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,94.0,rfd,1130.79335720412,18.07,SSP1
+485,21094,Arabian_Peninsula,Middle East,94,21,11778.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,94.0,irr,1130.79335720412,18.07,SSP1
+486,21095,Dead_Sea,Middle East,95,21,4498.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,95.0,rfd,1130.79335720412,18.07,SSP1
+487,21095,Dead_Sea,Middle East,95,21,11779.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,95.0,irr,1130.79335720412,18.07,SSP1
+488,21097,Helmand,Middle East,97,21,4499.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,97.0,rfd,3398.08145013022,54.3011076362107,SSP1
+489,21097,Helmand,Middle East,97,21,11780.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,97.0,irr,3398.08145013022,54.3011076362107,SSP1
+490,21098,Sinai_Peninsula,Middle East,98,21,4500.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,98.0,rfd,1130.79335720412,18.07,SSP1
+491,21098,Sinai_Peninsula,Middle East,98,21,11781.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,98.0,irr,1130.79335720412,18.07,SSP1
+492,21099,Eastern_Jordan_Syria,Middle East,99,21,4501.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,99.0,rfd,1357.13702402395,21.6869562134207,SSP1
+493,21099,Eastern_Jordan_Syria,Middle East,99,21,11782.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,99.0,irr,1357.13702402395,21.6869562134207,SSP1
+494,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4502.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,100.0,rfd,3937.53665283738,62.9215646373202,SSP1
+495,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11783.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,100.0,irr,3937.53665283738,62.9215646373202,SSP1
+496,21102,HamuniMashkel,Middle East,102,21,4503.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,102.0,rfd,3376.84054820314,53.9616794857206,SSP1
+497,21102,HamuniMashkel,Middle East,102,21,11784.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,102.0,irr,3376.84054820314,53.9616794857206,SSP1
+498,21104,Arabian_Sea_Coast,Middle East,104,21,4504.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,104.0,rfd,3393.29337077137,54.2245944576859,SSP1
+499,21104,Arabian_Sea_Coast,Middle East,104,21,11785.0,Middle East,21.0,NutsSeeds,NutsSeedsTree,104.0,irr,3393.29337077137,54.2245944576859,SSP1
+500,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
+501,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
+502,22089,Indus,Pakistan,89,22,4686.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,89.0,rfd,1417.8967687955,18.07,SSP1
+503,22089,Indus,Pakistan,89,22,11967.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,89.0,irr,1417.8967687955,18.07,SSP1
+504,22097,Helmand,Pakistan,97,22,4687.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,97.0,rfd,1417.8967687955,18.07,SSP1
+505,22097,Helmand,Pakistan,97,22,11968.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,97.0,irr,1417.8967687955,18.07,SSP1
+506,22102,HamuniMashkel,Pakistan,102,22,4688.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,102.0,rfd,1417.8967687955,18.07,SSP1
+507,22102,HamuniMashkel,Pakistan,102,22,11969.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,102.0,irr,1417.8967687955,18.07,SSP1
+508,22104,Arabian_Sea_Coast,Pakistan,104,22,4689.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,104.0,rfd,1417.8967687955,18.07,SSP1
+509,22104,Arabian_Sea_Coast,Pakistan,104,22,11970.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,104.0,irr,1417.8967687955,18.07,SSP1
+510,22107,Sabarmati,Pakistan,107,22,4690.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,107.0,rfd,1417.8967687955,18.07,SSP1
+511,22107,Sabarmati,Pakistan,107,22,11971.0,Pakistan,22.0,NutsSeeds,NutsSeedsTree,107.0,irr,1417.8967687955,18.07,SSP1
+512,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
+513,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
+514,23004,Siberia_West_Coast,Russia,4,23,4956.0,Russia,23.0,NutsSeeds,NutsSeedsTree,4.0,rfd,905.865154409239,18.07,SSP1
+515,23004,Siberia_West_Coast,Russia,4,23,12237.0,Russia,23.0,NutsSeeds,NutsSeedsTree,4.0,irr,905.865154409239,18.07,SSP1
+516,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
+517,23006,Lena,Russia,6,23,4957.0,Russia,23.0,NutsSeeds,NutsSeedsTree,6.0,rfd,905.865154409239,18.07,SSP1
+518,23006,Lena,Russia,6,23,12238.0,Russia,23.0,NutsSeeds,NutsSeedsTree,6.0,irr,905.865154409239,18.07,SSP1
+519,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
+520,23009,Russia_Barents_Sea_Coast,Russia,9,23,4958.0,Russia,23.0,NutsSeeds,NutsSeedsTree,9.0,rfd,905.865154409239,18.07,SSP1
+521,23009,Russia_Barents_Sea_Coast,Russia,9,23,12239.0,Russia,23.0,NutsSeeds,NutsSeedsTree,9.0,irr,905.865154409239,18.07,SSP1
+522,23013,Finland,Russia,13,23,4959.0,Russia,23.0,NutsSeeds,NutsSeedsTree,13.0,rfd,905.865154409239,18.07,SSP1
+523,23013,Finland,Russia,13,23,12240.0,Russia,23.0,NutsSeeds,NutsSeedsTree,13.0,irr,905.865154409239,18.07,SSP1
+524,23014,Northern_Dvina,Russia,14,23,4960.0,Russia,23.0,NutsSeeds,NutsSeedsTree,14.0,rfd,905.865154409239,18.07,SSP1
+525,23014,Northern_Dvina,Russia,14,23,12241.0,Russia,23.0,NutsSeeds,NutsSeedsTree,14.0,irr,905.865154409239,18.07,SSP1
+526,23017,Neva,Russia,17,23,4961.0,Russia,23.0,NutsSeeds,NutsSeedsTree,17.0,rfd,905.865154409239,18.07,SSP1
+527,23017,Neva,Russia,17,23,12242.0,Russia,23.0,NutsSeeds,NutsSeedsTree,17.0,irr,905.865154409239,18.07,SSP1
+528,23018,Volga,Russia,18,23,4962.0,Russia,23.0,NutsSeeds,NutsSeedsTree,18.0,rfd,905.865154409239,18.07,SSP1
+529,23018,Volga,Russia,18,23,12243.0,Russia,23.0,NutsSeeds,NutsSeedsTree,18.0,irr,905.865154409239,18.07,SSP1
+530,23020,Baltic_Sea_Coast,Russia,20,23,4963.0,Russia,23.0,NutsSeeds,NutsSeedsTree,20.0,rfd,905.865154409239,18.07,SSP1
+531,23020,Baltic_Sea_Coast,Russia,20,23,12244.0,Russia,23.0,NutsSeeds,NutsSeedsTree,20.0,irr,905.865154409239,18.07,SSP1
+532,23022,Narva,Russia,22,23,4964.0,Russia,23.0,NutsSeeds,NutsSeedsTree,22.0,rfd,905.865154409239,18.07,SSP1
+533,23022,Narva,Russia,22,23,12245.0,Russia,23.0,NutsSeeds,NutsSeedsTree,22.0,irr,905.865154409239,18.07,SSP1
+534,23025,Daugava,Russia,25,23,4965.0,Russia,23.0,NutsSeeds,NutsSeedsTree,25.0,rfd,905.865154409239,18.07,SSP1
+535,23025,Daugava,Russia,25,23,12246.0,Russia,23.0,NutsSeeds,NutsSeedsTree,25.0,irr,905.865154409239,18.07,SSP1
+536,23033,Poland_Coast,Russia,33,23,4966.0,Russia,23.0,NutsSeeds,NutsSeedsTree,33.0,rfd,905.865154409239,18.07,SSP1
+537,23033,Poland_Coast,Russia,33,23,12247.0,Russia,23.0,NutsSeeds,NutsSeedsTree,33.0,irr,905.865154409239,18.07,SSP1
+538,23035,Neman,Russia,35,23,4967.0,Russia,23.0,NutsSeeds,NutsSeedsTree,35.0,rfd,905.865154409239,18.07,SSP1
+539,23035,Neman,Russia,35,23,12248.0,Russia,23.0,NutsSeeds,NutsSeedsTree,35.0,irr,905.865154409239,18.07,SSP1
+540,23037,Russia_South_East_Coast,Russia,37,23,4968.0,Russia,23.0,NutsSeeds,NutsSeedsTree,37.0,rfd,905.865154409239,18.07,SSP1
+541,23037,Russia_South_East_Coast,Russia,37,23,12249.0,Russia,23.0,NutsSeeds,NutsSeedsTree,37.0,irr,905.865154409239,18.07,SSP1
+542,23038,Ural,Russia,38,23,4969.0,Russia,23.0,NutsSeeds,NutsSeedsTree,38.0,rfd,905.865154409239,18.07,SSP1
+543,23038,Ural,Russia,38,23,12250.0,Russia,23.0,NutsSeeds,NutsSeedsTree,38.0,irr,905.865154409239,18.07,SSP1
+544,23039,Dnieper,Russia,39,23,4970.0,Russia,23.0,NutsSeeds,NutsSeedsTree,39.0,rfd,905.865154409239,18.07,SSP1
+545,23039,Dnieper,Russia,39,23,12251.0,Russia,23.0,NutsSeeds,NutsSeedsTree,39.0,irr,905.865154409239,18.07,SSP1
+546,23042,Gobi_Interior,Russia,42,23,4971.0,Russia,23.0,NutsSeeds,NutsSeedsTree,42.0,rfd,905.865154409239,18.07,SSP1
+547,23042,Gobi_Interior,Russia,42,23,12252.0,Russia,23.0,NutsSeeds,NutsSeedsTree,42.0,irr,905.865154409239,18.07,SSP1
+548,23043,Amur,Russia,43,23,4972.0,Russia,23.0,NutsSeeds,NutsSeedsTree,43.0,rfd,905.865154409239,18.07,SSP1
+549,23043,Amur,Russia,43,23,12253.0,Russia,23.0,NutsSeeds,NutsSeedsTree,43.0,irr,905.865154409239,18.07,SSP1
+550,23045,Caspian_Sea_Coast,Russia,45,23,4973.0,Russia,23.0,NutsSeeds,NutsSeedsTree,45.0,rfd,905.865154409239,18.07,SSP1
+551,23045,Caspian_Sea_Coast,Russia,45,23,12254.0,Russia,23.0,NutsSeeds,NutsSeedsTree,45.0,irr,905.865154409239,18.07,SSP1
+552,23047,Black_Sea_North_Coast,Russia,47,23,4974.0,Russia,23.0,NutsSeeds,NutsSeedsTree,47.0,rfd,905.865154409239,18.07,SSP1
+553,23047,Black_Sea_North_Coast,Russia,47,23,12255.0,Russia,23.0,NutsSeeds,NutsSeedsTree,47.0,irr,905.865154409239,18.07,SSP1
+554,23048,Yenisey,Russia,48,23,4975.0,Russia,23.0,NutsSeeds,NutsSeedsTree,48.0,rfd,905.865154409239,18.07,SSP1
+555,23048,Yenisey,Russia,48,23,12256.0,Russia,23.0,NutsSeeds,NutsSeedsTree,48.0,irr,905.865154409239,18.07,SSP1
+556,23053,Don,Russia,53,23,4976.0,Russia,23.0,NutsSeeds,NutsSeedsTree,53.0,rfd,905.865154409239,18.07,SSP1
+557,23053,Don,Russia,53,23,12257.0,Russia,23.0,NutsSeeds,NutsSeedsTree,53.0,irr,905.865154409239,18.07,SSP1
+558,23056,Ob,Russia,56,23,4977.0,Russia,23.0,NutsSeeds,NutsSeedsTree,56.0,rfd,905.865154409239,18.07,SSP1
+559,23056,Ob,Russia,56,23,12258.0,Russia,23.0,NutsSeeds,NutsSeedsTree,56.0,irr,905.865154409239,18.07,SSP1
+560,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
+561,23072,Caspian_Sea_South_West_Coast,Russia,72,23,,,,,,,,,,
+562,23076,Syr_Darya,Russia,76,23,4978.0,Russia,23.0,NutsSeeds,NutsSeedsTree,76.0,rfd,905.865154409239,18.07,SSP1
+563,23076,Syr_Darya,Russia,76,23,12259.0,Russia,23.0,NutsSeeds,NutsSeedsTree,76.0,irr,905.865154409239,18.07,SSP1
+564,24194,Orange,South Africa,194,24,5206.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,194.0,rfd,3172.61293222806,61.1356493707857,SSP1
+565,24194,Orange,South Africa,194,24,12487.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,194.0,irr,3172.61293222806,61.1356493707857,SSP1
+566,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
+567,24198,South_Africa_South_Coast,South Africa,198,24,5207.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,198.0,rfd,3172.61293222806,61.1356493707857,SSP1
+568,24198,South_Africa_South_Coast,South Africa,198,24,12488.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,198.0,irr,3172.61293222806,61.1356493707857,SSP1
+569,24199,Limpopo,South Africa,199,24,5208.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,199.0,rfd,3172.61293222806,61.1356493707857,SSP1
+570,24199,Limpopo,South Africa,199,24,12489.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,199.0,irr,3172.61293222806,61.1356493707857,SSP1
+571,24204,South_Africa_West_Coast,South Africa,204,24,5209.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,204.0,rfd,3172.61293222806,61.1356493707857,SSP1
+572,24204,South_Africa_West_Coast,South Africa,204,24,12490.0,South Africa,24.0,NutsSeeds,NutsSeedsTree,204.0,irr,3172.61293222806,61.1356493707857,SSP1
+573,24216,Antarctica,South Africa,216,24,,,,,,,,,,
+574,25143,Caribbean_Coast,South America_Northern,143,25,7188.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,143.0,rfd,935.889579216469,18.07,SSP1
+575,25143,Caribbean_Coast,South America_Northern,143,25,14469.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,143.0,irr,935.889579216469,18.07,SSP1
+576,25156,Orinoco,South America_Northern,156,25,7189.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,156.0,rfd,935.889579216469,18.07,SSP1
+577,25156,Orinoco,South America_Northern,156,25,14470.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,156.0,irr,935.889579216469,18.07,SSP1
+578,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,7190.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,161.0,rfd,935.889579216469,18.07,SSP1
+579,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,14471.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,161.0,irr,935.889579216469,18.07,SSP1
+580,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
+581,25168,Amazon,South America_Northern,168,25,7191.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,168.0,rfd,935.889579216469,18.07,SSP1
+582,25168,Amazon,South America_Northern,168,25,14472.0,South America_Northern,25.0,NutsSeeds,NutsSeedsTree,168.0,irr,935.889579216469,18.07,SSP1
+583,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5410.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,157.0,rfd,872.689817234729,18.07,SSP1
+584,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12691.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,157.0,irr,872.689817234729,18.07,SSP1
+585,26168,Amazon,South America_Southern,168,26,5411.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,168.0,rfd,938.993777779369,19.442896238022,SSP1
+586,26168,Amazon,South America_Southern,168,26,12692.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,168.0,irr,938.993777779369,19.442896238022,SSP1
+587,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5412.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,169.0,rfd,12651.5294720818,261.963796351971,SSP1
+588,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12693.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,169.0,irr,12651.5294720818,261.963796351971,SSP1
+589,26180,Peru_Pacific_Coast,South America_Southern,180,26,5413.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,180.0,rfd,1048.45435800652,21.709397629057,SSP1
+590,26180,Peru_Pacific_Coast,South America_Southern,180,26,12694.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,180.0,irr,1048.45435800652,21.709397629057,SSP1
+591,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
+592,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,,,,,,,,,,
+593,26200,La_Puna_Region,South America_Southern,200,26,5414.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,200.0,rfd,1005.6061059351,20.8221775657085,SSP1
+594,26200,La_Puna_Region,South America_Southern,200,26,12695.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,200.0,irr,1005.6061059351,20.8221775657085,SSP1
+595,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
+596,26206,La_Plata,South America_Southern,206,26,5415.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,206.0,rfd,915.775496068076,18.9621362449095,SSP1
+597,26206,La_Plata,South America_Southern,206,26,12696.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,206.0,irr,915.775496068076,18.9621362449095,SSP1
+598,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,5416.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,207.0,rfd,14706.2779636533,304.509617913576,SSP1
+599,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,12697.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,207.0,irr,14706.2779636533,304.509617913576,SSP1
+600,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
+601,26213,Negro,South America_Southern,213,26,5417.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,213.0,rfd,3366.98473846195,69.7171125667469,SSP1
+602,26213,Negro,South America_Southern,213,26,12698.0,South America_Southern,26.0,NutsSeeds,NutsSeedsTree,213.0,irr,3366.98473846195,69.7171125667469,SSP1
+603,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,,,,,,,,,,
+604,27052,Caspian_Sea_East_Coast,South Asia,52,27,,,,,,,,,,
+605,27058,Amu_Darya,South Asia,58,27,,,,,,,,,,
+606,27089,Indus,South Asia,89,27,,,,,,,,,,
+607,27090,Farahrud,South Asia,90,27,,,,,,,,,,
+608,27097,Helmand,South Asia,97,27,,,,,,,,,,
+609,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
+610,27110,Ganges_Bramaputra,South Asia,110,27,5561.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,110.0,rfd,1773.83790412141,24.8072619767864,SSP1
+611,27110,Ganges_Bramaputra,South Asia,110,27,12842.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,110.0,irr,1773.83790412141,24.8072619767864,SSP1
+612,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5562.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,116.0,rfd,1772.31275351487,24.7859326261379,SSP1
+613,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12843.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,116.0,irr,1772.31275351487,24.7859326261379,SSP1
+614,27154,Sri_Lanka,South Asia,154,27,5563.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,154.0,rfd,3810.1685718538,53.2855058052846,SSP1
+615,27154,Sri_Lanka,South Asia,154,27,12844.0,South Asia,27.0,NutsSeeds,NutsSeedsTree,154.0,irr,3810.1685718538,53.2855058052846,SSP1
+616,28065,North_and_South_Korea,South Korea,65,28,5635.0,South Korea,28.0,NutsSeeds,NutsSeedsTree,65.0,rfd,809.12509107031,26.4198942766363,SSP1
+617,28065,North_and_South_Korea,South Korea,65,28,12916.0,South Korea,28.0,NutsSeeds,NutsSeedsTree,65.0,irr,809.12509107031,26.4198942766363,SSP1
+618,29037,Russia_South_East_Coast,Southeast Asia,37,29,5835.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,37.0,rfd,460.943053550259,18.07,SSP1
+619,29037,Russia_South_East_Coast,Southeast Asia,37,29,13116.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,37.0,irr,460.943053550259,18.07,SSP1
+620,29065,North_and_South_Korea,Southeast Asia,65,29,5836.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,65.0,rfd,460.943053550259,18.07,SSP1
+621,29065,North_and_South_Korea,Southeast Asia,65,29,13117.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,65.0,irr,460.943053550259,18.07,SSP1
+622,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,5837.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,66.0,rfd,460.943053550259,18.07,SSP1
+623,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13118.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,66.0,irr,460.943053550259,18.07,SSP1
+624,29108,Xun_Jiang,Southeast Asia,108,29,5838.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,108.0,rfd,1933.60895554394,75.8018014537001,SSP1
+625,29108,Xun_Jiang,Southeast Asia,108,29,13119.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,108.0,irr,1933.60895554394,75.8018014537001,SSP1
+626,29109,Hong_(Red_River),Southeast Asia,109,29,5839.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,109.0,rfd,1933.61528431912,75.8020495558608,SSP1
+627,29109,Hong_(Red_River),Southeast Asia,109,29,13120.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,109.0,irr,1933.61528431912,75.8020495558608,SSP1
+628,29110,Ganges_Bramaputra,Southeast Asia,110,29,5840.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,110.0,rfd,496.081743812856,19.4475153528285,SSP1
+629,29110,Ganges_Bramaputra,Southeast Asia,110,29,13121.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,110.0,irr,496.081743812856,19.4475153528285,SSP1
+630,29112,South_China_Sea_Coast,Southeast Asia,112,29,5841.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,112.0,rfd,1933.62416987041,75.8023978893708,SSP1
+631,29112,South_China_Sea_Coast,Southeast Asia,112,29,13122.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,112.0,irr,1933.62416987041,75.8023978893708,SSP1
+632,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5842.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,116.0,rfd,496.081743812856,19.4475153528285,SSP1
+633,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13123.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,116.0,irr,496.081743812856,19.4475153528285,SSP1
+634,29119,Philippines,Southeast Asia,119,29,5843.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,119.0,rfd,4736.46333371409,185.679970185041,SSP1
+635,29119,Philippines,Southeast Asia,119,29,13124.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,119.0,irr,4736.46333371409,185.679970185041,SSP1
+636,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
+637,29125,Mekong,Southeast Asia,125,29,5844.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,125.0,rfd,3297.86667499921,129.283759367334,SSP1
+638,29125,Mekong,Southeast Asia,125,29,13125.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,125.0,irr,3297.86667499921,129.283759367334,SSP1
+639,29126,Viet_Nam_Coast,Southeast Asia,126,29,5845.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,126.0,rfd,1931.31977481814,75.7120604425348,SSP1
+640,29126,Viet_Nam_Coast,Southeast Asia,126,29,13126.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,126.0,irr,1931.31977481814,75.7120604425348,SSP1
+641,29127,Salween,Southeast Asia,127,29,5846.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,127.0,rfd,892.163355632196,34.9748015771236,SSP1
+642,29127,Salween,Southeast Asia,127,29,13127.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,127.0,irr,892.163355632196,34.9748015771236,SSP1
+643,29137,Irrawaddy,Southeast Asia,137,29,5847.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,137.0,rfd,496.081743812856,19.4475153528285,SSP1
+644,29137,Irrawaddy,Southeast Asia,137,29,13128.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,137.0,irr,496.081743812856,19.4475153528285,SSP1
+645,29138,Sittang,Southeast Asia,138,29,5848.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,138.0,rfd,496.081743812856,19.4475153528285,SSP1
+646,29138,Sittang,Southeast Asia,138,29,13129.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,138.0,irr,496.081743812856,19.4475153528285,SSP1
+647,29139,Peninsula_Malaysia,Southeast Asia,139,29,,,,,,,,,,
+648,29146,Chao_Phraya,Southeast Asia,146,29,5850.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,146.0,rfd,7189.81407349227,281.856813563716,SSP1
+649,29146,Chao_Phraya,Southeast Asia,146,29,13131.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,146.0,irr,7189.81407349227,281.856813563716,SSP1
+650,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5851.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,148.0,rfd,6977.18256538727,273.521182249037,SSP1
+651,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13132.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,148.0,irr,6977.18256538727,273.521182249037,SSP1
+652,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
+653,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,,,,,,,,,,
+654,29159,North_Borneo_Coast,Southeast Asia,159,29,,,,,,,,,,
+655,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
+656,29165,Kalimantan,Southeast Asia,165,29,,,,,,,,,,
+657,29167,Irian_Jaya_Coast,Southeast Asia,167,29,5854.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,167.0,rfd,2038.6414448169,79.9193102577578,SSP1
+658,29167,Irian_Jaya_Coast,Southeast Asia,167,29,13135.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,167.0,irr,2038.6414448169,79.9193102577578,SSP1
+659,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,5855.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,173.0,rfd,2038.6414448169,79.9193102577578,SSP1
+660,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,13136.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,173.0,irr,2038.6414448169,79.9193102577578,SSP1
+661,29175,Java_Timor,Southeast Asia,175,29,5856.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,175.0,rfd,460.943053550259,18.07,SSP1
+662,29175,Java_Timor,Southeast Asia,175,29,13137.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,175.0,irr,460.943053550259,18.07,SSP1
+663,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
+664,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
+665,29178,Sepik,Southeast Asia,178,29,5857.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,178.0,rfd,2038.6414448169,79.9193102577578,SSP1
+666,29178,Sepik,Southeast Asia,178,29,13138.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,178.0,irr,2038.6414448169,79.9193102577578,SSP1
+667,29181,Fly,Southeast Asia,181,29,5858.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,181.0,rfd,2038.6414448169,79.9193102577578,SSP1
+668,29181,Fly,Southeast Asia,181,29,13139.0,Southeast Asia,29.0,NutsSeeds,NutsSeedsTree,181.0,irr,2038.6414448169,79.9193102577578,SSP1
+669,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
+670,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
+671,30078,China_Coast,Taiwan,78,30,6086.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,78.0,rfd,420.401526016743,18.07,SSP1
+672,30078,China_Coast,Taiwan,78,30,13367.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,78.0,irr,420.401526016743,18.07,SSP1
+673,30103,Taiwan,Taiwan,103,30,6087.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,103.0,rfd,469.220333812653,20.1683650207705,SSP1
+674,30103,Taiwan,Taiwan,103,30,13368.0,Taiwan,30.0,NutsSeeds,NutsSeedsTree,103.0,irr,469.220333812653,20.1683650207705,SSP1
+675,31169,South_Chile_Pacific_Coast,Argentina,169,31,,,,,,,,,,
+676,31200,La_Puna_Region,Argentina,200,31,,,,,,,,,,
+677,31203,Mar_Chiquita,Argentina,203,31,6201.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,203.0,rfd,1070.44991882337,18.07,SSP1
+678,31203,Mar_Chiquita,Argentina,203,31,13482.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,203.0,irr,1070.44991882337,18.07,SSP1
+679,31205,Salinas_Grandes,Argentina,205,31,6202.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,205.0,rfd,1070.44991882337,18.07,SSP1
+680,31205,Salinas_Grandes,Argentina,205,31,13483.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,205.0,irr,1070.44991882337,18.07,SSP1
+681,31206,La_Plata,Argentina,206,31,6203.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,206.0,rfd,1070.44991882337,18.07,SSP1
+682,31206,La_Plata,Argentina,206,31,13484.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,206.0,irr,1070.44991882337,18.07,SSP1
+683,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
+684,31209,Pampas_Region,Argentina,209,31,6204.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,209.0,rfd,1070.44991882337,18.07,SSP1
+685,31209,Pampas_Region,Argentina,209,31,13485.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,209.0,irr,1070.44991882337,18.07,SSP1
+686,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6205.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,210.0,rfd,1070.44991882337,18.07,SSP1
+687,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13486.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,210.0,irr,1070.44991882337,18.07,SSP1
+688,31212,South_America_Colorado,Argentina,212,31,6206.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,212.0,rfd,1070.44991882337,18.07,SSP1
+689,31212,South_America_Colorado,Argentina,212,31,13487.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,212.0,irr,1070.44991882337,18.07,SSP1
+690,31213,Negro,Argentina,213,31,6207.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,213.0,rfd,1070.44991882337,18.07,SSP1
+691,31213,Negro,Argentina,213,31,13488.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,213.0,irr,1070.44991882337,18.07,SSP1
+692,31214,Central_Patagonia_Highlands,Argentina,214,31,,,,,,,,,,
+693,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6208.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,215.0,rfd,1070.44991882337,18.07,SSP1
+694,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13489.0,Argentina,31.0,NutsSeeds,NutsSeedsTree,215.0,irr,1070.44991882337,18.07,SSP1
+695,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
+696,32143,Caribbean_Coast,Colombia,143,32,7272.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,143.0,rfd,1016.3409205629,18.07,SSP1
+697,32143,Caribbean_Coast,Colombia,143,32,14553.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,143.0,irr,1016.3409205629,18.07,SSP1
+698,32156,Orinoco,Colombia,156,32,7273.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,156.0,rfd,1016.3409205629,18.07,SSP1
+699,32156,Orinoco,Colombia,156,32,14554.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,156.0,irr,1016.3409205629,18.07,SSP1
+700,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,7274.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,157.0,rfd,1016.3409205629,18.07,SSP1
+701,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,14555.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,157.0,irr,1016.3409205629,18.07,SSP1
+702,32166,Magdalena,Colombia,166,32,7275.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,166.0,rfd,1016.3409205629,18.07,SSP1
+703,32166,Magdalena,Colombia,166,32,14556.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,166.0,irr,1016.3409205629,18.07,SSP1
+704,32168,Amazon,Colombia,168,32,7276.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,168.0,rfd,1016.3409205629,18.07,SSP1
+705,32168,Amazon,Colombia,168,32,14557.0,Colombia,32.0,NutsSeeds,NutsSeedsTree,168.0,irr,1016.3409205629,18.07,SSP1

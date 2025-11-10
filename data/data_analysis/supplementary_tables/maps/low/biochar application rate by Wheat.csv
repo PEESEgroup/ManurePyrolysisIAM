@@ -1,356 +1,356 @@
 ,key,glu_nm,reg_nm,glu_id,reg_id,Unnamed: 0,region,GCAM_region_ID,GCAM_commodity,GCAM_subsector,GLU,Irr_Rfd,kg_bio_ha,kg_P_ha,SSP
 0,1007,Pacific_and_Arctic_Coast,USA,7,1,,,,,,,,,,
-1,1023,Saskatchewan_Nelson,USA,23,1,330.0,USA,1.0,Wheat,Wheat,23.0,rfd,2972.13073854145,37.09,SSP1
-2,1023,Saskatchewan_Nelson,USA,23,1,7611.0,USA,1.0,Wheat,Wheat,23.0,irr,2972.13073854145,37.09,SSP1
-3,1027,Fraser,USA,27,1,331.0,USA,1.0,Wheat,Wheat,27.0,rfd,2972.13073854145,37.09,SSP1
-4,1027,Fraser,USA,27,1,7612.0,USA,1.0,Wheat,Wheat,27.0,irr,2972.13073854145,37.09,SSP1
-5,1096,Mexico_Northwest_Coast,USA,96,1,332.0,USA,1.0,Wheat,Wheat,96.0,rfd,2972.13073854145,37.09,SSP1
-6,1096,Mexico_Northwest_Coast,USA,96,1,7613.0,USA,1.0,Wheat,Wheat,96.0,irr,2972.13073854145,37.09,SSP1
+1,1023,Saskatchewan_Nelson,USA,23,1,330.0,USA,1.0,Wheat,Wheat,23.0,rfd,2842.82750200294,37.09,SSP1
+2,1023,Saskatchewan_Nelson,USA,23,1,7611.0,USA,1.0,Wheat,Wheat,23.0,irr,2842.82750200294,37.09,SSP1
+3,1027,Fraser,USA,27,1,331.0,USA,1.0,Wheat,Wheat,27.0,rfd,2842.82750200294,37.09,SSP1
+4,1027,Fraser,USA,27,1,7612.0,USA,1.0,Wheat,Wheat,27.0,irr,2842.82750200294,37.09,SSP1
+5,1096,Mexico_Northwest_Coast,USA,96,1,332.0,USA,1.0,Wheat,Wheat,96.0,rfd,2842.82750200294,37.09,SSP1
+6,1096,Mexico_Northwest_Coast,USA,96,1,7613.0,USA,1.0,Wheat,Wheat,96.0,irr,2842.82750200294,37.09,SSP1
 7,1101,Caribbean,USA,101,1,,,,,,,,,,
 8,1150,Micronesia,USA,150,1,,,,,,,,,,
-9,1217,California_River_Basin,USA,217,1,333.0,USA,1.0,Wheat,Wheat,217.0,rfd,2972.13073854145,37.09,SSP1
-10,1217,California_River_Basin,USA,217,1,7614.0,USA,1.0,Wheat,Wheat,217.0,irr,2972.13073854145,37.09,SSP1
-11,1218,Upper_Mississippi_Basin,USA,218,1,334.0,USA,1.0,Wheat,Wheat,218.0,rfd,2972.13073854145,37.09,SSP1
-12,1218,Upper_Mississippi_Basin,USA,218,1,7615.0,USA,1.0,Wheat,Wheat,218.0,irr,2972.13073854145,37.09,SSP1
-13,1219,Lower_Mississippi_River_Basin,USA,219,1,335.0,USA,1.0,Wheat,Wheat,219.0,rfd,2972.13073854145,37.09,SSP1
-14,1219,Lower_Mississippi_River_Basin,USA,219,1,7616.0,USA,1.0,Wheat,Wheat,219.0,irr,2972.13073854145,37.09,SSP1
-15,1220,Upper_Colorado_River_Basin,USA,220,1,336.0,USA,1.0,Wheat,Wheat,220.0,rfd,2972.13073854145,37.09,SSP1
-16,1220,Upper_Colorado_River_Basin,USA,220,1,7617.0,USA,1.0,Wheat,Wheat,220.0,irr,2972.13073854145,37.09,SSP1
-17,1221,Lower_Colorado_River_Basin,USA,221,1,337.0,USA,1.0,Wheat,Wheat,221.0,rfd,2972.13073854145,37.09,SSP1
-18,1221,Lower_Colorado_River_Basin,USA,221,1,7618.0,USA,1.0,Wheat,Wheat,221.0,irr,2972.13073854145,37.09,SSP1
-19,1222,Great_Basin,USA,222,1,338.0,USA,1.0,Wheat,Wheat,222.0,rfd,2972.13073854145,37.09,SSP1
-20,1222,Great_Basin,USA,222,1,7619.0,USA,1.0,Wheat,Wheat,222.0,irr,2972.13073854145,37.09,SSP1
-21,1223,Missouri_River_Basin,USA,223,1,339.0,USA,1.0,Wheat,Wheat,223.0,rfd,2972.13073854145,37.09,SSP1
-22,1223,Missouri_River_Basin,USA,223,1,7620.0,USA,1.0,Wheat,Wheat,223.0,irr,2972.13073854145,37.09,SSP1
-23,1224,Arkansas_White_Red_Basin,USA,224,1,340.0,USA,1.0,Wheat,Wheat,224.0,rfd,2972.13073854145,37.09,SSP1
-24,1224,Arkansas_White_Red_Basin,USA,224,1,7621.0,USA,1.0,Wheat,Wheat,224.0,irr,2972.13073854145,37.09,SSP1
-25,1225,Texas_Gulf_Coast_Basin,USA,225,1,341.0,USA,1.0,Wheat,Wheat,225.0,rfd,2972.13073854145,37.09,SSP1
-26,1225,Texas_Gulf_Coast_Basin,USA,225,1,7622.0,USA,1.0,Wheat,Wheat,225.0,irr,2972.13073854145,37.09,SSP1
-27,1226,South_Atlantic_Gulf_Basin,USA,226,1,342.0,USA,1.0,Wheat,Wheat,226.0,rfd,2972.13073854145,37.09,SSP1
-28,1226,South_Atlantic_Gulf_Basin,USA,226,1,7623.0,USA,1.0,Wheat,Wheat,226.0,irr,2972.13073854145,37.09,SSP1
-29,1227,Great_Lakes_Basin,USA,227,1,343.0,USA,1.0,Wheat,Wheat,227.0,rfd,2972.13073854145,37.09,SSP1
-30,1227,Great_Lakes_Basin,USA,227,1,7624.0,USA,1.0,Wheat,Wheat,227.0,irr,2972.13073854145,37.09,SSP1
-31,1228,Ohio_River_Basin,USA,228,1,344.0,USA,1.0,Wheat,Wheat,228.0,rfd,2972.13073854145,37.09,SSP1
-32,1228,Ohio_River_Basin,USA,228,1,7625.0,USA,1.0,Wheat,Wheat,228.0,irr,2972.13073854145,37.09,SSP1
-33,1229,Pacific_Northwest_Basin,USA,229,1,345.0,USA,1.0,Wheat,Wheat,229.0,rfd,2972.13073854145,37.09,SSP1
-34,1229,Pacific_Northwest_Basin,USA,229,1,7626.0,USA,1.0,Wheat,Wheat,229.0,irr,2972.13073854145,37.09,SSP1
-35,1230,Tennessee_River_Basin,USA,230,1,346.0,USA,1.0,Wheat,Wheat,230.0,rfd,2972.13073854145,37.09,SSP1
-36,1230,Tennessee_River_Basin,USA,230,1,7627.0,USA,1.0,Wheat,Wheat,230.0,irr,2972.13073854145,37.09,SSP1
-37,1231,Rio_Grande_River_Basin,USA,231,1,347.0,USA,1.0,Wheat,Wheat,231.0,rfd,2972.13073854145,37.09,SSP1
-38,1231,Rio_Grande_River_Basin,USA,231,1,7628.0,USA,1.0,Wheat,Wheat,231.0,irr,2972.13073854145,37.09,SSP1
-39,1232,New_England_Basin,USA,232,1,348.0,USA,1.0,Wheat,Wheat,232.0,rfd,2972.13073854145,37.09,SSP1
-40,1232,New_England_Basin,USA,232,1,7629.0,USA,1.0,Wheat,Wheat,232.0,irr,2972.13073854145,37.09,SSP1
-41,1233,Mid_Atlantic_Basin,USA,233,1,349.0,USA,1.0,Wheat,Wheat,233.0,rfd,2972.13073854145,37.09,SSP1
-42,1233,Mid_Atlantic_Basin,USA,233,1,7630.0,USA,1.0,Wheat,Wheat,233.0,irr,2972.13073854145,37.09,SSP1
+9,1217,California_River_Basin,USA,217,1,333.0,USA,1.0,Wheat,Wheat,217.0,rfd,2842.82750200294,37.09,SSP1
+10,1217,California_River_Basin,USA,217,1,7614.0,USA,1.0,Wheat,Wheat,217.0,irr,2842.82750200294,37.09,SSP1
+11,1218,Upper_Mississippi_Basin,USA,218,1,334.0,USA,1.0,Wheat,Wheat,218.0,rfd,2842.82750200294,37.09,SSP1
+12,1218,Upper_Mississippi_Basin,USA,218,1,7615.0,USA,1.0,Wheat,Wheat,218.0,irr,2842.82750200294,37.09,SSP1
+13,1219,Lower_Mississippi_River_Basin,USA,219,1,335.0,USA,1.0,Wheat,Wheat,219.0,rfd,2842.82750200294,37.09,SSP1
+14,1219,Lower_Mississippi_River_Basin,USA,219,1,7616.0,USA,1.0,Wheat,Wheat,219.0,irr,2842.82750200294,37.09,SSP1
+15,1220,Upper_Colorado_River_Basin,USA,220,1,336.0,USA,1.0,Wheat,Wheat,220.0,rfd,2842.82750200294,37.09,SSP1
+16,1220,Upper_Colorado_River_Basin,USA,220,1,7617.0,USA,1.0,Wheat,Wheat,220.0,irr,2842.82750200294,37.09,SSP1
+17,1221,Lower_Colorado_River_Basin,USA,221,1,337.0,USA,1.0,Wheat,Wheat,221.0,rfd,2842.82750200294,37.09,SSP1
+18,1221,Lower_Colorado_River_Basin,USA,221,1,7618.0,USA,1.0,Wheat,Wheat,221.0,irr,2842.82750200294,37.09,SSP1
+19,1222,Great_Basin,USA,222,1,338.0,USA,1.0,Wheat,Wheat,222.0,rfd,2842.82750200294,37.09,SSP1
+20,1222,Great_Basin,USA,222,1,7619.0,USA,1.0,Wheat,Wheat,222.0,irr,2842.82750200294,37.09,SSP1
+21,1223,Missouri_River_Basin,USA,223,1,339.0,USA,1.0,Wheat,Wheat,223.0,rfd,2842.82750200294,37.09,SSP1
+22,1223,Missouri_River_Basin,USA,223,1,7620.0,USA,1.0,Wheat,Wheat,223.0,irr,2842.82750200294,37.09,SSP1
+23,1224,Arkansas_White_Red_Basin,USA,224,1,340.0,USA,1.0,Wheat,Wheat,224.0,rfd,2842.82750200294,37.09,SSP1
+24,1224,Arkansas_White_Red_Basin,USA,224,1,7621.0,USA,1.0,Wheat,Wheat,224.0,irr,2842.82750200294,37.09,SSP1
+25,1225,Texas_Gulf_Coast_Basin,USA,225,1,341.0,USA,1.0,Wheat,Wheat,225.0,rfd,2842.82750200294,37.09,SSP1
+26,1225,Texas_Gulf_Coast_Basin,USA,225,1,7622.0,USA,1.0,Wheat,Wheat,225.0,irr,2842.82750200294,37.09,SSP1
+27,1226,South_Atlantic_Gulf_Basin,USA,226,1,342.0,USA,1.0,Wheat,Wheat,226.0,rfd,2842.82750200294,37.09,SSP1
+28,1226,South_Atlantic_Gulf_Basin,USA,226,1,7623.0,USA,1.0,Wheat,Wheat,226.0,irr,2842.82750200294,37.09,SSP1
+29,1227,Great_Lakes_Basin,USA,227,1,343.0,USA,1.0,Wheat,Wheat,227.0,rfd,2842.82750200294,37.09,SSP1
+30,1227,Great_Lakes_Basin,USA,227,1,7624.0,USA,1.0,Wheat,Wheat,227.0,irr,2842.82750200294,37.09,SSP1
+31,1228,Ohio_River_Basin,USA,228,1,344.0,USA,1.0,Wheat,Wheat,228.0,rfd,2842.82750200294,37.09,SSP1
+32,1228,Ohio_River_Basin,USA,228,1,7625.0,USA,1.0,Wheat,Wheat,228.0,irr,2842.82750200294,37.09,SSP1
+33,1229,Pacific_Northwest_Basin,USA,229,1,345.0,USA,1.0,Wheat,Wheat,229.0,rfd,2842.82750200294,37.09,SSP1
+34,1229,Pacific_Northwest_Basin,USA,229,1,7626.0,USA,1.0,Wheat,Wheat,229.0,irr,2842.82750200294,37.09,SSP1
+35,1230,Tennessee_River_Basin,USA,230,1,346.0,USA,1.0,Wheat,Wheat,230.0,rfd,2842.82750200294,37.09,SSP1
+36,1230,Tennessee_River_Basin,USA,230,1,7627.0,USA,1.0,Wheat,Wheat,230.0,irr,2842.82750200294,37.09,SSP1
+37,1231,Rio_Grande_River_Basin,USA,231,1,347.0,USA,1.0,Wheat,Wheat,231.0,rfd,2842.82750200294,37.09,SSP1
+38,1231,Rio_Grande_River_Basin,USA,231,1,7628.0,USA,1.0,Wheat,Wheat,231.0,irr,2842.82750200294,37.09,SSP1
+39,1232,New_England_Basin,USA,232,1,348.0,USA,1.0,Wheat,Wheat,232.0,rfd,2842.82750200294,37.09,SSP1
+40,1232,New_England_Basin,USA,232,1,7629.0,USA,1.0,Wheat,Wheat,232.0,irr,2842.82750200294,37.09,SSP1
+41,1233,Mid_Atlantic_Basin,USA,233,1,349.0,USA,1.0,Wheat,Wheat,233.0,rfd,2842.82750200294,37.09,SSP1
+42,1233,Mid_Atlantic_Basin,USA,233,1,7630.0,USA,1.0,Wheat,Wheat,233.0,irr,2842.82750200294,37.09,SSP1
 43,1234,Hawaii,USA,234,1,,,,,,,,,,
-44,2087,Nile,Africa_Eastern,87,2,499.0,Africa_Eastern,2.0,Wheat,Wheat,87.0,rfd,7252.81364913571,37.09,SSP1
-45,2087,Nile,Africa_Eastern,87,2,7780.0,Africa_Eastern,2.0,Wheat,Wheat,87.0,irr,7252.81364913571,37.09,SSP1
-46,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,500.0,Africa_Eastern,2.0,Wheat,Wheat,100.0,rfd,7252.81364913571,37.09,SSP1
-47,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7781.0,Africa_Eastern,2.0,Wheat,Wheat,100.0,irr,7252.81364913571,37.09,SSP1
+44,2087,Nile,Africa_Eastern,87,2,499.0,Africa_Eastern,2.0,Wheat,Wheat,87.0,rfd,7128.28466618926,37.09,SSP1
+45,2087,Nile,Africa_Eastern,87,2,7780.0,Africa_Eastern,2.0,Wheat,Wheat,87.0,irr,7128.28466618926,37.09,SSP1
+46,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,500.0,Africa_Eastern,2.0,Wheat,Wheat,100.0,rfd,7128.28466618926,37.09,SSP1
+47,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7781.0,Africa_Eastern,2.0,Wheat,Wheat,100.0,irr,7128.28466618926,37.09,SSP1
 48,2144,Africa_North_Interior,Africa_Eastern,144,2,,,,,,,,,,
-49,2151,Lake_Chad,Africa_Eastern,151,2,501.0,Africa_Eastern,2.0,Wheat,Wheat,151.0,rfd,7252.81364913571,37.09,SSP1
-50,2151,Lake_Chad,Africa_Eastern,151,2,7782.0,Africa_Eastern,2.0,Wheat,Wheat,151.0,irr,7252.81364913571,37.09,SSP1
-51,2170,Shebelli_Juba,Africa_Eastern,170,2,502.0,Africa_Eastern,2.0,Wheat,Wheat,170.0,rfd,7252.81364913571,37.09,SSP1
-52,2170,Shebelli_Juba,Africa_Eastern,170,2,7783.0,Africa_Eastern,2.0,Wheat,Wheat,170.0,irr,7252.81364913571,37.09,SSP1
-53,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,503.0,Africa_Eastern,2.0,Wheat,Wheat,171.0,rfd,7252.81364913571,37.09,SSP1
-54,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7784.0,Africa_Eastern,2.0,Wheat,Wheat,171.0,irr,7252.81364913571,37.09,SSP1
-55,2177,Madagascar,Africa_Eastern,177,2,504.0,Africa_Eastern,2.0,Wheat,Wheat,177.0,rfd,7252.81364913571,37.09,SSP1
-56,2177,Madagascar,Africa_Eastern,177,2,7785.0,Africa_Eastern,2.0,Wheat,Wheat,177.0,irr,7252.81364913571,37.09,SSP1
-57,2179,Rift_Valley,Africa_Eastern,179,2,505.0,Africa_Eastern,2.0,Wheat,Wheat,179.0,rfd,7252.81364913571,37.09,SSP1
-58,2179,Rift_Valley,Africa_Eastern,179,2,7786.0,Africa_Eastern,2.0,Wheat,Wheat,179.0,irr,7252.81364913571,37.09,SSP1
-59,2183,Congo,Africa_Eastern,183,2,506.0,Africa_Eastern,2.0,Wheat,Wheat,183.0,rfd,7252.81364913571,37.09,SSP1
-60,2183,Congo,Africa_Eastern,183,2,7787.0,Africa_Eastern,2.0,Wheat,Wheat,183.0,irr,7252.81364913571,37.09,SSP1
-61,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,622.0,Africa_Northern,3.0,Wheat,Wheat,75.0,rfd,4513.77047154159,37.09,SSP1
-62,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7903.0,Africa_Northern,3.0,Wheat,Wheat,75.0,irr,4513.77047154159,37.09,SSP1
-63,3080,Mediterranean_South_Coast,Africa_Northern,80,3,623.0,Africa_Northern,3.0,Wheat,Wheat,80.0,rfd,4513.77047154159,37.09,SSP1
-64,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7904.0,Africa_Northern,3.0,Wheat,Wheat,80.0,irr,4513.77047154159,37.09,SSP1
-65,3086,Africa_North_West_Coast,Africa_Northern,86,3,624.0,Africa_Northern,3.0,Wheat,Wheat,86.0,rfd,4513.77047154159,37.09,SSP1
-66,3086,Africa_North_West_Coast,Africa_Northern,86,3,7905.0,Africa_Northern,3.0,Wheat,Wheat,86.0,irr,4513.77047154159,37.09,SSP1
-67,3087,Nile,Africa_Northern,87,3,625.0,Africa_Northern,3.0,Wheat,Wheat,87.0,rfd,4513.77047154159,37.09,SSP1
-68,3087,Nile,Africa_Northern,87,3,7906.0,Africa_Northern,3.0,Wheat,Wheat,87.0,irr,4513.77047154159,37.09,SSP1
+49,2151,Lake_Chad,Africa_Eastern,151,2,501.0,Africa_Eastern,2.0,Wheat,Wheat,151.0,rfd,7128.28466618926,37.09,SSP1
+50,2151,Lake_Chad,Africa_Eastern,151,2,7782.0,Africa_Eastern,2.0,Wheat,Wheat,151.0,irr,7128.28466618926,37.09,SSP1
+51,2170,Shebelli_Juba,Africa_Eastern,170,2,502.0,Africa_Eastern,2.0,Wheat,Wheat,170.0,rfd,7128.28466618926,37.09,SSP1
+52,2170,Shebelli_Juba,Africa_Eastern,170,2,7783.0,Africa_Eastern,2.0,Wheat,Wheat,170.0,irr,7128.28466618926,37.09,SSP1
+53,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,503.0,Africa_Eastern,2.0,Wheat,Wheat,171.0,rfd,7128.28466618926,37.09,SSP1
+54,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7784.0,Africa_Eastern,2.0,Wheat,Wheat,171.0,irr,7128.28466618926,37.09,SSP1
+55,2177,Madagascar,Africa_Eastern,177,2,504.0,Africa_Eastern,2.0,Wheat,Wheat,177.0,rfd,7128.28466618926,37.09,SSP1
+56,2177,Madagascar,Africa_Eastern,177,2,7785.0,Africa_Eastern,2.0,Wheat,Wheat,177.0,irr,7128.28466618926,37.09,SSP1
+57,2179,Rift_Valley,Africa_Eastern,179,2,505.0,Africa_Eastern,2.0,Wheat,Wheat,179.0,rfd,7128.28466618926,37.09,SSP1
+58,2179,Rift_Valley,Africa_Eastern,179,2,7786.0,Africa_Eastern,2.0,Wheat,Wheat,179.0,irr,7128.28466618926,37.09,SSP1
+59,2183,Congo,Africa_Eastern,183,2,506.0,Africa_Eastern,2.0,Wheat,Wheat,183.0,rfd,7128.28466618926,37.09,SSP1
+60,2183,Congo,Africa_Eastern,183,2,7787.0,Africa_Eastern,2.0,Wheat,Wheat,183.0,irr,7128.28466618926,37.09,SSP1
+61,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,622.0,Africa_Northern,3.0,Wheat,Wheat,75.0,rfd,4358.0427377409,37.09,SSP1
+62,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7903.0,Africa_Northern,3.0,Wheat,Wheat,75.0,irr,4358.0427377409,37.09,SSP1
+63,3080,Mediterranean_South_Coast,Africa_Northern,80,3,623.0,Africa_Northern,3.0,Wheat,Wheat,80.0,rfd,4358.0427377409,37.09,SSP1
+64,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7904.0,Africa_Northern,3.0,Wheat,Wheat,80.0,irr,4358.0427377409,37.09,SSP1
+65,3086,Africa_North_West_Coast,Africa_Northern,86,3,624.0,Africa_Northern,3.0,Wheat,Wheat,86.0,rfd,4358.0427377409,37.09,SSP1
+66,3086,Africa_North_West_Coast,Africa_Northern,86,3,7905.0,Africa_Northern,3.0,Wheat,Wheat,86.0,irr,4358.0427377409,37.09,SSP1
+67,3087,Nile,Africa_Northern,87,3,625.0,Africa_Northern,3.0,Wheat,Wheat,87.0,rfd,4358.0427377409,37.09,SSP1
+68,3087,Nile,Africa_Northern,87,3,7906.0,Africa_Northern,3.0,Wheat,Wheat,87.0,irr,4358.0427377409,37.09,SSP1
 69,3095,Dead_Sea,Africa_Northern,95,3,,,,,,,,,,
-70,3098,Sinai_Peninsula,Africa_Northern,98,3,626.0,Africa_Northern,3.0,Wheat,Wheat,98.0,rfd,4513.77047154159,37.09,SSP1
-71,3098,Sinai_Peninsula,Africa_Northern,98,3,7907.0,Africa_Northern,3.0,Wheat,Wheat,98.0,irr,4513.77047154159,37.09,SSP1
+70,3098,Sinai_Peninsula,Africa_Northern,98,3,626.0,Africa_Northern,3.0,Wheat,Wheat,98.0,rfd,4358.0427377409,37.09,SSP1
+71,3098,Sinai_Peninsula,Africa_Northern,98,3,7907.0,Africa_Northern,3.0,Wheat,Wheat,98.0,irr,4358.0427377409,37.09,SSP1
 72,3100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Northern,100,3,,,,,,,,,,
-73,3144,Africa_North_Interior,Africa_Northern,144,3,627.0,Africa_Northern,3.0,Wheat,Wheat,144.0,rfd,4513.77047154159,37.09,SSP1
-74,3144,Africa_North_Interior,Africa_Northern,144,3,7908.0,Africa_Northern,3.0,Wheat,Wheat,144.0,irr,4513.77047154159,37.09,SSP1
+73,3144,Africa_North_Interior,Africa_Northern,144,3,627.0,Africa_Northern,3.0,Wheat,Wheat,144.0,rfd,4358.0427377409,37.09,SSP1
+74,3144,Africa_North_Interior,Africa_Northern,144,3,7908.0,Africa_Northern,3.0,Wheat,Wheat,144.0,irr,4358.0427377409,37.09,SSP1
 75,3149,Niger,Africa_Northern,149,3,,,,,,,,,,
 76,3151,Lake_Chad,Africa_Northern,151,3,,,,,,,,,,
-77,4087,Nile,Africa_Southern,87,4,845.0,Africa_Southern,4.0,Wheat,Wheat,87.0,rfd,3731.71841092984,37.09,SSP1
-78,4087,Nile,Africa_Southern,87,4,8126.0,Africa_Southern,4.0,Wheat,Wheat,87.0,irr,3731.71841092984,37.09,SSP1
-79,4162,Gulf_of_Guinea,Africa_Southern,162,4,846.0,Africa_Southern,4.0,Wheat,Wheat,162.0,rfd,3731.71841092984,37.09,SSP1
-80,4162,Gulf_of_Guinea,Africa_Southern,162,4,8127.0,Africa_Southern,4.0,Wheat,Wheat,162.0,irr,3731.71841092984,37.09,SSP1
-81,4171,Africa_East_Central_Coast,Africa_Southern,171,4,847.0,Africa_Southern,4.0,Wheat,Wheat,171.0,rfd,3731.71841092984,37.09,SSP1
-82,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8128.0,Africa_Southern,4.0,Wheat,Wheat,171.0,irr,3731.71841092984,37.09,SSP1
-83,4179,Rift_Valley,Africa_Southern,179,4,848.0,Africa_Southern,4.0,Wheat,Wheat,179.0,rfd,3731.71841092984,37.09,SSP1
-84,4179,Rift_Valley,Africa_Southern,179,4,8129.0,Africa_Southern,4.0,Wheat,Wheat,179.0,irr,3731.71841092984,37.09,SSP1
-85,4182,Angola_Coast,Africa_Southern,182,4,849.0,Africa_Southern,4.0,Wheat,Wheat,182.0,rfd,3731.71841092984,37.09,SSP1
-86,4182,Angola_Coast,Africa_Southern,182,4,8130.0,Africa_Southern,4.0,Wheat,Wheat,182.0,irr,3731.71841092984,37.09,SSP1
-87,4183,Congo,Africa_Southern,183,4,850.0,Africa_Southern,4.0,Wheat,Wheat,183.0,rfd,3731.71841092984,37.09,SSP1
-88,4183,Congo,Africa_Southern,183,4,8131.0,Africa_Southern,4.0,Wheat,Wheat,183.0,irr,3731.71841092984,37.09,SSP1
-89,4188,Zambezi,Africa_Southern,188,4,851.0,Africa_Southern,4.0,Wheat,Wheat,188.0,rfd,3731.71841092984,37.09,SSP1
-90,4188,Zambezi,Africa_Southern,188,4,8132.0,Africa_Southern,4.0,Wheat,Wheat,188.0,irr,3731.71841092984,37.09,SSP1
-91,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,852.0,Africa_Southern,4.0,Wheat,Wheat,190.0,rfd,3731.71841092984,37.09,SSP1
-92,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8133.0,Africa_Southern,4.0,Wheat,Wheat,190.0,irr,3731.71841092984,37.09,SSP1
-93,4194,Orange,Africa_Southern,194,4,853.0,Africa_Southern,4.0,Wheat,Wheat,194.0,rfd,3731.71841092984,37.09,SSP1
-94,4194,Orange,Africa_Southern,194,4,8134.0,Africa_Southern,4.0,Wheat,Wheat,194.0,irr,3731.71841092984,37.09,SSP1
-95,4196,Namibia_Coast,Africa_Southern,196,4,854.0,Africa_Southern,4.0,Wheat,Wheat,196.0,rfd,3731.71841092984,37.09,SSP1
-96,4196,Namibia_Coast,Africa_Southern,196,4,8135.0,Africa_Southern,4.0,Wheat,Wheat,196.0,irr,3731.71841092984,37.09,SSP1
-97,4197,Africa_South_Interior,Africa_Southern,197,4,855.0,Africa_Southern,4.0,Wheat,Wheat,197.0,rfd,3731.71841092984,37.09,SSP1
-98,4197,Africa_South_Interior,Africa_Southern,197,4,8136.0,Africa_Southern,4.0,Wheat,Wheat,197.0,irr,3731.71841092984,37.09,SSP1
-99,4198,South_Africa_South_Coast,Africa_Southern,198,4,856.0,Africa_Southern,4.0,Wheat,Wheat,198.0,rfd,3731.71841092984,37.09,SSP1
-100,4198,South_Africa_South_Coast,Africa_Southern,198,4,8137.0,Africa_Southern,4.0,Wheat,Wheat,198.0,irr,3731.71841092984,37.09,SSP1
-101,4199,Limpopo,Africa_Southern,199,4,857.0,Africa_Southern,4.0,Wheat,Wheat,199.0,rfd,3731.71841092984,37.09,SSP1
-102,4199,Limpopo,Africa_Southern,199,4,8138.0,Africa_Southern,4.0,Wheat,Wheat,199.0,irr,3731.71841092984,37.09,SSP1
+77,4087,Nile,Africa_Southern,87,4,845.0,Africa_Southern,4.0,Wheat,Wheat,87.0,rfd,3589.33324229223,37.09,SSP1
+78,4087,Nile,Africa_Southern,87,4,8126.0,Africa_Southern,4.0,Wheat,Wheat,87.0,irr,3589.33324229223,37.09,SSP1
+79,4162,Gulf_of_Guinea,Africa_Southern,162,4,846.0,Africa_Southern,4.0,Wheat,Wheat,162.0,rfd,3589.33324229223,37.09,SSP1
+80,4162,Gulf_of_Guinea,Africa_Southern,162,4,8127.0,Africa_Southern,4.0,Wheat,Wheat,162.0,irr,3589.33324229223,37.09,SSP1
+81,4171,Africa_East_Central_Coast,Africa_Southern,171,4,847.0,Africa_Southern,4.0,Wheat,Wheat,171.0,rfd,3589.33324229223,37.09,SSP1
+82,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8128.0,Africa_Southern,4.0,Wheat,Wheat,171.0,irr,3589.33324229223,37.09,SSP1
+83,4179,Rift_Valley,Africa_Southern,179,4,848.0,Africa_Southern,4.0,Wheat,Wheat,179.0,rfd,3589.33324229223,37.09,SSP1
+84,4179,Rift_Valley,Africa_Southern,179,4,8129.0,Africa_Southern,4.0,Wheat,Wheat,179.0,irr,3589.33324229223,37.09,SSP1
+85,4182,Angola_Coast,Africa_Southern,182,4,849.0,Africa_Southern,4.0,Wheat,Wheat,182.0,rfd,3589.33324229223,37.09,SSP1
+86,4182,Angola_Coast,Africa_Southern,182,4,8130.0,Africa_Southern,4.0,Wheat,Wheat,182.0,irr,3589.33324229223,37.09,SSP1
+87,4183,Congo,Africa_Southern,183,4,850.0,Africa_Southern,4.0,Wheat,Wheat,183.0,rfd,3589.33324229223,37.09,SSP1
+88,4183,Congo,Africa_Southern,183,4,8131.0,Africa_Southern,4.0,Wheat,Wheat,183.0,irr,3589.33324229223,37.09,SSP1
+89,4188,Zambezi,Africa_Southern,188,4,851.0,Africa_Southern,4.0,Wheat,Wheat,188.0,rfd,3589.33324229223,37.09,SSP1
+90,4188,Zambezi,Africa_Southern,188,4,8132.0,Africa_Southern,4.0,Wheat,Wheat,188.0,irr,3589.33324229223,37.09,SSP1
+91,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,852.0,Africa_Southern,4.0,Wheat,Wheat,190.0,rfd,3589.33324229223,37.09,SSP1
+92,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8133.0,Africa_Southern,4.0,Wheat,Wheat,190.0,irr,3589.33324229223,37.09,SSP1
+93,4194,Orange,Africa_Southern,194,4,853.0,Africa_Southern,4.0,Wheat,Wheat,194.0,rfd,3589.33324229223,37.09,SSP1
+94,4194,Orange,Africa_Southern,194,4,8134.0,Africa_Southern,4.0,Wheat,Wheat,194.0,irr,3589.33324229223,37.09,SSP1
+95,4196,Namibia_Coast,Africa_Southern,196,4,854.0,Africa_Southern,4.0,Wheat,Wheat,196.0,rfd,3589.33324229223,37.09,SSP1
+96,4196,Namibia_Coast,Africa_Southern,196,4,8135.0,Africa_Southern,4.0,Wheat,Wheat,196.0,irr,3589.33324229223,37.09,SSP1
+97,4197,Africa_South_Interior,Africa_Southern,197,4,855.0,Africa_Southern,4.0,Wheat,Wheat,197.0,rfd,3589.33324229223,37.09,SSP1
+98,4197,Africa_South_Interior,Africa_Southern,197,4,8136.0,Africa_Southern,4.0,Wheat,Wheat,197.0,irr,3589.33324229223,37.09,SSP1
+99,4198,South_Africa_South_Coast,Africa_Southern,198,4,856.0,Africa_Southern,4.0,Wheat,Wheat,198.0,rfd,3589.33324229223,37.09,SSP1
+100,4198,South_Africa_South_Coast,Africa_Southern,198,4,8137.0,Africa_Southern,4.0,Wheat,Wheat,198.0,irr,3589.33324229223,37.09,SSP1
+101,4199,Limpopo,Africa_Southern,199,4,857.0,Africa_Southern,4.0,Wheat,Wheat,199.0,rfd,3589.33324229223,37.09,SSP1
+102,4199,Limpopo,Africa_Southern,199,4,8138.0,Africa_Southern,4.0,Wheat,Wheat,199.0,irr,3589.33324229223,37.09,SSP1
 103,5086,Africa_North_West_Coast,Africa_Western,86,5,,,,,,,,,,
-104,5087,Nile,Africa_Western,87,5,1041.0,Africa_Western,5.0,Wheat,Wheat,87.0,rfd,3682.5700488516,37.09,SSP1
-105,5087,Nile,Africa_Western,87,5,8322.0,Africa_Western,5.0,Wheat,Wheat,87.0,irr,3682.5700488516,37.09,SSP1
-106,5142,Africa_West_Coast,Africa_Western,142,5,1042.0,Africa_Western,5.0,Wheat,Wheat,142.0,rfd,3682.5700488516,37.09,SSP1
-107,5142,Africa_West_Coast,Africa_Western,142,5,8323.0,Africa_Western,5.0,Wheat,Wheat,142.0,irr,3682.5700488516,37.09,SSP1
+104,5087,Nile,Africa_Western,87,5,1041.0,Africa_Western,5.0,Wheat,Wheat,87.0,rfd,3575.60299919643,37.09,SSP1
+105,5087,Nile,Africa_Western,87,5,8322.0,Africa_Western,5.0,Wheat,Wheat,87.0,irr,3575.60299919643,37.09,SSP1
+106,5142,Africa_West_Coast,Africa_Western,142,5,1042.0,Africa_Western,5.0,Wheat,Wheat,142.0,rfd,3575.60299919643,37.09,SSP1
+107,5142,Africa_West_Coast,Africa_Western,142,5,8323.0,Africa_Western,5.0,Wheat,Wheat,142.0,irr,3575.60299919643,37.09,SSP1
 108,5144,Africa_North_Interior,Africa_Western,144,5,,,,,,,,,,
-109,5149,Niger,Africa_Western,149,5,1043.0,Africa_Western,5.0,Wheat,Wheat,149.0,rfd,3682.5700488516,37.09,SSP1
-110,5149,Niger,Africa_Western,149,5,8324.0,Africa_Western,5.0,Wheat,Wheat,149.0,irr,3682.5700488516,37.09,SSP1
-111,5151,Lake_Chad,Africa_Western,151,5,1044.0,Africa_Western,5.0,Wheat,Wheat,151.0,rfd,3682.5700488516,37.09,SSP1
-112,5151,Lake_Chad,Africa_Western,151,5,8325.0,Africa_Western,5.0,Wheat,Wheat,151.0,irr,3682.5700488516,37.09,SSP1
-113,5152,Senegal,Africa_Western,152,5,1045.0,Africa_Western,5.0,Wheat,Wheat,152.0,rfd,3682.5700488516,37.09,SSP1
-114,5152,Senegal,Africa_Western,152,5,8326.0,Africa_Western,5.0,Wheat,Wheat,152.0,irr,3682.5700488516,37.09,SSP1
+109,5149,Niger,Africa_Western,149,5,1043.0,Africa_Western,5.0,Wheat,Wheat,149.0,rfd,3575.60299919643,37.09,SSP1
+110,5149,Niger,Africa_Western,149,5,8324.0,Africa_Western,5.0,Wheat,Wheat,149.0,irr,3575.60299919643,37.09,SSP1
+111,5151,Lake_Chad,Africa_Western,151,5,1044.0,Africa_Western,5.0,Wheat,Wheat,151.0,rfd,3575.60299919643,37.09,SSP1
+112,5151,Lake_Chad,Africa_Western,151,5,8325.0,Africa_Western,5.0,Wheat,Wheat,151.0,irr,3575.60299919643,37.09,SSP1
+113,5152,Senegal,Africa_Western,152,5,1045.0,Africa_Western,5.0,Wheat,Wheat,152.0,rfd,3575.60299919643,37.09,SSP1
+114,5152,Senegal,Africa_Western,152,5,8326.0,Africa_Western,5.0,Wheat,Wheat,152.0,irr,3575.60299919643,37.09,SSP1
 115,5160,Volta,Africa_Western,160,5,,,,,,,,,,
-116,5162,Gulf_of_Guinea,Africa_Western,162,5,1046.0,Africa_Western,5.0,Wheat,Wheat,162.0,rfd,3682.5700488516,37.09,SSP1
-117,5162,Gulf_of_Guinea,Africa_Western,162,5,8327.0,Africa_Western,5.0,Wheat,Wheat,162.0,irr,3682.5700488516,37.09,SSP1
-118,5183,Congo,Africa_Western,183,5,1047.0,Africa_Western,5.0,Wheat,Wheat,183.0,rfd,3682.5700488516,37.09,SSP1
-119,5183,Congo,Africa_Western,183,5,8328.0,Africa_Western,5.0,Wheat,Wheat,183.0,irr,3682.5700488516,37.09,SSP1
-120,5188,Zambezi,Africa_Western,188,5,1048.0,Africa_Western,5.0,Wheat,Wheat,188.0,rfd,3682.5700488516,37.09,SSP1
-121,5188,Zambezi,Africa_Western,188,5,8329.0,Africa_Western,5.0,Wheat,Wheat,188.0,irr,3682.5700488516,37.09,SSP1
+116,5162,Gulf_of_Guinea,Africa_Western,162,5,1046.0,Africa_Western,5.0,Wheat,Wheat,162.0,rfd,3575.60299919643,37.09,SSP1
+117,5162,Gulf_of_Guinea,Africa_Western,162,5,8327.0,Africa_Western,5.0,Wheat,Wheat,162.0,irr,3575.60299919643,37.09,SSP1
+118,5183,Congo,Africa_Western,183,5,1047.0,Africa_Western,5.0,Wheat,Wheat,183.0,rfd,3575.60299919643,37.09,SSP1
+119,5183,Congo,Africa_Western,183,5,8328.0,Africa_Western,5.0,Wheat,Wheat,183.0,irr,3575.60299919643,37.09,SSP1
+120,5188,Zambezi,Africa_Western,188,5,1048.0,Africa_Western,5.0,Wheat,Wheat,188.0,rfd,3575.60299919643,37.09,SSP1
+121,5188,Zambezi,Africa_Western,188,5,8329.0,Africa_Western,5.0,Wheat,Wheat,188.0,irr,3575.60299919643,37.09,SSP1
 122,6175,Java_Timor,Australia_NZ,175,6,,,,,,,,,,
-123,6184,Australia_North_Coast,Australia_NZ,184,6,1167.0,Australia_NZ,6.0,Wheat,Wheat,184.0,rfd,6580.59645628076,37.09,SSP1
-124,6184,Australia_North_Coast,Australia_NZ,184,6,8448.0,Australia_NZ,6.0,Wheat,Wheat,184.0,irr,6580.59645628076,37.09,SSP1
-125,6189,Australia_East_Coast,Australia_NZ,189,6,1168.0,Australia_NZ,6.0,Wheat,Wheat,189.0,rfd,6580.59645628076,37.09,SSP1
-126,6189,Australia_East_Coast,Australia_NZ,189,6,8449.0,Australia_NZ,6.0,Wheat,Wheat,189.0,irr,6580.59645628076,37.09,SSP1
-127,6191,Australia_West_Coast,Australia_NZ,191,6,1169.0,Australia_NZ,6.0,Wheat,Wheat,191.0,rfd,6580.59645628076,37.09,SSP1
-128,6191,Australia_West_Coast,Australia_NZ,191,6,8450.0,Australia_NZ,6.0,Wheat,Wheat,191.0,irr,6580.59645628076,37.09,SSP1
-129,6193,Australia_Interior,Australia_NZ,193,6,1170.0,Australia_NZ,6.0,Wheat,Wheat,193.0,rfd,6580.59645628076,37.09,SSP1
-130,6193,Australia_Interior,Australia_NZ,193,6,8451.0,Australia_NZ,6.0,Wheat,Wheat,193.0,irr,6580.59645628076,37.09,SSP1
-131,6201,New_Zealand,Australia_NZ,201,6,1171.0,Australia_NZ,6.0,Wheat,Wheat,201.0,rfd,6580.59645628076,37.09,SSP1
-132,6201,New_Zealand,Australia_NZ,201,6,8452.0,Australia_NZ,6.0,Wheat,Wheat,201.0,irr,6580.59645628076,37.09,SSP1
-133,6202,Australia_South_Coast,Australia_NZ,202,6,1172.0,Australia_NZ,6.0,Wheat,Wheat,202.0,rfd,6580.59645628076,37.09,SSP1
-134,6202,Australia_South_Coast,Australia_NZ,202,6,8453.0,Australia_NZ,6.0,Wheat,Wheat,202.0,irr,6580.59645628076,37.09,SSP1
-135,6208,Murray_Darling,Australia_NZ,208,6,1173.0,Australia_NZ,6.0,Wheat,Wheat,208.0,rfd,6580.59645628076,37.09,SSP1
-136,6208,Murray_Darling,Australia_NZ,208,6,8454.0,Australia_NZ,6.0,Wheat,Wheat,208.0,irr,6580.59645628076,37.09,SSP1
-137,6211,Tasmania,Australia_NZ,211,6,1174.0,Australia_NZ,6.0,Wheat,Wheat,211.0,rfd,6580.59645628076,37.09,SSP1
-138,6211,Tasmania,Australia_NZ,211,6,8455.0,Australia_NZ,6.0,Wheat,Wheat,211.0,irr,6580.59645628076,37.09,SSP1
+123,6184,Australia_North_Coast,Australia_NZ,184,6,1167.0,Australia_NZ,6.0,Wheat,Wheat,184.0,rfd,6429.29787616777,37.09,SSP1
+124,6184,Australia_North_Coast,Australia_NZ,184,6,8448.0,Australia_NZ,6.0,Wheat,Wheat,184.0,irr,6429.29787616777,37.09,SSP1
+125,6189,Australia_East_Coast,Australia_NZ,189,6,1168.0,Australia_NZ,6.0,Wheat,Wheat,189.0,rfd,6429.29787616777,37.09,SSP1
+126,6189,Australia_East_Coast,Australia_NZ,189,6,8449.0,Australia_NZ,6.0,Wheat,Wheat,189.0,irr,6429.29787616777,37.09,SSP1
+127,6191,Australia_West_Coast,Australia_NZ,191,6,1169.0,Australia_NZ,6.0,Wheat,Wheat,191.0,rfd,6429.29787616777,37.09,SSP1
+128,6191,Australia_West_Coast,Australia_NZ,191,6,8450.0,Australia_NZ,6.0,Wheat,Wheat,191.0,irr,6429.29787616777,37.09,SSP1
+129,6193,Australia_Interior,Australia_NZ,193,6,1170.0,Australia_NZ,6.0,Wheat,Wheat,193.0,rfd,6429.29787616777,37.09,SSP1
+130,6193,Australia_Interior,Australia_NZ,193,6,8451.0,Australia_NZ,6.0,Wheat,Wheat,193.0,irr,6429.29787616777,37.09,SSP1
+131,6201,New_Zealand,Australia_NZ,201,6,1171.0,Australia_NZ,6.0,Wheat,Wheat,201.0,rfd,6429.29787616777,37.09,SSP1
+132,6201,New_Zealand,Australia_NZ,201,6,8452.0,Australia_NZ,6.0,Wheat,Wheat,201.0,irr,6429.29787616777,37.09,SSP1
+133,6202,Australia_South_Coast,Australia_NZ,202,6,1172.0,Australia_NZ,6.0,Wheat,Wheat,202.0,rfd,6429.29787616777,37.09,SSP1
+134,6202,Australia_South_Coast,Australia_NZ,202,6,8453.0,Australia_NZ,6.0,Wheat,Wheat,202.0,irr,6429.29787616777,37.09,SSP1
+135,6208,Murray_Darling,Australia_NZ,208,6,1173.0,Australia_NZ,6.0,Wheat,Wheat,208.0,rfd,6429.29787616777,37.09,SSP1
+136,6208,Murray_Darling,Australia_NZ,208,6,8454.0,Australia_NZ,6.0,Wheat,Wheat,208.0,irr,6429.29787616777,37.09,SSP1
+137,6211,Tasmania,Australia_NZ,211,6,1174.0,Australia_NZ,6.0,Wheat,Wheat,211.0,rfd,6429.29787616777,37.09,SSP1
+138,6211,Tasmania,Australia_NZ,211,6,8455.0,Australia_NZ,6.0,Wheat,Wheat,211.0,irr,6429.29787616777,37.09,SSP1
 139,6216,Antarctica,Australia_NZ,216,6,,,,,,,,,,
 140,7156,Orinoco,Brazil,156,7,,,,,,,,,,
 141,7161,Northeast_South_America_South_Atlantic_Coast,Brazil,161,7,,,,,,,,,,
-142,7168,Amazon,Brazil,168,7,1334.0,Brazil,7.0,Wheat,Wheat,168.0,rfd,6049.00122641622,73.3157160611916,SSP1
-143,7168,Amazon,Brazil,168,7,8615.0,Brazil,7.0,Wheat,Wheat,168.0,irr,6049.00122641622,73.3157160611916,SSP1
+142,7168,Amazon,Brazil,168,7,1334.0,Brazil,7.0,Wheat,Wheat,168.0,rfd,5831.91393750831,73.3157160611916,SSP1
+143,7168,Amazon,Brazil,168,7,8615.0,Brazil,7.0,Wheat,Wheat,168.0,irr,5831.91393750831,73.3157160611916,SSP1
 144,7172,North_Brazil_South_Atlantic_Coast,Brazil,172,7,,,,,,,,,,
-145,7174,Tocantins,Brazil,174,7,1335.0,Brazil,7.0,Wheat,Wheat,174.0,rfd,6049.00122641622,73.3157160611916,SSP1
-146,7174,Tocantins,Brazil,174,7,8616.0,Brazil,7.0,Wheat,Wheat,174.0,irr,6049.00122641622,73.3157160611916,SSP1
+145,7174,Tocantins,Brazil,174,7,1335.0,Brazil,7.0,Wheat,Wheat,174.0,rfd,5831.91393750831,73.3157160611916,SSP1
+146,7174,Tocantins,Brazil,174,7,8616.0,Brazil,7.0,Wheat,Wheat,174.0,irr,5831.91393750831,73.3157160611916,SSP1
 147,7186,East_Brazil_South_Atlantic_Coast,Brazil,186,7,,,,,,,,,,
 148,7187,Parnaiba,Brazil,187,7,,,,,,,,,,
-149,7192,Sao_Francisco,Brazil,192,7,1336.0,Brazil,7.0,Wheat,Wheat,192.0,rfd,6049.00122641622,73.3157160611916,SSP1
-150,7192,Sao_Francisco,Brazil,192,7,8617.0,Brazil,7.0,Wheat,Wheat,192.0,irr,6049.00122641622,73.3157160611916,SSP1
-151,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,1337.0,Brazil,7.0,Wheat,Wheat,195.0,rfd,6049.00122641622,73.3157160611916,SSP1
-152,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,8618.0,Brazil,7.0,Wheat,Wheat,195.0,irr,6049.00122641622,73.3157160611916,SSP1
-153,7206,La_Plata,Brazil,206,7,1338.0,Brazil,7.0,Wheat,Wheat,206.0,rfd,6049.00122641622,73.3157160611916,SSP1
-154,7206,La_Plata,Brazil,206,7,8619.0,Brazil,7.0,Wheat,Wheat,206.0,irr,6049.00122641622,73.3157160611916,SSP1
-155,8002,Northwest_Territories,Canada,2,8,1502.0,Canada,8.0,Wheat,Wheat,2.0,rfd,2361.77298491867,37.09,SSP1
-156,8002,Northwest_Territories,Canada,2,8,8783.0,Canada,8.0,Wheat,Wheat,2.0,irr,2361.77298491867,37.09,SSP1
+149,7192,Sao_Francisco,Brazil,192,7,1336.0,Brazil,7.0,Wheat,Wheat,192.0,rfd,5831.91393750831,73.3157160611916,SSP1
+150,7192,Sao_Francisco,Brazil,192,7,8617.0,Brazil,7.0,Wheat,Wheat,192.0,irr,5831.91393750831,73.3157160611916,SSP1
+151,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,1337.0,Brazil,7.0,Wheat,Wheat,195.0,rfd,5831.91393750831,73.3157160611916,SSP1
+152,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,8618.0,Brazil,7.0,Wheat,Wheat,195.0,irr,5831.91393750831,73.3157160611916,SSP1
+153,7206,La_Plata,Brazil,206,7,1338.0,Brazil,7.0,Wheat,Wheat,206.0,rfd,5831.91393750831,73.3157160611916,SSP1
+154,7206,La_Plata,Brazil,206,7,8619.0,Brazil,7.0,Wheat,Wheat,206.0,irr,5831.91393750831,73.3157160611916,SSP1
+155,8002,Northwest_Territories,Canada,2,8,1502.0,Canada,8.0,Wheat,Wheat,2.0,rfd,2255.67324975777,37.09,SSP1
+156,8002,Northwest_Territories,Canada,2,8,8783.0,Canada,8.0,Wheat,Wheat,2.0,irr,2255.67324975777,37.09,SSP1
 157,8007,Pacific_and_Arctic_Coast,Canada,7,8,,,,,,,,,,
-158,8010,Mackenzie,Canada,10,8,1503.0,Canada,8.0,Wheat,Wheat,10.0,rfd,2361.77298491867,37.09,SSP1
-159,8010,Mackenzie,Canada,10,8,8784.0,Canada,8.0,Wheat,Wheat,10.0,irr,2361.77298491867,37.09,SSP1
-160,8015,Hudson_Bay_Coast,Canada,15,8,1504.0,Canada,8.0,Wheat,Wheat,15.0,rfd,2361.77298491867,37.09,SSP1
-161,8015,Hudson_Bay_Coast,Canada,15,8,8785.0,Canada,8.0,Wheat,Wheat,15.0,irr,2361.77298491867,37.09,SSP1
-162,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1505.0,Canada,8.0,Wheat,Wheat,19.0,rfd,2361.77298491867,37.09,SSP1
-163,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8786.0,Canada,8.0,Wheat,Wheat,19.0,irr,2361.77298491867,37.09,SSP1
-164,8023,Saskatchewan_Nelson,Canada,23,8,1506.0,Canada,8.0,Wheat,Wheat,23.0,rfd,2361.77298491867,37.09,SSP1
-165,8023,Saskatchewan_Nelson,Canada,23,8,8787.0,Canada,8.0,Wheat,Wheat,23.0,irr,2361.77298491867,37.09,SSP1
-166,8027,Fraser,Canada,27,8,1507.0,Canada,8.0,Wheat,Wheat,27.0,rfd,2361.77298491867,37.09,SSP1
-167,8027,Fraser,Canada,27,8,8788.0,Canada,8.0,Wheat,Wheat,27.0,irr,2361.77298491867,37.09,SSP1
+158,8010,Mackenzie,Canada,10,8,1503.0,Canada,8.0,Wheat,Wheat,10.0,rfd,2255.67324975777,37.09,SSP1
+159,8010,Mackenzie,Canada,10,8,8784.0,Canada,8.0,Wheat,Wheat,10.0,irr,2255.67324975777,37.09,SSP1
+160,8015,Hudson_Bay_Coast,Canada,15,8,1504.0,Canada,8.0,Wheat,Wheat,15.0,rfd,2255.67324975777,37.09,SSP1
+161,8015,Hudson_Bay_Coast,Canada,15,8,8785.0,Canada,8.0,Wheat,Wheat,15.0,irr,2255.67324975777,37.09,SSP1
+162,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1505.0,Canada,8.0,Wheat,Wheat,19.0,rfd,2255.67324975777,37.09,SSP1
+163,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8786.0,Canada,8.0,Wheat,Wheat,19.0,irr,2255.67324975777,37.09,SSP1
+164,8023,Saskatchewan_Nelson,Canada,23,8,1506.0,Canada,8.0,Wheat,Wheat,23.0,rfd,2255.67324975777,37.09,SSP1
+165,8023,Saskatchewan_Nelson,Canada,23,8,8787.0,Canada,8.0,Wheat,Wheat,23.0,irr,2255.67324975777,37.09,SSP1
+166,8027,Fraser,Canada,27,8,1507.0,Canada,8.0,Wheat,Wheat,27.0,rfd,2255.67324975777,37.09,SSP1
+167,8027,Fraser,Canada,27,8,8788.0,Canada,8.0,Wheat,Wheat,27.0,irr,2255.67324975777,37.09,SSP1
 168,8034,Churchill,Canada,34,8,,,,,,,,,,
-169,8040,St_Lawrence,Canada,40,8,1508.0,Canada,8.0,Wheat,Wheat,40.0,rfd,2361.77298491867,37.09,SSP1
-170,8040,St_Lawrence,Canada,40,8,8789.0,Canada,8.0,Wheat,Wheat,40.0,irr,2361.77298491867,37.09,SSP1
-171,8223,Missouri_River_Basin,Canada,223,8,1509.0,Canada,8.0,Wheat,Wheat,223.0,rfd,2361.77298491867,37.09,SSP1
-172,8223,Missouri_River_Basin,Canada,223,8,8790.0,Canada,8.0,Wheat,Wheat,223.0,irr,2361.77298491867,37.09,SSP1
-173,8227,Great_Lakes_Basin,Canada,227,8,1510.0,Canada,8.0,Wheat,Wheat,227.0,rfd,2361.77298491867,37.09,SSP1
-174,8227,Great_Lakes_Basin,Canada,227,8,8791.0,Canada,8.0,Wheat,Wheat,227.0,irr,2361.77298491867,37.09,SSP1
-175,8229,Pacific_Northwest_Basin,Canada,229,8,1511.0,Canada,8.0,Wheat,Wheat,229.0,rfd,2361.77298491867,37.09,SSP1
-176,8229,Pacific_Northwest_Basin,Canada,229,8,8792.0,Canada,8.0,Wheat,Wheat,229.0,irr,2361.77298491867,37.09,SSP1
-177,8232,New_England_Basin,Canada,232,8,1512.0,Canada,8.0,Wheat,Wheat,232.0,rfd,2361.77298491867,37.09,SSP1
-178,8232,New_England_Basin,Canada,232,8,8793.0,Canada,8.0,Wheat,Wheat,232.0,irr,2361.77298491867,37.09,SSP1
+169,8040,St_Lawrence,Canada,40,8,1508.0,Canada,8.0,Wheat,Wheat,40.0,rfd,2255.67324975777,37.09,SSP1
+170,8040,St_Lawrence,Canada,40,8,8789.0,Canada,8.0,Wheat,Wheat,40.0,irr,2255.67324975777,37.09,SSP1
+171,8223,Missouri_River_Basin,Canada,223,8,1509.0,Canada,8.0,Wheat,Wheat,223.0,rfd,2255.67324975777,37.09,SSP1
+172,8223,Missouri_River_Basin,Canada,223,8,8790.0,Canada,8.0,Wheat,Wheat,223.0,irr,2255.67324975777,37.09,SSP1
+173,8227,Great_Lakes_Basin,Canada,227,8,1510.0,Canada,8.0,Wheat,Wheat,227.0,rfd,2255.67324975777,37.09,SSP1
+174,8227,Great_Lakes_Basin,Canada,227,8,8791.0,Canada,8.0,Wheat,Wheat,227.0,irr,2255.67324975777,37.09,SSP1
+175,8229,Pacific_Northwest_Basin,Canada,229,8,1511.0,Canada,8.0,Wheat,Wheat,229.0,rfd,2255.67324975777,37.09,SSP1
+176,8229,Pacific_Northwest_Basin,Canada,229,8,8792.0,Canada,8.0,Wheat,Wheat,229.0,irr,2255.67324975777,37.09,SSP1
+177,8232,New_England_Basin,Canada,232,8,1512.0,Canada,8.0,Wheat,Wheat,232.0,rfd,2255.67324975777,37.09,SSP1
+178,8232,New_England_Basin,Canada,232,8,8793.0,Canada,8.0,Wheat,Wheat,232.0,irr,2255.67324975777,37.09,SSP1
 179,9101,Caribbean,Central America and Caribbean,101,9,,,,,,,,,,
 180,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,,,,,,,,,,
 181,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,,,,,,,,,,
 182,9135,Southern_Central_America,Central America and Caribbean,135,9,,,,,,,,,,
 183,9143,Caribbean_Coast,Central America and Caribbean,143,9,,,,,,,,,,
 184,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,,,,,,,,,,
-185,10018,Volga,Central Asia,18,10,1864.0,Central Asia,10.0,Wheat,Wheat,18.0,rfd,6964.14942372042,37.09,SSP1
-186,10018,Volga,Central Asia,18,10,9145.0,Central Asia,10.0,Wheat,Wheat,18.0,irr,6964.14942372042,37.09,SSP1
-187,10038,Ural,Central Asia,38,10,1865.0,Central Asia,10.0,Wheat,Wheat,38.0,rfd,6964.14942372042,37.09,SSP1
-188,10038,Ural,Central Asia,38,10,9146.0,Central Asia,10.0,Wheat,Wheat,38.0,irr,6964.14942372042,37.09,SSP1
-189,10042,Gobi_Interior,Central Asia,42,10,1866.0,Central Asia,10.0,Wheat,Wheat,42.0,rfd,6964.14942372042,37.09,SSP1
-190,10042,Gobi_Interior,Central Asia,42,10,9147.0,Central Asia,10.0,Wheat,Wheat,42.0,irr,6964.14942372042,37.09,SSP1
-191,10043,Amur,Central Asia,43,10,1867.0,Central Asia,10.0,Wheat,Wheat,43.0,rfd,8264.2750796996,44.01427138568,SSP1
-192,10043,Amur,Central Asia,43,10,9148.0,Central Asia,10.0,Wheat,Wheat,43.0,irr,8264.2750796996,44.01427138568,SSP1
-193,10045,Caspian_Sea_Coast,Central Asia,45,10,1868.0,Central Asia,10.0,Wheat,Wheat,45.0,rfd,6964.14942372042,37.09,SSP1
-194,10045,Caspian_Sea_Coast,Central Asia,45,10,9149.0,Central Asia,10.0,Wheat,Wheat,45.0,irr,6964.14942372042,37.09,SSP1
-195,10047,Black_Sea_North_Coast,Central Asia,47,10,1869.0,Central Asia,10.0,Wheat,Wheat,47.0,rfd,6964.14942372042,37.09,SSP1
-196,10047,Black_Sea_North_Coast,Central Asia,47,10,9150.0,Central Asia,10.0,Wheat,Wheat,47.0,irr,6964.14942372042,37.09,SSP1
-197,10048,Yenisey,Central Asia,48,10,1870.0,Central Asia,10.0,Wheat,Wheat,48.0,rfd,8264.2750796996,44.01427138568,SSP1
-198,10048,Yenisey,Central Asia,48,10,9151.0,Central Asia,10.0,Wheat,Wheat,48.0,irr,8264.2750796996,44.01427138568,SSP1
-199,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1871.0,Central Asia,10.0,Wheat,Wheat,52.0,rfd,6964.14942372042,37.09,SSP1
-200,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9152.0,Central Asia,10.0,Wheat,Wheat,52.0,irr,6964.14942372042,37.09,SSP1
-201,10056,Ob,Central Asia,56,10,1872.0,Central Asia,10.0,Wheat,Wheat,56.0,rfd,6964.14942372042,37.09,SSP1
-202,10056,Ob,Central Asia,56,10,9153.0,Central Asia,10.0,Wheat,Wheat,56.0,irr,6964.14942372042,37.09,SSP1
-203,10058,Amu_Darya,Central Asia,58,10,1873.0,Central Asia,10.0,Wheat,Wheat,58.0,rfd,6964.14942372042,37.09,SSP1
-204,10058,Amu_Darya,Central Asia,58,10,9154.0,Central Asia,10.0,Wheat,Wheat,58.0,irr,6964.14942372042,37.09,SSP1
-205,10068,Lake_Balkash,Central Asia,68,10,1874.0,Central Asia,10.0,Wheat,Wheat,68.0,rfd,6964.14942372042,37.09,SSP1
-206,10068,Lake_Balkash,Central Asia,68,10,9155.0,Central Asia,10.0,Wheat,Wheat,68.0,irr,6964.14942372042,37.09,SSP1
-207,10070,Black_Sea_South_Coast,Central Asia,70,10,1875.0,Central Asia,10.0,Wheat,Wheat,70.0,rfd,6964.14942372042,37.09,SSP1
-208,10070,Black_Sea_South_Coast,Central Asia,70,10,9156.0,Central Asia,10.0,Wheat,Wheat,70.0,irr,6964.14942372042,37.09,SSP1
-209,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1876.0,Central Asia,10.0,Wheat,Wheat,72.0,rfd,6964.14942372042,37.09,SSP1
-210,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9157.0,Central Asia,10.0,Wheat,Wheat,72.0,irr,6964.14942372042,37.09,SSP1
-211,10076,Syr_Darya,Central Asia,76,10,1877.0,Central Asia,10.0,Wheat,Wheat,76.0,rfd,6964.14942372042,37.09,SSP1
-212,10076,Syr_Darya,Central Asia,76,10,9158.0,Central Asia,10.0,Wheat,Wheat,76.0,irr,6964.14942372042,37.09,SSP1
-213,10085,Tarim_Interior,Central Asia,85,10,1878.0,Central Asia,10.0,Wheat,Wheat,85.0,rfd,6964.14942372042,37.09,SSP1
-214,10085,Tarim_Interior,Central Asia,85,10,9159.0,Central Asia,10.0,Wheat,Wheat,85.0,irr,6964.14942372042,37.09,SSP1
-215,11037,Russia_South_East_Coast,China,37,11,2259.0,China,11.0,Wheat,Wheat,37.0,rfd,1174.94584875962,37.09,SSP1
-216,11037,Russia_South_East_Coast,China,37,11,9540.0,China,11.0,Wheat,Wheat,37.0,irr,1174.94584875962,37.09,SSP1
-217,11042,Gobi_Interior,China,42,11,2260.0,China,11.0,Wheat,Wheat,42.0,rfd,1174.94584875962,37.09,SSP1
-218,11042,Gobi_Interior,China,42,11,9541.0,China,11.0,Wheat,Wheat,42.0,irr,1174.94584875962,37.09,SSP1
-219,11043,Amur,China,43,11,2261.0,China,11.0,Wheat,Wheat,43.0,rfd,1174.94584875962,37.09,SSP1
-220,11043,Amur,China,43,11,9542.0,China,11.0,Wheat,Wheat,43.0,irr,1174.94584875962,37.09,SSP1
-221,11056,Ob,China,56,11,2262.0,China,11.0,Wheat,Wheat,56.0,rfd,1174.94584875962,37.09,SSP1
-222,11056,Ob,China,56,11,9543.0,China,11.0,Wheat,Wheat,56.0,irr,1174.94584875962,37.09,SSP1
+185,10018,Volga,Central Asia,18,10,1864.0,Central Asia,10.0,Wheat,Wheat,18.0,rfd,6827.34708770815,37.09,SSP1
+186,10018,Volga,Central Asia,18,10,9145.0,Central Asia,10.0,Wheat,Wheat,18.0,irr,6827.34708770815,37.09,SSP1
+187,10038,Ural,Central Asia,38,10,1865.0,Central Asia,10.0,Wheat,Wheat,38.0,rfd,6827.34708770815,37.09,SSP1
+188,10038,Ural,Central Asia,38,10,9146.0,Central Asia,10.0,Wheat,Wheat,38.0,irr,6827.34708770815,37.09,SSP1
+189,10042,Gobi_Interior,Central Asia,42,10,1866.0,Central Asia,10.0,Wheat,Wheat,42.0,rfd,6827.34708770815,37.09,SSP1
+190,10042,Gobi_Interior,Central Asia,42,10,9147.0,Central Asia,10.0,Wheat,Wheat,42.0,irr,6827.34708770815,37.09,SSP1
+191,10043,Amur,Central Asia,43,10,1867.0,Central Asia,10.0,Wheat,Wheat,43.0,rfd,7648.43246721526,41.550598873133,SSP1
+192,10043,Amur,Central Asia,43,10,9148.0,Central Asia,10.0,Wheat,Wheat,43.0,irr,7648.43246721526,41.550598873133,SSP1
+193,10045,Caspian_Sea_Coast,Central Asia,45,10,1868.0,Central Asia,10.0,Wheat,Wheat,45.0,rfd,6827.34708770815,37.09,SSP1
+194,10045,Caspian_Sea_Coast,Central Asia,45,10,9149.0,Central Asia,10.0,Wheat,Wheat,45.0,irr,6827.34708770815,37.09,SSP1
+195,10047,Black_Sea_North_Coast,Central Asia,47,10,1869.0,Central Asia,10.0,Wheat,Wheat,47.0,rfd,6827.34708770815,37.09,SSP1
+196,10047,Black_Sea_North_Coast,Central Asia,47,10,9150.0,Central Asia,10.0,Wheat,Wheat,47.0,irr,6827.34708770815,37.09,SSP1
+197,10048,Yenisey,Central Asia,48,10,1870.0,Central Asia,10.0,Wheat,Wheat,48.0,rfd,7648.43246721526,41.550598873133,SSP1
+198,10048,Yenisey,Central Asia,48,10,9151.0,Central Asia,10.0,Wheat,Wheat,48.0,irr,7648.43246721526,41.550598873133,SSP1
+199,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1871.0,Central Asia,10.0,Wheat,Wheat,52.0,rfd,6827.34708770815,37.09,SSP1
+200,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9152.0,Central Asia,10.0,Wheat,Wheat,52.0,irr,6827.34708770815,37.09,SSP1
+201,10056,Ob,Central Asia,56,10,1872.0,Central Asia,10.0,Wheat,Wheat,56.0,rfd,6827.34708770815,37.09,SSP1
+202,10056,Ob,Central Asia,56,10,9153.0,Central Asia,10.0,Wheat,Wheat,56.0,irr,6827.34708770815,37.09,SSP1
+203,10058,Amu_Darya,Central Asia,58,10,1873.0,Central Asia,10.0,Wheat,Wheat,58.0,rfd,6827.34708770815,37.09,SSP1
+204,10058,Amu_Darya,Central Asia,58,10,9154.0,Central Asia,10.0,Wheat,Wheat,58.0,irr,6827.34708770815,37.09,SSP1
+205,10068,Lake_Balkash,Central Asia,68,10,1874.0,Central Asia,10.0,Wheat,Wheat,68.0,rfd,6827.34708770815,37.09,SSP1
+206,10068,Lake_Balkash,Central Asia,68,10,9155.0,Central Asia,10.0,Wheat,Wheat,68.0,irr,6827.34708770815,37.09,SSP1
+207,10070,Black_Sea_South_Coast,Central Asia,70,10,1875.0,Central Asia,10.0,Wheat,Wheat,70.0,rfd,6827.34708770815,37.09,SSP1
+208,10070,Black_Sea_South_Coast,Central Asia,70,10,9156.0,Central Asia,10.0,Wheat,Wheat,70.0,irr,6827.34708770815,37.09,SSP1
+209,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1876.0,Central Asia,10.0,Wheat,Wheat,72.0,rfd,6827.34708770815,37.09,SSP1
+210,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9157.0,Central Asia,10.0,Wheat,Wheat,72.0,irr,6827.34708770815,37.09,SSP1
+211,10076,Syr_Darya,Central Asia,76,10,1877.0,Central Asia,10.0,Wheat,Wheat,76.0,rfd,6827.34708770815,37.09,SSP1
+212,10076,Syr_Darya,Central Asia,76,10,9158.0,Central Asia,10.0,Wheat,Wheat,76.0,irr,6827.34708770815,37.09,SSP1
+213,10085,Tarim_Interior,Central Asia,85,10,1878.0,Central Asia,10.0,Wheat,Wheat,85.0,rfd,6827.34708770815,37.09,SSP1
+214,10085,Tarim_Interior,Central Asia,85,10,9159.0,Central Asia,10.0,Wheat,Wheat,85.0,irr,6827.34708770815,37.09,SSP1
+215,11037,Russia_South_East_Coast,China,37,11,2259.0,China,11.0,Wheat,Wheat,37.0,rfd,1150.0444590221,37.09,SSP1
+216,11037,Russia_South_East_Coast,China,37,11,9540.0,China,11.0,Wheat,Wheat,37.0,irr,1150.0444590221,37.09,SSP1
+217,11042,Gobi_Interior,China,42,11,2260.0,China,11.0,Wheat,Wheat,42.0,rfd,1150.0444590221,37.09,SSP1
+218,11042,Gobi_Interior,China,42,11,9541.0,China,11.0,Wheat,Wheat,42.0,irr,1150.0444590221,37.09,SSP1
+219,11043,Amur,China,43,11,2261.0,China,11.0,Wheat,Wheat,43.0,rfd,1150.0444590221,37.09,SSP1
+220,11043,Amur,China,43,11,9542.0,China,11.0,Wheat,Wheat,43.0,irr,1150.0444590221,37.09,SSP1
+221,11056,Ob,China,56,11,2262.0,China,11.0,Wheat,Wheat,56.0,rfd,1150.0444590221,37.09,SSP1
+222,11056,Ob,China,56,11,9543.0,China,11.0,Wheat,Wheat,56.0,irr,1150.0444590221,37.09,SSP1
 223,11058,Amu_Darya,China,58,11,,,,,,,,,,
-224,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2263.0,China,11.0,Wheat,Wheat,66.0,rfd,1174.94584875962,37.09,SSP1
-225,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9544.0,China,11.0,Wheat,Wheat,66.0,irr,1174.94584875962,37.09,SSP1
-226,11068,Lake_Balkash,China,68,11,2264.0,China,11.0,Wheat,Wheat,68.0,rfd,1174.94584875962,37.09,SSP1
-227,11068,Lake_Balkash,China,68,11,9545.0,China,11.0,Wheat,Wheat,68.0,irr,1174.94584875962,37.09,SSP1
+224,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2263.0,China,11.0,Wheat,Wheat,66.0,rfd,1150.0444590221,37.09,SSP1
+225,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9544.0,China,11.0,Wheat,Wheat,66.0,irr,1150.0444590221,37.09,SSP1
+226,11068,Lake_Balkash,China,68,11,2264.0,China,11.0,Wheat,Wheat,68.0,rfd,1150.0444590221,37.09,SSP1
+227,11068,Lake_Balkash,China,68,11,9545.0,China,11.0,Wheat,Wheat,68.0,irr,1150.0444590221,37.09,SSP1
 228,11076,Syr_Darya,China,76,11,,,,,,,,,,
-229,11077,Ziya_He_Interior,China,77,11,2265.0,China,11.0,Wheat,Wheat,77.0,rfd,1174.94584875962,37.09,SSP1
-230,11077,Ziya_He_Interior,China,77,11,9546.0,China,11.0,Wheat,Wheat,77.0,irr,1174.94584875962,37.09,SSP1
-231,11078,China_Coast,China,78,11,2266.0,China,11.0,Wheat,Wheat,78.0,rfd,1174.94584875962,37.09,SSP1
-232,11078,China_Coast,China,78,11,9547.0,China,11.0,Wheat,Wheat,78.0,irr,1174.94584875962,37.09,SSP1
-233,11079,Huang_He,China,79,11,2267.0,China,11.0,Wheat,Wheat,79.0,rfd,1174.94584875962,37.09,SSP1
-234,11079,Huang_He,China,79,11,9548.0,China,11.0,Wheat,Wheat,79.0,irr,1174.94584875962,37.09,SSP1
-235,11085,Tarim_Interior,China,85,11,2268.0,China,11.0,Wheat,Wheat,85.0,rfd,1174.94584875962,37.09,SSP1
-236,11085,Tarim_Interior,China,85,11,9549.0,China,11.0,Wheat,Wheat,85.0,irr,1174.94584875962,37.09,SSP1
-237,11089,Indus,China,89,11,2269.0,China,11.0,Wheat,Wheat,89.0,rfd,1174.94584875962,37.09,SSP1
-238,11089,Indus,China,89,11,9550.0,China,11.0,Wheat,Wheat,89.0,irr,1174.94584875962,37.09,SSP1
+229,11077,Ziya_He_Interior,China,77,11,2265.0,China,11.0,Wheat,Wheat,77.0,rfd,1150.0444590221,37.09,SSP1
+230,11077,Ziya_He_Interior,China,77,11,9546.0,China,11.0,Wheat,Wheat,77.0,irr,1150.0444590221,37.09,SSP1
+231,11078,China_Coast,China,78,11,2266.0,China,11.0,Wheat,Wheat,78.0,rfd,1150.0444590221,37.09,SSP1
+232,11078,China_Coast,China,78,11,9547.0,China,11.0,Wheat,Wheat,78.0,irr,1150.0444590221,37.09,SSP1
+233,11079,Huang_He,China,79,11,2267.0,China,11.0,Wheat,Wheat,79.0,rfd,1150.0444590221,37.09,SSP1
+234,11079,Huang_He,China,79,11,9548.0,China,11.0,Wheat,Wheat,79.0,irr,1150.0444590221,37.09,SSP1
+235,11085,Tarim_Interior,China,85,11,2268.0,China,11.0,Wheat,Wheat,85.0,rfd,1150.0444590221,37.09,SSP1
+236,11085,Tarim_Interior,China,85,11,9549.0,China,11.0,Wheat,Wheat,85.0,irr,1150.0444590221,37.09,SSP1
+237,11089,Indus,China,89,11,2269.0,China,11.0,Wheat,Wheat,89.0,rfd,1150.0444590221,37.09,SSP1
+238,11089,Indus,China,89,11,9550.0,China,11.0,Wheat,Wheat,89.0,irr,1150.0444590221,37.09,SSP1
 239,11092,Plateau_of_Tibet_Interior,China,92,11,,,,,,,,,,
-240,11106,Yangtze,China,106,11,2270.0,China,11.0,Wheat,Wheat,106.0,rfd,1174.94584875962,37.09,SSP1
-241,11106,Yangtze,China,106,11,9551.0,China,11.0,Wheat,Wheat,106.0,irr,1174.94584875962,37.09,SSP1
-242,11108,Xun_Jiang,China,108,11,2271.0,China,11.0,Wheat,Wheat,108.0,rfd,1174.94584875962,37.09,SSP1
-243,11108,Xun_Jiang,China,108,11,9552.0,China,11.0,Wheat,Wheat,108.0,irr,1174.94584875962,37.09,SSP1
-244,11109,Hong_(Red_River),China,109,11,2272.0,China,11.0,Wheat,Wheat,109.0,rfd,1174.94584875962,37.09,SSP1
-245,11109,Hong_(Red_River),China,109,11,9553.0,China,11.0,Wheat,Wheat,109.0,irr,1174.94584875962,37.09,SSP1
-246,11110,Ganges_Bramaputra,China,110,11,2273.0,China,11.0,Wheat,Wheat,110.0,rfd,1174.94584875962,37.09,SSP1
-247,11110,Ganges_Bramaputra,China,110,11,9554.0,China,11.0,Wheat,Wheat,110.0,irr,1174.94584875962,37.09,SSP1
-248,11112,South_China_Sea_Coast,China,112,11,2274.0,China,11.0,Wheat,Wheat,112.0,rfd,1174.94584875962,37.09,SSP1
-249,11112,South_China_Sea_Coast,China,112,11,9555.0,China,11.0,Wheat,Wheat,112.0,irr,1174.94584875962,37.09,SSP1
+240,11106,Yangtze,China,106,11,2270.0,China,11.0,Wheat,Wheat,106.0,rfd,1150.0444590221,37.09,SSP1
+241,11106,Yangtze,China,106,11,9551.0,China,11.0,Wheat,Wheat,106.0,irr,1150.0444590221,37.09,SSP1
+242,11108,Xun_Jiang,China,108,11,2271.0,China,11.0,Wheat,Wheat,108.0,rfd,1150.0444590221,37.09,SSP1
+243,11108,Xun_Jiang,China,108,11,9552.0,China,11.0,Wheat,Wheat,108.0,irr,1150.0444590221,37.09,SSP1
+244,11109,Hong_(Red_River),China,109,11,2272.0,China,11.0,Wheat,Wheat,109.0,rfd,1150.0444590221,37.09,SSP1
+245,11109,Hong_(Red_River),China,109,11,9553.0,China,11.0,Wheat,Wheat,109.0,irr,1150.0444590221,37.09,SSP1
+246,11110,Ganges_Bramaputra,China,110,11,2273.0,China,11.0,Wheat,Wheat,110.0,rfd,1150.0444590221,37.09,SSP1
+247,11110,Ganges_Bramaputra,China,110,11,9554.0,China,11.0,Wheat,Wheat,110.0,irr,1150.0444590221,37.09,SSP1
+248,11112,South_China_Sea_Coast,China,112,11,2274.0,China,11.0,Wheat,Wheat,112.0,rfd,1150.0444590221,37.09,SSP1
+249,11112,South_China_Sea_Coast,China,112,11,9555.0,China,11.0,Wheat,Wheat,112.0,irr,1150.0444590221,37.09,SSP1
 250,11124,Hainan,China,124,11,,,,,,,,,,
-251,11125,Mekong,China,125,11,2275.0,China,11.0,Wheat,Wheat,125.0,rfd,1174.94584875962,37.09,SSP1
-252,11125,Mekong,China,125,11,9556.0,China,11.0,Wheat,Wheat,125.0,irr,1174.94584875962,37.09,SSP1
-253,11127,Salween,China,127,11,2276.0,China,11.0,Wheat,Wheat,127.0,rfd,1174.94584875962,37.09,SSP1
-254,11127,Salween,China,127,11,9557.0,China,11.0,Wheat,Wheat,127.0,irr,1174.94584875962,37.09,SSP1
-255,11137,Irrawaddy,China,137,11,2277.0,China,11.0,Wheat,Wheat,137.0,rfd,1174.94584875962,37.09,SSP1
-256,11137,Irrawaddy,China,137,11,9558.0,China,11.0,Wheat,Wheat,137.0,irr,1174.94584875962,37.09,SSP1
-257,12020,Baltic_Sea_Coast,EU-12,20,12,2465.0,EU-12,12.0,Wheat,Wheat,20.0,rfd,3145.29415359082,37.09,SSP1
-258,12020,Baltic_Sea_Coast,EU-12,20,12,9746.0,EU-12,12.0,Wheat,Wheat,20.0,irr,3145.29415359082,37.09,SSP1
-259,12021,Denmark_Germany_Coast,EU-12,21,12,2466.0,EU-12,12.0,Wheat,Wheat,21.0,rfd,3145.29415359082,37.09,SSP1
-260,12021,Denmark_Germany_Coast,EU-12,21,12,9747.0,EU-12,12.0,Wheat,Wheat,21.0,irr,3145.29415359082,37.09,SSP1
-261,12022,Narva,EU-12,22,12,2467.0,EU-12,12.0,Wheat,Wheat,22.0,rfd,3145.29415359082,37.09,SSP1
-262,12022,Narva,EU-12,22,12,9748.0,EU-12,12.0,Wheat,Wheat,22.0,irr,3145.29415359082,37.09,SSP1
-263,12025,Daugava,EU-12,25,12,2468.0,EU-12,12.0,Wheat,Wheat,25.0,rfd,3145.29415359082,37.09,SSP1
-264,12025,Daugava,EU-12,25,12,9749.0,EU-12,12.0,Wheat,Wheat,25.0,irr,3145.29415359082,37.09,SSP1
-265,12029,Oder,EU-12,29,12,2469.0,EU-12,12.0,Wheat,Wheat,29.0,rfd,3145.29415359082,37.09,SSP1
-266,12029,Oder,EU-12,29,12,9750.0,EU-12,12.0,Wheat,Wheat,29.0,irr,3145.29415359082,37.09,SSP1
-267,12030,Wisla,EU-12,30,12,2470.0,EU-12,12.0,Wheat,Wheat,30.0,rfd,3145.29415359082,37.09,SSP1
-268,12030,Wisla,EU-12,30,12,9751.0,EU-12,12.0,Wheat,Wheat,30.0,irr,3145.29415359082,37.09,SSP1
-269,12031,Elbe,EU-12,31,12,2471.0,EU-12,12.0,Wheat,Wheat,31.0,rfd,3145.29415359082,37.09,SSP1
-270,12031,Elbe,EU-12,31,12,9752.0,EU-12,12.0,Wheat,Wheat,31.0,irr,3145.29415359082,37.09,SSP1
-271,12033,Poland_Coast,EU-12,33,12,2472.0,EU-12,12.0,Wheat,Wheat,33.0,rfd,3145.29415359082,37.09,SSP1
-272,12033,Poland_Coast,EU-12,33,12,9753.0,EU-12,12.0,Wheat,Wheat,33.0,irr,3145.29415359082,37.09,SSP1
-273,12035,Neman,EU-12,35,12,2473.0,EU-12,12.0,Wheat,Wheat,35.0,rfd,3145.29415359082,37.09,SSP1
-274,12035,Neman,EU-12,35,12,9754.0,EU-12,12.0,Wheat,Wheat,35.0,irr,3145.29415359082,37.09,SSP1
-275,12049,Dniester,EU-12,49,12,2474.0,EU-12,12.0,Wheat,Wheat,49.0,rfd,3145.29415359082,37.09,SSP1
-276,12049,Dniester,EU-12,49,12,9755.0,EU-12,12.0,Wheat,Wheat,49.0,irr,3145.29415359082,37.09,SSP1
-277,12054,Danube,EU-12,54,12,2475.0,EU-12,12.0,Wheat,Wheat,54.0,rfd,3145.29415359082,37.09,SSP1
-278,12054,Danube,EU-12,54,12,9756.0,EU-12,12.0,Wheat,Wheat,54.0,irr,3145.29415359082,37.09,SSP1
-279,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2476.0,EU-12,12.0,Wheat,Wheat,55.0,rfd,3145.29415359082,37.09,SSP1
-280,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9757.0,EU-12,12.0,Wheat,Wheat,55.0,irr,3145.29415359082,37.09,SSP1
+251,11125,Mekong,China,125,11,2275.0,China,11.0,Wheat,Wheat,125.0,rfd,1150.0444590221,37.09,SSP1
+252,11125,Mekong,China,125,11,9556.0,China,11.0,Wheat,Wheat,125.0,irr,1150.0444590221,37.09,SSP1
+253,11127,Salween,China,127,11,2276.0,China,11.0,Wheat,Wheat,127.0,rfd,1150.0444590221,37.09,SSP1
+254,11127,Salween,China,127,11,9557.0,China,11.0,Wheat,Wheat,127.0,irr,1150.0444590221,37.09,SSP1
+255,11137,Irrawaddy,China,137,11,2277.0,China,11.0,Wheat,Wheat,137.0,rfd,1150.0444590221,37.09,SSP1
+256,11137,Irrawaddy,China,137,11,9558.0,China,11.0,Wheat,Wheat,137.0,irr,1150.0444590221,37.09,SSP1
+257,12020,Baltic_Sea_Coast,EU-12,20,12,2465.0,EU-12,12.0,Wheat,Wheat,20.0,rfd,2992.41543029227,37.09,SSP1
+258,12020,Baltic_Sea_Coast,EU-12,20,12,9746.0,EU-12,12.0,Wheat,Wheat,20.0,irr,2992.41543029227,37.09,SSP1
+259,12021,Denmark_Germany_Coast,EU-12,21,12,2466.0,EU-12,12.0,Wheat,Wheat,21.0,rfd,2992.41543029227,37.09,SSP1
+260,12021,Denmark_Germany_Coast,EU-12,21,12,9747.0,EU-12,12.0,Wheat,Wheat,21.0,irr,2992.41543029227,37.09,SSP1
+261,12022,Narva,EU-12,22,12,2467.0,EU-12,12.0,Wheat,Wheat,22.0,rfd,2992.41543029227,37.09,SSP1
+262,12022,Narva,EU-12,22,12,9748.0,EU-12,12.0,Wheat,Wheat,22.0,irr,2992.41543029227,37.09,SSP1
+263,12025,Daugava,EU-12,25,12,2468.0,EU-12,12.0,Wheat,Wheat,25.0,rfd,2992.41543029227,37.09,SSP1
+264,12025,Daugava,EU-12,25,12,9749.0,EU-12,12.0,Wheat,Wheat,25.0,irr,2992.41543029227,37.09,SSP1
+265,12029,Oder,EU-12,29,12,2469.0,EU-12,12.0,Wheat,Wheat,29.0,rfd,2992.41543029227,37.09,SSP1
+266,12029,Oder,EU-12,29,12,9750.0,EU-12,12.0,Wheat,Wheat,29.0,irr,2992.41543029227,37.09,SSP1
+267,12030,Wisla,EU-12,30,12,2470.0,EU-12,12.0,Wheat,Wheat,30.0,rfd,2992.41543029227,37.09,SSP1
+268,12030,Wisla,EU-12,30,12,9751.0,EU-12,12.0,Wheat,Wheat,30.0,irr,2992.41543029227,37.09,SSP1
+269,12031,Elbe,EU-12,31,12,2471.0,EU-12,12.0,Wheat,Wheat,31.0,rfd,2992.41543029227,37.09,SSP1
+270,12031,Elbe,EU-12,31,12,9752.0,EU-12,12.0,Wheat,Wheat,31.0,irr,2992.41543029227,37.09,SSP1
+271,12033,Poland_Coast,EU-12,33,12,2472.0,EU-12,12.0,Wheat,Wheat,33.0,rfd,2992.41543029227,37.09,SSP1
+272,12033,Poland_Coast,EU-12,33,12,9753.0,EU-12,12.0,Wheat,Wheat,33.0,irr,2992.41543029227,37.09,SSP1
+273,12035,Neman,EU-12,35,12,2473.0,EU-12,12.0,Wheat,Wheat,35.0,rfd,2992.41543029227,37.09,SSP1
+274,12035,Neman,EU-12,35,12,9754.0,EU-12,12.0,Wheat,Wheat,35.0,irr,2992.41543029227,37.09,SSP1
+275,12049,Dniester,EU-12,49,12,2474.0,EU-12,12.0,Wheat,Wheat,49.0,rfd,2992.41543029227,37.09,SSP1
+276,12049,Dniester,EU-12,49,12,9755.0,EU-12,12.0,Wheat,Wheat,49.0,irr,2992.41543029227,37.09,SSP1
+277,12054,Danube,EU-12,54,12,2475.0,EU-12,12.0,Wheat,Wheat,54.0,rfd,2992.41543029227,37.09,SSP1
+278,12054,Danube,EU-12,54,12,9756.0,EU-12,12.0,Wheat,Wheat,54.0,irr,2992.41543029227,37.09,SSP1
+279,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2476.0,EU-12,12.0,Wheat,Wheat,55.0,rfd,2992.41543029227,37.09,SSP1
+280,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9757.0,EU-12,12.0,Wheat,Wheat,55.0,irr,2992.41543029227,37.09,SSP1
 281,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
 282,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,,,,,,,,,,
 283,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
 284,13008,Scandinavia_North_Coast,EU-15,8,13,,,,,,,,,,
-285,13012,Sweden,EU-15,12,13,3033.0,EU-15,13.0,Wheat,Wheat,12.0,rfd,3019.93419174954,37.09,SSP1
-286,13012,Sweden,EU-15,12,13,10314.0,EU-15,13.0,Wheat,Wheat,12.0,irr,3019.93419174954,37.09,SSP1
-287,13013,Finland,EU-15,13,13,3034.0,EU-15,13.0,Wheat,Wheat,13.0,rfd,3019.93419174954,37.09,SSP1
-288,13013,Finland,EU-15,13,13,10315.0,EU-15,13.0,Wheat,Wheat,13.0,irr,3019.93419174954,37.09,SSP1
-289,13016,Scotland,EU-15,16,13,3035.0,EU-15,13.0,Wheat,Wheat,16.0,rfd,3019.93419174954,37.09,SSP1
-290,13016,Scotland,EU-15,16,13,10316.0,EU-15,13.0,Wheat,Wheat,16.0,irr,3019.93419174954,37.09,SSP1
-291,13017,Neva,EU-15,17,13,3036.0,EU-15,13.0,Wheat,Wheat,17.0,rfd,3019.93419174954,37.09,SSP1
-292,13017,Neva,EU-15,17,13,10317.0,EU-15,13.0,Wheat,Wheat,17.0,irr,3019.93419174954,37.09,SSP1
+285,13012,Sweden,EU-15,12,13,3033.0,EU-15,13.0,Wheat,Wheat,12.0,rfd,2871.03959201658,37.09,SSP1
+286,13012,Sweden,EU-15,12,13,10314.0,EU-15,13.0,Wheat,Wheat,12.0,irr,2871.03959201658,37.09,SSP1
+287,13013,Finland,EU-15,13,13,3034.0,EU-15,13.0,Wheat,Wheat,13.0,rfd,2871.03959201658,37.09,SSP1
+288,13013,Finland,EU-15,13,13,10315.0,EU-15,13.0,Wheat,Wheat,13.0,irr,2871.03959201658,37.09,SSP1
+289,13016,Scotland,EU-15,16,13,3035.0,EU-15,13.0,Wheat,Wheat,16.0,rfd,2871.03959201658,37.09,SSP1
+290,13016,Scotland,EU-15,16,13,10316.0,EU-15,13.0,Wheat,Wheat,16.0,irr,2871.03959201658,37.09,SSP1
+291,13017,Neva,EU-15,17,13,3036.0,EU-15,13.0,Wheat,Wheat,17.0,rfd,2871.03959201658,37.09,SSP1
+292,13017,Neva,EU-15,17,13,10317.0,EU-15,13.0,Wheat,Wheat,17.0,irr,2871.03959201658,37.09,SSP1
 293,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
-294,13021,Denmark_Germany_Coast,EU-15,21,13,3037.0,EU-15,13.0,Wheat,Wheat,21.0,rfd,3019.93419174954,37.09,SSP1
-295,13021,Denmark_Germany_Coast,EU-15,21,13,10318.0,EU-15,13.0,Wheat,Wheat,21.0,irr,3019.93419174954,37.09,SSP1
-296,13024,Ireland,EU-15,24,13,3038.0,EU-15,13.0,Wheat,Wheat,24.0,rfd,3019.93419174954,37.09,SSP1
-297,13024,Ireland,EU-15,24,13,10319.0,EU-15,13.0,Wheat,Wheat,24.0,irr,3019.93419174954,37.09,SSP1
-298,13026,England_and_Wales,EU-15,26,13,3039.0,EU-15,13.0,Wheat,Wheat,26.0,rfd,3019.93419174954,37.09,SSP1
-299,13026,England_and_Wales,EU-15,26,13,10320.0,EU-15,13.0,Wheat,Wheat,26.0,irr,3019.93419174954,37.09,SSP1
-300,13028,Ems_Weser,EU-15,28,13,3040.0,EU-15,13.0,Wheat,Wheat,28.0,rfd,3019.93419174954,37.09,SSP1
-301,13028,Ems_Weser,EU-15,28,13,10321.0,EU-15,13.0,Wheat,Wheat,28.0,irr,3019.93419174954,37.09,SSP1
-302,13029,Oder,EU-15,29,13,3041.0,EU-15,13.0,Wheat,Wheat,29.0,rfd,3019.93419174954,37.09,SSP1
-303,13029,Oder,EU-15,29,13,10322.0,EU-15,13.0,Wheat,Wheat,29.0,irr,3019.93419174954,37.09,SSP1
-304,13031,Elbe,EU-15,31,13,3042.0,EU-15,13.0,Wheat,Wheat,31.0,rfd,3019.93419174954,37.09,SSP1
-305,13031,Elbe,EU-15,31,13,10323.0,EU-15,13.0,Wheat,Wheat,31.0,irr,3019.93419174954,37.09,SSP1
-306,13032,Rhine,EU-15,32,13,3043.0,EU-15,13.0,Wheat,Wheat,32.0,rfd,3019.93419174954,37.09,SSP1
-307,13032,Rhine,EU-15,32,13,10324.0,EU-15,13.0,Wheat,Wheat,32.0,irr,3019.93419174954,37.09,SSP1
-308,13036,Scheldt,EU-15,36,13,3044.0,EU-15,13.0,Wheat,Wheat,36.0,rfd,3019.93419174954,37.09,SSP1
-309,13036,Scheldt,EU-15,36,13,10325.0,EU-15,13.0,Wheat,Wheat,36.0,irr,3019.93419174954,37.09,SSP1
-310,13041,France_West_Coast,EU-15,41,13,3045.0,EU-15,13.0,Wheat,Wheat,41.0,rfd,3019.93419174954,37.09,SSP1
-311,13041,France_West_Coast,EU-15,41,13,10326.0,EU-15,13.0,Wheat,Wheat,41.0,irr,3019.93419174954,37.09,SSP1
-312,13044,Loire,EU-15,44,13,3046.0,EU-15,13.0,Wheat,Wheat,44.0,rfd,3019.93419174954,37.09,SSP1
-313,13044,Loire,EU-15,44,13,10327.0,EU-15,13.0,Wheat,Wheat,44.0,irr,3019.93419174954,37.09,SSP1
-314,13046,Seine,EU-15,46,13,3047.0,EU-15,13.0,Wheat,Wheat,46.0,rfd,3019.93419174954,37.09,SSP1
-315,13046,Seine,EU-15,46,13,10328.0,EU-15,13.0,Wheat,Wheat,46.0,irr,3019.93419174954,37.09,SSP1
-316,13050,Italy_East_Coast,EU-15,50,13,3048.0,EU-15,13.0,Wheat,Wheat,50.0,rfd,4133.90606772255,50.771495773225,SSP1
-317,13050,Italy_East_Coast,EU-15,50,13,10329.0,EU-15,13.0,Wheat,Wheat,50.0,irr,4133.90606772255,50.771495773225,SSP1
-318,13054,Danube,EU-15,54,13,3049.0,EU-15,13.0,Wheat,Wheat,54.0,rfd,3019.93419174954,37.09,SSP1
-319,13054,Danube,EU-15,54,13,10330.0,EU-15,13.0,Wheat,Wheat,54.0,irr,3019.93419174954,37.09,SSP1
-320,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,3050.0,EU-15,13.0,Wheat,Wheat,55.0,rfd,3019.93419174954,37.09,SSP1
-321,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10331.0,EU-15,13.0,Wheat,Wheat,55.0,irr,3019.93419174954,37.09,SSP1
-322,13057,Po,EU-15,57,13,3051.0,EU-15,13.0,Wheat,Wheat,57.0,rfd,4139.12856565215,50.8356370544284,SSP1
-323,13057,Po,EU-15,57,13,10332.0,EU-15,13.0,Wheat,Wheat,57.0,irr,4139.12856565215,50.8356370544284,SSP1
-324,13059,Italy_West_Coast,EU-15,59,13,3052.0,EU-15,13.0,Wheat,Wheat,59.0,rfd,4139.81863812285,50.8441123344554,SSP1
-325,13059,Italy_West_Coast,EU-15,59,13,10333.0,EU-15,13.0,Wheat,Wheat,59.0,irr,4139.81863812285,50.8441123344554,SSP1
-326,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,3053.0,EU-15,13.0,Wheat,Wheat,60.0,rfd,3915.90351281474,48.0940484355906,SSP1
-327,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10334.0,EU-15,13.0,Wheat,Wheat,60.0,irr,3915.90351281474,48.0940484355906,SSP1
-328,13061,France_South_Coast,EU-15,61,13,3054.0,EU-15,13.0,Wheat,Wheat,61.0,rfd,3019.93419174954,37.09,SSP1
-329,13061,France_South_Coast,EU-15,61,13,10335.0,EU-15,13.0,Wheat,Wheat,61.0,irr,3019.93419174954,37.09,SSP1
-330,13062,Rh(ne,EU-15,62,13,3055.0,EU-15,13.0,Wheat,Wheat,62.0,rfd,3019.93419174954,37.09,SSP1
-331,13062,Rh(ne,EU-15,62,13,10336.0,EU-15,13.0,Wheat,Wheat,62.0,irr,3019.93419174954,37.09,SSP1
-332,13063,Mediterranean_Sea_Islands,EU-15,63,13,3056.0,EU-15,13.0,Wheat,Wheat,63.0,rfd,4053.1670370229,49.779881235123,SSP1
-333,13063,Mediterranean_Sea_Islands,EU-15,63,13,10337.0,EU-15,13.0,Wheat,Wheat,63.0,irr,4053.1670370229,49.779881235123,SSP1
-334,13064,Gironde,EU-15,64,13,3057.0,EU-15,13.0,Wheat,Wheat,64.0,rfd,3019.93419174954,37.09,SSP1
-335,13064,Gironde,EU-15,64,13,10338.0,EU-15,13.0,Wheat,Wheat,64.0,irr,3019.93419174954,37.09,SSP1
-336,13067,Spain_South_and_East_Coast,EU-15,67,13,3058.0,EU-15,13.0,Wheat,Wheat,67.0,rfd,3327.18272716883,40.8635418903614,SSP1
-337,13067,Spain_South_and_East_Coast,EU-15,67,13,10339.0,EU-15,13.0,Wheat,Wheat,67.0,irr,3327.18272716883,40.8635418903614,SSP1
-338,13069,Tiber,EU-15,69,13,3059.0,EU-15,13.0,Wheat,Wheat,69.0,rfd,4139.81863812285,50.8441123344554,SSP1
-339,13069,Tiber,EU-15,69,13,10340.0,EU-15,13.0,Wheat,Wheat,69.0,irr,4139.81863812285,50.8441123344554,SSP1
-340,13071,Tagus,EU-15,71,13,3060.0,EU-15,13.0,Wheat,Wheat,71.0,rfd,3941.80580564817,48.4121732622232,SSP1
-341,13071,Tagus,EU-15,71,13,10341.0,EU-15,13.0,Wheat,Wheat,71.0,irr,3941.80580564817,48.4121732622232,SSP1
-342,13073,Ebro,EU-15,73,13,3061.0,EU-15,13.0,Wheat,Wheat,73.0,rfd,3325.4992556003,40.8428659562144,SSP1
-343,13073,Ebro,EU-15,73,13,10342.0,EU-15,13.0,Wheat,Wheat,73.0,irr,3325.4992556003,40.8428659562144,SSP1
-344,13074,Douro,EU-15,74,13,3062.0,EU-15,13.0,Wheat,Wheat,74.0,rfd,3360.86208185922,41.2771824487813,SSP1
-345,13074,Douro,EU-15,74,13,10343.0,EU-15,13.0,Wheat,Wheat,74.0,irr,3360.86208185922,41.2771824487813,SSP1
+294,13021,Denmark_Germany_Coast,EU-15,21,13,3037.0,EU-15,13.0,Wheat,Wheat,21.0,rfd,2871.03959201658,37.09,SSP1
+295,13021,Denmark_Germany_Coast,EU-15,21,13,10318.0,EU-15,13.0,Wheat,Wheat,21.0,irr,2871.03959201658,37.09,SSP1
+296,13024,Ireland,EU-15,24,13,3038.0,EU-15,13.0,Wheat,Wheat,24.0,rfd,2871.03959201658,37.09,SSP1
+297,13024,Ireland,EU-15,24,13,10319.0,EU-15,13.0,Wheat,Wheat,24.0,irr,2871.03959201658,37.09,SSP1
+298,13026,England_and_Wales,EU-15,26,13,3039.0,EU-15,13.0,Wheat,Wheat,26.0,rfd,2871.03959201658,37.09,SSP1
+299,13026,England_and_Wales,EU-15,26,13,10320.0,EU-15,13.0,Wheat,Wheat,26.0,irr,2871.03959201658,37.09,SSP1
+300,13028,Ems_Weser,EU-15,28,13,3040.0,EU-15,13.0,Wheat,Wheat,28.0,rfd,2871.03959201658,37.09,SSP1
+301,13028,Ems_Weser,EU-15,28,13,10321.0,EU-15,13.0,Wheat,Wheat,28.0,irr,2871.03959201658,37.09,SSP1
+302,13029,Oder,EU-15,29,13,3041.0,EU-15,13.0,Wheat,Wheat,29.0,rfd,2871.03959201658,37.09,SSP1
+303,13029,Oder,EU-15,29,13,10322.0,EU-15,13.0,Wheat,Wheat,29.0,irr,2871.03959201658,37.09,SSP1
+304,13031,Elbe,EU-15,31,13,3042.0,EU-15,13.0,Wheat,Wheat,31.0,rfd,2871.03959201658,37.09,SSP1
+305,13031,Elbe,EU-15,31,13,10323.0,EU-15,13.0,Wheat,Wheat,31.0,irr,2871.03959201658,37.09,SSP1
+306,13032,Rhine,EU-15,32,13,3043.0,EU-15,13.0,Wheat,Wheat,32.0,rfd,2871.03959201658,37.09,SSP1
+307,13032,Rhine,EU-15,32,13,10324.0,EU-15,13.0,Wheat,Wheat,32.0,irr,2871.03959201658,37.09,SSP1
+308,13036,Scheldt,EU-15,36,13,3044.0,EU-15,13.0,Wheat,Wheat,36.0,rfd,2871.03959201658,37.09,SSP1
+309,13036,Scheldt,EU-15,36,13,10325.0,EU-15,13.0,Wheat,Wheat,36.0,irr,2871.03959201658,37.09,SSP1
+310,13041,France_West_Coast,EU-15,41,13,3045.0,EU-15,13.0,Wheat,Wheat,41.0,rfd,2871.03959201658,37.09,SSP1
+311,13041,France_West_Coast,EU-15,41,13,10326.0,EU-15,13.0,Wheat,Wheat,41.0,irr,2871.03959201658,37.09,SSP1
+312,13044,Loire,EU-15,44,13,3046.0,EU-15,13.0,Wheat,Wheat,44.0,rfd,2871.03959201658,37.09,SSP1
+313,13044,Loire,EU-15,44,13,10327.0,EU-15,13.0,Wheat,Wheat,44.0,irr,2871.03959201658,37.09,SSP1
+314,13046,Seine,EU-15,46,13,3047.0,EU-15,13.0,Wheat,Wheat,46.0,rfd,2871.03959201658,37.09,SSP1
+315,13046,Seine,EU-15,46,13,10328.0,EU-15,13.0,Wheat,Wheat,46.0,irr,2871.03959201658,37.09,SSP1
+316,13050,Italy_East_Coast,EU-15,50,13,3048.0,EU-15,13.0,Wheat,Wheat,50.0,rfd,3930.08828554412,50.771495773225,SSP1
+317,13050,Italy_East_Coast,EU-15,50,13,10329.0,EU-15,13.0,Wheat,Wheat,50.0,irr,3930.08828554412,50.771495773225,SSP1
+318,13054,Danube,EU-15,54,13,3049.0,EU-15,13.0,Wheat,Wheat,54.0,rfd,2871.03959201658,37.09,SSP1
+319,13054,Danube,EU-15,54,13,10330.0,EU-15,13.0,Wheat,Wheat,54.0,irr,2871.03959201658,37.09,SSP1
+320,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,3050.0,EU-15,13.0,Wheat,Wheat,55.0,rfd,2871.03959201658,37.09,SSP1
+321,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10331.0,EU-15,13.0,Wheat,Wheat,55.0,irr,2871.03959201658,37.09,SSP1
+322,13057,Po,EU-15,57,13,3051.0,EU-15,13.0,Wheat,Wheat,57.0,rfd,3935.05329384333,50.8356370544284,SSP1
+323,13057,Po,EU-15,57,13,10332.0,EU-15,13.0,Wheat,Wheat,57.0,irr,3935.05329384333,50.8356370544284,SSP1
+324,13059,Italy_West_Coast,EU-15,59,13,3052.0,EU-15,13.0,Wheat,Wheat,59.0,rfd,3935.70934303478,50.8441123344554,SSP1
+325,13059,Italy_West_Coast,EU-15,59,13,10333.0,EU-15,13.0,Wheat,Wheat,59.0,irr,3935.70934303478,50.8441123344554,SSP1
+326,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,3053.0,EU-15,13.0,Wheat,Wheat,60.0,rfd,3641.25967262102,47.0402155487704,SSP1
+327,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10334.0,EU-15,13.0,Wheat,Wheat,60.0,irr,3641.25967262102,47.0402155487704,SSP1
+328,13061,France_South_Coast,EU-15,61,13,3054.0,EU-15,13.0,Wheat,Wheat,61.0,rfd,2871.03959201658,37.09,SSP1
+329,13061,France_South_Coast,EU-15,61,13,10335.0,EU-15,13.0,Wheat,Wheat,61.0,irr,2871.03959201658,37.09,SSP1
+330,13062,Rh(ne,EU-15,62,13,3055.0,EU-15,13.0,Wheat,Wheat,62.0,rfd,2871.03959201658,37.09,SSP1
+331,13062,Rh(ne,EU-15,62,13,10336.0,EU-15,13.0,Wheat,Wheat,62.0,irr,2871.03959201658,37.09,SSP1
+332,13063,Mediterranean_Sea_Islands,EU-15,63,13,3056.0,EU-15,13.0,Wheat,Wheat,63.0,rfd,3853.33000571371,49.779881235123,SSP1
+333,13063,Mediterranean_Sea_Islands,EU-15,63,13,10337.0,EU-15,13.0,Wheat,Wheat,63.0,irr,3853.33000571371,49.779881235123,SSP1
+334,13064,Gironde,EU-15,64,13,3057.0,EU-15,13.0,Wheat,Wheat,64.0,rfd,2871.03959201658,37.09,SSP1
+335,13064,Gironde,EU-15,64,13,10338.0,EU-15,13.0,Wheat,Wheat,64.0,irr,2871.03959201658,37.09,SSP1
+336,13067,Spain_South_and_East_Coast,EU-15,67,13,3058.0,EU-15,13.0,Wheat,Wheat,67.0,rfd,3163.13956962134,40.8635418903614,SSP1
+337,13067,Spain_South_and_East_Coast,EU-15,67,13,10339.0,EU-15,13.0,Wheat,Wheat,67.0,irr,3163.13956962134,40.8635418903614,SSP1
+338,13069,Tiber,EU-15,69,13,3059.0,EU-15,13.0,Wheat,Wheat,69.0,rfd,3935.70934303478,50.8441123344554,SSP1
+339,13069,Tiber,EU-15,69,13,10340.0,EU-15,13.0,Wheat,Wheat,69.0,irr,3935.70934303478,50.8441123344554,SSP1
+340,13071,Tagus,EU-15,71,13,3060.0,EU-15,13.0,Wheat,Wheat,71.0,rfd,3747.45931980073,48.4121732622232,SSP1
+341,13071,Tagus,EU-15,71,13,10341.0,EU-15,13.0,Wheat,Wheat,71.0,irr,3747.45931980073,48.4121732622232,SSP1
+342,13073,Ebro,EU-15,73,13,3061.0,EU-15,13.0,Wheat,Wheat,73.0,rfd,3161.53909980365,40.8428659562144,SSP1
+343,13073,Ebro,EU-15,73,13,10342.0,EU-15,13.0,Wheat,Wheat,73.0,irr,3161.53909980365,40.8428659562144,SSP1
+344,13074,Douro,EU-15,74,13,3062.0,EU-15,13.0,Wheat,Wheat,74.0,rfd,3195.15840003621,41.2771824487813,SSP1
+345,13074,Douro,EU-15,74,13,10343.0,EU-15,13.0,Wheat,Wheat,74.0,irr,3195.15840003621,41.2771824487813,SSP1
 346,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
 347,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
-348,13081,Guadiana,EU-15,81,13,3063.0,EU-15,13.0,Wheat,Wheat,81.0,rfd,3959.1793156695,48.6255499273344,SSP1
-349,13081,Guadiana,EU-15,81,13,10344.0,EU-15,13.0,Wheat,Wheat,81.0,irr,3959.1793156695,48.6255499273344,SSP1
-350,13083,Guadalquivir,EU-15,83,13,3064.0,EU-15,13.0,Wheat,Wheat,83.0,rfd,3327.93801289697,40.8728181016554,SSP1
-351,13083,Guadalquivir,EU-15,83,13,10345.0,EU-15,13.0,Wheat,Wheat,83.0,irr,3327.93801289697,40.8728181016554,SSP1
+348,13081,Guadiana,EU-15,81,13,3063.0,EU-15,13.0,Wheat,Wheat,81.0,rfd,3763.97624763969,48.6255499273344,SSP1
+349,13081,Guadiana,EU-15,81,13,10344.0,EU-15,13.0,Wheat,Wheat,81.0,irr,3763.97624763969,48.6255499273344,SSP1
+350,13083,Guadalquivir,EU-15,83,13,3064.0,EU-15,13.0,Wheat,Wheat,83.0,rfd,3163.85761680088,40.8728181016554,SSP1
+351,13083,Guadalquivir,EU-15,83,13,10345.0,EU-15,13.0,Wheat,Wheat,83.0,irr,3163.85761680088,40.8728181016554,SSP1
 352,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
 353,13101,Caribbean,EU-15,101,13,,,,,,,,,,
 354,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
@@ -358,327 +358,327 @@
 356,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
 357,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
 358,13216,Antarctica,EU-15,216,13,,,,,,,,,,
-359,14017,Neva,Europe_Eastern,17,14,3216.0,Europe_Eastern,14.0,Wheat,Wheat,17.0,rfd,3788.65089263969,37.09,SSP1
-360,14017,Neva,Europe_Eastern,17,14,10497.0,Europe_Eastern,14.0,Wheat,Wheat,17.0,irr,3788.65089263969,37.09,SSP1
-361,14025,Daugava,Europe_Eastern,25,14,3217.0,Europe_Eastern,14.0,Wheat,Wheat,25.0,rfd,3788.65089263969,37.09,SSP1
-362,14025,Daugava,Europe_Eastern,25,14,10498.0,Europe_Eastern,14.0,Wheat,Wheat,25.0,irr,3788.65089263969,37.09,SSP1
-363,14030,Wisla,Europe_Eastern,30,14,3218.0,Europe_Eastern,14.0,Wheat,Wheat,30.0,rfd,3788.65089263969,37.09,SSP1
-364,14030,Wisla,Europe_Eastern,30,14,10499.0,Europe_Eastern,14.0,Wheat,Wheat,30.0,irr,3788.65089263969,37.09,SSP1
-365,14035,Neman,Europe_Eastern,35,14,3219.0,Europe_Eastern,14.0,Wheat,Wheat,35.0,rfd,3788.65089263969,37.09,SSP1
-366,14035,Neman,Europe_Eastern,35,14,10500.0,Europe_Eastern,14.0,Wheat,Wheat,35.0,irr,3788.65089263969,37.09,SSP1
-367,14039,Dnieper,Europe_Eastern,39,14,3220.0,Europe_Eastern,14.0,Wheat,Wheat,39.0,rfd,3788.65089263969,37.09,SSP1
-368,14039,Dnieper,Europe_Eastern,39,14,10501.0,Europe_Eastern,14.0,Wheat,Wheat,39.0,irr,3788.65089263969,37.09,SSP1
-369,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3221.0,Europe_Eastern,14.0,Wheat,Wheat,47.0,rfd,3788.65089263969,37.09,SSP1
-370,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10502.0,Europe_Eastern,14.0,Wheat,Wheat,47.0,irr,3788.65089263969,37.09,SSP1
-371,14049,Dniester,Europe_Eastern,49,14,3222.0,Europe_Eastern,14.0,Wheat,Wheat,49.0,rfd,3788.65089263969,37.09,SSP1
-372,14049,Dniester,Europe_Eastern,49,14,10503.0,Europe_Eastern,14.0,Wheat,Wheat,49.0,irr,3788.65089263969,37.09,SSP1
-373,14053,Don,Europe_Eastern,53,14,3223.0,Europe_Eastern,14.0,Wheat,Wheat,53.0,rfd,3788.65089263969,37.09,SSP1
-374,14053,Don,Europe_Eastern,53,14,10504.0,Europe_Eastern,14.0,Wheat,Wheat,53.0,irr,3788.65089263969,37.09,SSP1
-375,14054,Danube,Europe_Eastern,54,14,3224.0,Europe_Eastern,14.0,Wheat,Wheat,54.0,rfd,3788.65089263969,37.09,SSP1
-376,14054,Danube,Europe_Eastern,54,14,10505.0,Europe_Eastern,14.0,Wheat,Wheat,54.0,irr,3788.65089263969,37.09,SSP1
-377,15054,Danube,Europe_Non_EU,54,15,3353.0,Europe_Non_EU,15.0,Wheat,Wheat,54.0,rfd,4946.40765909254,37.09,SSP1
-378,15054,Danube,Europe_Non_EU,54,15,10634.0,Europe_Non_EU,15.0,Wheat,Wheat,54.0,irr,4946.40765909254,37.09,SSP1
-379,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3354.0,Europe_Non_EU,15.0,Wheat,Wheat,55.0,rfd,4946.40765909254,37.09,SSP1
-380,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10635.0,Europe_Non_EU,15.0,Wheat,Wheat,55.0,irr,4946.40765909254,37.09,SSP1
-381,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3355.0,Europe_Non_EU,15.0,Wheat,Wheat,70.0,rfd,4946.40765909254,37.09,SSP1
-382,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10636.0,Europe_Non_EU,15.0,Wheat,Wheat,70.0,irr,4946.40765909254,37.09,SSP1
-383,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3356.0,Europe_Non_EU,15.0,Wheat,Wheat,72.0,rfd,4946.40765909254,37.09,SSP1
-384,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10637.0,Europe_Non_EU,15.0,Wheat,Wheat,72.0,irr,4946.40765909254,37.09,SSP1
-385,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3357.0,Europe_Non_EU,15.0,Wheat,Wheat,75.0,rfd,4946.40765909254,37.09,SSP1
-386,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10638.0,Europe_Non_EU,15.0,Wheat,Wheat,75.0,irr,4946.40765909254,37.09,SSP1
-387,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3358.0,Europe_Non_EU,15.0,Wheat,Wheat,84.0,rfd,4946.40765909254,37.09,SSP1
-388,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10639.0,Europe_Non_EU,15.0,Wheat,Wheat,84.0,irr,4946.40765909254,37.09,SSP1
-389,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3359.0,Europe_Non_EU,15.0,Wheat,Wheat,99.0,rfd,4946.40765909254,37.09,SSP1
-390,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10640.0,Europe_Non_EU,15.0,Wheat,Wheat,99.0,irr,4946.40765909254,37.09,SSP1
+359,14017,Neva,Europe_Eastern,17,14,3216.0,Europe_Eastern,14.0,Wheat,Wheat,17.0,rfd,3617.9462894789,37.09,SSP1
+360,14017,Neva,Europe_Eastern,17,14,10497.0,Europe_Eastern,14.0,Wheat,Wheat,17.0,irr,3617.9462894789,37.09,SSP1
+361,14025,Daugava,Europe_Eastern,25,14,3217.0,Europe_Eastern,14.0,Wheat,Wheat,25.0,rfd,3617.9462894789,37.09,SSP1
+362,14025,Daugava,Europe_Eastern,25,14,10498.0,Europe_Eastern,14.0,Wheat,Wheat,25.0,irr,3617.9462894789,37.09,SSP1
+363,14030,Wisla,Europe_Eastern,30,14,3218.0,Europe_Eastern,14.0,Wheat,Wheat,30.0,rfd,3617.9462894789,37.09,SSP1
+364,14030,Wisla,Europe_Eastern,30,14,10499.0,Europe_Eastern,14.0,Wheat,Wheat,30.0,irr,3617.9462894789,37.09,SSP1
+365,14035,Neman,Europe_Eastern,35,14,3219.0,Europe_Eastern,14.0,Wheat,Wheat,35.0,rfd,3617.9462894789,37.09,SSP1
+366,14035,Neman,Europe_Eastern,35,14,10500.0,Europe_Eastern,14.0,Wheat,Wheat,35.0,irr,3617.9462894789,37.09,SSP1
+367,14039,Dnieper,Europe_Eastern,39,14,3220.0,Europe_Eastern,14.0,Wheat,Wheat,39.0,rfd,3617.9462894789,37.09,SSP1
+368,14039,Dnieper,Europe_Eastern,39,14,10501.0,Europe_Eastern,14.0,Wheat,Wheat,39.0,irr,3617.9462894789,37.09,SSP1
+369,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3221.0,Europe_Eastern,14.0,Wheat,Wheat,47.0,rfd,3617.9462894789,37.09,SSP1
+370,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10502.0,Europe_Eastern,14.0,Wheat,Wheat,47.0,irr,3617.9462894789,37.09,SSP1
+371,14049,Dniester,Europe_Eastern,49,14,3222.0,Europe_Eastern,14.0,Wheat,Wheat,49.0,rfd,3617.9462894789,37.09,SSP1
+372,14049,Dniester,Europe_Eastern,49,14,10503.0,Europe_Eastern,14.0,Wheat,Wheat,49.0,irr,3617.9462894789,37.09,SSP1
+373,14053,Don,Europe_Eastern,53,14,3223.0,Europe_Eastern,14.0,Wheat,Wheat,53.0,rfd,3617.9462894789,37.09,SSP1
+374,14053,Don,Europe_Eastern,53,14,10504.0,Europe_Eastern,14.0,Wheat,Wheat,53.0,irr,3617.9462894789,37.09,SSP1
+375,14054,Danube,Europe_Eastern,54,14,3224.0,Europe_Eastern,14.0,Wheat,Wheat,54.0,rfd,3617.9462894789,37.09,SSP1
+376,14054,Danube,Europe_Eastern,54,14,10505.0,Europe_Eastern,14.0,Wheat,Wheat,54.0,irr,3617.9462894789,37.09,SSP1
+377,15054,Danube,Europe_Non_EU,54,15,3353.0,Europe_Non_EU,15.0,Wheat,Wheat,54.0,rfd,4766.42468103294,37.09,SSP1
+378,15054,Danube,Europe_Non_EU,54,15,10634.0,Europe_Non_EU,15.0,Wheat,Wheat,54.0,irr,4766.42468103294,37.09,SSP1
+379,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3354.0,Europe_Non_EU,15.0,Wheat,Wheat,55.0,rfd,4766.42468103294,37.09,SSP1
+380,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10635.0,Europe_Non_EU,15.0,Wheat,Wheat,55.0,irr,4766.42468103294,37.09,SSP1
+381,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3355.0,Europe_Non_EU,15.0,Wheat,Wheat,70.0,rfd,4766.42468103294,37.09,SSP1
+382,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10636.0,Europe_Non_EU,15.0,Wheat,Wheat,70.0,irr,4766.42468103294,37.09,SSP1
+383,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3356.0,Europe_Non_EU,15.0,Wheat,Wheat,72.0,rfd,4766.42468103294,37.09,SSP1
+384,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10637.0,Europe_Non_EU,15.0,Wheat,Wheat,72.0,irr,4766.42468103294,37.09,SSP1
+385,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3357.0,Europe_Non_EU,15.0,Wheat,Wheat,75.0,rfd,4766.42468103294,37.09,SSP1
+386,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10638.0,Europe_Non_EU,15.0,Wheat,Wheat,75.0,irr,4766.42468103294,37.09,SSP1
+387,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3358.0,Europe_Non_EU,15.0,Wheat,Wheat,84.0,rfd,4766.42468103294,37.09,SSP1
+388,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10639.0,Europe_Non_EU,15.0,Wheat,Wheat,84.0,irr,4766.42468103294,37.09,SSP1
+389,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3359.0,Europe_Non_EU,15.0,Wheat,Wheat,99.0,rfd,4766.42468103294,37.09,SSP1
+390,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10640.0,Europe_Non_EU,15.0,Wheat,Wheat,99.0,irr,4766.42468103294,37.09,SSP1
 391,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
 392,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,,,,,,,,,,
 393,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
 394,16012,Sweden,European Free Trade Association,12,16,,,,,,,,,,
-395,16032,Rhine,European Free Trade Association,32,16,3438.0,European Free Trade Association,16.0,Wheat,Wheat,32.0,rfd,6205.23410670773,51.4142309200332,SSP1
-396,16032,Rhine,European Free Trade Association,32,16,10719.0,European Free Trade Association,16.0,Wheat,Wheat,32.0,irr,6205.23410670773,51.4142309200332,SSP1
-397,16054,Danube,European Free Trade Association,54,16,3439.0,European Free Trade Association,16.0,Wheat,Wheat,54.0,rfd,6205.23410670773,51.4142309200332,SSP1
-398,16054,Danube,European Free Trade Association,54,16,10720.0,European Free Trade Association,16.0,Wheat,Wheat,54.0,irr,6205.23410670773,51.4142309200332,SSP1
-399,16057,Po,European Free Trade Association,57,16,3440.0,European Free Trade Association,16.0,Wheat,Wheat,57.0,rfd,6205.23410670773,51.4142309200332,SSP1
-400,16057,Po,European Free Trade Association,57,16,10721.0,European Free Trade Association,16.0,Wheat,Wheat,57.0,irr,6205.23410670773,51.4142309200332,SSP1
-401,16062,Rh(ne,European Free Trade Association,62,16,3441.0,European Free Trade Association,16.0,Wheat,Wheat,62.0,rfd,6205.23410670773,51.4142309200332,SSP1
-402,16062,Rh(ne,European Free Trade Association,62,16,10722.0,European Free Trade Association,16.0,Wheat,Wheat,62.0,irr,6205.23410670773,51.4142309200332,SSP1
-403,17089,Indus,India,89,17,3795.0,India,17.0,Wheat,Wheat,89.0,rfd,7139.93992662491,37.09,SSP1
-404,17089,Indus,India,89,17,11076.0,India,17.0,Wheat,Wheat,89.0,irr,7139.93992662491,37.09,SSP1
-405,17107,Sabarmati,India,107,17,3796.0,India,17.0,Wheat,Wheat,107.0,rfd,7139.93992662491,37.09,SSP1
-406,17107,Sabarmati,India,107,17,11077.0,India,17.0,Wheat,Wheat,107.0,irr,7139.93992662491,37.09,SSP1
-407,17110,Ganges_Bramaputra,India,110,17,3797.0,India,17.0,Wheat,Wheat,110.0,rfd,7139.93992662491,37.09,SSP1
-408,17110,Ganges_Bramaputra,India,110,17,11078.0,India,17.0,Wheat,Wheat,110.0,irr,7139.93992662491,37.09,SSP1
-409,17113,Mahi,India,113,17,3798.0,India,17.0,Wheat,Wheat,113.0,rfd,7139.93992662491,37.09,SSP1
-410,17113,Mahi,India,113,17,11079.0,India,17.0,Wheat,Wheat,113.0,irr,7139.93992662491,37.09,SSP1
-411,17116,Bay_of_Bengal_North_East_Coast,India,116,17,3799.0,India,17.0,Wheat,Wheat,116.0,rfd,7139.93992662491,37.09,SSP1
-412,17116,Bay_of_Bengal_North_East_Coast,India,116,17,11080.0,India,17.0,Wheat,Wheat,116.0,irr,7139.93992662491,37.09,SSP1
-413,17117,Tapti,India,117,17,3800.0,India,17.0,Wheat,Wheat,117.0,rfd,7139.93992662491,37.09,SSP1
-414,17117,Tapti,India,117,17,11081.0,India,17.0,Wheat,Wheat,117.0,irr,7139.93992662491,37.09,SSP1
-415,17118,Yasai,India,118,17,3801.0,India,17.0,Wheat,Wheat,118.0,rfd,7139.93992662491,37.09,SSP1
-416,17118,Yasai,India,118,17,11082.0,India,17.0,Wheat,Wheat,118.0,irr,7139.93992662491,37.09,SSP1
-417,17120,Brahamani,India,120,17,3802.0,India,17.0,Wheat,Wheat,120.0,rfd,7139.93992662491,37.09,SSP1
-418,17120,Brahamani,India,120,17,11083.0,India,17.0,Wheat,Wheat,120.0,irr,7139.93992662491,37.09,SSP1
-419,17122,Mahandi,India,122,17,3803.0,India,17.0,Wheat,Wheat,122.0,rfd,7139.93992662491,37.09,SSP1
-420,17122,Mahandi,India,122,17,11084.0,India,17.0,Wheat,Wheat,122.0,irr,7139.93992662491,37.09,SSP1
-421,17123,Godavari,India,123,17,3804.0,India,17.0,Wheat,Wheat,123.0,rfd,7139.93992662491,37.09,SSP1
-422,17123,Godavari,India,123,17,11085.0,India,17.0,Wheat,Wheat,123.0,irr,7139.93992662491,37.09,SSP1
-423,17128,India_North_East_Coast,India,128,17,3805.0,India,17.0,Wheat,Wheat,128.0,rfd,7139.93992662491,37.09,SSP1
-424,17128,India_North_East_Coast,India,128,17,11086.0,India,17.0,Wheat,Wheat,128.0,irr,7139.93992662491,37.09,SSP1
-425,17129,India_West_Coast,India,129,17,3806.0,India,17.0,Wheat,Wheat,129.0,rfd,7139.93992662491,37.09,SSP1
-426,17129,India_West_Coast,India,129,17,11087.0,India,17.0,Wheat,Wheat,129.0,irr,7139.93992662491,37.09,SSP1
-427,17137,Irrawaddy,India,137,17,3807.0,India,17.0,Wheat,Wheat,137.0,rfd,7139.93992662491,37.09,SSP1
-428,17137,Irrawaddy,India,137,17,11088.0,India,17.0,Wheat,Wheat,137.0,irr,7139.93992662491,37.09,SSP1
-429,17140,Krishna,India,140,17,3808.0,India,17.0,Wheat,Wheat,140.0,rfd,7139.93992662491,37.09,SSP1
-430,17140,Krishna,India,140,17,11089.0,India,17.0,Wheat,Wheat,140.0,irr,7139.93992662491,37.09,SSP1
+395,16032,Rhine,European Free Trade Association,32,16,3438.0,European Free Trade Association,16.0,Wheat,Wheat,32.0,rfd,5939.33418955689,51.4142309200332,SSP1
+396,16032,Rhine,European Free Trade Association,32,16,10719.0,European Free Trade Association,16.0,Wheat,Wheat,32.0,irr,5939.33418955689,51.4142309200332,SSP1
+397,16054,Danube,European Free Trade Association,54,16,3439.0,European Free Trade Association,16.0,Wheat,Wheat,54.0,rfd,5939.33418955689,51.4142309200332,SSP1
+398,16054,Danube,European Free Trade Association,54,16,10720.0,European Free Trade Association,16.0,Wheat,Wheat,54.0,irr,5939.33418955689,51.4142309200332,SSP1
+399,16057,Po,European Free Trade Association,57,16,3440.0,European Free Trade Association,16.0,Wheat,Wheat,57.0,rfd,5939.33418955689,51.4142309200332,SSP1
+400,16057,Po,European Free Trade Association,57,16,10721.0,European Free Trade Association,16.0,Wheat,Wheat,57.0,irr,5939.33418955689,51.4142309200332,SSP1
+401,16062,Rh(ne,European Free Trade Association,62,16,3441.0,European Free Trade Association,16.0,Wheat,Wheat,62.0,rfd,5939.33418955689,51.4142309200332,SSP1
+402,16062,Rh(ne,European Free Trade Association,62,16,10722.0,European Free Trade Association,16.0,Wheat,Wheat,62.0,irr,5939.33418955689,51.4142309200332,SSP1
+403,17089,Indus,India,89,17,3795.0,India,17.0,Wheat,Wheat,89.0,rfd,6997.09403053649,37.09,SSP1
+404,17089,Indus,India,89,17,11076.0,India,17.0,Wheat,Wheat,89.0,irr,6997.09403053649,37.09,SSP1
+405,17107,Sabarmati,India,107,17,3796.0,India,17.0,Wheat,Wheat,107.0,rfd,6997.09403053649,37.09,SSP1
+406,17107,Sabarmati,India,107,17,11077.0,India,17.0,Wheat,Wheat,107.0,irr,6997.09403053649,37.09,SSP1
+407,17110,Ganges_Bramaputra,India,110,17,3797.0,India,17.0,Wheat,Wheat,110.0,rfd,6997.09403053649,37.09,SSP1
+408,17110,Ganges_Bramaputra,India,110,17,11078.0,India,17.0,Wheat,Wheat,110.0,irr,6997.09403053649,37.09,SSP1
+409,17113,Mahi,India,113,17,3798.0,India,17.0,Wheat,Wheat,113.0,rfd,6997.09403053649,37.09,SSP1
+410,17113,Mahi,India,113,17,11079.0,India,17.0,Wheat,Wheat,113.0,irr,6997.09403053649,37.09,SSP1
+411,17116,Bay_of_Bengal_North_East_Coast,India,116,17,3799.0,India,17.0,Wheat,Wheat,116.0,rfd,6997.09403053649,37.09,SSP1
+412,17116,Bay_of_Bengal_North_East_Coast,India,116,17,11080.0,India,17.0,Wheat,Wheat,116.0,irr,6997.09403053649,37.09,SSP1
+413,17117,Tapti,India,117,17,3800.0,India,17.0,Wheat,Wheat,117.0,rfd,6997.09403053649,37.09,SSP1
+414,17117,Tapti,India,117,17,11081.0,India,17.0,Wheat,Wheat,117.0,irr,6997.09403053649,37.09,SSP1
+415,17118,Yasai,India,118,17,3801.0,India,17.0,Wheat,Wheat,118.0,rfd,6997.09403053649,37.09,SSP1
+416,17118,Yasai,India,118,17,11082.0,India,17.0,Wheat,Wheat,118.0,irr,6997.09403053649,37.09,SSP1
+417,17120,Brahamani,India,120,17,3802.0,India,17.0,Wheat,Wheat,120.0,rfd,6997.09403053649,37.09,SSP1
+418,17120,Brahamani,India,120,17,11083.0,India,17.0,Wheat,Wheat,120.0,irr,6997.09403053649,37.09,SSP1
+419,17122,Mahandi,India,122,17,3803.0,India,17.0,Wheat,Wheat,122.0,rfd,6997.09403053649,37.09,SSP1
+420,17122,Mahandi,India,122,17,11084.0,India,17.0,Wheat,Wheat,122.0,irr,6997.09403053649,37.09,SSP1
+421,17123,Godavari,India,123,17,3804.0,India,17.0,Wheat,Wheat,123.0,rfd,6997.09403053649,37.09,SSP1
+422,17123,Godavari,India,123,17,11085.0,India,17.0,Wheat,Wheat,123.0,irr,6997.09403053649,37.09,SSP1
+423,17128,India_North_East_Coast,India,128,17,3805.0,India,17.0,Wheat,Wheat,128.0,rfd,6997.09403053649,37.09,SSP1
+424,17128,India_North_East_Coast,India,128,17,11086.0,India,17.0,Wheat,Wheat,128.0,irr,6997.09403053649,37.09,SSP1
+425,17129,India_West_Coast,India,129,17,3806.0,India,17.0,Wheat,Wheat,129.0,rfd,6997.09403053649,37.09,SSP1
+426,17129,India_West_Coast,India,129,17,11087.0,India,17.0,Wheat,Wheat,129.0,irr,6997.09403053649,37.09,SSP1
+427,17137,Irrawaddy,India,137,17,3807.0,India,17.0,Wheat,Wheat,137.0,rfd,6997.09403053649,37.09,SSP1
+428,17137,Irrawaddy,India,137,17,11088.0,India,17.0,Wheat,Wheat,137.0,irr,6997.09403053649,37.09,SSP1
+429,17140,Krishna,India,140,17,3808.0,India,17.0,Wheat,Wheat,140.0,rfd,6997.09403053649,37.09,SSP1
+430,17140,Krishna,India,140,17,11089.0,India,17.0,Wheat,Wheat,140.0,irr,6997.09403053649,37.09,SSP1
 431,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
-432,17145,India_East_Coast,India,145,17,3809.0,India,17.0,Wheat,Wheat,145.0,rfd,7139.93992662491,37.09,SSP1
-433,17145,India_East_Coast,India,145,17,11090.0,India,17.0,Wheat,Wheat,145.0,irr,7139.93992662491,37.09,SSP1
-434,17147,Pennar,India,147,17,3810.0,India,17.0,Wheat,Wheat,147.0,rfd,7139.93992662491,37.09,SSP1
-435,17147,Pennar,India,147,17,11091.0,India,17.0,Wheat,Wheat,147.0,irr,7139.93992662491,37.09,SSP1
-436,17153,Cauvery,India,153,17,3811.0,India,17.0,Wheat,Wheat,153.0,rfd,7139.93992662491,37.09,SSP1
-437,17153,Cauvery,India,153,17,11092.0,India,17.0,Wheat,Wheat,153.0,irr,7139.93992662491,37.09,SSP1
-438,17155,India_South_Coast,India,155,17,3812.0,India,17.0,Wheat,Wheat,155.0,rfd,7139.93992662491,37.09,SSP1
-439,17155,India_South_Coast,India,155,17,11093.0,India,17.0,Wheat,Wheat,155.0,irr,7139.93992662491,37.09,SSP1
-440,17235,Narmada,India,235,17,3813.0,India,17.0,Wheat,Wheat,235.0,rfd,7139.93992662491,37.09,SSP1
-441,17235,Narmada,India,235,17,11094.0,India,17.0,Wheat,Wheat,235.0,irr,7139.93992662491,37.09,SSP1
-442,18158,Palau_and_East_Indonesia,Indonesia,158,18,6979.0,Indonesia,18.0,Wheat,Wheat,158.0,rfd,1941.41803586973,37.09,SSP1
-443,18158,Palau_and_East_Indonesia,Indonesia,158,18,14260.0,Indonesia,18.0,Wheat,Wheat,158.0,irr,1941.41803586973,37.09,SSP1
-444,18159,North_Borneo_Coast,Indonesia,159,18,6980.0,Indonesia,18.0,Wheat,Wheat,159.0,rfd,1941.41803586973,37.09,SSP1
-445,18159,North_Borneo_Coast,Indonesia,159,18,14261.0,Indonesia,18.0,Wheat,Wheat,159.0,irr,1941.41803586973,37.09,SSP1
-446,18163,Sumatra,Indonesia,163,18,6981.0,Indonesia,18.0,Wheat,Wheat,163.0,rfd,1941.41803586973,37.09,SSP1
-447,18163,Sumatra,Indonesia,163,18,14262.0,Indonesia,18.0,Wheat,Wheat,163.0,irr,1941.41803586973,37.09,SSP1
-448,18164,Sulawesi,Indonesia,164,18,6982.0,Indonesia,18.0,Wheat,Wheat,164.0,rfd,1941.41803586973,37.09,SSP1
-449,18164,Sulawesi,Indonesia,164,18,14263.0,Indonesia,18.0,Wheat,Wheat,164.0,irr,1941.41803586973,37.09,SSP1
-450,18165,Kalimantan,Indonesia,165,18,6983.0,Indonesia,18.0,Wheat,Wheat,165.0,rfd,1941.41803586973,37.09,SSP1
-451,18165,Kalimantan,Indonesia,165,18,14264.0,Indonesia,18.0,Wheat,Wheat,165.0,irr,1941.41803586973,37.09,SSP1
-452,18167,Irian_Jaya_Coast,Indonesia,167,18,6984.0,Indonesia,18.0,Wheat,Wheat,167.0,rfd,1941.41803586973,37.09,SSP1
-453,18167,Irian_Jaya_Coast,Indonesia,167,18,14265.0,Indonesia,18.0,Wheat,Wheat,167.0,irr,1941.41803586973,37.09,SSP1
-454,18175,Java_Timor,Indonesia,175,18,6985.0,Indonesia,18.0,Wheat,Wheat,175.0,rfd,1941.41803586973,37.09,SSP1
-455,18175,Java_Timor,Indonesia,175,18,14266.0,Indonesia,18.0,Wheat,Wheat,175.0,irr,1941.41803586973,37.09,SSP1
-456,18178,Sepik,Indonesia,178,18,6986.0,Indonesia,18.0,Wheat,Wheat,178.0,rfd,1941.41803586973,37.09,SSP1
-457,18178,Sepik,Indonesia,178,18,14267.0,Indonesia,18.0,Wheat,Wheat,178.0,irr,1941.41803586973,37.09,SSP1
-458,18181,Fly,Indonesia,181,18,6987.0,Indonesia,18.0,Wheat,Wheat,181.0,rfd,1941.41803586973,37.09,SSP1
-459,18181,Fly,Indonesia,181,18,14268.0,Indonesia,18.0,Wheat,Wheat,181.0,irr,1941.41803586973,37.09,SSP1
-460,19051,Japan,Japan,51,19,4007.0,Japan,19.0,Wheat,Wheat,51.0,rfd,5518.46431606348,91.7729062691612,SSP1
-461,19051,Japan,Japan,51,19,11288.0,Japan,19.0,Wheat,Wheat,51.0,irr,5518.46431606348,91.7729062691612,SSP1
-462,19103,Taiwan,Japan,103,19,4008.0,Japan,19.0,Wheat,Wheat,103.0,rfd,5518.46431606348,91.7729062691612,SSP1
-463,19103,Taiwan,Japan,103,19,11289.0,Japan,19.0,Wheat,Wheat,103.0,irr,5518.46431606348,91.7729062691612,SSP1
-464,20091,Baja_California,Mexico,91,20,4326.0,Mexico,20.0,Wheat,Wheat,91.0,rfd,2715.44742256677,37.09,SSP1
-465,20091,Baja_California,Mexico,91,20,11607.0,Mexico,20.0,Wheat,Wheat,91.0,irr,2715.44742256677,37.09,SSP1
-466,20096,Mexico_Northwest_Coast,Mexico,96,20,4327.0,Mexico,20.0,Wheat,Wheat,96.0,rfd,2715.44742256677,37.09,SSP1
-467,20096,Mexico_Northwest_Coast,Mexico,96,20,11608.0,Mexico,20.0,Wheat,Wheat,96.0,irr,2715.44742256677,37.09,SSP1
-468,20105,North_Gulf,Mexico,105,20,4328.0,Mexico,20.0,Wheat,Wheat,105.0,rfd,2715.44742256677,37.09,SSP1
-469,20105,North_Gulf,Mexico,105,20,11609.0,Mexico,20.0,Wheat,Wheat,105.0,irr,2715.44742256677,37.09,SSP1
+432,17145,India_East_Coast,India,145,17,3809.0,India,17.0,Wheat,Wheat,145.0,rfd,6997.09403053649,37.09,SSP1
+433,17145,India_East_Coast,India,145,17,11090.0,India,17.0,Wheat,Wheat,145.0,irr,6997.09403053649,37.09,SSP1
+434,17147,Pennar,India,147,17,3810.0,India,17.0,Wheat,Wheat,147.0,rfd,6997.09403053649,37.09,SSP1
+435,17147,Pennar,India,147,17,11091.0,India,17.0,Wheat,Wheat,147.0,irr,6997.09403053649,37.09,SSP1
+436,17153,Cauvery,India,153,17,3811.0,India,17.0,Wheat,Wheat,153.0,rfd,6997.09403053649,37.09,SSP1
+437,17153,Cauvery,India,153,17,11092.0,India,17.0,Wheat,Wheat,153.0,irr,6997.09403053649,37.09,SSP1
+438,17155,India_South_Coast,India,155,17,3812.0,India,17.0,Wheat,Wheat,155.0,rfd,6997.09403053649,37.09,SSP1
+439,17155,India_South_Coast,India,155,17,11093.0,India,17.0,Wheat,Wheat,155.0,irr,6997.09403053649,37.09,SSP1
+440,17235,Narmada,India,235,17,3813.0,India,17.0,Wheat,Wheat,235.0,rfd,6997.09403053649,37.09,SSP1
+441,17235,Narmada,India,235,17,11094.0,India,17.0,Wheat,Wheat,235.0,irr,6997.09403053649,37.09,SSP1
+442,18158,Palau_and_East_Indonesia,Indonesia,158,18,6979.0,Indonesia,18.0,Wheat,Wheat,158.0,rfd,1910.00185835137,37.09,SSP1
+443,18158,Palau_and_East_Indonesia,Indonesia,158,18,14260.0,Indonesia,18.0,Wheat,Wheat,158.0,irr,1910.00185835137,37.09,SSP1
+444,18159,North_Borneo_Coast,Indonesia,159,18,6980.0,Indonesia,18.0,Wheat,Wheat,159.0,rfd,1910.00185835137,37.09,SSP1
+445,18159,North_Borneo_Coast,Indonesia,159,18,14261.0,Indonesia,18.0,Wheat,Wheat,159.0,irr,1910.00185835137,37.09,SSP1
+446,18163,Sumatra,Indonesia,163,18,6981.0,Indonesia,18.0,Wheat,Wheat,163.0,rfd,1910.00185835137,37.09,SSP1
+447,18163,Sumatra,Indonesia,163,18,14262.0,Indonesia,18.0,Wheat,Wheat,163.0,irr,1910.00185835137,37.09,SSP1
+448,18164,Sulawesi,Indonesia,164,18,6982.0,Indonesia,18.0,Wheat,Wheat,164.0,rfd,1910.00185835137,37.09,SSP1
+449,18164,Sulawesi,Indonesia,164,18,14263.0,Indonesia,18.0,Wheat,Wheat,164.0,irr,1910.00185835137,37.09,SSP1
+450,18165,Kalimantan,Indonesia,165,18,6983.0,Indonesia,18.0,Wheat,Wheat,165.0,rfd,1910.00185835137,37.09,SSP1
+451,18165,Kalimantan,Indonesia,165,18,14264.0,Indonesia,18.0,Wheat,Wheat,165.0,irr,1910.00185835137,37.09,SSP1
+452,18167,Irian_Jaya_Coast,Indonesia,167,18,6984.0,Indonesia,18.0,Wheat,Wheat,167.0,rfd,1910.00185835137,37.09,SSP1
+453,18167,Irian_Jaya_Coast,Indonesia,167,18,14265.0,Indonesia,18.0,Wheat,Wheat,167.0,irr,1910.00185835137,37.09,SSP1
+454,18175,Java_Timor,Indonesia,175,18,6985.0,Indonesia,18.0,Wheat,Wheat,175.0,rfd,1910.00185835137,37.09,SSP1
+455,18175,Java_Timor,Indonesia,175,18,14266.0,Indonesia,18.0,Wheat,Wheat,175.0,irr,1910.00185835137,37.09,SSP1
+456,18178,Sepik,Indonesia,178,18,6986.0,Indonesia,18.0,Wheat,Wheat,178.0,rfd,1910.00185835137,37.09,SSP1
+457,18178,Sepik,Indonesia,178,18,14267.0,Indonesia,18.0,Wheat,Wheat,178.0,irr,1910.00185835137,37.09,SSP1
+458,18181,Fly,Indonesia,181,18,6987.0,Indonesia,18.0,Wheat,Wheat,181.0,rfd,1910.00185835137,37.09,SSP1
+459,18181,Fly,Indonesia,181,18,14268.0,Indonesia,18.0,Wheat,Wheat,181.0,irr,1910.00185835137,37.09,SSP1
+460,19051,Japan,Japan,51,19,4007.0,Japan,19.0,Wheat,Wheat,51.0,rfd,5302.16377700328,91.7729062691612,SSP1
+461,19051,Japan,Japan,51,19,11288.0,Japan,19.0,Wheat,Wheat,51.0,irr,5302.16377700328,91.7729062691612,SSP1
+462,19103,Taiwan,Japan,103,19,4008.0,Japan,19.0,Wheat,Wheat,103.0,rfd,5302.16377700328,91.7729062691612,SSP1
+463,19103,Taiwan,Japan,103,19,11289.0,Japan,19.0,Wheat,Wheat,103.0,irr,5302.16377700328,91.7729062691612,SSP1
+464,20091,Baja_California,Mexico,91,20,4326.0,Mexico,20.0,Wheat,Wheat,91.0,rfd,2610.00793710208,37.09,SSP1
+465,20091,Baja_California,Mexico,91,20,11607.0,Mexico,20.0,Wheat,Wheat,91.0,irr,2610.00793710208,37.09,SSP1
+466,20096,Mexico_Northwest_Coast,Mexico,96,20,4327.0,Mexico,20.0,Wheat,Wheat,96.0,rfd,2610.00793710208,37.09,SSP1
+467,20096,Mexico_Northwest_Coast,Mexico,96,20,11608.0,Mexico,20.0,Wheat,Wheat,96.0,irr,2610.00793710208,37.09,SSP1
+468,20105,North_Gulf,Mexico,105,20,4328.0,Mexico,20.0,Wheat,Wheat,105.0,rfd,2610.00793710208,37.09,SSP1
+469,20105,North_Gulf,Mexico,105,20,11609.0,Mexico,20.0,Wheat,Wheat,105.0,irr,2610.00793710208,37.09,SSP1
 470,20111,Yucatan_Peninsula,Mexico,111,20,,,,,,,,,,
-471,20114,Mexico_Interior,Mexico,114,20,4329.0,Mexico,20.0,Wheat,Wheat,114.0,rfd,2715.44742256677,37.09,SSP1
-472,20114,Mexico_Interior,Mexico,114,20,11610.0,Mexico,20.0,Wheat,Wheat,114.0,irr,2715.44742256677,37.09,SSP1
-473,20115,Pacific_Central_Coast,Mexico,115,20,4330.0,Mexico,20.0,Wheat,Wheat,115.0,rfd,2715.44742256677,37.09,SSP1
-474,20115,Pacific_Central_Coast,Mexico,115,20,11611.0,Mexico,20.0,Wheat,Wheat,115.0,irr,2715.44742256677,37.09,SSP1
-475,20130,Papaloapan,Mexico,130,20,4331.0,Mexico,20.0,Wheat,Wheat,130.0,rfd,2715.44742256677,37.09,SSP1
-476,20130,Papaloapan,Mexico,130,20,11612.0,Mexico,20.0,Wheat,Wheat,130.0,irr,2715.44742256677,37.09,SSP1
-477,20131,Rfo_Lerma,Mexico,131,20,4332.0,Mexico,20.0,Wheat,Wheat,131.0,rfd,2715.44742256677,37.09,SSP1
-478,20131,Rfo_Lerma,Mexico,131,20,11613.0,Mexico,20.0,Wheat,Wheat,131.0,irr,2715.44742256677,37.09,SSP1
-479,20132,Rfo_Verde,Mexico,132,20,4333.0,Mexico,20.0,Wheat,Wheat,132.0,rfd,2715.44742256677,37.09,SSP1
-480,20132,Rfo_Verde,Mexico,132,20,11614.0,Mexico,20.0,Wheat,Wheat,132.0,irr,2715.44742256677,37.09,SSP1
-481,20133,Grijalva_Usumacinta,Mexico,133,20,4334.0,Mexico,20.0,Wheat,Wheat,133.0,rfd,2715.44742256677,37.09,SSP1
-482,20133,Grijalva_Usumacinta,Mexico,133,20,11615.0,Mexico,20.0,Wheat,Wheat,133.0,irr,2715.44742256677,37.09,SSP1
-483,20134,Rfo_Balsas,Mexico,134,20,4335.0,Mexico,20.0,Wheat,Wheat,134.0,rfd,2715.44742256677,37.09,SSP1
-484,20134,Rfo_Balsas,Mexico,134,20,11616.0,Mexico,20.0,Wheat,Wheat,134.0,irr,2715.44742256677,37.09,SSP1
-485,20135,Southern_Central_America,Mexico,135,20,4336.0,Mexico,20.0,Wheat,Wheat,135.0,rfd,2715.44742256677,37.09,SSP1
-486,20135,Southern_Central_America,Mexico,135,20,11617.0,Mexico,20.0,Wheat,Wheat,135.0,irr,2715.44742256677,37.09,SSP1
-487,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4337.0,Mexico,20.0,Wheat,Wheat,136.0,rfd,2715.44742256677,37.09,SSP1
-488,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11618.0,Mexico,20.0,Wheat,Wheat,136.0,irr,2715.44742256677,37.09,SSP1
-489,20217,California_River_Basin,Mexico,217,20,4338.0,Mexico,20.0,Wheat,Wheat,217.0,rfd,2715.44742256677,37.09,SSP1
-490,20217,California_River_Basin,Mexico,217,20,11619.0,Mexico,20.0,Wheat,Wheat,217.0,irr,2715.44742256677,37.09,SSP1
-491,20221,Lower_Colorado_River_Basin,Mexico,221,20,4339.0,Mexico,20.0,Wheat,Wheat,221.0,rfd,2715.44742256677,37.09,SSP1
-492,20221,Lower_Colorado_River_Basin,Mexico,221,20,11620.0,Mexico,20.0,Wheat,Wheat,221.0,irr,2715.44742256677,37.09,SSP1
-493,20231,Rio_Grande_River_Basin,Mexico,231,20,4340.0,Mexico,20.0,Wheat,Wheat,231.0,rfd,2715.44742256677,37.09,SSP1
-494,20231,Rio_Grande_River_Basin,Mexico,231,20,11621.0,Mexico,20.0,Wheat,Wheat,231.0,irr,2715.44742256677,37.09,SSP1
-495,21052,Caspian_Sea_East_Coast,Middle East,52,21,4635.0,Middle East,21.0,Wheat,Wheat,52.0,rfd,4013.11657224489,37.09,SSP1
-496,21052,Caspian_Sea_East_Coast,Middle East,52,21,11916.0,Middle East,21.0,Wheat,Wheat,52.0,irr,4013.11657224489,37.09,SSP1
-497,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4636.0,Middle East,21.0,Wheat,Wheat,72.0,rfd,4013.11657224489,37.09,SSP1
-498,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11917.0,Middle East,21.0,Wheat,Wheat,72.0,irr,4013.11657224489,37.09,SSP1
-499,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4637.0,Middle East,21.0,Wheat,Wheat,75.0,rfd,4013.11657224489,37.09,SSP1
-500,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11918.0,Middle East,21.0,Wheat,Wheat,75.0,irr,4013.11657224489,37.09,SSP1
-501,21082,Central_Iran,Middle East,82,21,4638.0,Middle East,21.0,Wheat,Wheat,82.0,rfd,4013.11657224489,37.09,SSP1
-502,21082,Central_Iran,Middle East,82,21,11919.0,Middle East,21.0,Wheat,Wheat,82.0,irr,4013.11657224489,37.09,SSP1
-503,21084,Tigris_Euphrates,Middle East,84,21,4639.0,Middle East,21.0,Wheat,Wheat,84.0,rfd,4013.11657224489,37.09,SSP1
-504,21084,Tigris_Euphrates,Middle East,84,21,11920.0,Middle East,21.0,Wheat,Wheat,84.0,irr,4013.11657224489,37.09,SSP1
-505,21088,Persian_Gulf_Coast,Middle East,88,21,4640.0,Middle East,21.0,Wheat,Wheat,88.0,rfd,4013.11657224489,37.09,SSP1
-506,21088,Persian_Gulf_Coast,Middle East,88,21,11921.0,Middle East,21.0,Wheat,Wheat,88.0,irr,4013.11657224489,37.09,SSP1
-507,21090,Farahrud,Middle East,90,21,4641.0,Middle East,21.0,Wheat,Wheat,90.0,rfd,4013.11657224489,37.09,SSP1
-508,21090,Farahrud,Middle East,90,21,11922.0,Middle East,21.0,Wheat,Wheat,90.0,irr,4013.11657224489,37.09,SSP1
-509,21093,Red_Sea_East_Coast,Middle East,93,21,4642.0,Middle East,21.0,Wheat,Wheat,93.0,rfd,4013.11657224489,37.09,SSP1
-510,21093,Red_Sea_East_Coast,Middle East,93,21,11923.0,Middle East,21.0,Wheat,Wheat,93.0,irr,4013.11657224489,37.09,SSP1
-511,21094,Arabian_Peninsula,Middle East,94,21,4643.0,Middle East,21.0,Wheat,Wheat,94.0,rfd,4013.11657224489,37.09,SSP1
-512,21094,Arabian_Peninsula,Middle East,94,21,11924.0,Middle East,21.0,Wheat,Wheat,94.0,irr,4013.11657224489,37.09,SSP1
-513,21095,Dead_Sea,Middle East,95,21,4644.0,Middle East,21.0,Wheat,Wheat,95.0,rfd,4013.11657224489,37.09,SSP1
-514,21095,Dead_Sea,Middle East,95,21,11925.0,Middle East,21.0,Wheat,Wheat,95.0,irr,4013.11657224489,37.09,SSP1
-515,21097,Helmand,Middle East,97,21,4645.0,Middle East,21.0,Wheat,Wheat,97.0,rfd,4013.11657224489,37.09,SSP1
-516,21097,Helmand,Middle East,97,21,11926.0,Middle East,21.0,Wheat,Wheat,97.0,irr,4013.11657224489,37.09,SSP1
-517,21098,Sinai_Peninsula,Middle East,98,21,4646.0,Middle East,21.0,Wheat,Wheat,98.0,rfd,4013.11657224489,37.09,SSP1
-518,21098,Sinai_Peninsula,Middle East,98,21,11927.0,Middle East,21.0,Wheat,Wheat,98.0,irr,4013.11657224489,37.09,SSP1
-519,21099,Eastern_Jordan_Syria,Middle East,99,21,4647.0,Middle East,21.0,Wheat,Wheat,99.0,rfd,4013.11657224489,37.09,SSP1
-520,21099,Eastern_Jordan_Syria,Middle East,99,21,11928.0,Middle East,21.0,Wheat,Wheat,99.0,irr,4013.11657224489,37.09,SSP1
-521,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4648.0,Middle East,21.0,Wheat,Wheat,100.0,rfd,4013.11657224489,37.09,SSP1
-522,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11929.0,Middle East,21.0,Wheat,Wheat,100.0,irr,4013.11657224489,37.09,SSP1
+471,20114,Mexico_Interior,Mexico,114,20,4329.0,Mexico,20.0,Wheat,Wheat,114.0,rfd,2610.00793710208,37.09,SSP1
+472,20114,Mexico_Interior,Mexico,114,20,11610.0,Mexico,20.0,Wheat,Wheat,114.0,irr,2610.00793710208,37.09,SSP1
+473,20115,Pacific_Central_Coast,Mexico,115,20,4330.0,Mexico,20.0,Wheat,Wheat,115.0,rfd,2610.00793710208,37.09,SSP1
+474,20115,Pacific_Central_Coast,Mexico,115,20,11611.0,Mexico,20.0,Wheat,Wheat,115.0,irr,2610.00793710208,37.09,SSP1
+475,20130,Papaloapan,Mexico,130,20,4331.0,Mexico,20.0,Wheat,Wheat,130.0,rfd,2610.00793710208,37.09,SSP1
+476,20130,Papaloapan,Mexico,130,20,11612.0,Mexico,20.0,Wheat,Wheat,130.0,irr,2610.00793710208,37.09,SSP1
+477,20131,Rfo_Lerma,Mexico,131,20,4332.0,Mexico,20.0,Wheat,Wheat,131.0,rfd,2610.00793710208,37.09,SSP1
+478,20131,Rfo_Lerma,Mexico,131,20,11613.0,Mexico,20.0,Wheat,Wheat,131.0,irr,2610.00793710208,37.09,SSP1
+479,20132,Rfo_Verde,Mexico,132,20,4333.0,Mexico,20.0,Wheat,Wheat,132.0,rfd,2610.00793710208,37.09,SSP1
+480,20132,Rfo_Verde,Mexico,132,20,11614.0,Mexico,20.0,Wheat,Wheat,132.0,irr,2610.00793710208,37.09,SSP1
+481,20133,Grijalva_Usumacinta,Mexico,133,20,4334.0,Mexico,20.0,Wheat,Wheat,133.0,rfd,2610.00793710208,37.09,SSP1
+482,20133,Grijalva_Usumacinta,Mexico,133,20,11615.0,Mexico,20.0,Wheat,Wheat,133.0,irr,2610.00793710208,37.09,SSP1
+483,20134,Rfo_Balsas,Mexico,134,20,4335.0,Mexico,20.0,Wheat,Wheat,134.0,rfd,2610.00793710208,37.09,SSP1
+484,20134,Rfo_Balsas,Mexico,134,20,11616.0,Mexico,20.0,Wheat,Wheat,134.0,irr,2610.00793710208,37.09,SSP1
+485,20135,Southern_Central_America,Mexico,135,20,4336.0,Mexico,20.0,Wheat,Wheat,135.0,rfd,2610.00793710208,37.09,SSP1
+486,20135,Southern_Central_America,Mexico,135,20,11617.0,Mexico,20.0,Wheat,Wheat,135.0,irr,2610.00793710208,37.09,SSP1
+487,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4337.0,Mexico,20.0,Wheat,Wheat,136.0,rfd,2610.00793710208,37.09,SSP1
+488,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11618.0,Mexico,20.0,Wheat,Wheat,136.0,irr,2610.00793710208,37.09,SSP1
+489,20217,California_River_Basin,Mexico,217,20,4338.0,Mexico,20.0,Wheat,Wheat,217.0,rfd,2610.00793710208,37.09,SSP1
+490,20217,California_River_Basin,Mexico,217,20,11619.0,Mexico,20.0,Wheat,Wheat,217.0,irr,2610.00793710208,37.09,SSP1
+491,20221,Lower_Colorado_River_Basin,Mexico,221,20,4339.0,Mexico,20.0,Wheat,Wheat,221.0,rfd,2610.00793710208,37.09,SSP1
+492,20221,Lower_Colorado_River_Basin,Mexico,221,20,11620.0,Mexico,20.0,Wheat,Wheat,221.0,irr,2610.00793710208,37.09,SSP1
+493,20231,Rio_Grande_River_Basin,Mexico,231,20,4340.0,Mexico,20.0,Wheat,Wheat,231.0,rfd,2610.00793710208,37.09,SSP1
+494,20231,Rio_Grande_River_Basin,Mexico,231,20,11621.0,Mexico,20.0,Wheat,Wheat,231.0,irr,2610.00793710208,37.09,SSP1
+495,21052,Caspian_Sea_East_Coast,Middle East,52,21,4635.0,Middle East,21.0,Wheat,Wheat,52.0,rfd,3867.5878880636,37.09,SSP1
+496,21052,Caspian_Sea_East_Coast,Middle East,52,21,11916.0,Middle East,21.0,Wheat,Wheat,52.0,irr,3867.5878880636,37.09,SSP1
+497,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4636.0,Middle East,21.0,Wheat,Wheat,72.0,rfd,3867.5878880636,37.09,SSP1
+498,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11917.0,Middle East,21.0,Wheat,Wheat,72.0,irr,3867.5878880636,37.09,SSP1
+499,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4637.0,Middle East,21.0,Wheat,Wheat,75.0,rfd,3867.5878880636,37.09,SSP1
+500,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11918.0,Middle East,21.0,Wheat,Wheat,75.0,irr,3867.5878880636,37.09,SSP1
+501,21082,Central_Iran,Middle East,82,21,4638.0,Middle East,21.0,Wheat,Wheat,82.0,rfd,3867.5878880636,37.09,SSP1
+502,21082,Central_Iran,Middle East,82,21,11919.0,Middle East,21.0,Wheat,Wheat,82.0,irr,3867.5878880636,37.09,SSP1
+503,21084,Tigris_Euphrates,Middle East,84,21,4639.0,Middle East,21.0,Wheat,Wheat,84.0,rfd,3867.5878880636,37.09,SSP1
+504,21084,Tigris_Euphrates,Middle East,84,21,11920.0,Middle East,21.0,Wheat,Wheat,84.0,irr,3867.5878880636,37.09,SSP1
+505,21088,Persian_Gulf_Coast,Middle East,88,21,4640.0,Middle East,21.0,Wheat,Wheat,88.0,rfd,3867.5878880636,37.09,SSP1
+506,21088,Persian_Gulf_Coast,Middle East,88,21,11921.0,Middle East,21.0,Wheat,Wheat,88.0,irr,3867.5878880636,37.09,SSP1
+507,21090,Farahrud,Middle East,90,21,4641.0,Middle East,21.0,Wheat,Wheat,90.0,rfd,3867.5878880636,37.09,SSP1
+508,21090,Farahrud,Middle East,90,21,11922.0,Middle East,21.0,Wheat,Wheat,90.0,irr,3867.5878880636,37.09,SSP1
+509,21093,Red_Sea_East_Coast,Middle East,93,21,4642.0,Middle East,21.0,Wheat,Wheat,93.0,rfd,3867.5878880636,37.09,SSP1
+510,21093,Red_Sea_East_Coast,Middle East,93,21,11923.0,Middle East,21.0,Wheat,Wheat,93.0,irr,3867.5878880636,37.09,SSP1
+511,21094,Arabian_Peninsula,Middle East,94,21,4643.0,Middle East,21.0,Wheat,Wheat,94.0,rfd,3867.5878880636,37.09,SSP1
+512,21094,Arabian_Peninsula,Middle East,94,21,11924.0,Middle East,21.0,Wheat,Wheat,94.0,irr,3867.5878880636,37.09,SSP1
+513,21095,Dead_Sea,Middle East,95,21,4644.0,Middle East,21.0,Wheat,Wheat,95.0,rfd,3867.5878880636,37.09,SSP1
+514,21095,Dead_Sea,Middle East,95,21,11925.0,Middle East,21.0,Wheat,Wheat,95.0,irr,3867.5878880636,37.09,SSP1
+515,21097,Helmand,Middle East,97,21,4645.0,Middle East,21.0,Wheat,Wheat,97.0,rfd,3867.5878880636,37.09,SSP1
+516,21097,Helmand,Middle East,97,21,11926.0,Middle East,21.0,Wheat,Wheat,97.0,irr,3867.5878880636,37.09,SSP1
+517,21098,Sinai_Peninsula,Middle East,98,21,4646.0,Middle East,21.0,Wheat,Wheat,98.0,rfd,3867.5878880636,37.09,SSP1
+518,21098,Sinai_Peninsula,Middle East,98,21,11927.0,Middle East,21.0,Wheat,Wheat,98.0,irr,3867.5878880636,37.09,SSP1
+519,21099,Eastern_Jordan_Syria,Middle East,99,21,4647.0,Middle East,21.0,Wheat,Wheat,99.0,rfd,3867.5878880636,37.09,SSP1
+520,21099,Eastern_Jordan_Syria,Middle East,99,21,11928.0,Middle East,21.0,Wheat,Wheat,99.0,irr,3867.5878880636,37.09,SSP1
+521,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4648.0,Middle East,21.0,Wheat,Wheat,100.0,rfd,3867.5878880636,37.09,SSP1
+522,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11929.0,Middle East,21.0,Wheat,Wheat,100.0,irr,3867.5878880636,37.09,SSP1
 523,21102,HamuniMashkel,Middle East,102,21,,,,,,,,,,
 524,21104,Arabian_Sea_Coast,Middle East,104,21,,,,,,,,,,
 525,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
 526,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
-527,22089,Indus,Pakistan,89,22,4740.0,Pakistan,22.0,Wheat,Wheat,89.0,rfd,7642.8440830681,37.09,SSP1
-528,22089,Indus,Pakistan,89,22,12021.0,Pakistan,22.0,Wheat,Wheat,89.0,irr,7642.8440830681,37.09,SSP1
-529,22097,Helmand,Pakistan,97,22,4741.0,Pakistan,22.0,Wheat,Wheat,97.0,rfd,7642.8440830681,37.09,SSP1
-530,22097,Helmand,Pakistan,97,22,12022.0,Pakistan,22.0,Wheat,Wheat,97.0,irr,7642.8440830681,37.09,SSP1
-531,22102,HamuniMashkel,Pakistan,102,22,4742.0,Pakistan,22.0,Wheat,Wheat,102.0,rfd,7642.8440830681,37.09,SSP1
-532,22102,HamuniMashkel,Pakistan,102,22,12023.0,Pakistan,22.0,Wheat,Wheat,102.0,irr,7642.8440830681,37.09,SSP1
-533,22104,Arabian_Sea_Coast,Pakistan,104,22,4743.0,Pakistan,22.0,Wheat,Wheat,104.0,rfd,7642.8440830681,37.09,SSP1
-534,22104,Arabian_Sea_Coast,Pakistan,104,22,12024.0,Pakistan,22.0,Wheat,Wheat,104.0,irr,7642.8440830681,37.09,SSP1
-535,22107,Sabarmati,Pakistan,107,22,4744.0,Pakistan,22.0,Wheat,Wheat,107.0,rfd,7642.8440830681,37.09,SSP1
-536,22107,Sabarmati,Pakistan,107,22,12025.0,Pakistan,22.0,Wheat,Wheat,107.0,irr,7642.8440830681,37.09,SSP1
+527,22089,Indus,Pakistan,89,22,4740.0,Pakistan,22.0,Wheat,Wheat,89.0,rfd,7531.63196937973,37.09,SSP1
+528,22089,Indus,Pakistan,89,22,12021.0,Pakistan,22.0,Wheat,Wheat,89.0,irr,7531.63196937973,37.09,SSP1
+529,22097,Helmand,Pakistan,97,22,4741.0,Pakistan,22.0,Wheat,Wheat,97.0,rfd,7531.63196937973,37.09,SSP1
+530,22097,Helmand,Pakistan,97,22,12022.0,Pakistan,22.0,Wheat,Wheat,97.0,irr,7531.63196937973,37.09,SSP1
+531,22102,HamuniMashkel,Pakistan,102,22,4742.0,Pakistan,22.0,Wheat,Wheat,102.0,rfd,7531.63196937973,37.09,SSP1
+532,22102,HamuniMashkel,Pakistan,102,22,12023.0,Pakistan,22.0,Wheat,Wheat,102.0,irr,7531.63196937973,37.09,SSP1
+533,22104,Arabian_Sea_Coast,Pakistan,104,22,4743.0,Pakistan,22.0,Wheat,Wheat,104.0,rfd,7531.63196937973,37.09,SSP1
+534,22104,Arabian_Sea_Coast,Pakistan,104,22,12024.0,Pakistan,22.0,Wheat,Wheat,104.0,irr,7531.63196937973,37.09,SSP1
+535,22107,Sabarmati,Pakistan,107,22,4744.0,Pakistan,22.0,Wheat,Wheat,107.0,rfd,7531.63196937973,37.09,SSP1
+536,22107,Sabarmati,Pakistan,107,22,12025.0,Pakistan,22.0,Wheat,Wheat,107.0,irr,7531.63196937973,37.09,SSP1
 537,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
 538,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
 539,23004,Siberia_West_Coast,Russia,4,23,,,,,,,,,,
 540,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
-541,23006,Lena,Russia,6,23,5147.0,Russia,23.0,Wheat,Wheat,6.0,rfd,3156.99513633593,37.09,SSP1
-542,23006,Lena,Russia,6,23,12428.0,Russia,23.0,Wheat,Wheat,6.0,irr,3156.99513633593,37.09,SSP1
+541,23006,Lena,Russia,6,23,5147.0,Russia,23.0,Wheat,Wheat,6.0,rfd,3010.75941690116,37.09,SSP1
+542,23006,Lena,Russia,6,23,12428.0,Russia,23.0,Wheat,Wheat,6.0,irr,3010.75941690116,37.09,SSP1
 543,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
-544,23009,Russia_Barents_Sea_Coast,Russia,9,23,5148.0,Russia,23.0,Wheat,Wheat,9.0,rfd,3156.99513633593,37.09,SSP1
-545,23009,Russia_Barents_Sea_Coast,Russia,9,23,12429.0,Russia,23.0,Wheat,Wheat,9.0,irr,3156.99513633593,37.09,SSP1
-546,23013,Finland,Russia,13,23,5149.0,Russia,23.0,Wheat,Wheat,13.0,rfd,3156.99513633593,37.09,SSP1
-547,23013,Finland,Russia,13,23,12430.0,Russia,23.0,Wheat,Wheat,13.0,irr,3156.99513633593,37.09,SSP1
-548,23014,Northern_Dvina,Russia,14,23,5150.0,Russia,23.0,Wheat,Wheat,14.0,rfd,3156.99513633593,37.09,SSP1
-549,23014,Northern_Dvina,Russia,14,23,12431.0,Russia,23.0,Wheat,Wheat,14.0,irr,3156.99513633593,37.09,SSP1
-550,23017,Neva,Russia,17,23,5151.0,Russia,23.0,Wheat,Wheat,17.0,rfd,3156.99513633593,37.09,SSP1
-551,23017,Neva,Russia,17,23,12432.0,Russia,23.0,Wheat,Wheat,17.0,irr,3156.99513633593,37.09,SSP1
-552,23018,Volga,Russia,18,23,5152.0,Russia,23.0,Wheat,Wheat,18.0,rfd,3156.99513633593,37.09,SSP1
-553,23018,Volga,Russia,18,23,12433.0,Russia,23.0,Wheat,Wheat,18.0,irr,3156.99513633593,37.09,SSP1
-554,23020,Baltic_Sea_Coast,Russia,20,23,5153.0,Russia,23.0,Wheat,Wheat,20.0,rfd,3156.99513633593,37.09,SSP1
-555,23020,Baltic_Sea_Coast,Russia,20,23,12434.0,Russia,23.0,Wheat,Wheat,20.0,irr,3156.99513633593,37.09,SSP1
-556,23022,Narva,Russia,22,23,5154.0,Russia,23.0,Wheat,Wheat,22.0,rfd,3156.99513633593,37.09,SSP1
-557,23022,Narva,Russia,22,23,12435.0,Russia,23.0,Wheat,Wheat,22.0,irr,3156.99513633593,37.09,SSP1
-558,23025,Daugava,Russia,25,23,5155.0,Russia,23.0,Wheat,Wheat,25.0,rfd,3156.99513633593,37.09,SSP1
-559,23025,Daugava,Russia,25,23,12436.0,Russia,23.0,Wheat,Wheat,25.0,irr,3156.99513633593,37.09,SSP1
-560,23033,Poland_Coast,Russia,33,23,5156.0,Russia,23.0,Wheat,Wheat,33.0,rfd,3156.99513633593,37.09,SSP1
-561,23033,Poland_Coast,Russia,33,23,12437.0,Russia,23.0,Wheat,Wheat,33.0,irr,3156.99513633593,37.09,SSP1
-562,23035,Neman,Russia,35,23,5157.0,Russia,23.0,Wheat,Wheat,35.0,rfd,3156.99513633593,37.09,SSP1
-563,23035,Neman,Russia,35,23,12438.0,Russia,23.0,Wheat,Wheat,35.0,irr,3156.99513633593,37.09,SSP1
-564,23037,Russia_South_East_Coast,Russia,37,23,5158.0,Russia,23.0,Wheat,Wheat,37.0,rfd,3156.99513633593,37.09,SSP1
-565,23037,Russia_South_East_Coast,Russia,37,23,12439.0,Russia,23.0,Wheat,Wheat,37.0,irr,3156.99513633593,37.09,SSP1
-566,23038,Ural,Russia,38,23,5159.0,Russia,23.0,Wheat,Wheat,38.0,rfd,3156.99513633593,37.09,SSP1
-567,23038,Ural,Russia,38,23,12440.0,Russia,23.0,Wheat,Wheat,38.0,irr,3156.99513633593,37.09,SSP1
-568,23039,Dnieper,Russia,39,23,5160.0,Russia,23.0,Wheat,Wheat,39.0,rfd,3156.99513633593,37.09,SSP1
-569,23039,Dnieper,Russia,39,23,12441.0,Russia,23.0,Wheat,Wheat,39.0,irr,3156.99513633593,37.09,SSP1
-570,23042,Gobi_Interior,Russia,42,23,5161.0,Russia,23.0,Wheat,Wheat,42.0,rfd,3156.99513633593,37.09,SSP1
-571,23042,Gobi_Interior,Russia,42,23,12442.0,Russia,23.0,Wheat,Wheat,42.0,irr,3156.99513633593,37.09,SSP1
-572,23043,Amur,Russia,43,23,5162.0,Russia,23.0,Wheat,Wheat,43.0,rfd,3156.99513633593,37.09,SSP1
-573,23043,Amur,Russia,43,23,12443.0,Russia,23.0,Wheat,Wheat,43.0,irr,3156.99513633593,37.09,SSP1
-574,23045,Caspian_Sea_Coast,Russia,45,23,5163.0,Russia,23.0,Wheat,Wheat,45.0,rfd,3156.99513633593,37.09,SSP1
-575,23045,Caspian_Sea_Coast,Russia,45,23,12444.0,Russia,23.0,Wheat,Wheat,45.0,irr,3156.99513633593,37.09,SSP1
-576,23047,Black_Sea_North_Coast,Russia,47,23,5164.0,Russia,23.0,Wheat,Wheat,47.0,rfd,3156.99513633593,37.09,SSP1
-577,23047,Black_Sea_North_Coast,Russia,47,23,12445.0,Russia,23.0,Wheat,Wheat,47.0,irr,3156.99513633593,37.09,SSP1
-578,23048,Yenisey,Russia,48,23,5165.0,Russia,23.0,Wheat,Wheat,48.0,rfd,3156.99513633593,37.09,SSP1
-579,23048,Yenisey,Russia,48,23,12446.0,Russia,23.0,Wheat,Wheat,48.0,irr,3156.99513633593,37.09,SSP1
-580,23053,Don,Russia,53,23,5166.0,Russia,23.0,Wheat,Wheat,53.0,rfd,3156.99513633593,37.09,SSP1
-581,23053,Don,Russia,53,23,12447.0,Russia,23.0,Wheat,Wheat,53.0,irr,3156.99513633593,37.09,SSP1
-582,23056,Ob,Russia,56,23,5167.0,Russia,23.0,Wheat,Wheat,56.0,rfd,3156.99513633593,37.09,SSP1
-583,23056,Ob,Russia,56,23,12448.0,Russia,23.0,Wheat,Wheat,56.0,irr,3156.99513633593,37.09,SSP1
+544,23009,Russia_Barents_Sea_Coast,Russia,9,23,5148.0,Russia,23.0,Wheat,Wheat,9.0,rfd,3010.75941690116,37.09,SSP1
+545,23009,Russia_Barents_Sea_Coast,Russia,9,23,12429.0,Russia,23.0,Wheat,Wheat,9.0,irr,3010.75941690116,37.09,SSP1
+546,23013,Finland,Russia,13,23,5149.0,Russia,23.0,Wheat,Wheat,13.0,rfd,3010.75941690116,37.09,SSP1
+547,23013,Finland,Russia,13,23,12430.0,Russia,23.0,Wheat,Wheat,13.0,irr,3010.75941690116,37.09,SSP1
+548,23014,Northern_Dvina,Russia,14,23,5150.0,Russia,23.0,Wheat,Wheat,14.0,rfd,3010.75941690116,37.09,SSP1
+549,23014,Northern_Dvina,Russia,14,23,12431.0,Russia,23.0,Wheat,Wheat,14.0,irr,3010.75941690116,37.09,SSP1
+550,23017,Neva,Russia,17,23,5151.0,Russia,23.0,Wheat,Wheat,17.0,rfd,3010.75941690116,37.09,SSP1
+551,23017,Neva,Russia,17,23,12432.0,Russia,23.0,Wheat,Wheat,17.0,irr,3010.75941690116,37.09,SSP1
+552,23018,Volga,Russia,18,23,5152.0,Russia,23.0,Wheat,Wheat,18.0,rfd,3010.75941690116,37.09,SSP1
+553,23018,Volga,Russia,18,23,12433.0,Russia,23.0,Wheat,Wheat,18.0,irr,3010.75941690116,37.09,SSP1
+554,23020,Baltic_Sea_Coast,Russia,20,23,5153.0,Russia,23.0,Wheat,Wheat,20.0,rfd,3010.75941690116,37.09,SSP1
+555,23020,Baltic_Sea_Coast,Russia,20,23,12434.0,Russia,23.0,Wheat,Wheat,20.0,irr,3010.75941690116,37.09,SSP1
+556,23022,Narva,Russia,22,23,5154.0,Russia,23.0,Wheat,Wheat,22.0,rfd,3010.75941690116,37.09,SSP1
+557,23022,Narva,Russia,22,23,12435.0,Russia,23.0,Wheat,Wheat,22.0,irr,3010.75941690116,37.09,SSP1
+558,23025,Daugava,Russia,25,23,5155.0,Russia,23.0,Wheat,Wheat,25.0,rfd,3010.75941690116,37.09,SSP1
+559,23025,Daugava,Russia,25,23,12436.0,Russia,23.0,Wheat,Wheat,25.0,irr,3010.75941690116,37.09,SSP1
+560,23033,Poland_Coast,Russia,33,23,5156.0,Russia,23.0,Wheat,Wheat,33.0,rfd,3010.75941690116,37.09,SSP1
+561,23033,Poland_Coast,Russia,33,23,12437.0,Russia,23.0,Wheat,Wheat,33.0,irr,3010.75941690116,37.09,SSP1
+562,23035,Neman,Russia,35,23,5157.0,Russia,23.0,Wheat,Wheat,35.0,rfd,3010.75941690116,37.09,SSP1
+563,23035,Neman,Russia,35,23,12438.0,Russia,23.0,Wheat,Wheat,35.0,irr,3010.75941690116,37.09,SSP1
+564,23037,Russia_South_East_Coast,Russia,37,23,5158.0,Russia,23.0,Wheat,Wheat,37.0,rfd,3010.75941690116,37.09,SSP1
+565,23037,Russia_South_East_Coast,Russia,37,23,12439.0,Russia,23.0,Wheat,Wheat,37.0,irr,3010.75941690116,37.09,SSP1
+566,23038,Ural,Russia,38,23,5159.0,Russia,23.0,Wheat,Wheat,38.0,rfd,3010.75941690116,37.09,SSP1
+567,23038,Ural,Russia,38,23,12440.0,Russia,23.0,Wheat,Wheat,38.0,irr,3010.75941690116,37.09,SSP1
+568,23039,Dnieper,Russia,39,23,5160.0,Russia,23.0,Wheat,Wheat,39.0,rfd,3010.75941690116,37.09,SSP1
+569,23039,Dnieper,Russia,39,23,12441.0,Russia,23.0,Wheat,Wheat,39.0,irr,3010.75941690116,37.09,SSP1
+570,23042,Gobi_Interior,Russia,42,23,5161.0,Russia,23.0,Wheat,Wheat,42.0,rfd,3010.75941690116,37.09,SSP1
+571,23042,Gobi_Interior,Russia,42,23,12442.0,Russia,23.0,Wheat,Wheat,42.0,irr,3010.75941690116,37.09,SSP1
+572,23043,Amur,Russia,43,23,5162.0,Russia,23.0,Wheat,Wheat,43.0,rfd,3010.75941690116,37.09,SSP1
+573,23043,Amur,Russia,43,23,12443.0,Russia,23.0,Wheat,Wheat,43.0,irr,3010.75941690116,37.09,SSP1
+574,23045,Caspian_Sea_Coast,Russia,45,23,5163.0,Russia,23.0,Wheat,Wheat,45.0,rfd,3010.75941690116,37.09,SSP1
+575,23045,Caspian_Sea_Coast,Russia,45,23,12444.0,Russia,23.0,Wheat,Wheat,45.0,irr,3010.75941690116,37.09,SSP1
+576,23047,Black_Sea_North_Coast,Russia,47,23,5164.0,Russia,23.0,Wheat,Wheat,47.0,rfd,3010.75941690116,37.09,SSP1
+577,23047,Black_Sea_North_Coast,Russia,47,23,12445.0,Russia,23.0,Wheat,Wheat,47.0,irr,3010.75941690116,37.09,SSP1
+578,23048,Yenisey,Russia,48,23,5165.0,Russia,23.0,Wheat,Wheat,48.0,rfd,3010.75941690116,37.09,SSP1
+579,23048,Yenisey,Russia,48,23,12446.0,Russia,23.0,Wheat,Wheat,48.0,irr,3010.75941690116,37.09,SSP1
+580,23053,Don,Russia,53,23,5166.0,Russia,23.0,Wheat,Wheat,53.0,rfd,3010.75941690116,37.09,SSP1
+581,23053,Don,Russia,53,23,12447.0,Russia,23.0,Wheat,Wheat,53.0,irr,3010.75941690116,37.09,SSP1
+582,23056,Ob,Russia,56,23,5167.0,Russia,23.0,Wheat,Wheat,56.0,rfd,3010.75941690116,37.09,SSP1
+583,23056,Ob,Russia,56,23,12448.0,Russia,23.0,Wheat,Wheat,56.0,irr,3010.75941690116,37.09,SSP1
 584,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
-585,23072,Caspian_Sea_South_West_Coast,Russia,72,23,5168.0,Russia,23.0,Wheat,Wheat,72.0,rfd,3156.99513633593,37.09,SSP1
-586,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12449.0,Russia,23.0,Wheat,Wheat,72.0,irr,3156.99513633593,37.09,SSP1
-587,23076,Syr_Darya,Russia,76,23,5169.0,Russia,23.0,Wheat,Wheat,76.0,rfd,3156.99513633593,37.09,SSP1
-588,23076,Syr_Darya,Russia,76,23,12450.0,Russia,23.0,Wheat,Wheat,76.0,irr,3156.99513633593,37.09,SSP1
-589,24194,Orange,South Africa,194,24,5242.0,South Africa,24.0,Wheat,Wheat,194.0,rfd,2970.3007026386,37.09,SSP1
-590,24194,Orange,South Africa,194,24,12523.0,South Africa,24.0,Wheat,Wheat,194.0,irr,2970.3007026386,37.09,SSP1
+585,23072,Caspian_Sea_South_West_Coast,Russia,72,23,5168.0,Russia,23.0,Wheat,Wheat,72.0,rfd,3010.75941690116,37.09,SSP1
+586,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12449.0,Russia,23.0,Wheat,Wheat,72.0,irr,3010.75941690116,37.09,SSP1
+587,23076,Syr_Darya,Russia,76,23,5169.0,Russia,23.0,Wheat,Wheat,76.0,rfd,3010.75941690116,37.09,SSP1
+588,23076,Syr_Darya,Russia,76,23,12450.0,Russia,23.0,Wheat,Wheat,76.0,irr,3010.75941690116,37.09,SSP1
+589,24194,Orange,South Africa,194,24,5242.0,South Africa,24.0,Wheat,Wheat,194.0,rfd,2870.56916416335,37.09,SSP1
+590,24194,Orange,South Africa,194,24,12523.0,South Africa,24.0,Wheat,Wheat,194.0,irr,2870.56916416335,37.09,SSP1
 591,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
-592,24198,South_Africa_South_Coast,South Africa,198,24,5243.0,South Africa,24.0,Wheat,Wheat,198.0,rfd,2970.3007026386,37.09,SSP1
-593,24198,South_Africa_South_Coast,South Africa,198,24,12524.0,South Africa,24.0,Wheat,Wheat,198.0,irr,2970.3007026386,37.09,SSP1
-594,24199,Limpopo,South Africa,199,24,5244.0,South Africa,24.0,Wheat,Wheat,199.0,rfd,2970.3007026386,37.09,SSP1
-595,24199,Limpopo,South Africa,199,24,12525.0,South Africa,24.0,Wheat,Wheat,199.0,irr,2970.3007026386,37.09,SSP1
-596,24204,South_Africa_West_Coast,South Africa,204,24,5245.0,South Africa,24.0,Wheat,Wheat,204.0,rfd,2970.3007026386,37.09,SSP1
-597,24204,South_Africa_West_Coast,South Africa,204,24,12526.0,South Africa,24.0,Wheat,Wheat,204.0,irr,2970.3007026386,37.09,SSP1
+592,24198,South_Africa_South_Coast,South Africa,198,24,5243.0,South Africa,24.0,Wheat,Wheat,198.0,rfd,2870.56916416335,37.09,SSP1
+593,24198,South_Africa_South_Coast,South Africa,198,24,12524.0,South Africa,24.0,Wheat,Wheat,198.0,irr,2870.56916416335,37.09,SSP1
+594,24199,Limpopo,South Africa,199,24,5244.0,South Africa,24.0,Wheat,Wheat,199.0,rfd,2870.56916416335,37.09,SSP1
+595,24199,Limpopo,South Africa,199,24,12525.0,South Africa,24.0,Wheat,Wheat,199.0,irr,2870.56916416335,37.09,SSP1
+596,24204,South_Africa_West_Coast,South Africa,204,24,5245.0,South Africa,24.0,Wheat,Wheat,204.0,rfd,2870.56916416335,37.09,SSP1
+597,24204,South_Africa_West_Coast,South Africa,204,24,12526.0,South Africa,24.0,Wheat,Wheat,204.0,irr,2870.56916416335,37.09,SSP1
 598,24216,Antarctica,South Africa,216,24,,,,,,,,,,
-599,25143,Caribbean_Coast,South America_Northern,143,25,5314.0,South America_Northern,25.0,Wheat,Wheat,143.0,rfd,3105.7783717284,37.09,SSP1
-600,25143,Caribbean_Coast,South America_Northern,143,25,12595.0,South America_Northern,25.0,Wheat,Wheat,143.0,irr,3105.7783717284,37.09,SSP1
-601,25156,Orinoco,South America_Northern,156,25,5315.0,South America_Northern,25.0,Wheat,Wheat,156.0,rfd,3105.7783717284,37.09,SSP1
-602,25156,Orinoco,South America_Northern,156,25,12596.0,South America_Northern,25.0,Wheat,Wheat,156.0,irr,3105.7783717284,37.09,SSP1
-603,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,5316.0,South America_Northern,25.0,Wheat,Wheat,161.0,rfd,3105.7783717284,37.09,SSP1
-604,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,12597.0,South America_Northern,25.0,Wheat,Wheat,161.0,irr,3105.7783717284,37.09,SSP1
+599,25143,Caribbean_Coast,South America_Northern,143,25,5314.0,South America_Northern,25.0,Wheat,Wheat,143.0,rfd,2988.95967783805,37.09,SSP1
+600,25143,Caribbean_Coast,South America_Northern,143,25,12595.0,South America_Northern,25.0,Wheat,Wheat,143.0,irr,2988.95967783805,37.09,SSP1
+601,25156,Orinoco,South America_Northern,156,25,5315.0,South America_Northern,25.0,Wheat,Wheat,156.0,rfd,2988.95967783805,37.09,SSP1
+602,25156,Orinoco,South America_Northern,156,25,12596.0,South America_Northern,25.0,Wheat,Wheat,156.0,irr,2988.95967783805,37.09,SSP1
+603,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,5316.0,South America_Northern,25.0,Wheat,Wheat,161.0,rfd,2988.95967783805,37.09,SSP1
+604,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,12597.0,South America_Northern,25.0,Wheat,Wheat,161.0,irr,2988.95967783805,37.09,SSP1
 605,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
 606,25168,Amazon,South America_Northern,168,25,,,,,,,,,,
-607,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5508.0,South America_Southern,26.0,Wheat,Wheat,157.0,rfd,2818.96883585448,37.09,SSP1
-608,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12789.0,South America_Southern,26.0,Wheat,Wheat,157.0,irr,2818.96883585448,37.09,SSP1
-609,26168,Amazon,South America_Southern,168,26,5509.0,South America_Southern,26.0,Wheat,Wheat,168.0,rfd,2818.96883585448,37.09,SSP1
-610,26168,Amazon,South America_Southern,168,26,12790.0,South America_Southern,26.0,Wheat,Wheat,168.0,irr,2818.96883585448,37.09,SSP1
-611,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5510.0,South America_Southern,26.0,Wheat,Wheat,169.0,rfd,2818.96883585448,37.09,SSP1
-612,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12791.0,South America_Southern,26.0,Wheat,Wheat,169.0,irr,2818.96883585448,37.09,SSP1
-613,26180,Peru_Pacific_Coast,South America_Southern,180,26,5511.0,South America_Southern,26.0,Wheat,Wheat,180.0,rfd,2818.96883585448,37.09,SSP1
-614,26180,Peru_Pacific_Coast,South America_Southern,180,26,12792.0,South America_Southern,26.0,Wheat,Wheat,180.0,irr,2818.96883585448,37.09,SSP1
+607,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5508.0,South America_Southern,26.0,Wheat,Wheat,157.0,rfd,2709.39800172812,37.09,SSP1
+608,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12789.0,South America_Southern,26.0,Wheat,Wheat,157.0,irr,2709.39800172812,37.09,SSP1
+609,26168,Amazon,South America_Southern,168,26,5509.0,South America_Southern,26.0,Wheat,Wheat,168.0,rfd,2709.39800172812,37.09,SSP1
+610,26168,Amazon,South America_Southern,168,26,12790.0,South America_Southern,26.0,Wheat,Wheat,168.0,irr,2709.39800172812,37.09,SSP1
+611,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5510.0,South America_Southern,26.0,Wheat,Wheat,169.0,rfd,2709.39800172812,37.09,SSP1
+612,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12791.0,South America_Southern,26.0,Wheat,Wheat,169.0,irr,2709.39800172812,37.09,SSP1
+613,26180,Peru_Pacific_Coast,South America_Southern,180,26,5511.0,South America_Southern,26.0,Wheat,Wheat,180.0,rfd,2709.39800172812,37.09,SSP1
+614,26180,Peru_Pacific_Coast,South America_Southern,180,26,12792.0,South America_Southern,26.0,Wheat,Wheat,180.0,irr,2709.39800172812,37.09,SSP1
 615,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
-616,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5512.0,South America_Southern,26.0,Wheat,Wheat,195.0,rfd,3554.23504861548,46.7641132730682,SSP1
-617,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12793.0,South America_Southern,26.0,Wheat,Wheat,195.0,irr,3554.23504861548,46.7641132730682,SSP1
-618,26200,La_Puna_Region,South America_Southern,200,26,5513.0,South America_Southern,26.0,Wheat,Wheat,200.0,rfd,2818.96883585448,37.09,SSP1
-619,26200,La_Puna_Region,South America_Southern,200,26,12794.0,South America_Southern,26.0,Wheat,Wheat,200.0,irr,2818.96883585448,37.09,SSP1
+616,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5512.0,South America_Southern,26.0,Wheat,Wheat,195.0,rfd,3359.84046490239,45.9941591319351,SSP1
+617,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12793.0,South America_Southern,26.0,Wheat,Wheat,195.0,irr,3359.84046490239,45.9941591319351,SSP1
+618,26200,La_Puna_Region,South America_Southern,200,26,5513.0,South America_Southern,26.0,Wheat,Wheat,200.0,rfd,2709.39800172812,37.09,SSP1
+619,26200,La_Puna_Region,South America_Southern,200,26,12794.0,South America_Southern,26.0,Wheat,Wheat,200.0,irr,2709.39800172812,37.09,SSP1
 620,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
-621,26206,La_Plata,South America_Southern,206,26,5514.0,South America_Southern,26.0,Wheat,Wheat,206.0,rfd,3327.26859830841,43.7778490991553,SSP1
-622,26206,La_Plata,South America_Southern,206,26,12795.0,South America_Southern,26.0,Wheat,Wheat,206.0,irr,3327.26859830841,43.7778490991553,SSP1
-623,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,5515.0,South America_Southern,26.0,Wheat,Wheat,207.0,rfd,2818.96883585448,37.09,SSP1
-624,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,12796.0,South America_Southern,26.0,Wheat,Wheat,207.0,irr,2818.96883585448,37.09,SSP1
-625,26212,South_America_Colorado,South America_Southern,212,26,5516.0,South America_Southern,26.0,Wheat,Wheat,212.0,rfd,2818.96883585448,37.09,SSP1
-626,26212,South_America_Colorado,South America_Southern,212,26,12797.0,South America_Southern,26.0,Wheat,Wheat,212.0,irr,2818.96883585448,37.09,SSP1
-627,26213,Negro,South America_Southern,213,26,5517.0,South America_Southern,26.0,Wheat,Wheat,213.0,rfd,2818.96883585448,37.09,SSP1
-628,26213,Negro,South America_Southern,213,26,12798.0,South America_Southern,26.0,Wheat,Wheat,213.0,irr,2818.96883585448,37.09,SSP1
-629,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,5518.0,South America_Southern,26.0,Wheat,Wheat,215.0,rfd,2818.96883585448,37.09,SSP1
-630,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,12799.0,South America_Southern,26.0,Wheat,Wheat,215.0,irr,2818.96883585448,37.09,SSP1
-631,27052,Caspian_Sea_East_Coast,South Asia,52,27,5619.0,South Asia,27.0,Wheat,Wheat,52.0,rfd,7235.26473632399,47.5599463450732,SSP1
-632,27052,Caspian_Sea_East_Coast,South Asia,52,27,12900.0,South Asia,27.0,Wheat,Wheat,52.0,irr,7235.26473632399,47.5599463450732,SSP1
-633,27058,Amu_Darya,South Asia,58,27,5620.0,South Asia,27.0,Wheat,Wheat,58.0,rfd,7235.26473632399,47.5599463450732,SSP1
-634,27058,Amu_Darya,South Asia,58,27,12901.0,South Asia,27.0,Wheat,Wheat,58.0,irr,7235.26473632399,47.5599463450732,SSP1
-635,27089,Indus,South Asia,89,27,5621.0,South Asia,27.0,Wheat,Wheat,89.0,rfd,7235.26473632399,47.5599463450732,SSP1
-636,27089,Indus,South Asia,89,27,12902.0,South Asia,27.0,Wheat,Wheat,89.0,irr,7235.26473632399,47.5599463450732,SSP1
-637,27090,Farahrud,South Asia,90,27,5622.0,South Asia,27.0,Wheat,Wheat,90.0,rfd,7235.26473632399,47.5599463450732,SSP1
-638,27090,Farahrud,South Asia,90,27,12903.0,South Asia,27.0,Wheat,Wheat,90.0,irr,7235.26473632399,47.5599463450732,SSP1
-639,27097,Helmand,South Asia,97,27,5623.0,South Asia,27.0,Wheat,Wheat,97.0,rfd,7235.26473632399,47.5599463450732,SSP1
-640,27097,Helmand,South Asia,97,27,12904.0,South Asia,27.0,Wheat,Wheat,97.0,irr,7235.26473632399,47.5599463450732,SSP1
-641,27102,HamuniMashkel,South Asia,102,27,5624.0,South Asia,27.0,Wheat,Wheat,102.0,rfd,7235.26473632399,47.5599463450732,SSP1
-642,27102,HamuniMashkel,South Asia,102,27,12905.0,South Asia,27.0,Wheat,Wheat,102.0,irr,7235.26473632399,47.5599463450732,SSP1
-643,27110,Ganges_Bramaputra,South Asia,110,27,5625.0,South Asia,27.0,Wheat,Wheat,110.0,rfd,5642.47838135032,37.09,SSP1
-644,27110,Ganges_Bramaputra,South Asia,110,27,12906.0,South Asia,27.0,Wheat,Wheat,110.0,irr,5642.47838135032,37.09,SSP1
-645,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5626.0,South Asia,27.0,Wheat,Wheat,116.0,rfd,5642.47838135032,37.09,SSP1
-646,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12907.0,South Asia,27.0,Wheat,Wheat,116.0,irr,5642.47838135032,37.09,SSP1
+621,26206,La_Plata,South America_Southern,206,26,5514.0,South America_Southern,26.0,Wheat,Wheat,206.0,rfd,3145.28766986032,43.0570627130868,SSP1
+622,26206,La_Plata,South America_Southern,206,26,12795.0,South America_Southern,26.0,Wheat,Wheat,206.0,irr,3145.28766986032,43.0570627130868,SSP1
+623,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,5515.0,South America_Southern,26.0,Wheat,Wheat,207.0,rfd,2709.39800172812,37.09,SSP1
+624,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,12796.0,South America_Southern,26.0,Wheat,Wheat,207.0,irr,2709.39800172812,37.09,SSP1
+625,26212,South_America_Colorado,South America_Southern,212,26,5516.0,South America_Southern,26.0,Wheat,Wheat,212.0,rfd,2709.39800172812,37.09,SSP1
+626,26212,South_America_Colorado,South America_Southern,212,26,12797.0,South America_Southern,26.0,Wheat,Wheat,212.0,irr,2709.39800172812,37.09,SSP1
+627,26213,Negro,South America_Southern,213,26,5517.0,South America_Southern,26.0,Wheat,Wheat,213.0,rfd,2709.39800172812,37.09,SSP1
+628,26213,Negro,South America_Southern,213,26,12798.0,South America_Southern,26.0,Wheat,Wheat,213.0,irr,2709.39800172812,37.09,SSP1
+629,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,5518.0,South America_Southern,26.0,Wheat,Wheat,215.0,rfd,2709.39800172812,37.09,SSP1
+630,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,12799.0,South America_Southern,26.0,Wheat,Wheat,215.0,irr,2709.39800172812,37.09,SSP1
+631,27052,Caspian_Sea_East_Coast,South Asia,52,27,5619.0,South Asia,27.0,Wheat,Wheat,52.0,rfd,6710.53184346382,45.4545915094134,SSP1
+632,27052,Caspian_Sea_East_Coast,South Asia,52,27,12900.0,South Asia,27.0,Wheat,Wheat,52.0,irr,6710.53184346382,45.4545915094134,SSP1
+633,27058,Amu_Darya,South Asia,58,27,5620.0,South Asia,27.0,Wheat,Wheat,58.0,rfd,6710.53184346382,45.4545915094134,SSP1
+634,27058,Amu_Darya,South Asia,58,27,12901.0,South Asia,27.0,Wheat,Wheat,58.0,irr,6710.53184346382,45.4545915094134,SSP1
+635,27089,Indus,South Asia,89,27,5621.0,South Asia,27.0,Wheat,Wheat,89.0,rfd,6710.53184346382,45.4545915094134,SSP1
+636,27089,Indus,South Asia,89,27,12902.0,South Asia,27.0,Wheat,Wheat,89.0,irr,6710.53184346382,45.4545915094134,SSP1
+637,27090,Farahrud,South Asia,90,27,5622.0,South Asia,27.0,Wheat,Wheat,90.0,rfd,6710.53184346382,45.4545915094134,SSP1
+638,27090,Farahrud,South Asia,90,27,12903.0,South Asia,27.0,Wheat,Wheat,90.0,irr,6710.53184346382,45.4545915094134,SSP1
+639,27097,Helmand,South Asia,97,27,5623.0,South Asia,27.0,Wheat,Wheat,97.0,rfd,6710.53184346382,45.4545915094134,SSP1
+640,27097,Helmand,South Asia,97,27,12904.0,South Asia,27.0,Wheat,Wheat,97.0,irr,6710.53184346382,45.4545915094134,SSP1
+641,27102,HamuniMashkel,South Asia,102,27,5624.0,South Asia,27.0,Wheat,Wheat,102.0,rfd,6710.53184346382,45.4545915094134,SSP1
+642,27102,HamuniMashkel,South Asia,102,27,12905.0,South Asia,27.0,Wheat,Wheat,102.0,irr,6710.53184346382,45.4545915094134,SSP1
+643,27110,Ganges_Bramaputra,South Asia,110,27,5625.0,South Asia,27.0,Wheat,Wheat,110.0,rfd,5475.6542256579,37.09,SSP1
+644,27110,Ganges_Bramaputra,South Asia,110,27,12906.0,South Asia,27.0,Wheat,Wheat,110.0,irr,5475.6542256579,37.09,SSP1
+645,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5626.0,South Asia,27.0,Wheat,Wheat,116.0,rfd,5475.6542256579,37.09,SSP1
+646,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12907.0,South Asia,27.0,Wheat,Wheat,116.0,irr,5475.6542256579,37.09,SSP1
 647,27154,Sri_Lanka,South Asia,154,27,,,,,,,,,,
-648,28065,North_and_South_Korea,South Korea,65,28,5643.0,South Korea,28.0,Wheat,Wheat,65.0,rfd,1546.52570412457,37.09,SSP1
-649,28065,North_and_South_Korea,South Korea,65,28,12924.0,South Korea,28.0,Wheat,Wheat,65.0,irr,1546.52570412457,37.09,SSP1
-650,29037,Russia_South_East_Coast,Southeast Asia,37,29,6059.0,Southeast Asia,29.0,Wheat,Wheat,37.0,rfd,1186.22396769389,37.09,SSP1
-651,29037,Russia_South_East_Coast,Southeast Asia,37,29,13340.0,Southeast Asia,29.0,Wheat,Wheat,37.0,irr,1186.22396769389,37.09,SSP1
-652,29065,North_and_South_Korea,Southeast Asia,65,29,6060.0,Southeast Asia,29.0,Wheat,Wheat,65.0,rfd,1186.22396769389,37.09,SSP1
-653,29065,North_and_South_Korea,Southeast Asia,65,29,13341.0,Southeast Asia,29.0,Wheat,Wheat,65.0,irr,1186.22396769389,37.09,SSP1
-654,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,6061.0,Southeast Asia,29.0,Wheat,Wheat,66.0,rfd,1186.22396769389,37.09,SSP1
-655,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13342.0,Southeast Asia,29.0,Wheat,Wheat,66.0,irr,1186.22396769389,37.09,SSP1
+648,28065,North_and_South_Korea,South Korea,65,28,5643.0,South Korea,28.0,Wheat,Wheat,65.0,rfd,1495.16256992675,37.09,SSP1
+649,28065,North_and_South_Korea,South Korea,65,28,12924.0,South Korea,28.0,Wheat,Wheat,65.0,irr,1495.16256992675,37.09,SSP1
+650,29037,Russia_South_East_Coast,Southeast Asia,37,29,6059.0,Southeast Asia,29.0,Wheat,Wheat,37.0,rfd,1167.55982029855,37.09,SSP1
+651,29037,Russia_South_East_Coast,Southeast Asia,37,29,13340.0,Southeast Asia,29.0,Wheat,Wheat,37.0,irr,1167.55982029855,37.09,SSP1
+652,29065,North_and_South_Korea,Southeast Asia,65,29,6060.0,Southeast Asia,29.0,Wheat,Wheat,65.0,rfd,1167.55982029855,37.09,SSP1
+653,29065,North_and_South_Korea,Southeast Asia,65,29,13341.0,Southeast Asia,29.0,Wheat,Wheat,65.0,irr,1167.55982029855,37.09,SSP1
+654,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,6061.0,Southeast Asia,29.0,Wheat,Wheat,66.0,rfd,1167.55982029855,37.09,SSP1
+655,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,13342.0,Southeast Asia,29.0,Wheat,Wheat,66.0,irr,1167.55982029855,37.09,SSP1
 656,29108,Xun_Jiang,Southeast Asia,108,29,,,,,,,,,,
 657,29109,Hong_(Red_River),Southeast Asia,109,29,,,,,,,,,,
-658,29110,Ganges_Bramaputra,Southeast Asia,110,29,6062.0,Southeast Asia,29.0,Wheat,Wheat,110.0,rfd,1186.22396769389,37.09,SSP1
-659,29110,Ganges_Bramaputra,Southeast Asia,110,29,13343.0,Southeast Asia,29.0,Wheat,Wheat,110.0,irr,1186.22396769389,37.09,SSP1
+658,29110,Ganges_Bramaputra,Southeast Asia,110,29,6062.0,Southeast Asia,29.0,Wheat,Wheat,110.0,rfd,1167.55982029855,37.09,SSP1
+659,29110,Ganges_Bramaputra,Southeast Asia,110,29,13343.0,Southeast Asia,29.0,Wheat,Wheat,110.0,irr,1167.55982029855,37.09,SSP1
 660,29112,South_China_Sea_Coast,Southeast Asia,112,29,,,,,,,,,,
-661,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,6063.0,Southeast Asia,29.0,Wheat,Wheat,116.0,rfd,1186.22396769389,37.09,SSP1
-662,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13344.0,Southeast Asia,29.0,Wheat,Wheat,116.0,irr,1186.22396769389,37.09,SSP1
+661,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,6063.0,Southeast Asia,29.0,Wheat,Wheat,116.0,rfd,1167.55982029855,37.09,SSP1
+662,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13344.0,Southeast Asia,29.0,Wheat,Wheat,116.0,irr,1167.55982029855,37.09,SSP1
 663,29119,Philippines,Southeast Asia,119,29,,,,,,,,,,
 664,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
-665,29125,Mekong,Southeast Asia,125,29,6064.0,Southeast Asia,29.0,Wheat,Wheat,125.0,rfd,1186.22396769389,37.09,SSP1
-666,29125,Mekong,Southeast Asia,125,29,13345.0,Southeast Asia,29.0,Wheat,Wheat,125.0,irr,1186.22396769389,37.09,SSP1
+665,29125,Mekong,Southeast Asia,125,29,6064.0,Southeast Asia,29.0,Wheat,Wheat,125.0,rfd,1167.55982029855,37.09,SSP1
+666,29125,Mekong,Southeast Asia,125,29,13345.0,Southeast Asia,29.0,Wheat,Wheat,125.0,irr,1167.55982029855,37.09,SSP1
 667,29126,Viet_Nam_Coast,Southeast Asia,126,29,,,,,,,,,,
-668,29127,Salween,Southeast Asia,127,29,6065.0,Southeast Asia,29.0,Wheat,Wheat,127.0,rfd,1186.22396769389,37.09,SSP1
-669,29127,Salween,Southeast Asia,127,29,13346.0,Southeast Asia,29.0,Wheat,Wheat,127.0,irr,1186.22396769389,37.09,SSP1
-670,29137,Irrawaddy,Southeast Asia,137,29,6066.0,Southeast Asia,29.0,Wheat,Wheat,137.0,rfd,1186.22396769389,37.09,SSP1
-671,29137,Irrawaddy,Southeast Asia,137,29,13347.0,Southeast Asia,29.0,Wheat,Wheat,137.0,irr,1186.22396769389,37.09,SSP1
-672,29138,Sittang,Southeast Asia,138,29,6067.0,Southeast Asia,29.0,Wheat,Wheat,138.0,rfd,1186.22396769389,37.09,SSP1
-673,29138,Sittang,Southeast Asia,138,29,13348.0,Southeast Asia,29.0,Wheat,Wheat,138.0,irr,1186.22396769389,37.09,SSP1
-674,29139,Peninsula_Malaysia,Southeast Asia,139,29,6068.0,Southeast Asia,29.0,Wheat,Wheat,139.0,rfd,1186.22396769389,37.09,SSP1
-675,29139,Peninsula_Malaysia,Southeast Asia,139,29,13349.0,Southeast Asia,29.0,Wheat,Wheat,139.0,irr,1186.22396769389,37.09,SSP1
-676,29146,Chao_Phraya,Southeast Asia,146,29,6069.0,Southeast Asia,29.0,Wheat,Wheat,146.0,rfd,1186.22396769389,37.09,SSP1
-677,29146,Chao_Phraya,Southeast Asia,146,29,13350.0,Southeast Asia,29.0,Wheat,Wheat,146.0,irr,1186.22396769389,37.09,SSP1
-678,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,6070.0,Southeast Asia,29.0,Wheat,Wheat,148.0,rfd,1186.22396769389,37.09,SSP1
-679,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13351.0,Southeast Asia,29.0,Wheat,Wheat,148.0,irr,1186.22396769389,37.09,SSP1
+668,29127,Salween,Southeast Asia,127,29,6065.0,Southeast Asia,29.0,Wheat,Wheat,127.0,rfd,1167.55982029855,37.09,SSP1
+669,29127,Salween,Southeast Asia,127,29,13346.0,Southeast Asia,29.0,Wheat,Wheat,127.0,irr,1167.55982029855,37.09,SSP1
+670,29137,Irrawaddy,Southeast Asia,137,29,6066.0,Southeast Asia,29.0,Wheat,Wheat,137.0,rfd,1167.55982029855,37.09,SSP1
+671,29137,Irrawaddy,Southeast Asia,137,29,13347.0,Southeast Asia,29.0,Wheat,Wheat,137.0,irr,1167.55982029855,37.09,SSP1
+672,29138,Sittang,Southeast Asia,138,29,6067.0,Southeast Asia,29.0,Wheat,Wheat,138.0,rfd,1167.55982029855,37.09,SSP1
+673,29138,Sittang,Southeast Asia,138,29,13348.0,Southeast Asia,29.0,Wheat,Wheat,138.0,irr,1167.55982029855,37.09,SSP1
+674,29139,Peninsula_Malaysia,Southeast Asia,139,29,6068.0,Southeast Asia,29.0,Wheat,Wheat,139.0,rfd,1167.55982029855,37.09,SSP1
+675,29139,Peninsula_Malaysia,Southeast Asia,139,29,13349.0,Southeast Asia,29.0,Wheat,Wheat,139.0,irr,1167.55982029855,37.09,SSP1
+676,29146,Chao_Phraya,Southeast Asia,146,29,6069.0,Southeast Asia,29.0,Wheat,Wheat,146.0,rfd,1167.55982029855,37.09,SSP1
+677,29146,Chao_Phraya,Southeast Asia,146,29,13350.0,Southeast Asia,29.0,Wheat,Wheat,146.0,irr,1167.55982029855,37.09,SSP1
+678,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,6070.0,Southeast Asia,29.0,Wheat,Wheat,148.0,rfd,1167.55982029855,37.09,SSP1
+679,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13351.0,Southeast Asia,29.0,Wheat,Wheat,148.0,irr,1167.55982029855,37.09,SSP1
 680,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
 681,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,,,,,,,,,,
 682,29159,North_Borneo_Coast,Southeast Asia,159,29,,,,,,,,,,
@@ -693,39 +693,39 @@
 691,29181,Fly,Southeast Asia,181,29,,,,,,,,,,
 692,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
 693,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
-694,30078,China_Coast,Taiwan,78,30,6106.0,Taiwan,30.0,Wheat,Wheat,78.0,rfd,1064.57353780777,37.09,SSP1
-695,30078,China_Coast,Taiwan,78,30,13387.0,Taiwan,30.0,Wheat,Wheat,78.0,irr,1064.57353780777,37.09,SSP1
-696,30103,Taiwan,Taiwan,103,30,6107.0,Taiwan,30.0,Wheat,Wheat,103.0,rfd,1064.57353780777,37.09,SSP1
-697,30103,Taiwan,Taiwan,103,30,13388.0,Taiwan,30.0,Wheat,Wheat,103.0,irr,1064.57353780777,37.09,SSP1
-698,31169,South_Chile_Pacific_Coast,Argentina,169,31,6290.0,Argentina,31.0,Wheat,Wheat,169.0,rfd,4011.4299034874,37.09,SSP1
-699,31169,South_Chile_Pacific_Coast,Argentina,169,31,13571.0,Argentina,31.0,Wheat,Wheat,169.0,irr,4011.4299034874,37.09,SSP1
+694,30078,China_Coast,Taiwan,78,30,6106.0,Taiwan,30.0,Wheat,Wheat,78.0,rfd,1049.1536882497,37.09,SSP1
+695,30078,China_Coast,Taiwan,78,30,13387.0,Taiwan,30.0,Wheat,Wheat,78.0,irr,1049.1536882497,37.09,SSP1
+696,30103,Taiwan,Taiwan,103,30,6107.0,Taiwan,30.0,Wheat,Wheat,103.0,rfd,1049.1536882497,37.09,SSP1
+697,30103,Taiwan,Taiwan,103,30,13388.0,Taiwan,30.0,Wheat,Wheat,103.0,irr,1049.1536882497,37.09,SSP1
+698,31169,South_Chile_Pacific_Coast,Argentina,169,31,6290.0,Argentina,31.0,Wheat,Wheat,169.0,rfd,3865.72520818105,37.09,SSP1
+699,31169,South_Chile_Pacific_Coast,Argentina,169,31,13571.0,Argentina,31.0,Wheat,Wheat,169.0,irr,3865.72520818105,37.09,SSP1
 700,31200,La_Puna_Region,Argentina,200,31,,,,,,,,,,
-701,31203,Mar_Chiquita,Argentina,203,31,6291.0,Argentina,31.0,Wheat,Wheat,203.0,rfd,4011.4299034874,37.09,SSP1
-702,31203,Mar_Chiquita,Argentina,203,31,13572.0,Argentina,31.0,Wheat,Wheat,203.0,irr,4011.4299034874,37.09,SSP1
-703,31205,Salinas_Grandes,Argentina,205,31,6292.0,Argentina,31.0,Wheat,Wheat,205.0,rfd,4011.4299034874,37.09,SSP1
-704,31205,Salinas_Grandes,Argentina,205,31,13573.0,Argentina,31.0,Wheat,Wheat,205.0,irr,4011.4299034874,37.09,SSP1
-705,31206,La_Plata,Argentina,206,31,6293.0,Argentina,31.0,Wheat,Wheat,206.0,rfd,4011.4299034874,37.09,SSP1
-706,31206,La_Plata,Argentina,206,31,13574.0,Argentina,31.0,Wheat,Wheat,206.0,irr,4011.4299034874,37.09,SSP1
+701,31203,Mar_Chiquita,Argentina,203,31,6291.0,Argentina,31.0,Wheat,Wheat,203.0,rfd,3865.72520818105,37.09,SSP1
+702,31203,Mar_Chiquita,Argentina,203,31,13572.0,Argentina,31.0,Wheat,Wheat,203.0,irr,3865.72520818105,37.09,SSP1
+703,31205,Salinas_Grandes,Argentina,205,31,6292.0,Argentina,31.0,Wheat,Wheat,205.0,rfd,3865.72520818105,37.09,SSP1
+704,31205,Salinas_Grandes,Argentina,205,31,13573.0,Argentina,31.0,Wheat,Wheat,205.0,irr,3865.72520818105,37.09,SSP1
+705,31206,La_Plata,Argentina,206,31,6293.0,Argentina,31.0,Wheat,Wheat,206.0,rfd,3865.72520818105,37.09,SSP1
+706,31206,La_Plata,Argentina,206,31,13574.0,Argentina,31.0,Wheat,Wheat,206.0,irr,3865.72520818105,37.09,SSP1
 707,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
-708,31209,Pampas_Region,Argentina,209,31,6294.0,Argentina,31.0,Wheat,Wheat,209.0,rfd,4011.4299034874,37.09,SSP1
-709,31209,Pampas_Region,Argentina,209,31,13575.0,Argentina,31.0,Wheat,Wheat,209.0,irr,4011.4299034874,37.09,SSP1
-710,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6295.0,Argentina,31.0,Wheat,Wheat,210.0,rfd,4011.4299034874,37.09,SSP1
-711,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13576.0,Argentina,31.0,Wheat,Wheat,210.0,irr,4011.4299034874,37.09,SSP1
-712,31212,South_America_Colorado,Argentina,212,31,6296.0,Argentina,31.0,Wheat,Wheat,212.0,rfd,4011.4299034874,37.09,SSP1
-713,31212,South_America_Colorado,Argentina,212,31,13577.0,Argentina,31.0,Wheat,Wheat,212.0,irr,4011.4299034874,37.09,SSP1
-714,31213,Negro,Argentina,213,31,6297.0,Argentina,31.0,Wheat,Wheat,213.0,rfd,4011.4299034874,37.09,SSP1
-715,31213,Negro,Argentina,213,31,13578.0,Argentina,31.0,Wheat,Wheat,213.0,irr,4011.4299034874,37.09,SSP1
+708,31209,Pampas_Region,Argentina,209,31,6294.0,Argentina,31.0,Wheat,Wheat,209.0,rfd,3865.72520818105,37.09,SSP1
+709,31209,Pampas_Region,Argentina,209,31,13575.0,Argentina,31.0,Wheat,Wheat,209.0,irr,3865.72520818105,37.09,SSP1
+710,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6295.0,Argentina,31.0,Wheat,Wheat,210.0,rfd,3865.72520818105,37.09,SSP1
+711,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13576.0,Argentina,31.0,Wheat,Wheat,210.0,irr,3865.72520818105,37.09,SSP1
+712,31212,South_America_Colorado,Argentina,212,31,6296.0,Argentina,31.0,Wheat,Wheat,212.0,rfd,3865.72520818105,37.09,SSP1
+713,31212,South_America_Colorado,Argentina,212,31,13577.0,Argentina,31.0,Wheat,Wheat,212.0,irr,3865.72520818105,37.09,SSP1
+714,31213,Negro,Argentina,213,31,6297.0,Argentina,31.0,Wheat,Wheat,213.0,rfd,3865.72520818105,37.09,SSP1
+715,31213,Negro,Argentina,213,31,13578.0,Argentina,31.0,Wheat,Wheat,213.0,irr,3865.72520818105,37.09,SSP1
 716,31214,Central_Patagonia_Highlands,Argentina,214,31,,,,,,,,,,
-717,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6298.0,Argentina,31.0,Wheat,Wheat,215.0,rfd,4011.4299034874,37.09,SSP1
-718,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13579.0,Argentina,31.0,Wheat,Wheat,215.0,irr,4011.4299034874,37.09,SSP1
+717,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6298.0,Argentina,31.0,Wheat,Wheat,215.0,rfd,3865.72520818105,37.09,SSP1
+718,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13579.0,Argentina,31.0,Wheat,Wheat,215.0,irr,3865.72520818105,37.09,SSP1
 719,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
-720,32143,Caribbean_Coast,Colombia,143,32,6389.0,Colombia,32.0,Wheat,Wheat,143.0,rfd,3596.42403367333,37.09,SSP1
-721,32143,Caribbean_Coast,Colombia,143,32,13670.0,Colombia,32.0,Wheat,Wheat,143.0,irr,3596.42403367333,37.09,SSP1
-722,32156,Orinoco,Colombia,156,32,6390.0,Colombia,32.0,Wheat,Wheat,156.0,rfd,3596.42403367333,37.09,SSP1
-723,32156,Orinoco,Colombia,156,32,13671.0,Colombia,32.0,Wheat,Wheat,156.0,irr,3596.42403367333,37.09,SSP1
-724,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6391.0,Colombia,32.0,Wheat,Wheat,157.0,rfd,3596.42403367333,37.09,SSP1
-725,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13672.0,Colombia,32.0,Wheat,Wheat,157.0,irr,3596.42403367333,37.09,SSP1
-726,32166,Magdalena,Colombia,166,32,6392.0,Colombia,32.0,Wheat,Wheat,166.0,rfd,3596.42403367333,37.09,SSP1
-727,32166,Magdalena,Colombia,166,32,13673.0,Colombia,32.0,Wheat,Wheat,166.0,irr,3596.42403367333,37.09,SSP1
-728,32168,Amazon,Colombia,168,32,6393.0,Colombia,32.0,Wheat,Wheat,168.0,rfd,3596.42403367333,37.09,SSP1
-729,32168,Amazon,Colombia,168,32,13674.0,Colombia,32.0,Wheat,Wheat,168.0,irr,3596.42403367333,37.09,SSP1
+720,32143,Caribbean_Coast,Colombia,143,32,6389.0,Colombia,32.0,Wheat,Wheat,143.0,rfd,3452.73958087195,37.09,SSP1
+721,32143,Caribbean_Coast,Colombia,143,32,13670.0,Colombia,32.0,Wheat,Wheat,143.0,irr,3452.73958087195,37.09,SSP1
+722,32156,Orinoco,Colombia,156,32,6390.0,Colombia,32.0,Wheat,Wheat,156.0,rfd,3452.73958087195,37.09,SSP1
+723,32156,Orinoco,Colombia,156,32,13671.0,Colombia,32.0,Wheat,Wheat,156.0,irr,3452.73958087195,37.09,SSP1
+724,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6391.0,Colombia,32.0,Wheat,Wheat,157.0,rfd,3452.73958087195,37.09,SSP1
+725,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13672.0,Colombia,32.0,Wheat,Wheat,157.0,irr,3452.73958087195,37.09,SSP1
+726,32166,Magdalena,Colombia,166,32,6392.0,Colombia,32.0,Wheat,Wheat,166.0,rfd,3452.73958087195,37.09,SSP1
+727,32166,Magdalena,Colombia,166,32,13673.0,Colombia,32.0,Wheat,Wheat,166.0,irr,3452.73958087195,37.09,SSP1
+728,32168,Amazon,Colombia,168,32,6393.0,Colombia,32.0,Wheat,Wheat,168.0,rfd,3452.73958087195,37.09,SSP1
+729,32168,Amazon,Colombia,168,32,13674.0,Colombia,32.0,Wheat,Wheat,168.0,irr,3452.73958087195,37.09,SSP1

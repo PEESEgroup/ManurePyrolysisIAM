@@ -1,706 +1,707 @@
 ,key,glu_nm,reg_nm,glu_id,reg_id,Unnamed: 0,region,GCAM_region_ID,GCAM_commodity,GCAM_subsector,GLU,Irr_Rfd,kg_bio_ha,kg_P_ha,SSP
 0,1007,Pacific_and_Arctic_Coast,USA,7,1,,,,,,,,,,
-1,1023,Saskatchewan_Nelson,USA,23,1,197.0,USA,1.0,OilCrop,OilCrop,23.0,rfd,13559.5270767844,169.212899269948,SSP1
-2,1023,Saskatchewan_Nelson,USA,23,1,7478.0,USA,1.0,OilCrop,OilCrop,23.0,irr,13559.5270767844,169.212899269948,SSP1
+1,1023,Saskatchewan_Nelson,USA,23,1,197.0,USA,1.0,OilCrop,OilCrop,23.0,rfd,12969.6167090392,169.212899269948,SSP1
+2,1023,Saskatchewan_Nelson,USA,23,1,7478.0,USA,1.0,OilCrop,OilCrop,23.0,irr,12969.6167090392,169.212899269948,SSP1
 3,1027,Fraser,USA,27,1,,,,,,,,,,
 4,1096,Mexico_Northwest_Coast,USA,96,1,,,,,,,,,,
 5,1101,Caribbean,USA,101,1,,,,,,,,,,
 6,1150,Micronesia,USA,150,1,,,,,,,,,,
-7,1217,California_River_Basin,USA,217,1,198.0,USA,1.0,OilCrop,OilCrop,217.0,rfd,14429.1311285031,180.064916598795,SSP1
-8,1217,California_River_Basin,USA,217,1,7479.0,USA,1.0,OilCrop,OilCrop,217.0,irr,14429.1311285031,180.064916598795,SSP1
-9,1218,Upper_Mississippi_Basin,USA,218,1,199.0,USA,1.0,OilCrop,OilCrop,218.0,rfd,3907.70352956407,48.7652585507251,SSP1
-10,1218,Upper_Mississippi_Basin,USA,218,1,7480.0,USA,1.0,OilCrop,OilCrop,218.0,irr,3907.70352956407,48.7652585507251,SSP1
-11,1219,Lower_Mississippi_River_Basin,USA,219,1,200.0,USA,1.0,OilCrop,OilCrop,219.0,rfd,2389.31303466445,29.8168648190737,SSP1
-12,1219,Lower_Mississippi_River_Basin,USA,219,1,7481.0,USA,1.0,OilCrop,OilCrop,219.0,irr,2389.31303466445,29.8168648190737,SSP1
-13,1220,Upper_Colorado_River_Basin,USA,220,1,201.0,USA,1.0,OilCrop,OilCrop,220.0,rfd,14749.9763387785,184.068828235251,SSP1
-14,1220,Upper_Colorado_River_Basin,USA,220,1,7482.0,USA,1.0,OilCrop,OilCrop,220.0,irr,14749.9763387785,184.068828235251,SSP1
+7,1217,California_River_Basin,USA,217,1,198.0,USA,1.0,OilCrop,OilCrop,217.0,rfd,13801.3884349668,180.064916598795,SSP1
+8,1217,California_River_Basin,USA,217,1,7479.0,USA,1.0,OilCrop,OilCrop,217.0,irr,13801.3884349668,180.064916598795,SSP1
+9,1218,Upper_Mississippi_Basin,USA,218,1,199.0,USA,1.0,OilCrop,OilCrop,218.0,rfd,3737.69798194353,48.7652585507251,SSP1
+10,1218,Upper_Mississippi_Basin,USA,218,1,7480.0,USA,1.0,OilCrop,OilCrop,218.0,irr,3737.69798194353,48.7652585507251,SSP1
+11,1219,Lower_Mississippi_River_Basin,USA,219,1,200.0,USA,1.0,OilCrop,OilCrop,219.0,rfd,2285.36541739463,29.8168648190737,SSP1
+12,1219,Lower_Mississippi_River_Basin,USA,219,1,7481.0,USA,1.0,OilCrop,OilCrop,219.0,irr,2285.36541739463,29.8168648190737,SSP1
+13,1220,Upper_Colorado_River_Basin,USA,220,1,201.0,USA,1.0,OilCrop,OilCrop,220.0,rfd,14108.2752000169,184.068828235251,SSP1
+14,1220,Upper_Colorado_River_Basin,USA,220,1,7482.0,USA,1.0,OilCrop,OilCrop,220.0,irr,14108.2752000169,184.068828235251,SSP1
 15,1221,Lower_Colorado_River_Basin,USA,221,1,,,,,,,,,,
 16,1222,Great_Basin,USA,222,1,,,,,,,,,,
-17,1223,Missouri_River_Basin,USA,223,1,204.0,USA,1.0,OilCrop,OilCrop,223.0,rfd,6657.67884371928,83.0829226693872,SSP1
-18,1223,Missouri_River_Basin,USA,223,1,7485.0,USA,1.0,OilCrop,OilCrop,223.0,irr,6657.67884371928,83.0829226693872,SSP1
-19,1224,Arkansas_White_Red_Basin,USA,224,1,205.0,USA,1.0,OilCrop,OilCrop,224.0,rfd,2390.92931721084,29.8370348334235,SSP1
-20,1224,Arkansas_White_Red_Basin,USA,224,1,7486.0,USA,1.0,OilCrop,OilCrop,224.0,irr,2390.92931721084,29.8370348334235,SSP1
-21,1225,Texas_Gulf_Coast_Basin,USA,225,1,206.0,USA,1.0,OilCrop,OilCrop,225.0,rfd,2389.31303466445,29.8168648190738,SSP1
-22,1225,Texas_Gulf_Coast_Basin,USA,225,1,7487.0,USA,1.0,OilCrop,OilCrop,225.0,irr,2389.31303466445,29.8168648190738,SSP1
+17,1223,Missouri_River_Basin,USA,223,1,204.0,USA,1.0,OilCrop,OilCrop,223.0,rfd,6368.0349827802,83.0829226693872,SSP1
+18,1223,Missouri_River_Basin,USA,223,1,7485.0,USA,1.0,OilCrop,OilCrop,223.0,irr,6368.0349827802,83.0829226693872,SSP1
+19,1224,Arkansas_White_Red_Basin,USA,224,1,205.0,USA,1.0,OilCrop,OilCrop,224.0,rfd,2286.91138319429,29.8370348334235,SSP1
+20,1224,Arkansas_White_Red_Basin,USA,224,1,7486.0,USA,1.0,OilCrop,OilCrop,224.0,irr,2286.91138319429,29.8370348334235,SSP1
+21,1225,Texas_Gulf_Coast_Basin,USA,225,1,206.0,USA,1.0,OilCrop,OilCrop,225.0,rfd,2285.36541739463,29.8168648190738,SSP1
+22,1225,Texas_Gulf_Coast_Basin,USA,225,1,7487.0,USA,1.0,OilCrop,OilCrop,225.0,irr,2285.36541739463,29.8168648190738,SSP1
 23,1226,South_Atlantic_Gulf_Basin,USA,226,1,,,,,,,,,,
-24,1227,Great_Lakes_Basin,USA,227,1,208.0,USA,1.0,OilCrop,OilCrop,227.0,rfd,8366.57939207507,104.408741388123,SSP1
-25,1227,Great_Lakes_Basin,USA,227,1,7489.0,USA,1.0,OilCrop,OilCrop,227.0,irr,8366.57939207507,104.408741388123,SSP1
-26,1228,Ohio_River_Basin,USA,228,1,209.0,USA,1.0,OilCrop,OilCrop,228.0,rfd,2389.31303466445,29.8168648190738,SSP1
-27,1228,Ohio_River_Basin,USA,228,1,7490.0,USA,1.0,OilCrop,OilCrop,228.0,irr,2389.31303466445,29.8168648190738,SSP1
+24,1227,Great_Lakes_Basin,USA,227,1,208.0,USA,1.0,OilCrop,OilCrop,227.0,rfd,8002.58941676107,104.408741388123,SSP1
+25,1227,Great_Lakes_Basin,USA,227,1,7489.0,USA,1.0,OilCrop,OilCrop,227.0,irr,8002.58941676107,104.408741388123,SSP1
+26,1228,Ohio_River_Basin,USA,228,1,209.0,USA,1.0,OilCrop,OilCrop,228.0,rfd,2285.36541739463,29.8168648190738,SSP1
+27,1228,Ohio_River_Basin,USA,228,1,7490.0,USA,1.0,OilCrop,OilCrop,228.0,irr,2285.36541739463,29.8168648190738,SSP1
 28,1229,Pacific_Northwest_Basin,USA,229,1,,,,,,,,,,
-29,1230,Tennessee_River_Basin,USA,230,1,,,,,,,,,,
-30,1231,Rio_Grande_River_Basin,USA,231,1,212.0,USA,1.0,OilCrop,OilCrop,231.0,rfd,2389.31303466445,29.8168648190737,SSP1
-31,1231,Rio_Grande_River_Basin,USA,231,1,7493.0,USA,1.0,OilCrop,OilCrop,231.0,irr,2389.31303466445,29.8168648190737,SSP1
-32,1232,New_England_Basin,USA,232,1,,,,,,,,,,
-33,1233,Mid_Atlantic_Basin,USA,233,1,214.0,USA,1.0,OilCrop,OilCrop,233.0,rfd,2389.31303466445,29.8168648190738,SSP1
-34,1233,Mid_Atlantic_Basin,USA,233,1,7495.0,USA,1.0,OilCrop,OilCrop,233.0,irr,2389.31303466445,29.8168648190738,SSP1
-35,1234,Hawaii,USA,234,1,,,,,,,,,,
-36,2087,Nile,Africa_Eastern,87,2,429.0,Africa_Eastern,2.0,OilCrop,OilCrop,87.0,rfd,7076.70074167277,36.1893801779839,SSP1
-37,2087,Nile,Africa_Eastern,87,2,7710.0,Africa_Eastern,2.0,OilCrop,OilCrop,87.0,irr,7076.70074167277,36.1893801779839,SSP1
-38,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,430.0,Africa_Eastern,2.0,OilCrop,OilCrop,100.0,rfd,5547.64958819035,28.37,SSP1
-39,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7711.0,Africa_Eastern,2.0,OilCrop,OilCrop,100.0,irr,5547.64958819035,28.37,SSP1
-40,2144,Africa_North_Interior,Africa_Eastern,144,2,431.0,Africa_Eastern,2.0,OilCrop,OilCrop,144.0,rfd,9947.27690412871,50.8691548166414,SSP1
-41,2144,Africa_North_Interior,Africa_Eastern,144,2,7712.0,Africa_Eastern,2.0,OilCrop,OilCrop,144.0,irr,9947.27690412871,50.8691548166414,SSP1
-42,2151,Lake_Chad,Africa_Eastern,151,2,432.0,Africa_Eastern,2.0,OilCrop,OilCrop,151.0,rfd,9644.44164037097,49.3204923973177,SSP1
-43,2151,Lake_Chad,Africa_Eastern,151,2,7713.0,Africa_Eastern,2.0,OilCrop,OilCrop,151.0,irr,9644.44164037097,49.3204923973177,SSP1
-44,2170,Shebelli_Juba,Africa_Eastern,170,2,433.0,Africa_Eastern,2.0,OilCrop,OilCrop,170.0,rfd,5547.64958819035,28.37,SSP1
-45,2170,Shebelli_Juba,Africa_Eastern,170,2,7714.0,Africa_Eastern,2.0,OilCrop,OilCrop,170.0,irr,5547.64958819035,28.37,SSP1
-46,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,434.0,Africa_Eastern,2.0,OilCrop,OilCrop,171.0,rfd,5547.64958819035,28.37,SSP1
-47,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7715.0,Africa_Eastern,2.0,OilCrop,OilCrop,171.0,irr,5547.64958819035,28.37,SSP1
-48,2177,Madagascar,Africa_Eastern,177,2,435.0,Africa_Eastern,2.0,OilCrop,OilCrop,177.0,rfd,5547.64958819035,28.37,SSP1
-49,2177,Madagascar,Africa_Eastern,177,2,7716.0,Africa_Eastern,2.0,OilCrop,OilCrop,177.0,irr,5547.64958819035,28.37,SSP1
-50,2179,Rift_Valley,Africa_Eastern,179,2,436.0,Africa_Eastern,2.0,OilCrop,OilCrop,179.0,rfd,5547.64958819035,28.37,SSP1
-51,2179,Rift_Valley,Africa_Eastern,179,2,7717.0,Africa_Eastern,2.0,OilCrop,OilCrop,179.0,irr,5547.64958819035,28.37,SSP1
-52,2183,Congo,Africa_Eastern,183,2,437.0,Africa_Eastern,2.0,OilCrop,OilCrop,183.0,rfd,5547.64958819035,28.37,SSP1
-53,2183,Congo,Africa_Eastern,183,2,7718.0,Africa_Eastern,2.0,OilCrop,OilCrop,183.0,irr,5547.64958819035,28.37,SSP1
-54,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,564.0,Africa_Northern,3.0,OilCrop,OilCrop,75.0,rfd,3452.5658742959,28.37,SSP1
-55,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7845.0,Africa_Northern,3.0,OilCrop,OilCrop,75.0,irr,3452.5658742959,28.37,SSP1
-56,3080,Mediterranean_South_Coast,Africa_Northern,80,3,565.0,Africa_Northern,3.0,OilCrop,OilCrop,80.0,rfd,3452.5658742959,28.37,SSP1
-57,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7846.0,Africa_Northern,3.0,OilCrop,OilCrop,80.0,irr,3452.5658742959,28.37,SSP1
-58,3086,Africa_North_West_Coast,Africa_Northern,86,3,566.0,Africa_Northern,3.0,OilCrop,OilCrop,86.0,rfd,3452.5658742959,28.37,SSP1
-59,3086,Africa_North_West_Coast,Africa_Northern,86,3,7847.0,Africa_Northern,3.0,OilCrop,OilCrop,86.0,irr,3452.5658742959,28.37,SSP1
-60,3087,Nile,Africa_Northern,87,3,567.0,Africa_Northern,3.0,OilCrop,OilCrop,87.0,rfd,3452.5658742959,28.37,SSP1
-61,3087,Nile,Africa_Northern,87,3,7848.0,Africa_Northern,3.0,OilCrop,OilCrop,87.0,irr,3452.5658742959,28.37,SSP1
-62,3095,Dead_Sea,Africa_Northern,95,3,,,,,,,,,,
-63,3098,Sinai_Peninsula,Africa_Northern,98,3,568.0,Africa_Northern,3.0,OilCrop,OilCrop,98.0,rfd,3452.5658742959,28.37,SSP1
-64,3098,Sinai_Peninsula,Africa_Northern,98,3,7849.0,Africa_Northern,3.0,OilCrop,OilCrop,98.0,irr,3452.5658742959,28.37,SSP1
-65,3100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Northern,100,3,,,,,,,,,,
-66,3144,Africa_North_Interior,Africa_Northern,144,3,569.0,Africa_Northern,3.0,OilCrop,OilCrop,144.0,rfd,3452.5658742959,28.37,SSP1
-67,3144,Africa_North_Interior,Africa_Northern,144,3,7850.0,Africa_Northern,3.0,OilCrop,OilCrop,144.0,irr,3452.5658742959,28.37,SSP1
-68,3149,Niger,Africa_Northern,149,3,,,,,,,,,,
-69,3151,Lake_Chad,Africa_Northern,151,3,,,,,,,,,,
-70,4087,Nile,Africa_Southern,87,4,737.0,Africa_Southern,4.0,OilCrop,OilCrop,87.0,rfd,2854.37722615474,28.37,SSP1
-71,4087,Nile,Africa_Southern,87,4,8018.0,Africa_Southern,4.0,OilCrop,OilCrop,87.0,irr,2854.37722615474,28.37,SSP1
-72,4162,Gulf_of_Guinea,Africa_Southern,162,4,738.0,Africa_Southern,4.0,OilCrop,OilCrop,162.0,rfd,2854.37722615474,28.37,SSP1
-73,4162,Gulf_of_Guinea,Africa_Southern,162,4,8019.0,Africa_Southern,4.0,OilCrop,OilCrop,162.0,irr,2854.37722615474,28.37,SSP1
-74,4171,Africa_East_Central_Coast,Africa_Southern,171,4,739.0,Africa_Southern,4.0,OilCrop,OilCrop,171.0,rfd,2854.37722615474,28.37,SSP1
-75,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8020.0,Africa_Southern,4.0,OilCrop,OilCrop,171.0,irr,2854.37722615474,28.37,SSP1
-76,4179,Rift_Valley,Africa_Southern,179,4,740.0,Africa_Southern,4.0,OilCrop,OilCrop,179.0,rfd,2854.37722615474,28.37,SSP1
-77,4179,Rift_Valley,Africa_Southern,179,4,8021.0,Africa_Southern,4.0,OilCrop,OilCrop,179.0,irr,2854.37722615474,28.37,SSP1
-78,4182,Angola_Coast,Africa_Southern,182,4,741.0,Africa_Southern,4.0,OilCrop,OilCrop,182.0,rfd,2854.37722615474,28.37,SSP1
-79,4182,Angola_Coast,Africa_Southern,182,4,8022.0,Africa_Southern,4.0,OilCrop,OilCrop,182.0,irr,2854.37722615474,28.37,SSP1
-80,4183,Congo,Africa_Southern,183,4,742.0,Africa_Southern,4.0,OilCrop,OilCrop,183.0,rfd,2854.37722615474,28.37,SSP1
-81,4183,Congo,Africa_Southern,183,4,8023.0,Africa_Southern,4.0,OilCrop,OilCrop,183.0,irr,2854.37722615474,28.37,SSP1
-82,4188,Zambezi,Africa_Southern,188,4,743.0,Africa_Southern,4.0,OilCrop,OilCrop,188.0,rfd,2854.37722615474,28.37,SSP1
-83,4188,Zambezi,Africa_Southern,188,4,8024.0,Africa_Southern,4.0,OilCrop,OilCrop,188.0,irr,2854.37722615474,28.37,SSP1
-84,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,744.0,Africa_Southern,4.0,OilCrop,OilCrop,190.0,rfd,2854.37722615474,28.37,SSP1
-85,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8025.0,Africa_Southern,4.0,OilCrop,OilCrop,190.0,irr,2854.37722615474,28.37,SSP1
-86,4194,Orange,Africa_Southern,194,4,745.0,Africa_Southern,4.0,OilCrop,OilCrop,194.0,rfd,2854.37722615474,28.37,SSP1
-87,4194,Orange,Africa_Southern,194,4,8026.0,Africa_Southern,4.0,OilCrop,OilCrop,194.0,irr,2854.37722615474,28.37,SSP1
-88,4196,Namibia_Coast,Africa_Southern,196,4,746.0,Africa_Southern,4.0,OilCrop,OilCrop,196.0,rfd,2854.37722615474,28.37,SSP1
-89,4196,Namibia_Coast,Africa_Southern,196,4,8027.0,Africa_Southern,4.0,OilCrop,OilCrop,196.0,irr,2854.37722615474,28.37,SSP1
-90,4197,Africa_South_Interior,Africa_Southern,197,4,747.0,Africa_Southern,4.0,OilCrop,OilCrop,197.0,rfd,2854.37722615474,28.37,SSP1
-91,4197,Africa_South_Interior,Africa_Southern,197,4,8028.0,Africa_Southern,4.0,OilCrop,OilCrop,197.0,irr,2854.37722615474,28.37,SSP1
-92,4198,South_Africa_South_Coast,Africa_Southern,198,4,748.0,Africa_Southern,4.0,OilCrop,OilCrop,198.0,rfd,2854.37722615474,28.37,SSP1
-93,4198,South_Africa_South_Coast,Africa_Southern,198,4,8029.0,Africa_Southern,4.0,OilCrop,OilCrop,198.0,irr,2854.37722615474,28.37,SSP1
-94,4199,Limpopo,Africa_Southern,199,4,749.0,Africa_Southern,4.0,OilCrop,OilCrop,199.0,rfd,2854.37722615474,28.37,SSP1
-95,4199,Limpopo,Africa_Southern,199,4,8030.0,Africa_Southern,4.0,OilCrop,OilCrop,199.0,irr,2854.37722615474,28.37,SSP1
-96,5086,Africa_North_West_Coast,Africa_Western,86,5,,,,,,,,,,
-97,5087,Nile,Africa_Western,87,5,945.0,Africa_Western,5.0,OilCrop,OilCrop,87.0,rfd,2816.78383084173,28.37,SSP1
-98,5087,Nile,Africa_Western,87,5,8226.0,Africa_Western,5.0,OilCrop,OilCrop,87.0,irr,2816.78383084173,28.37,SSP1
-99,5142,Africa_West_Coast,Africa_Western,142,5,946.0,Africa_Western,5.0,OilCrop,OilCrop,142.0,rfd,2816.78383084173,28.37,SSP1
-100,5142,Africa_West_Coast,Africa_Western,142,5,8227.0,Africa_Western,5.0,OilCrop,OilCrop,142.0,irr,2816.78383084173,28.37,SSP1
-101,5144,Africa_North_Interior,Africa_Western,144,5,947.0,Africa_Western,5.0,OilCrop,OilCrop,144.0,rfd,2816.78383084173,28.37,SSP1
-102,5144,Africa_North_Interior,Africa_Western,144,5,8228.0,Africa_Western,5.0,OilCrop,OilCrop,144.0,irr,2816.78383084173,28.37,SSP1
-103,5149,Niger,Africa_Western,149,5,948.0,Africa_Western,5.0,OilCrop,OilCrop,149.0,rfd,2816.78383084173,28.37,SSP1
-104,5149,Niger,Africa_Western,149,5,8229.0,Africa_Western,5.0,OilCrop,OilCrop,149.0,irr,2816.78383084173,28.37,SSP1
-105,5151,Lake_Chad,Africa_Western,151,5,949.0,Africa_Western,5.0,OilCrop,OilCrop,151.0,rfd,2816.78383084173,28.37,SSP1
-106,5151,Lake_Chad,Africa_Western,151,5,8230.0,Africa_Western,5.0,OilCrop,OilCrop,151.0,irr,2816.78383084173,28.37,SSP1
-107,5152,Senegal,Africa_Western,152,5,950.0,Africa_Western,5.0,OilCrop,OilCrop,152.0,rfd,2816.78383084173,28.37,SSP1
-108,5152,Senegal,Africa_Western,152,5,8231.0,Africa_Western,5.0,OilCrop,OilCrop,152.0,irr,2816.78383084173,28.37,SSP1
-109,5160,Volta,Africa_Western,160,5,951.0,Africa_Western,5.0,OilCrop,OilCrop,160.0,rfd,2884.66998930923,29.0537338011655,SSP1
-110,5160,Volta,Africa_Western,160,5,8232.0,Africa_Western,5.0,OilCrop,OilCrop,160.0,irr,2884.66998930923,29.0537338011655,SSP1
-111,5162,Gulf_of_Guinea,Africa_Western,162,5,952.0,Africa_Western,5.0,OilCrop,OilCrop,162.0,rfd,2816.78383084173,28.37,SSP1
-112,5162,Gulf_of_Guinea,Africa_Western,162,5,8233.0,Africa_Western,5.0,OilCrop,OilCrop,162.0,irr,2816.78383084173,28.37,SSP1
-113,5183,Congo,Africa_Western,183,5,953.0,Africa_Western,5.0,OilCrop,OilCrop,183.0,rfd,2816.78383084173,28.37,SSP1
-114,5183,Congo,Africa_Western,183,5,8234.0,Africa_Western,5.0,OilCrop,OilCrop,183.0,irr,2816.78383084173,28.37,SSP1
-115,5188,Zambezi,Africa_Western,188,5,954.0,Africa_Western,5.0,OilCrop,OilCrop,188.0,rfd,2816.78383084173,28.37,SSP1
-116,5188,Zambezi,Africa_Western,188,5,8235.0,Africa_Western,5.0,OilCrop,OilCrop,188.0,irr,2816.78383084173,28.37,SSP1
-117,6175,Java_Timor,Australia_NZ,175,6,,,,,,,,,,
-118,6184,Australia_North_Coast,Australia_NZ,184,6,,,,,,,,,,
-119,6189,Australia_East_Coast,Australia_NZ,189,6,,,,,,,,,,
-120,6191,Australia_West_Coast,Australia_NZ,191,6,,,,,,,,,,
-121,6193,Australia_Interior,Australia_NZ,193,6,,,,,,,,,,
-122,6201,New_Zealand,Australia_NZ,201,6,1119.0,Australia_NZ,6.0,OilCrop,OilCrop,201.0,rfd,5033.47321285212,28.37,SSP1
-123,6201,New_Zealand,Australia_NZ,201,6,8400.0,Australia_NZ,6.0,OilCrop,OilCrop,201.0,irr,5033.47321285212,28.37,SSP1
-124,6202,Australia_South_Coast,Australia_NZ,202,6,,,,,,,,,,
-125,6208,Murray_Darling,Australia_NZ,208,6,,,,,,,,,,
-126,6211,Tasmania,Australia_NZ,211,6,,,,,,,,,,
-127,6216,Antarctica,Australia_NZ,216,6,,,,,,,,,,
-128,7156,Orinoco,Brazil,156,7,,,,,,,,,,
-129,7161,Northeast_South_America_South_Atlantic_Coast,Brazil,161,7,1251.0,Brazil,7.0,OilCrop,OilCrop,161.0,rfd,2340.70093034619,28.37,SSP1
-130,7161,Northeast_South_America_South_Atlantic_Coast,Brazil,161,7,8532.0,Brazil,7.0,OilCrop,OilCrop,161.0,irr,2340.70093034619,28.37,SSP1
-131,7168,Amazon,Brazil,168,7,1252.0,Brazil,7.0,OilCrop,OilCrop,168.0,rfd,4901.00901473543,59.4017048250073,SSP1
-132,7168,Amazon,Brazil,168,7,8533.0,Brazil,7.0,OilCrop,OilCrop,168.0,irr,4901.00901473543,59.4017048250073,SSP1
-133,7172,North_Brazil_South_Atlantic_Coast,Brazil,172,7,1253.0,Brazil,7.0,OilCrop,OilCrop,172.0,rfd,2340.70093034619,28.37,SSP1
-134,7172,North_Brazil_South_Atlantic_Coast,Brazil,172,7,8534.0,Brazil,7.0,OilCrop,OilCrop,172.0,irr,2340.70093034619,28.37,SSP1
-135,7174,Tocantins,Brazil,174,7,1254.0,Brazil,7.0,OilCrop,OilCrop,174.0,rfd,6628.43201079504,80.3385916194099,SSP1
-136,7174,Tocantins,Brazil,174,7,8535.0,Brazil,7.0,OilCrop,OilCrop,174.0,irr,6628.43201079504,80.3385916194099,SSP1
-137,7186,East_Brazil_South_Atlantic_Coast,Brazil,186,7,1255.0,Brazil,7.0,OilCrop,OilCrop,186.0,rfd,4556.61844817738,55.2275874712765,SSP1
-138,7186,East_Brazil_South_Atlantic_Coast,Brazil,186,7,8536.0,Brazil,7.0,OilCrop,OilCrop,186.0,irr,4556.61844817738,55.2275874712765,SSP1
-139,7187,Parnaiba,Brazil,187,7,1256.0,Brazil,7.0,OilCrop,OilCrop,187.0,rfd,2866.53055512569,34.7432133659588,SSP1
-140,7187,Parnaiba,Brazil,187,7,8537.0,Brazil,7.0,OilCrop,OilCrop,187.0,irr,2866.53055512569,34.7432133659588,SSP1
-141,7192,Sao_Francisco,Brazil,192,7,1257.0,Brazil,7.0,OilCrop,OilCrop,192.0,rfd,13303.0616578689,161.237112499426,SSP1
-142,7192,Sao_Francisco,Brazil,192,7,8538.0,Brazil,7.0,OilCrop,OilCrop,192.0,irr,13303.0616578689,161.237112499426,SSP1
-143,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,1258.0,Brazil,7.0,OilCrop,OilCrop,195.0,rfd,8213.8816115817,99.5547181186057,SSP1
-144,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,8539.0,Brazil,7.0,OilCrop,OilCrop,195.0,irr,8213.8816115817,99.5547181186057,SSP1
-145,7206,La_Plata,Brazil,206,7,1259.0,Brazil,7.0,OilCrop,OilCrop,206.0,rfd,4270.55908855615,51.76046190763,SSP1
-146,7206,La_Plata,Brazil,206,7,8540.0,Brazil,7.0,OilCrop,OilCrop,206.0,irr,4270.55908855615,51.76046190763,SSP1
-147,8002,Northwest_Territories,Canada,2,8,1442.0,Canada,8.0,OilCrop,OilCrop,2.0,rfd,3690.22642088718,57.9524360828519,SSP1
-148,8002,Northwest_Territories,Canada,2,8,8723.0,Canada,8.0,OilCrop,OilCrop,2.0,irr,3690.22642088718,57.9524360828519,SSP1
-149,8007,Pacific_and_Arctic_Coast,Canada,7,8,1443.0,Canada,8.0,OilCrop,OilCrop,7.0,rfd,4174.74232531217,65.5614209471367,SSP1
-150,8007,Pacific_and_Arctic_Coast,Canada,7,8,8724.0,Canada,8.0,OilCrop,OilCrop,7.0,irr,4174.74232531217,65.5614209471367,SSP1
-151,8010,Mackenzie,Canada,10,8,1444.0,Canada,8.0,OilCrop,OilCrop,10.0,rfd,3686.92625712951,57.900609309257,SSP1
-152,8010,Mackenzie,Canada,10,8,8725.0,Canada,8.0,OilCrop,OilCrop,10.0,irr,3686.92625712951,57.900609309257,SSP1
-153,8015,Hudson_Bay_Coast,Canada,15,8,1445.0,Canada,8.0,OilCrop,OilCrop,15.0,rfd,3642.14753120723,57.1973906023521,SSP1
-154,8015,Hudson_Bay_Coast,Canada,15,8,8726.0,Canada,8.0,OilCrop,OilCrop,15.0,irr,3642.14753120723,57.1973906023521,SSP1
-155,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1446.0,Canada,8.0,OilCrop,OilCrop,19.0,rfd,3517.85609576942,55.2454801648012,SSP1
-156,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8727.0,Canada,8.0,OilCrop,OilCrop,19.0,irr,3517.85609576942,55.2454801648012,SSP1
-157,8023,Saskatchewan_Nelson,Canada,23,8,1447.0,Canada,8.0,OilCrop,OilCrop,23.0,rfd,3768.17608793802,59.1765813200857,SSP1
-158,8023,Saskatchewan_Nelson,Canada,23,8,8728.0,Canada,8.0,OilCrop,OilCrop,23.0,irr,3768.17608793802,59.1765813200857,SSP1
-159,8027,Fraser,Canada,27,8,1448.0,Canada,8.0,OilCrop,OilCrop,27.0,rfd,3489.51410976339,54.8003890118089,SSP1
-160,8027,Fraser,Canada,27,8,8729.0,Canada,8.0,OilCrop,OilCrop,27.0,irr,3489.51410976339,54.8003890118089,SSP1
-161,8034,Churchill,Canada,34,8,,,,,,,,,,
-162,8040,St_Lawrence,Canada,40,8,1449.0,Canada,8.0,OilCrop,OilCrop,40.0,rfd,3694.12340080319,58.0136354385934,SSP1
-163,8040,St_Lawrence,Canada,40,8,8730.0,Canada,8.0,OilCrop,OilCrop,40.0,irr,3694.12340080319,58.0136354385934,SSP1
-164,8223,Missouri_River_Basin,Canada,223,8,1450.0,Canada,8.0,OilCrop,OilCrop,223.0,rfd,3839.18525431519,60.2917308275731,SSP1
-165,8223,Missouri_River_Basin,Canada,223,8,8731.0,Canada,8.0,OilCrop,OilCrop,223.0,irr,3839.18525431519,60.2917308275731,SSP1
-166,8227,Great_Lakes_Basin,Canada,227,8,1451.0,Canada,8.0,OilCrop,OilCrop,227.0,rfd,3702.330499065,58.1425222014085,SSP1
-167,8227,Great_Lakes_Basin,Canada,227,8,8732.0,Canada,8.0,OilCrop,OilCrop,227.0,irr,3702.330499065,58.1425222014085,SSP1
-168,8229,Pacific_Northwest_Basin,Canada,229,8,1452.0,Canada,8.0,OilCrop,OilCrop,229.0,rfd,3684.59309492328,57.8639686216118,SSP1
-169,8229,Pacific_Northwest_Basin,Canada,229,8,8733.0,Canada,8.0,OilCrop,OilCrop,229.0,irr,3684.59309492328,57.8639686216118,SSP1
-170,8232,New_England_Basin,Canada,232,8,1453.0,Canada,8.0,OilCrop,OilCrop,232.0,rfd,3711.29528923593,58.2833079880033,SSP1
-171,8232,New_England_Basin,Canada,232,8,8734.0,Canada,8.0,OilCrop,OilCrop,232.0,irr,3711.29528923593,58.2833079880033,SSP1
-172,9101,Caribbean,Central America and Caribbean,101,9,1563.0,Central America and Caribbean,9.0,OilCrop,OilCrop,101.0,rfd,4950.52238979905,63.9110916383937,SSP1
-173,9101,Caribbean,Central America and Caribbean,101,9,8844.0,Central America and Caribbean,9.0,OilCrop,OilCrop,101.0,irr,4950.52238979905,63.9110916383937,SSP1
-174,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,,,,,,,,,,
-175,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,,,,,,,,,,
-176,9135,Southern_Central_America,Central America and Caribbean,135,9,1566.0,Central America and Caribbean,9.0,OilCrop,OilCrop,135.0,rfd,13842.0307943933,178.700191394922,SSP1
-177,9135,Southern_Central_America,Central America and Caribbean,135,9,8847.0,Central America and Caribbean,9.0,OilCrop,OilCrop,135.0,irr,13842.0307943933,178.700191394922,SSP1
-178,9143,Caribbean_Coast,Central America and Caribbean,143,9,1567.0,Central America and Caribbean,9.0,OilCrop,OilCrop,143.0,rfd,3106.65369241798,40.1068035232013,SSP1
-179,9143,Caribbean_Coast,Central America and Caribbean,143,9,8848.0,Central America and Caribbean,9.0,OilCrop,OilCrop,143.0,irr,3106.65369241798,40.1068035232013,SSP1
-180,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,1568.0,Central America and Caribbean,9.0,OilCrop,OilCrop,157.0,rfd,3106.65369241798,40.1068035232013,SSP1
-181,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,8849.0,Central America and Caribbean,9.0,OilCrop,OilCrop,157.0,irr,3106.65369241798,40.1068035232013,SSP1
-182,10018,Volga,Central Asia,18,10,1765.0,Central Asia,10.0,OilCrop,OilCrop,18.0,rfd,5548.6998784999,29.5515311306484,SSP1
-183,10018,Volga,Central Asia,18,10,9046.0,Central Asia,10.0,OilCrop,OilCrop,18.0,irr,5548.6998784999,29.5515311306484,SSP1
-184,10038,Ural,Central Asia,38,10,1766.0,Central Asia,10.0,OilCrop,OilCrop,38.0,rfd,5426.10593308274,28.8986144341693,SSP1
-185,10038,Ural,Central Asia,38,10,9047.0,Central Asia,10.0,OilCrop,OilCrop,38.0,irr,5426.10593308274,28.8986144341693,SSP1
-186,10042,Gobi_Interior,Central Asia,42,10,1767.0,Central Asia,10.0,OilCrop,OilCrop,42.0,rfd,6082.16503792131,32.3926853849708,SSP1
-187,10042,Gobi_Interior,Central Asia,42,10,9048.0,Central Asia,10.0,OilCrop,OilCrop,42.0,irr,6082.16503792131,32.3926853849708,SSP1
-188,10043,Amur,Central Asia,43,10,,,,,,,,,,
-189,10045,Caspian_Sea_Coast,Central Asia,45,10,1768.0,Central Asia,10.0,OilCrop,OilCrop,45.0,rfd,5326.85141954566,28.37,SSP1
-190,10045,Caspian_Sea_Coast,Central Asia,45,10,9049.0,Central Asia,10.0,OilCrop,OilCrop,45.0,irr,5326.85141954566,28.37,SSP1
-191,10047,Black_Sea_North_Coast,Central Asia,47,10,,,,,,,,,,
-192,10048,Yenisey,Central Asia,48,10,,,,,,,,,,
-193,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1769.0,Central Asia,10.0,OilCrop,OilCrop,52.0,rfd,5326.85141954566,28.37,SSP1
-194,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9050.0,Central Asia,10.0,OilCrop,OilCrop,52.0,irr,5326.85141954566,28.37,SSP1
-195,10056,Ob,Central Asia,56,10,1770.0,Central Asia,10.0,OilCrop,OilCrop,56.0,rfd,5815.19993534789,30.970869876429,SSP1
-196,10056,Ob,Central Asia,56,10,9051.0,Central Asia,10.0,OilCrop,OilCrop,56.0,irr,5815.19993534789,30.970869876429,SSP1
-197,10058,Amu_Darya,Central Asia,58,10,1771.0,Central Asia,10.0,OilCrop,OilCrop,58.0,rfd,5326.85141954566,28.37,SSP1
-198,10058,Amu_Darya,Central Asia,58,10,9052.0,Central Asia,10.0,OilCrop,OilCrop,58.0,irr,5326.85141954566,28.37,SSP1
-199,10068,Lake_Balkash,Central Asia,68,10,1772.0,Central Asia,10.0,OilCrop,OilCrop,68.0,rfd,5326.85141954566,28.37,SSP1
-200,10068,Lake_Balkash,Central Asia,68,10,9053.0,Central Asia,10.0,OilCrop,OilCrop,68.0,irr,5326.85141954566,28.37,SSP1
-201,10070,Black_Sea_South_Coast,Central Asia,70,10,1773.0,Central Asia,10.0,OilCrop,OilCrop,70.0,rfd,5326.85141954566,28.37,SSP1
-202,10070,Black_Sea_South_Coast,Central Asia,70,10,9054.0,Central Asia,10.0,OilCrop,OilCrop,70.0,irr,5326.85141954566,28.37,SSP1
-203,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1774.0,Central Asia,10.0,OilCrop,OilCrop,72.0,rfd,5326.85141954566,28.37,SSP1
-204,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9055.0,Central Asia,10.0,OilCrop,OilCrop,72.0,irr,5326.85141954566,28.37,SSP1
-205,10076,Syr_Darya,Central Asia,76,10,1775.0,Central Asia,10.0,OilCrop,OilCrop,76.0,rfd,5326.85141954566,28.37,SSP1
-206,10076,Syr_Darya,Central Asia,76,10,9056.0,Central Asia,10.0,OilCrop,OilCrop,76.0,irr,5326.85141954566,28.37,SSP1
-207,10085,Tarim_Interior,Central Asia,85,10,1776.0,Central Asia,10.0,OilCrop,OilCrop,85.0,rfd,5326.85141954566,28.37,SSP1
-208,10085,Tarim_Interior,Central Asia,85,10,9057.0,Central Asia,10.0,OilCrop,OilCrop,85.0,irr,5326.85141954566,28.37,SSP1
-209,11037,Russia_South_East_Coast,China,37,11,2054.0,China,11.0,OilCrop,OilCrop,37.0,rfd,898.711613084669,28.37,SSP1
-210,11037,Russia_South_East_Coast,China,37,11,9335.0,China,11.0,OilCrop,OilCrop,37.0,irr,898.711613084669,28.37,SSP1
-211,11042,Gobi_Interior,China,42,11,2055.0,China,11.0,OilCrop,OilCrop,42.0,rfd,898.711613084669,28.37,SSP1
-212,11042,Gobi_Interior,China,42,11,9336.0,China,11.0,OilCrop,OilCrop,42.0,irr,898.711613084669,28.37,SSP1
-213,11043,Amur,China,43,11,2056.0,China,11.0,OilCrop,OilCrop,43.0,rfd,898.711613084669,28.37,SSP1
-214,11043,Amur,China,43,11,9337.0,China,11.0,OilCrop,OilCrop,43.0,irr,898.711613084669,28.37,SSP1
-215,11056,Ob,China,56,11,2057.0,China,11.0,OilCrop,OilCrop,56.0,rfd,898.711613084669,28.37,SSP1
-216,11056,Ob,China,56,11,9338.0,China,11.0,OilCrop,OilCrop,56.0,irr,898.711613084669,28.37,SSP1
-217,11058,Amu_Darya,China,58,11,,,,,,,,,,
-218,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2058.0,China,11.0,OilCrop,OilCrop,66.0,rfd,898.711613084669,28.37,SSP1
-219,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9339.0,China,11.0,OilCrop,OilCrop,66.0,irr,898.711613084669,28.37,SSP1
-220,11068,Lake_Balkash,China,68,11,2059.0,China,11.0,OilCrop,OilCrop,68.0,rfd,898.711613084669,28.37,SSP1
-221,11068,Lake_Balkash,China,68,11,9340.0,China,11.0,OilCrop,OilCrop,68.0,irr,898.711613084669,28.37,SSP1
-222,11076,Syr_Darya,China,76,11,,,,,,,,,,
-223,11077,Ziya_He_Interior,China,77,11,2060.0,China,11.0,OilCrop,OilCrop,77.0,rfd,898.711613084669,28.37,SSP1
-224,11077,Ziya_He_Interior,China,77,11,9341.0,China,11.0,OilCrop,OilCrop,77.0,irr,898.711613084669,28.37,SSP1
-225,11078,China_Coast,China,78,11,2061.0,China,11.0,OilCrop,OilCrop,78.0,rfd,898.711613084669,28.37,SSP1
-226,11078,China_Coast,China,78,11,9342.0,China,11.0,OilCrop,OilCrop,78.0,irr,898.711613084669,28.37,SSP1
-227,11079,Huang_He,China,79,11,2062.0,China,11.0,OilCrop,OilCrop,79.0,rfd,898.711613084669,28.37,SSP1
-228,11079,Huang_He,China,79,11,9343.0,China,11.0,OilCrop,OilCrop,79.0,irr,898.711613084669,28.37,SSP1
-229,11085,Tarim_Interior,China,85,11,2063.0,China,11.0,OilCrop,OilCrop,85.0,rfd,898.711613084669,28.37,SSP1
-230,11085,Tarim_Interior,China,85,11,9344.0,China,11.0,OilCrop,OilCrop,85.0,irr,898.711613084669,28.37,SSP1
-231,11089,Indus,China,89,11,,,,,,,,,,
-232,11092,Plateau_of_Tibet_Interior,China,92,11,,,,,,,,,,
-233,11106,Yangtze,China,106,11,2064.0,China,11.0,OilCrop,OilCrop,106.0,rfd,898.711613084669,28.37,SSP1
-234,11106,Yangtze,China,106,11,9345.0,China,11.0,OilCrop,OilCrop,106.0,irr,898.711613084669,28.37,SSP1
-235,11108,Xun_Jiang,China,108,11,2065.0,China,11.0,OilCrop,OilCrop,108.0,rfd,898.711613084669,28.37,SSP1
-236,11108,Xun_Jiang,China,108,11,9346.0,China,11.0,OilCrop,OilCrop,108.0,irr,898.711613084669,28.37,SSP1
-237,11109,Hong_(Red_River),China,109,11,2066.0,China,11.0,OilCrop,OilCrop,109.0,rfd,898.711613084669,28.37,SSP1
-238,11109,Hong_(Red_River),China,109,11,9347.0,China,11.0,OilCrop,OilCrop,109.0,irr,898.711613084669,28.37,SSP1
-239,11110,Ganges_Bramaputra,China,110,11,2067.0,China,11.0,OilCrop,OilCrop,110.0,rfd,898.711613084669,28.37,SSP1
-240,11110,Ganges_Bramaputra,China,110,11,9348.0,China,11.0,OilCrop,OilCrop,110.0,irr,898.711613084669,28.37,SSP1
-241,11112,South_China_Sea_Coast,China,112,11,2068.0,China,11.0,OilCrop,OilCrop,112.0,rfd,898.711613084669,28.37,SSP1
-242,11112,South_China_Sea_Coast,China,112,11,9349.0,China,11.0,OilCrop,OilCrop,112.0,irr,898.711613084669,28.37,SSP1
-243,11124,Hainan,China,124,11,2069.0,China,11.0,OilCrop,OilCrop,124.0,rfd,898.711613084669,28.37,SSP1
-244,11124,Hainan,China,124,11,9350.0,China,11.0,OilCrop,OilCrop,124.0,irr,898.711613084669,28.37,SSP1
-245,11125,Mekong,China,125,11,2070.0,China,11.0,OilCrop,OilCrop,125.0,rfd,898.711613084669,28.37,SSP1
-246,11125,Mekong,China,125,11,9351.0,China,11.0,OilCrop,OilCrop,125.0,irr,898.711613084669,28.37,SSP1
-247,11127,Salween,China,127,11,2071.0,China,11.0,OilCrop,OilCrop,127.0,rfd,898.711613084669,28.37,SSP1
-248,11127,Salween,China,127,11,9352.0,China,11.0,OilCrop,OilCrop,127.0,irr,898.711613084669,28.37,SSP1
-249,11137,Irrawaddy,China,137,11,2072.0,China,11.0,OilCrop,OilCrop,137.0,rfd,898.711613084669,28.37,SSP1
-250,11137,Irrawaddy,China,137,11,9353.0,China,11.0,OilCrop,OilCrop,137.0,irr,898.711613084669,28.37,SSP1
-251,12020,Baltic_Sea_Coast,EU-12,20,12,2387.0,EU-12,12.0,OilCrop,OilCrop,20.0,rfd,2405.82354104534,28.37,SSP1
-252,12020,Baltic_Sea_Coast,EU-12,20,12,9668.0,EU-12,12.0,OilCrop,OilCrop,20.0,irr,2405.82354104534,28.37,SSP1
-253,12021,Denmark_Germany_Coast,EU-12,21,12,2388.0,EU-12,12.0,OilCrop,OilCrop,21.0,rfd,2405.82354104534,28.37,SSP1
-254,12021,Denmark_Germany_Coast,EU-12,21,12,9669.0,EU-12,12.0,OilCrop,OilCrop,21.0,irr,2405.82354104534,28.37,SSP1
-255,12022,Narva,EU-12,22,12,2389.0,EU-12,12.0,OilCrop,OilCrop,22.0,rfd,2405.82354104534,28.37,SSP1
-256,12022,Narva,EU-12,22,12,9670.0,EU-12,12.0,OilCrop,OilCrop,22.0,irr,2405.82354104534,28.37,SSP1
-257,12025,Daugava,EU-12,25,12,2390.0,EU-12,12.0,OilCrop,OilCrop,25.0,rfd,2551.45723644587,30.0873445466901,SSP1
-258,12025,Daugava,EU-12,25,12,9671.0,EU-12,12.0,OilCrop,OilCrop,25.0,irr,2551.45723644587,30.0873445466901,SSP1
-259,12029,Oder,EU-12,29,12,2391.0,EU-12,12.0,OilCrop,OilCrop,29.0,rfd,2405.82354104534,28.37,SSP1
-260,12029,Oder,EU-12,29,12,9672.0,EU-12,12.0,OilCrop,OilCrop,29.0,irr,2405.82354104534,28.37,SSP1
-261,12030,Wisla,EU-12,30,12,2392.0,EU-12,12.0,OilCrop,OilCrop,30.0,rfd,2405.82354104534,28.37,SSP1
-262,12030,Wisla,EU-12,30,12,9673.0,EU-12,12.0,OilCrop,OilCrop,30.0,irr,2405.82354104534,28.37,SSP1
-263,12031,Elbe,EU-12,31,12,2393.0,EU-12,12.0,OilCrop,OilCrop,31.0,rfd,2405.82354104534,28.37,SSP1
-264,12031,Elbe,EU-12,31,12,9674.0,EU-12,12.0,OilCrop,OilCrop,31.0,irr,2405.82354104534,28.37,SSP1
-265,12033,Poland_Coast,EU-12,33,12,2394.0,EU-12,12.0,OilCrop,OilCrop,33.0,rfd,2405.82354104534,28.37,SSP1
-266,12033,Poland_Coast,EU-12,33,12,9675.0,EU-12,12.0,OilCrop,OilCrop,33.0,irr,2405.82354104534,28.37,SSP1
-267,12035,Neman,EU-12,35,12,2395.0,EU-12,12.0,OilCrop,OilCrop,35.0,rfd,2405.82354104534,28.37,SSP1
-268,12035,Neman,EU-12,35,12,9676.0,EU-12,12.0,OilCrop,OilCrop,35.0,irr,2405.82354104534,28.37,SSP1
-269,12049,Dniester,EU-12,49,12,2396.0,EU-12,12.0,OilCrop,OilCrop,49.0,rfd,2405.82354104534,28.37,SSP1
-270,12049,Dniester,EU-12,49,12,9677.0,EU-12,12.0,OilCrop,OilCrop,49.0,irr,2405.82354104534,28.37,SSP1
-271,12054,Danube,EU-12,54,12,2397.0,EU-12,12.0,OilCrop,OilCrop,54.0,rfd,2405.82354104534,28.37,SSP1
-272,12054,Danube,EU-12,54,12,9678.0,EU-12,12.0,OilCrop,OilCrop,54.0,irr,2405.82354104534,28.37,SSP1
-273,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2398.0,EU-12,12.0,OilCrop,OilCrop,55.0,rfd,2405.82354104534,28.37,SSP1
-274,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9679.0,EU-12,12.0,OilCrop,OilCrop,55.0,irr,2405.82354104534,28.37,SSP1
-275,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
-276,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,2399.0,EU-12,12.0,OilCrop,OilCrop,75.0,rfd,8850.41443519162,104.36603235551,SSP1
-277,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,9680.0,EU-12,12.0,OilCrop,OilCrop,75.0,irr,8850.41443519162,104.36603235551,SSP1
-278,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
-279,13008,Scandinavia_North_Coast,EU-15,8,13,,,,,,,,,,
-280,13012,Sweden,EU-15,12,13,2782.0,EU-15,13.0,OilCrop,OilCrop,12.0,rfd,3838.25513827263,47.1403924851945,SSP1
-281,13012,Sweden,EU-15,12,13,10063.0,EU-15,13.0,OilCrop,OilCrop,12.0,irr,3838.25513827263,47.1403924851945,SSP1
-282,13013,Finland,EU-15,13,13,2783.0,EU-15,13.0,OilCrop,OilCrop,13.0,rfd,4640.39991753011,56.9921137392341,SSP1
-283,13013,Finland,EU-15,13,13,10064.0,EU-15,13.0,OilCrop,OilCrop,13.0,irr,4640.39991753011,56.9921137392341,SSP1
-284,13016,Scotland,EU-15,16,13,2784.0,EU-15,13.0,OilCrop,OilCrop,16.0,rfd,2843.55594864455,34.9237709958594,SSP1
-285,13016,Scotland,EU-15,16,13,10065.0,EU-15,13.0,OilCrop,OilCrop,16.0,irr,2843.55594864455,34.9237709958594,SSP1
-286,13017,Neva,EU-15,17,13,2785.0,EU-15,13.0,OilCrop,OilCrop,17.0,rfd,4640.39991753011,56.9921137392341,SSP1
-287,13017,Neva,EU-15,17,13,10066.0,EU-15,13.0,OilCrop,OilCrop,17.0,irr,4640.39991753011,56.9921137392341,SSP1
-288,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
-289,13021,Denmark_Germany_Coast,EU-15,21,13,2786.0,EU-15,13.0,OilCrop,OilCrop,21.0,rfd,2309.93618279683,28.37,SSP1
-290,13021,Denmark_Germany_Coast,EU-15,21,13,10067.0,EU-15,13.0,OilCrop,OilCrop,21.0,irr,2309.93618279683,28.37,SSP1
-291,13024,Ireland,EU-15,24,13,2787.0,EU-15,13.0,OilCrop,OilCrop,24.0,rfd,2309.93618279683,28.37,SSP1
-292,13024,Ireland,EU-15,24,13,10068.0,EU-15,13.0,OilCrop,OilCrop,24.0,irr,2309.93618279683,28.37,SSP1
-293,13026,England_and_Wales,EU-15,26,13,2788.0,EU-15,13.0,OilCrop,OilCrop,26.0,rfd,2843.5573642561,34.9237883820105,SSP1
-294,13026,England_and_Wales,EU-15,26,13,10069.0,EU-15,13.0,OilCrop,OilCrop,26.0,irr,2843.5573642561,34.9237883820105,SSP1
-295,13028,Ems_Weser,EU-15,28,13,2789.0,EU-15,13.0,OilCrop,OilCrop,28.0,rfd,2929.12758466167,35.9747382614858,SSP1
-296,13028,Ems_Weser,EU-15,28,13,10070.0,EU-15,13.0,OilCrop,OilCrop,28.0,irr,2929.12758466167,35.9747382614858,SSP1
-297,13029,Oder,EU-15,29,13,2790.0,EU-15,13.0,OilCrop,OilCrop,29.0,rfd,2921.88555111097,35.8857935999996,SSP1
-298,13029,Oder,EU-15,29,13,10071.0,EU-15,13.0,OilCrop,OilCrop,29.0,irr,2921.88555111097,35.8857935999996,SSP1
-299,13031,Elbe,EU-15,31,13,2791.0,EU-15,13.0,OilCrop,OilCrop,31.0,rfd,2915.61994384887,35.8088411372651,SSP1
-300,13031,Elbe,EU-15,31,13,10072.0,EU-15,13.0,OilCrop,OilCrop,31.0,irr,2915.61994384887,35.8088411372651,SSP1
-301,13032,Rhine,EU-15,32,13,2792.0,EU-15,13.0,OilCrop,OilCrop,32.0,rfd,3008.8199250624,36.9534976376134,SSP1
-302,13032,Rhine,EU-15,32,13,10073.0,EU-15,13.0,OilCrop,OilCrop,32.0,irr,3008.8199250624,36.9534976376134,SSP1
-303,13036,Scheldt,EU-15,36,13,2793.0,EU-15,13.0,OilCrop,OilCrop,36.0,rfd,4409.02893279291,54.1504790283363,SSP1
-304,13036,Scheldt,EU-15,36,13,10074.0,EU-15,13.0,OilCrop,OilCrop,36.0,irr,4409.02893279291,54.1504790283363,SSP1
-305,13041,France_West_Coast,EU-15,41,13,2794.0,EU-15,13.0,OilCrop,OilCrop,41.0,rfd,4459.02416530352,54.7645067044639,SSP1
-306,13041,France_West_Coast,EU-15,41,13,10075.0,EU-15,13.0,OilCrop,OilCrop,41.0,irr,4459.02416530352,54.7645067044639,SSP1
-307,13044,Loire,EU-15,44,13,2795.0,EU-15,13.0,OilCrop,OilCrop,44.0,rfd,4147.48783497932,50.9383032980147,SSP1
-308,13044,Loire,EU-15,44,13,10076.0,EU-15,13.0,OilCrop,OilCrop,44.0,irr,4147.48783497932,50.9383032980147,SSP1
-309,13046,Seine,EU-15,46,13,2796.0,EU-15,13.0,OilCrop,OilCrop,46.0,rfd,3172.78902570515,38.9673209717292,SSP1
-310,13046,Seine,EU-15,46,13,10077.0,EU-15,13.0,OilCrop,OilCrop,46.0,irr,3172.78902570515,38.9673209717292,SSP1
-311,13050,Italy_East_Coast,EU-15,50,13,2797.0,EU-15,13.0,OilCrop,OilCrop,50.0,rfd,6072.12031533549,74.5761093440647,SSP1
-312,13050,Italy_East_Coast,EU-15,50,13,10078.0,EU-15,13.0,OilCrop,OilCrop,50.0,irr,6072.12031533549,74.5761093440647,SSP1
-313,13054,Danube,EU-15,54,13,2798.0,EU-15,13.0,OilCrop,OilCrop,54.0,rfd,3176.46883042073,39.012515319763,SSP1
-314,13054,Danube,EU-15,54,13,10079.0,EU-15,13.0,OilCrop,OilCrop,54.0,irr,3176.46883042073,39.012515319763,SSP1
-315,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2799.0,EU-15,13.0,OilCrop,OilCrop,55.0,rfd,2309.93618279683,28.37,SSP1
-316,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10080.0,EU-15,13.0,OilCrop,OilCrop,55.0,irr,2309.93618279683,28.37,SSP1
-317,13057,Po,EU-15,57,13,2800.0,EU-15,13.0,OilCrop,OilCrop,57.0,rfd,6280.52207460189,77.1356423538595,SSP1
-318,13057,Po,EU-15,57,13,10081.0,EU-15,13.0,OilCrop,OilCrop,57.0,irr,6280.52207460189,77.1356423538595,SSP1
-319,13059,Italy_West_Coast,EU-15,59,13,2801.0,EU-15,13.0,OilCrop,OilCrop,59.0,rfd,6121.10118845651,75.1776789375419,SSP1
-320,13059,Italy_West_Coast,EU-15,59,13,10082.0,EU-15,13.0,OilCrop,OilCrop,59.0,irr,6121.10118845651,75.1776789375419,SSP1
-321,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2802.0,EU-15,13.0,OilCrop,OilCrop,60.0,rfd,6599.88451527172,81.0579638921251,SSP1
-322,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10083.0,EU-15,13.0,OilCrop,OilCrop,60.0,irr,6599.88451527172,81.0579638921251,SSP1
-323,13061,France_South_Coast,EU-15,61,13,2803.0,EU-15,13.0,OilCrop,OilCrop,61.0,rfd,5744.37174427904,70.5507916620786,SSP1
-324,13061,France_South_Coast,EU-15,61,13,10084.0,EU-15,13.0,OilCrop,OilCrop,61.0,irr,5744.37174427904,70.5507916620786,SSP1
-325,13062,Rh(ne,EU-15,62,13,2804.0,EU-15,13.0,OilCrop,OilCrop,62.0,rfd,3971.71709200235,48.7795354431302,SSP1
-326,13062,Rh(ne,EU-15,62,13,10085.0,EU-15,13.0,OilCrop,OilCrop,62.0,irr,3971.71709200235,48.7795354431302,SSP1
-327,13063,Mediterranean_Sea_Islands,EU-15,63,13,2805.0,EU-15,13.0,OilCrop,OilCrop,63.0,rfd,6604.24337802802,81.1114982439903,SSP1
-328,13063,Mediterranean_Sea_Islands,EU-15,63,13,10086.0,EU-15,13.0,OilCrop,OilCrop,63.0,irr,6604.24337802802,81.1114982439903,SSP1
-329,13064,Gironde,EU-15,64,13,2806.0,EU-15,13.0,OilCrop,OilCrop,64.0,rfd,5807.92774753939,71.3313689896795,SSP1
-330,13064,Gironde,EU-15,64,13,10087.0,EU-15,13.0,OilCrop,OilCrop,64.0,irr,5807.92774753939,71.3313689896795,SSP1
-331,13067,Spain_South_and_East_Coast,EU-15,67,13,2807.0,EU-15,13.0,OilCrop,OilCrop,67.0,rfd,2309.93618279683,28.37,SSP1
-332,13067,Spain_South_and_East_Coast,EU-15,67,13,10088.0,EU-15,13.0,OilCrop,OilCrop,67.0,irr,2309.93618279683,28.37,SSP1
-333,13069,Tiber,EU-15,69,13,2808.0,EU-15,13.0,OilCrop,OilCrop,69.0,rfd,6033.86657201938,74.106287404411,SSP1
-334,13069,Tiber,EU-15,69,13,10089.0,EU-15,13.0,OilCrop,OilCrop,69.0,irr,6033.86657201938,74.106287404411,SSP1
-335,13071,Tagus,EU-15,71,13,2809.0,EU-15,13.0,OilCrop,OilCrop,71.0,rfd,2309.93618279683,28.37,SSP1
-336,13071,Tagus,EU-15,71,13,10090.0,EU-15,13.0,OilCrop,OilCrop,71.0,irr,2309.93618279683,28.37,SSP1
-337,13073,Ebro,EU-15,73,13,2810.0,EU-15,13.0,OilCrop,OilCrop,73.0,rfd,2309.93618279683,28.37,SSP1
-338,13073,Ebro,EU-15,73,13,10091.0,EU-15,13.0,OilCrop,OilCrop,73.0,irr,2309.93618279683,28.37,SSP1
-339,13074,Douro,EU-15,74,13,2811.0,EU-15,13.0,OilCrop,OilCrop,74.0,rfd,2309.93618279683,28.37,SSP1
-340,13074,Douro,EU-15,74,13,10092.0,EU-15,13.0,OilCrop,OilCrop,74.0,irr,2309.93618279683,28.37,SSP1
-341,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
-342,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
-343,13081,Guadiana,EU-15,81,13,2812.0,EU-15,13.0,OilCrop,OilCrop,81.0,rfd,2309.93618279683,28.37,SSP1
-344,13081,Guadiana,EU-15,81,13,10093.0,EU-15,13.0,OilCrop,OilCrop,81.0,irr,2309.93618279683,28.37,SSP1
-345,13083,Guadalquivir,EU-15,83,13,2813.0,EU-15,13.0,OilCrop,OilCrop,83.0,rfd,2309.93618279683,28.37,SSP1
-346,13083,Guadalquivir,EU-15,83,13,10094.0,EU-15,13.0,OilCrop,OilCrop,83.0,irr,2309.93618279683,28.37,SSP1
-347,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
-348,13101,Caribbean,EU-15,101,13,,,,,,,,,,
-349,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
-350,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
-351,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
-352,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
-353,13216,Antarctica,EU-15,216,13,,,,,,,,,,
-354,14017,Neva,Europe_Eastern,17,14,3154.0,Europe_Eastern,14.0,OilCrop,OilCrop,17.0,rfd,4162.56136208028,40.7504954387573,SSP1
-355,14017,Neva,Europe_Eastern,17,14,10435.0,Europe_Eastern,14.0,OilCrop,OilCrop,17.0,irr,4162.56136208028,40.7504954387573,SSP1
-356,14025,Daugava,Europe_Eastern,25,14,3155.0,Europe_Eastern,14.0,OilCrop,OilCrop,25.0,rfd,4079.46248334874,39.9369769860172,SSP1
-357,14025,Daugava,Europe_Eastern,25,14,10436.0,Europe_Eastern,14.0,OilCrop,OilCrop,25.0,irr,4079.46248334874,39.9369769860172,SSP1
-358,14030,Wisla,Europe_Eastern,30,14,3156.0,Europe_Eastern,14.0,OilCrop,OilCrop,30.0,rfd,3428.15803085524,33.5608597803083,SSP1
-359,14030,Wisla,Europe_Eastern,30,14,10437.0,Europe_Eastern,14.0,OilCrop,OilCrop,30.0,irr,3428.15803085524,33.5608597803083,SSP1
-360,14035,Neman,Europe_Eastern,35,14,3157.0,Europe_Eastern,14.0,OilCrop,OilCrop,35.0,rfd,3940.37723795322,38.5753651885983,SSP1
-361,14035,Neman,Europe_Eastern,35,14,10438.0,Europe_Eastern,14.0,OilCrop,OilCrop,35.0,irr,3940.37723795322,38.5753651885983,SSP1
-362,14039,Dnieper,Europe_Eastern,39,14,3158.0,Europe_Eastern,14.0,OilCrop,OilCrop,39.0,rfd,2897.92466498215,28.37,SSP1
-363,14039,Dnieper,Europe_Eastern,39,14,10439.0,Europe_Eastern,14.0,OilCrop,OilCrop,39.0,irr,2897.92466498215,28.37,SSP1
-364,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3159.0,Europe_Eastern,14.0,OilCrop,OilCrop,47.0,rfd,2897.92466498215,28.37,SSP1
-365,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10440.0,Europe_Eastern,14.0,OilCrop,OilCrop,47.0,irr,2897.92466498215,28.37,SSP1
-366,14049,Dniester,Europe_Eastern,49,14,3160.0,Europe_Eastern,14.0,OilCrop,OilCrop,49.0,rfd,2897.92466498215,28.37,SSP1
-367,14049,Dniester,Europe_Eastern,49,14,10441.0,Europe_Eastern,14.0,OilCrop,OilCrop,49.0,irr,2897.92466498215,28.37,SSP1
-368,14053,Don,Europe_Eastern,53,14,3161.0,Europe_Eastern,14.0,OilCrop,OilCrop,53.0,rfd,2897.92466498215,28.37,SSP1
-369,14053,Don,Europe_Eastern,53,14,10442.0,Europe_Eastern,14.0,OilCrop,OilCrop,53.0,irr,2897.92466498215,28.37,SSP1
-370,14054,Danube,Europe_Eastern,54,14,3162.0,Europe_Eastern,14.0,OilCrop,OilCrop,54.0,rfd,2897.92466498215,28.37,SSP1
-371,14054,Danube,Europe_Eastern,54,14,10443.0,Europe_Eastern,14.0,OilCrop,OilCrop,54.0,irr,2897.92466498215,28.37,SSP1
-372,15054,Danube,Europe_Non_EU,54,15,3292.0,Europe_Non_EU,15.0,OilCrop,OilCrop,54.0,rfd,3783.48841435576,28.37,SSP1
-373,15054,Danube,Europe_Non_EU,54,15,10573.0,Europe_Non_EU,15.0,OilCrop,OilCrop,54.0,irr,3783.48841435576,28.37,SSP1
-374,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3293.0,Europe_Non_EU,15.0,OilCrop,OilCrop,55.0,rfd,4002.92339368221,30.0154048966743,SSP1
-375,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10574.0,Europe_Non_EU,15.0,OilCrop,OilCrop,55.0,irr,4002.92339368221,30.0154048966743,SSP1
-376,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3294.0,Europe_Non_EU,15.0,OilCrop,OilCrop,70.0,rfd,3783.48841435576,28.37,SSP1
-377,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10575.0,Europe_Non_EU,15.0,OilCrop,OilCrop,70.0,irr,3783.48841435576,28.37,SSP1
-378,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3295.0,Europe_Non_EU,15.0,OilCrop,OilCrop,72.0,rfd,5101.59875428545,38.2536804156496,SSP1
-379,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10576.0,Europe_Non_EU,15.0,OilCrop,OilCrop,72.0,irr,5101.59875428545,38.2536804156496,SSP1
-380,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3296.0,Europe_Non_EU,15.0,OilCrop,OilCrop,75.0,rfd,3783.48841435576,28.37,SSP1
-381,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10577.0,Europe_Non_EU,15.0,OilCrop,OilCrop,75.0,irr,3783.48841435576,28.37,SSP1
-382,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3297.0,Europe_Non_EU,15.0,OilCrop,OilCrop,84.0,rfd,4257.22346894399,31.9222412194189,SSP1
-383,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10578.0,Europe_Non_EU,15.0,OilCrop,OilCrop,84.0,irr,4257.22346894399,31.9222412194189,SSP1
-384,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3298.0,Europe_Non_EU,15.0,OilCrop,OilCrop,99.0,rfd,4478.23359920693,33.579457182277,SSP1
-385,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10579.0,Europe_Non_EU,15.0,OilCrop,OilCrop,99.0,irr,4478.23359920693,33.579457182277,SSP1
-386,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
-387,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,3404.0,European Free Trade Association,16.0,OilCrop,OilCrop,8.0,rfd,3424.0032080049,28.37,SSP1
-388,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,10685.0,European Free Trade Association,16.0,OilCrop,OilCrop,8.0,irr,3424.0032080049,28.37,SSP1
-389,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
-390,16012,Sweden,European Free Trade Association,12,16,3405.0,European Free Trade Association,16.0,OilCrop,OilCrop,12.0,rfd,3424.0032080049,28.37,SSP1
-391,16012,Sweden,European Free Trade Association,12,16,10686.0,European Free Trade Association,16.0,OilCrop,OilCrop,12.0,irr,3424.0032080049,28.37,SSP1
-392,16032,Rhine,European Free Trade Association,32,16,,,,,,,,,,
-393,16054,Danube,European Free Trade Association,54,16,,,,,,,,,,
-394,16057,Po,European Free Trade Association,57,16,,,,,,,,,,
-395,16062,Rh(ne,European Free Trade Association,62,16,,,,,,,,,,
-396,17089,Indus,India,89,17,3632.0,India,17.0,OilCrop,OilCrop,89.0,rfd,11048.1201106077,57.3919079311,SSP1
-397,17089,Indus,India,89,17,10913.0,India,17.0,OilCrop,OilCrop,89.0,irr,11048.1201106077,57.3919079311,SSP1
-398,17107,Sabarmati,India,107,17,3633.0,India,17.0,OilCrop,OilCrop,107.0,rfd,10222.6419146187,53.103778534512,SSP1
-399,17107,Sabarmati,India,107,17,10914.0,India,17.0,OilCrop,OilCrop,107.0,irr,10222.6419146187,53.103778534512,SSP1
-400,17110,Ganges_Bramaputra,India,110,17,3634.0,India,17.0,OilCrop,OilCrop,110.0,rfd,8511.71287227658,44.2159785204204,SSP1
-401,17110,Ganges_Bramaputra,India,110,17,10915.0,India,17.0,OilCrop,OilCrop,110.0,irr,8511.71287227658,44.2159785204204,SSP1
-402,17113,Mahi,India,113,17,,,,,,,,,,
-403,17116,Bay_of_Bengal_North_East_Coast,India,116,17,,,,,,,,,,
-404,17117,Tapti,India,117,17,,,,,,,,,,
-405,17118,Yasai,India,118,17,,,,,,,,,,
-406,17120,Brahamani,India,120,17,,,,,,,,,,
-407,17122,Mahandi,India,122,17,,,,,,,,,,
-408,17123,Godavari,India,123,17,,,,,,,,,,
-409,17128,India_North_East_Coast,India,128,17,,,,,,,,,,
-410,17129,India_West_Coast,India,129,17,,,,,,,,,,
-411,17137,Irrawaddy,India,137,17,,,,,,,,,,
-412,17140,Krishna,India,140,17,,,,,,,,,,
-413,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
-414,17145,India_East_Coast,India,145,17,,,,,,,,,,
-415,17147,Pennar,India,147,17,,,,,,,,,,
-416,17153,Cauvery,India,153,17,,,,,,,,,,
-417,17155,India_South_Coast,India,155,17,,,,,,,,,,
-418,17235,Narmada,India,235,17,,,,,,,,,,
-419,18158,Palau_and_East_Indonesia,Indonesia,158,18,3894.0,Indonesia,18.0,OilCrop,OilCrop,158.0,rfd,9897.5626896485,189.088899647832,SSP1
-420,18158,Palau_and_East_Indonesia,Indonesia,158,18,11175.0,Indonesia,18.0,OilCrop,OilCrop,158.0,irr,9897.5626896485,189.088899647832,SSP1
-421,18159,North_Borneo_Coast,Indonesia,159,18,3895.0,Indonesia,18.0,OilCrop,OilCrop,159.0,rfd,9897.5626896485,189.088899647832,SSP1
-422,18159,North_Borneo_Coast,Indonesia,159,18,11176.0,Indonesia,18.0,OilCrop,OilCrop,159.0,irr,9897.5626896485,189.088899647832,SSP1
-423,18163,Sumatra,Indonesia,163,18,3896.0,Indonesia,18.0,OilCrop,OilCrop,163.0,rfd,9897.5626896485,189.088899647832,SSP1
-424,18163,Sumatra,Indonesia,163,18,11177.0,Indonesia,18.0,OilCrop,OilCrop,163.0,irr,9897.5626896485,189.088899647832,SSP1
-425,18164,Sulawesi,Indonesia,164,18,3897.0,Indonesia,18.0,OilCrop,OilCrop,164.0,rfd,9897.5626896485,189.088899647832,SSP1
-426,18164,Sulawesi,Indonesia,164,18,11178.0,Indonesia,18.0,OilCrop,OilCrop,164.0,irr,9897.5626896485,189.088899647832,SSP1
-427,18165,Kalimantan,Indonesia,165,18,3898.0,Indonesia,18.0,OilCrop,OilCrop,165.0,rfd,9897.5626896485,189.088899647832,SSP1
-428,18165,Kalimantan,Indonesia,165,18,11179.0,Indonesia,18.0,OilCrop,OilCrop,165.0,irr,9897.5626896485,189.088899647832,SSP1
-429,18167,Irian_Jaya_Coast,Indonesia,167,18,3899.0,Indonesia,18.0,OilCrop,OilCrop,167.0,rfd,9897.5626896485,189.088899647832,SSP1
-430,18167,Irian_Jaya_Coast,Indonesia,167,18,11180.0,Indonesia,18.0,OilCrop,OilCrop,167.0,irr,9897.5626896485,189.088899647832,SSP1
-431,18175,Java_Timor,Indonesia,175,18,3900.0,Indonesia,18.0,OilCrop,OilCrop,175.0,rfd,9897.5626896485,189.088899647832,SSP1
-432,18175,Java_Timor,Indonesia,175,18,11181.0,Indonesia,18.0,OilCrop,OilCrop,175.0,irr,9897.5626896485,189.088899647832,SSP1
-433,18178,Sepik,Indonesia,178,18,3901.0,Indonesia,18.0,OilCrop,OilCrop,178.0,rfd,9897.5626896485,189.088899647832,SSP1
-434,18178,Sepik,Indonesia,178,18,11182.0,Indonesia,18.0,OilCrop,OilCrop,178.0,irr,9897.5626896485,189.088899647832,SSP1
-435,18181,Fly,Indonesia,181,18,,,,,,,,,,
-436,19051,Japan,Japan,51,19,3991.0,Japan,19.0,OilCrop,OilCrop,51.0,rfd,1705.93739493821,28.37,SSP1
-437,19051,Japan,Japan,51,19,11272.0,Japan,19.0,OilCrop,OilCrop,51.0,irr,1705.93739493821,28.37,SSP1
-438,19103,Taiwan,Japan,103,19,3992.0,Japan,19.0,OilCrop,OilCrop,103.0,rfd,1705.93739493821,28.37,SSP1
-439,19103,Taiwan,Japan,103,19,11273.0,Japan,19.0,OilCrop,OilCrop,103.0,irr,1705.93739493821,28.37,SSP1
-440,20091,Baja_California,Mexico,91,20,4194.0,Mexico,20.0,OilCrop,OilCrop,91.0,rfd,2077.0354105748,28.37,SSP1
-441,20091,Baja_California,Mexico,91,20,11475.0,Mexico,20.0,OilCrop,OilCrop,91.0,irr,2077.0354105748,28.37,SSP1
-442,20096,Mexico_Northwest_Coast,Mexico,96,20,4195.0,Mexico,20.0,OilCrop,OilCrop,96.0,rfd,2077.0354105748,28.37,SSP1
-443,20096,Mexico_Northwest_Coast,Mexico,96,20,11476.0,Mexico,20.0,OilCrop,OilCrop,96.0,irr,2077.0354105748,28.37,SSP1
-444,20105,North_Gulf,Mexico,105,20,4196.0,Mexico,20.0,OilCrop,OilCrop,105.0,rfd,2077.0354105748,28.37,SSP1
-445,20105,North_Gulf,Mexico,105,20,11477.0,Mexico,20.0,OilCrop,OilCrop,105.0,irr,2077.0354105748,28.37,SSP1
-446,20111,Yucatan_Peninsula,Mexico,111,20,4197.0,Mexico,20.0,OilCrop,OilCrop,111.0,rfd,2077.0354105748,28.37,SSP1
-447,20111,Yucatan_Peninsula,Mexico,111,20,11478.0,Mexico,20.0,OilCrop,OilCrop,111.0,irr,2077.0354105748,28.37,SSP1
-448,20114,Mexico_Interior,Mexico,114,20,4198.0,Mexico,20.0,OilCrop,OilCrop,114.0,rfd,2077.0354105748,28.37,SSP1
-449,20114,Mexico_Interior,Mexico,114,20,11479.0,Mexico,20.0,OilCrop,OilCrop,114.0,irr,2077.0354105748,28.37,SSP1
-450,20115,Pacific_Central_Coast,Mexico,115,20,4199.0,Mexico,20.0,OilCrop,OilCrop,115.0,rfd,2077.0354105748,28.37,SSP1
-451,20115,Pacific_Central_Coast,Mexico,115,20,11480.0,Mexico,20.0,OilCrop,OilCrop,115.0,irr,2077.0354105748,28.37,SSP1
-452,20130,Papaloapan,Mexico,130,20,4200.0,Mexico,20.0,OilCrop,OilCrop,130.0,rfd,2077.0354105748,28.37,SSP1
-453,20130,Papaloapan,Mexico,130,20,11481.0,Mexico,20.0,OilCrop,OilCrop,130.0,irr,2077.0354105748,28.37,SSP1
-454,20131,Rfo_Lerma,Mexico,131,20,4201.0,Mexico,20.0,OilCrop,OilCrop,131.0,rfd,2077.0354105748,28.37,SSP1
-455,20131,Rfo_Lerma,Mexico,131,20,11482.0,Mexico,20.0,OilCrop,OilCrop,131.0,irr,2077.0354105748,28.37,SSP1
-456,20132,Rfo_Verde,Mexico,132,20,4202.0,Mexico,20.0,OilCrop,OilCrop,132.0,rfd,2077.0354105748,28.37,SSP1
-457,20132,Rfo_Verde,Mexico,132,20,11483.0,Mexico,20.0,OilCrop,OilCrop,132.0,irr,2077.0354105748,28.37,SSP1
-458,20133,Grijalva_Usumacinta,Mexico,133,20,4203.0,Mexico,20.0,OilCrop,OilCrop,133.0,rfd,2077.0354105748,28.37,SSP1
-459,20133,Grijalva_Usumacinta,Mexico,133,20,11484.0,Mexico,20.0,OilCrop,OilCrop,133.0,irr,2077.0354105748,28.37,SSP1
-460,20134,Rfo_Balsas,Mexico,134,20,4204.0,Mexico,20.0,OilCrop,OilCrop,134.0,rfd,2077.0354105748,28.37,SSP1
-461,20134,Rfo_Balsas,Mexico,134,20,11485.0,Mexico,20.0,OilCrop,OilCrop,134.0,irr,2077.0354105748,28.37,SSP1
-462,20135,Southern_Central_America,Mexico,135,20,4205.0,Mexico,20.0,OilCrop,OilCrop,135.0,rfd,2077.0354105748,28.37,SSP1
-463,20135,Southern_Central_America,Mexico,135,20,11486.0,Mexico,20.0,OilCrop,OilCrop,135.0,irr,2077.0354105748,28.37,SSP1
-464,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4206.0,Mexico,20.0,OilCrop,OilCrop,136.0,rfd,2077.0354105748,28.37,SSP1
-465,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11487.0,Mexico,20.0,OilCrop,OilCrop,136.0,irr,2077.0354105748,28.37,SSP1
-466,20217,California_River_Basin,Mexico,217,20,4207.0,Mexico,20.0,OilCrop,OilCrop,217.0,rfd,2077.0354105748,28.37,SSP1
-467,20217,California_River_Basin,Mexico,217,20,11488.0,Mexico,20.0,OilCrop,OilCrop,217.0,irr,2077.0354105748,28.37,SSP1
-468,20221,Lower_Colorado_River_Basin,Mexico,221,20,4208.0,Mexico,20.0,OilCrop,OilCrop,221.0,rfd,2077.0354105748,28.37,SSP1
-469,20221,Lower_Colorado_River_Basin,Mexico,221,20,11489.0,Mexico,20.0,OilCrop,OilCrop,221.0,irr,2077.0354105748,28.37,SSP1
-470,20231,Rio_Grande_River_Basin,Mexico,231,20,4209.0,Mexico,20.0,OilCrop,OilCrop,231.0,rfd,2077.0354105748,28.37,SSP1
-471,20231,Rio_Grande_River_Basin,Mexico,231,20,11490.0,Mexico,20.0,OilCrop,OilCrop,231.0,irr,2077.0354105748,28.37,SSP1
-472,21052,Caspian_Sea_East_Coast,Middle East,52,21,4505.0,Middle East,21.0,OilCrop,OilCrop,52.0,rfd,8539.43706651001,78.9231299652188,SSP1
-473,21052,Caspian_Sea_East_Coast,Middle East,52,21,11786.0,Middle East,21.0,OilCrop,OilCrop,52.0,irr,8539.43706651001,78.9231299652188,SSP1
-474,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4506.0,Middle East,21.0,OilCrop,OilCrop,72.0,rfd,8629.04812732862,79.7513327313056,SSP1
-475,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11787.0,Middle East,21.0,OilCrop,OilCrop,72.0,irr,8629.04812732862,79.7513327313056,SSP1
-476,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4507.0,Middle East,21.0,OilCrop,OilCrop,75.0,rfd,3069.61760999157,28.37,SSP1
-477,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11788.0,Middle East,21.0,OilCrop,OilCrop,75.0,irr,3069.61760999157,28.37,SSP1
-478,21082,Central_Iran,Middle East,82,21,4508.0,Middle East,21.0,OilCrop,OilCrop,82.0,rfd,8540.36253417124,78.9316833164452,SSP1
-479,21082,Central_Iran,Middle East,82,21,11789.0,Middle East,21.0,OilCrop,OilCrop,82.0,irr,8540.36253417124,78.9316833164452,SSP1
-480,21084,Tigris_Euphrates,Middle East,84,21,4509.0,Middle East,21.0,OilCrop,OilCrop,84.0,rfd,6784.80840093138,62.7065122730227,SSP1
-481,21084,Tigris_Euphrates,Middle East,84,21,11790.0,Middle East,21.0,OilCrop,OilCrop,84.0,irr,6784.80840093138,62.7065122730227,SSP1
-482,21088,Persian_Gulf_Coast,Middle East,88,21,4510.0,Middle East,21.0,OilCrop,OilCrop,88.0,rfd,8538.97572358844,78.9188661446561,SSP1
-483,21088,Persian_Gulf_Coast,Middle East,88,21,11791.0,Middle East,21.0,OilCrop,OilCrop,88.0,irr,8538.97572358844,78.9188661446561,SSP1
-484,21090,Farahrud,Middle East,90,21,4511.0,Middle East,21.0,OilCrop,OilCrop,90.0,rfd,8543.39930030945,78.9597496967854,SSP1
-485,21090,Farahrud,Middle East,90,21,11792.0,Middle East,21.0,OilCrop,OilCrop,90.0,irr,8543.39930030945,78.9597496967854,SSP1
-486,21093,Red_Sea_East_Coast,Middle East,93,21,4512.0,Middle East,21.0,OilCrop,OilCrop,93.0,rfd,3069.61760999157,28.37,SSP1
-487,21093,Red_Sea_East_Coast,Middle East,93,21,11793.0,Middle East,21.0,OilCrop,OilCrop,93.0,irr,3069.61760999157,28.37,SSP1
-488,21094,Arabian_Peninsula,Middle East,94,21,4513.0,Middle East,21.0,OilCrop,OilCrop,94.0,rfd,3069.61760999157,28.37,SSP1
-489,21094,Arabian_Peninsula,Middle East,94,21,11794.0,Middle East,21.0,OilCrop,OilCrop,94.0,irr,3069.61760999157,28.37,SSP1
-490,21095,Dead_Sea,Middle East,95,21,4514.0,Middle East,21.0,OilCrop,OilCrop,95.0,rfd,3069.61760999157,28.37,SSP1
-491,21095,Dead_Sea,Middle East,95,21,11795.0,Middle East,21.0,OilCrop,OilCrop,95.0,irr,3069.61760999157,28.37,SSP1
-492,21097,Helmand,Middle East,97,21,4515.0,Middle East,21.0,OilCrop,OilCrop,97.0,rfd,8557.15265023315,79.0868608184004,SSP1
-493,21097,Helmand,Middle East,97,21,11796.0,Middle East,21.0,OilCrop,OilCrop,97.0,irr,8557.15265023315,79.0868608184004,SSP1
-494,21098,Sinai_Peninsula,Middle East,98,21,4516.0,Middle East,21.0,OilCrop,OilCrop,98.0,rfd,3069.61760999157,28.37,SSP1
-495,21098,Sinai_Peninsula,Middle East,98,21,11797.0,Middle East,21.0,OilCrop,OilCrop,98.0,irr,3069.61760999157,28.37,SSP1
-496,21099,Eastern_Jordan_Syria,Middle East,99,21,4517.0,Middle East,21.0,OilCrop,OilCrop,99.0,rfd,3069.61760999157,28.37,SSP1
-497,21099,Eastern_Jordan_Syria,Middle East,99,21,11798.0,Middle East,21.0,OilCrop,OilCrop,99.0,irr,3069.61760999157,28.37,SSP1
-498,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4518.0,Middle East,21.0,OilCrop,OilCrop,100.0,rfd,3069.61760999157,28.37,SSP1
-499,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11799.0,Middle East,21.0,OilCrop,OilCrop,100.0,irr,3069.61760999157,28.37,SSP1
-500,21102,HamuniMashkel,Middle East,102,21,4519.0,Middle East,21.0,OilCrop,OilCrop,102.0,rfd,8559.7173833101,79.1105645778381,SSP1
-501,21102,HamuniMashkel,Middle East,102,21,11800.0,Middle East,21.0,OilCrop,OilCrop,102.0,irr,8559.7173833101,79.1105645778381,SSP1
-502,21104,Arabian_Sea_Coast,Middle East,104,21,4520.0,Middle East,21.0,OilCrop,OilCrop,104.0,rfd,8572.07473358995,79.2247736005836,SSP1
-503,21104,Arabian_Sea_Coast,Middle East,104,21,11801.0,Middle East,21.0,OilCrop,OilCrop,104.0,irr,8572.07473358995,79.2247736005836,SSP1
-504,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
-505,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
-506,22089,Indus,Pakistan,89,22,4691.0,Pakistan,22.0,OilCrop,OilCrop,89.0,rfd,5845.98238437967,28.37,SSP1
-507,22089,Indus,Pakistan,89,22,11972.0,Pakistan,22.0,OilCrop,OilCrop,89.0,irr,5845.98238437967,28.37,SSP1
-508,22097,Helmand,Pakistan,97,22,4692.0,Pakistan,22.0,OilCrop,OilCrop,97.0,rfd,5845.98238437967,28.37,SSP1
-509,22097,Helmand,Pakistan,97,22,11973.0,Pakistan,22.0,OilCrop,OilCrop,97.0,irr,5845.98238437967,28.37,SSP1
-510,22102,HamuniMashkel,Pakistan,102,22,4693.0,Pakistan,22.0,OilCrop,OilCrop,102.0,rfd,5845.98238437967,28.37,SSP1
-511,22102,HamuniMashkel,Pakistan,102,22,11974.0,Pakistan,22.0,OilCrop,OilCrop,102.0,irr,5845.98238437967,28.37,SSP1
-512,22104,Arabian_Sea_Coast,Pakistan,104,22,4694.0,Pakistan,22.0,OilCrop,OilCrop,104.0,rfd,5845.98238437967,28.37,SSP1
-513,22104,Arabian_Sea_Coast,Pakistan,104,22,11975.0,Pakistan,22.0,OilCrop,OilCrop,104.0,irr,5845.98238437967,28.37,SSP1
-514,22107,Sabarmati,Pakistan,107,22,4695.0,Pakistan,22.0,OilCrop,OilCrop,107.0,rfd,5845.98238437967,28.37,SSP1
-515,22107,Sabarmati,Pakistan,107,22,11976.0,Pakistan,22.0,OilCrop,OilCrop,107.0,irr,5845.98238437967,28.37,SSP1
-516,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
-517,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
-518,23004,Siberia_West_Coast,Russia,4,23,4979.0,Russia,23.0,OilCrop,OilCrop,4.0,rfd,2414.77357826504,28.37,SSP1
-519,23004,Siberia_West_Coast,Russia,4,23,12260.0,Russia,23.0,OilCrop,OilCrop,4.0,irr,2414.77357826504,28.37,SSP1
-520,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
-521,23006,Lena,Russia,6,23,4980.0,Russia,23.0,OilCrop,OilCrop,6.0,rfd,2414.77357826504,28.37,SSP1
-522,23006,Lena,Russia,6,23,12261.0,Russia,23.0,OilCrop,OilCrop,6.0,irr,2414.77357826504,28.37,SSP1
-523,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
-524,23009,Russia_Barents_Sea_Coast,Russia,9,23,4981.0,Russia,23.0,OilCrop,OilCrop,9.0,rfd,2414.77357826504,28.37,SSP1
-525,23009,Russia_Barents_Sea_Coast,Russia,9,23,12262.0,Russia,23.0,OilCrop,OilCrop,9.0,irr,2414.77357826504,28.37,SSP1
-526,23013,Finland,Russia,13,23,4982.0,Russia,23.0,OilCrop,OilCrop,13.0,rfd,2414.77357826504,28.37,SSP1
-527,23013,Finland,Russia,13,23,12263.0,Russia,23.0,OilCrop,OilCrop,13.0,irr,2414.77357826504,28.37,SSP1
-528,23014,Northern_Dvina,Russia,14,23,4983.0,Russia,23.0,OilCrop,OilCrop,14.0,rfd,2414.77357826504,28.37,SSP1
-529,23014,Northern_Dvina,Russia,14,23,12264.0,Russia,23.0,OilCrop,OilCrop,14.0,irr,2414.77357826504,28.37,SSP1
-530,23017,Neva,Russia,17,23,4984.0,Russia,23.0,OilCrop,OilCrop,17.0,rfd,2414.77357826504,28.37,SSP1
-531,23017,Neva,Russia,17,23,12265.0,Russia,23.0,OilCrop,OilCrop,17.0,irr,2414.77357826504,28.37,SSP1
-532,23018,Volga,Russia,18,23,4985.0,Russia,23.0,OilCrop,OilCrop,18.0,rfd,2414.77357826504,28.37,SSP1
-533,23018,Volga,Russia,18,23,12266.0,Russia,23.0,OilCrop,OilCrop,18.0,irr,2414.77357826504,28.37,SSP1
-534,23020,Baltic_Sea_Coast,Russia,20,23,4986.0,Russia,23.0,OilCrop,OilCrop,20.0,rfd,2414.77357826504,28.37,SSP1
-535,23020,Baltic_Sea_Coast,Russia,20,23,12267.0,Russia,23.0,OilCrop,OilCrop,20.0,irr,2414.77357826504,28.37,SSP1
-536,23022,Narva,Russia,22,23,4987.0,Russia,23.0,OilCrop,OilCrop,22.0,rfd,2414.77357826504,28.37,SSP1
-537,23022,Narva,Russia,22,23,12268.0,Russia,23.0,OilCrop,OilCrop,22.0,irr,2414.77357826504,28.37,SSP1
-538,23025,Daugava,Russia,25,23,4988.0,Russia,23.0,OilCrop,OilCrop,25.0,rfd,2414.77357826504,28.37,SSP1
-539,23025,Daugava,Russia,25,23,12269.0,Russia,23.0,OilCrop,OilCrop,25.0,irr,2414.77357826504,28.37,SSP1
-540,23033,Poland_Coast,Russia,33,23,4989.0,Russia,23.0,OilCrop,OilCrop,33.0,rfd,2414.77357826504,28.37,SSP1
-541,23033,Poland_Coast,Russia,33,23,12270.0,Russia,23.0,OilCrop,OilCrop,33.0,irr,2414.77357826504,28.37,SSP1
-542,23035,Neman,Russia,35,23,4990.0,Russia,23.0,OilCrop,OilCrop,35.0,rfd,2414.77357826504,28.37,SSP1
-543,23035,Neman,Russia,35,23,12271.0,Russia,23.0,OilCrop,OilCrop,35.0,irr,2414.77357826504,28.37,SSP1
-544,23037,Russia_South_East_Coast,Russia,37,23,4991.0,Russia,23.0,OilCrop,OilCrop,37.0,rfd,2414.77357826504,28.37,SSP1
-545,23037,Russia_South_East_Coast,Russia,37,23,12272.0,Russia,23.0,OilCrop,OilCrop,37.0,irr,2414.77357826504,28.37,SSP1
-546,23038,Ural,Russia,38,23,4992.0,Russia,23.0,OilCrop,OilCrop,38.0,rfd,2414.77357826504,28.37,SSP1
-547,23038,Ural,Russia,38,23,12273.0,Russia,23.0,OilCrop,OilCrop,38.0,irr,2414.77357826504,28.37,SSP1
-548,23039,Dnieper,Russia,39,23,4993.0,Russia,23.0,OilCrop,OilCrop,39.0,rfd,2414.77357826504,28.37,SSP1
-549,23039,Dnieper,Russia,39,23,12274.0,Russia,23.0,OilCrop,OilCrop,39.0,irr,2414.77357826504,28.37,SSP1
-550,23042,Gobi_Interior,Russia,42,23,4994.0,Russia,23.0,OilCrop,OilCrop,42.0,rfd,2414.77357826504,28.37,SSP1
-551,23042,Gobi_Interior,Russia,42,23,12275.0,Russia,23.0,OilCrop,OilCrop,42.0,irr,2414.77357826504,28.37,SSP1
-552,23043,Amur,Russia,43,23,4995.0,Russia,23.0,OilCrop,OilCrop,43.0,rfd,2414.77357826504,28.37,SSP1
-553,23043,Amur,Russia,43,23,12276.0,Russia,23.0,OilCrop,OilCrop,43.0,irr,2414.77357826504,28.37,SSP1
-554,23045,Caspian_Sea_Coast,Russia,45,23,4996.0,Russia,23.0,OilCrop,OilCrop,45.0,rfd,2414.77357826504,28.37,SSP1
-555,23045,Caspian_Sea_Coast,Russia,45,23,12277.0,Russia,23.0,OilCrop,OilCrop,45.0,irr,2414.77357826504,28.37,SSP1
-556,23047,Black_Sea_North_Coast,Russia,47,23,4997.0,Russia,23.0,OilCrop,OilCrop,47.0,rfd,2414.77357826504,28.37,SSP1
-557,23047,Black_Sea_North_Coast,Russia,47,23,12278.0,Russia,23.0,OilCrop,OilCrop,47.0,irr,2414.77357826504,28.37,SSP1
-558,23048,Yenisey,Russia,48,23,4998.0,Russia,23.0,OilCrop,OilCrop,48.0,rfd,2414.77357826504,28.37,SSP1
-559,23048,Yenisey,Russia,48,23,12279.0,Russia,23.0,OilCrop,OilCrop,48.0,irr,2414.77357826504,28.37,SSP1
-560,23053,Don,Russia,53,23,4999.0,Russia,23.0,OilCrop,OilCrop,53.0,rfd,2414.77357826504,28.37,SSP1
-561,23053,Don,Russia,53,23,12280.0,Russia,23.0,OilCrop,OilCrop,53.0,irr,2414.77357826504,28.37,SSP1
-562,23056,Ob,Russia,56,23,5000.0,Russia,23.0,OilCrop,OilCrop,56.0,rfd,2414.77357826504,28.37,SSP1
-563,23056,Ob,Russia,56,23,12281.0,Russia,23.0,OilCrop,OilCrop,56.0,irr,2414.77357826504,28.37,SSP1
-564,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
-565,23072,Caspian_Sea_South_West_Coast,Russia,72,23,5001.0,Russia,23.0,OilCrop,OilCrop,72.0,rfd,2414.77357826504,28.37,SSP1
-566,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12282.0,Russia,23.0,OilCrop,OilCrop,72.0,irr,2414.77357826504,28.37,SSP1
-567,23076,Syr_Darya,Russia,76,23,5002.0,Russia,23.0,OilCrop,OilCrop,76.0,rfd,2414.77357826504,28.37,SSP1
-568,23076,Syr_Darya,Russia,76,23,12283.0,Russia,23.0,OilCrop,OilCrop,76.0,irr,2414.77357826504,28.37,SSP1
-569,24194,Orange,South Africa,194,24,5210.0,South Africa,24.0,OilCrop,OilCrop,194.0,rfd,2271.97171566075,28.37,SSP1
-570,24194,Orange,South Africa,194,24,12491.0,South Africa,24.0,OilCrop,OilCrop,194.0,irr,2271.97171566075,28.37,SSP1
-571,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
-572,24198,South_Africa_South_Coast,South Africa,198,24,5211.0,South Africa,24.0,OilCrop,OilCrop,198.0,rfd,2271.97171566075,28.37,SSP1
-573,24198,South_Africa_South_Coast,South Africa,198,24,12492.0,South Africa,24.0,OilCrop,OilCrop,198.0,irr,2271.97171566075,28.37,SSP1
-574,24199,Limpopo,South Africa,199,24,5212.0,South Africa,24.0,OilCrop,OilCrop,199.0,rfd,2271.97171566075,28.37,SSP1
-575,24199,Limpopo,South Africa,199,24,12493.0,South Africa,24.0,OilCrop,OilCrop,199.0,irr,2271.97171566075,28.37,SSP1
-576,24204,South_Africa_West_Coast,South Africa,204,24,5213.0,South Africa,24.0,OilCrop,OilCrop,204.0,rfd,2271.97171566075,28.37,SSP1
-577,24204,South_Africa_West_Coast,South Africa,204,24,12494.0,South Africa,24.0,OilCrop,OilCrop,204.0,irr,2271.97171566075,28.37,SSP1
-578,24216,Antarctica,South Africa,216,24,,,,,,,,,,
-579,25143,Caribbean_Coast,South America_Northern,143,25,,,,,,,,,,
-580,25156,Orinoco,South America_Northern,156,25,,,,,,,,,,
-581,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,,,,,,,,,,
-582,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
-583,25168,Amazon,South America_Northern,168,25,,,,,,,,,,
-584,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5418.0,South America_Southern,26.0,OilCrop,OilCrop,157.0,rfd,2156.21854605531,28.37,SSP1
-585,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12699.0,South America_Southern,26.0,OilCrop,OilCrop,157.0,irr,2156.21854605531,28.37,SSP1
-586,26168,Amazon,South America_Southern,168,26,5419.0,South America_Southern,26.0,OilCrop,OilCrop,168.0,rfd,2601.61762005443,34.2302462874052,SSP1
-587,26168,Amazon,South America_Southern,168,26,12700.0,South America_Southern,26.0,OilCrop,OilCrop,168.0,irr,2601.61762005443,34.2302462874052,SSP1
-588,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5420.0,South America_Southern,26.0,OilCrop,OilCrop,169.0,rfd,2156.21854605531,28.37,SSP1
-589,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12701.0,South America_Southern,26.0,OilCrop,OilCrop,169.0,irr,2156.21854605531,28.37,SSP1
-590,26180,Peru_Pacific_Coast,South America_Southern,180,26,5421.0,South America_Southern,26.0,OilCrop,OilCrop,180.0,rfd,2314.2743451542,30.449586519019,SSP1
-591,26180,Peru_Pacific_Coast,South America_Southern,180,26,12702.0,South America_Southern,26.0,OilCrop,OilCrop,180.0,irr,2314.2743451542,30.449586519019,SSP1
-592,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
-593,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5422.0,South America_Southern,26.0,OilCrop,OilCrop,195.0,rfd,2419.20411587641,31.8301782966174,SSP1
-594,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12703.0,South America_Southern,26.0,OilCrop,OilCrop,195.0,irr,2419.20411587641,31.8301782966174,SSP1
-595,26200,La_Puna_Region,South America_Southern,200,26,5423.0,South America_Southern,26.0,OilCrop,OilCrop,200.0,rfd,2156.21854605531,28.37,SSP1
-596,26200,La_Puna_Region,South America_Southern,200,26,12704.0,South America_Southern,26.0,OilCrop,OilCrop,200.0,irr,2156.21854605531,28.37,SSP1
-597,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
-598,26206,La_Plata,South America_Southern,206,26,5424.0,South America_Southern,26.0,OilCrop,OilCrop,206.0,rfd,7014.42464019333,92.2908428769167,SSP1
-599,26206,La_Plata,South America_Southern,206,26,12705.0,South America_Southern,26.0,OilCrop,OilCrop,206.0,irr,7014.42464019333,92.2908428769167,SSP1
-600,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,5425.0,South America_Southern,26.0,OilCrop,OilCrop,207.0,rfd,2156.21854605531,28.37,SSP1
-601,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,12706.0,South America_Southern,26.0,OilCrop,OilCrop,207.0,irr,2156.21854605531,28.37,SSP1
-602,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
-603,26213,Negro,South America_Southern,213,26,5426.0,South America_Southern,26.0,OilCrop,OilCrop,213.0,rfd,2156.21854605531,28.37,SSP1
-604,26213,Negro,South America_Southern,213,26,12707.0,South America_Southern,26.0,OilCrop,OilCrop,213.0,irr,2156.21854605531,28.37,SSP1
-605,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,5427.0,South America_Southern,26.0,OilCrop,OilCrop,215.0,rfd,2156.21854605531,28.37,SSP1
-606,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,12708.0,South America_Southern,26.0,OilCrop,OilCrop,215.0,irr,2156.21854605531,28.37,SSP1
-607,27052,Caspian_Sea_East_Coast,South Asia,52,27,,,,,,,,,,
-608,27058,Amu_Darya,South Asia,58,27,,,,,,,,,,
-609,27089,Indus,South Asia,89,27,,,,,,,,,,
-610,27090,Farahrud,South Asia,90,27,,,,,,,,,,
-611,27097,Helmand,South Asia,97,27,,,,,,,,,,
-612,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
-613,27110,Ganges_Bramaputra,South Asia,110,27,5565.0,South Asia,27.0,OilCrop,OilCrop,110.0,rfd,9155.83385690235,60.1845243882422,SSP1
-614,27110,Ganges_Bramaputra,South Asia,110,27,12846.0,South Asia,27.0,OilCrop,OilCrop,110.0,irr,9155.83385690235,60.1845243882422,SSP1
-615,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5566.0,South Asia,27.0,OilCrop,OilCrop,116.0,rfd,9645.83934403111,63.4055032364158,SSP1
-616,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12847.0,South Asia,27.0,OilCrop,OilCrop,116.0,irr,9645.83934403111,63.4055032364158,SSP1
-617,27154,Sri_Lanka,South Asia,154,27,5567.0,South Asia,27.0,OilCrop,OilCrop,154.0,rfd,10412.2009488416,68.4430682922909,SSP1
-618,27154,Sri_Lanka,South Asia,154,27,12848.0,South Asia,27.0,OilCrop,OilCrop,154.0,irr,10412.2009488416,68.4430682922909,SSP1
-619,28065,North_and_South_Korea,South Korea,65,28,5636.0,South Korea,28.0,OilCrop,OilCrop,65.0,rfd,4089.86712070734,98.0864211325237,SSP1
-620,28065,North_and_South_Korea,South Korea,65,28,12917.0,South Korea,28.0,OilCrop,OilCrop,65.0,irr,4089.86712070734,98.0864211325237,SSP1
-621,29037,Russia_South_East_Coast,Southeast Asia,37,29,,,,,,,,,,
-622,29065,North_and_South_Korea,Southeast Asia,65,29,,,,,,,,,,
-623,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,,,,,,,,,,
-624,29108,Xun_Jiang,Southeast Asia,108,29,5859.0,Southeast Asia,29.0,OilCrop,OilCrop,108.0,rfd,12305.7836389041,384.768414395025,SSP1
-625,29108,Xun_Jiang,Southeast Asia,108,29,13140.0,Southeast Asia,29.0,OilCrop,OilCrop,108.0,irr,12305.7836389041,384.768414395025,SSP1
-626,29109,Hong_(Red_River),Southeast Asia,109,29,5860.0,Southeast Asia,29.0,OilCrop,OilCrop,109.0,rfd,12784.2392330803,399.728420659691,SSP1
-627,29109,Hong_(Red_River),Southeast Asia,109,29,13141.0,Southeast Asia,29.0,OilCrop,OilCrop,109.0,irr,12784.2392330803,399.728420659691,SSP1
-628,29110,Ganges_Bramaputra,Southeast Asia,110,29,5861.0,Southeast Asia,29.0,OilCrop,OilCrop,110.0,rfd,1682.12965277997,52.5956231881745,SSP1
-629,29110,Ganges_Bramaputra,Southeast Asia,110,29,13142.0,Southeast Asia,29.0,OilCrop,OilCrop,110.0,irr,1682.12965277997,52.5956231881745,SSP1
-630,29112,South_China_Sea_Coast,Southeast Asia,112,29,5862.0,Southeast Asia,29.0,OilCrop,OilCrop,112.0,rfd,13269.5217138677,414.90188511716,SSP1
-631,29112,South_China_Sea_Coast,Southeast Asia,112,29,13143.0,Southeast Asia,29.0,OilCrop,OilCrop,112.0,irr,13269.5217138677,414.90188511716,SSP1
-632,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5863.0,Southeast Asia,29.0,OilCrop,OilCrop,116.0,rfd,1626.17198654793,50.8459790256298,SSP1
-633,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13144.0,Southeast Asia,29.0,OilCrop,OilCrop,116.0,irr,1626.17198654793,50.8459790256298,SSP1
-634,29119,Philippines,Southeast Asia,119,29,,,,,,,,,,
-635,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
-636,29125,Mekong,Southeast Asia,125,29,5865.0,Southeast Asia,29.0,OilCrop,OilCrop,125.0,rfd,4242.257356925,132.64385955229,SSP1
-637,29125,Mekong,Southeast Asia,125,29,13146.0,Southeast Asia,29.0,OilCrop,OilCrop,125.0,irr,4242.257356925,132.64385955229,SSP1
-638,29126,Viet_Nam_Coast,Southeast Asia,126,29,5866.0,Southeast Asia,29.0,OilCrop,OilCrop,126.0,rfd,11424.087187065,357.200162286372,SSP1
-639,29126,Viet_Nam_Coast,Southeast Asia,126,29,13147.0,Southeast Asia,29.0,OilCrop,OilCrop,126.0,irr,11424.087187065,357.200162286372,SSP1
-640,29127,Salween,Southeast Asia,127,29,5867.0,Southeast Asia,29.0,OilCrop,OilCrop,127.0,rfd,1445.03667047513,45.1823699129249,SSP1
-641,29127,Salween,Southeast Asia,127,29,13148.0,Southeast Asia,29.0,OilCrop,OilCrop,127.0,irr,1445.03667047513,45.1823699129249,SSP1
-642,29137,Irrawaddy,Southeast Asia,137,29,5868.0,Southeast Asia,29.0,OilCrop,OilCrop,137.0,rfd,1550.63747472735,48.4842201000604,SSP1
-643,29137,Irrawaddy,Southeast Asia,137,29,13149.0,Southeast Asia,29.0,OilCrop,OilCrop,137.0,irr,1550.63747472735,48.4842201000604,SSP1
-644,29138,Sittang,Southeast Asia,138,29,5869.0,Southeast Asia,29.0,OilCrop,OilCrop,138.0,rfd,1552.14175013177,48.5312547042073,SSP1
-645,29138,Sittang,Southeast Asia,138,29,13150.0,Southeast Asia,29.0,OilCrop,OilCrop,138.0,irr,1552.14175013177,48.5312547042073,SSP1
-646,29139,Peninsula_Malaysia,Southeast Asia,139,29,5870.0,Southeast Asia,29.0,OilCrop,OilCrop,139.0,rfd,1178.17822966672,36.8384316355472,SSP1
-647,29139,Peninsula_Malaysia,Southeast Asia,139,29,13151.0,Southeast Asia,29.0,OilCrop,OilCrop,139.0,irr,1178.17822966672,36.8384316355472,SSP1
-648,29146,Chao_Phraya,Southeast Asia,146,29,5871.0,Southeast Asia,29.0,OilCrop,OilCrop,146.0,rfd,6975.73871803604,218.112393694884,SSP1
-649,29146,Chao_Phraya,Southeast Asia,146,29,13152.0,Southeast Asia,29.0,OilCrop,OilCrop,146.0,irr,6975.73871803604,218.112393694884,SSP1
-650,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5872.0,Southeast Asia,29.0,OilCrop,OilCrop,148.0,rfd,6963.54459059607,217.731116466413,SSP1
-651,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13153.0,Southeast Asia,29.0,OilCrop,OilCrop,148.0,irr,6963.54459059607,217.731116466413,SSP1
-652,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
-653,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,,,,,,,,,,
-654,29159,North_Borneo_Coast,Southeast Asia,159,29,5873.0,Southeast Asia,29.0,OilCrop,OilCrop,159.0,rfd,907.338203383003,28.37,SSP1
-655,29159,North_Borneo_Coast,Southeast Asia,159,29,13154.0,Southeast Asia,29.0,OilCrop,OilCrop,159.0,irr,907.338203383003,28.37,SSP1
-656,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
-657,29165,Kalimantan,Southeast Asia,165,29,5874.0,Southeast Asia,29.0,OilCrop,OilCrop,165.0,rfd,907.338203383003,28.37,SSP1
-658,29165,Kalimantan,Southeast Asia,165,29,13155.0,Southeast Asia,29.0,OilCrop,OilCrop,165.0,irr,907.338203383003,28.37,SSP1
-659,29167,Irian_Jaya_Coast,Southeast Asia,167,29,,,,,,,,,,
-660,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,,,,,,,,,,
-661,29175,Java_Timor,Southeast Asia,175,29,,,,,,,,,,
-662,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
-663,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
-664,29178,Sepik,Southeast Asia,178,29,,,,,,,,,,
-665,29181,Fly,Southeast Asia,181,29,,,,,,,,,,
-666,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
-667,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
-668,30078,China_Coast,Taiwan,78,30,6088.0,Taiwan,30.0,OilCrop,OilCrop,78.0,rfd,814.288252024978,28.37,SSP1
-669,30078,China_Coast,Taiwan,78,30,13369.0,Taiwan,30.0,OilCrop,OilCrop,78.0,irr,814.288252024978,28.37,SSP1
-670,30103,Taiwan,Taiwan,103,30,6089.0,Taiwan,30.0,OilCrop,OilCrop,103.0,rfd,814.288252024978,28.37,SSP1
-671,30103,Taiwan,Taiwan,103,30,13370.0,Taiwan,30.0,OilCrop,OilCrop,103.0,irr,814.288252024978,28.37,SSP1
-672,31169,South_Chile_Pacific_Coast,Argentina,169,31,6209.0,Argentina,31.0,OilCrop,OilCrop,169.0,rfd,3068.32748347095,28.37,SSP1
-673,31169,South_Chile_Pacific_Coast,Argentina,169,31,13490.0,Argentina,31.0,OilCrop,OilCrop,169.0,irr,3068.32748347095,28.37,SSP1
-674,31200,La_Puna_Region,Argentina,200,31,,,,,,,,,,
-675,31203,Mar_Chiquita,Argentina,203,31,6210.0,Argentina,31.0,OilCrop,OilCrop,203.0,rfd,3068.32748347095,28.37,SSP1
-676,31203,Mar_Chiquita,Argentina,203,31,13491.0,Argentina,31.0,OilCrop,OilCrop,203.0,irr,3068.32748347095,28.37,SSP1
-677,31205,Salinas_Grandes,Argentina,205,31,6211.0,Argentina,31.0,OilCrop,OilCrop,205.0,rfd,3068.32748347095,28.37,SSP1
-678,31205,Salinas_Grandes,Argentina,205,31,13492.0,Argentina,31.0,OilCrop,OilCrop,205.0,irr,3068.32748347095,28.37,SSP1
-679,31206,La_Plata,Argentina,206,31,6212.0,Argentina,31.0,OilCrop,OilCrop,206.0,rfd,3068.32748347095,28.37,SSP1
-680,31206,La_Plata,Argentina,206,31,13493.0,Argentina,31.0,OilCrop,OilCrop,206.0,irr,3068.32748347095,28.37,SSP1
-681,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
-682,31209,Pampas_Region,Argentina,209,31,6213.0,Argentina,31.0,OilCrop,OilCrop,209.0,rfd,3068.32748347095,28.37,SSP1
-683,31209,Pampas_Region,Argentina,209,31,13494.0,Argentina,31.0,OilCrop,OilCrop,209.0,irr,3068.32748347095,28.37,SSP1
-684,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6214.0,Argentina,31.0,OilCrop,OilCrop,210.0,rfd,3068.32748347095,28.37,SSP1
-685,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13495.0,Argentina,31.0,OilCrop,OilCrop,210.0,irr,3068.32748347095,28.37,SSP1
-686,31212,South_America_Colorado,Argentina,212,31,6215.0,Argentina,31.0,OilCrop,OilCrop,212.0,rfd,3068.32748347095,28.37,SSP1
-687,31212,South_America_Colorado,Argentina,212,31,13496.0,Argentina,31.0,OilCrop,OilCrop,212.0,irr,3068.32748347095,28.37,SSP1
-688,31213,Negro,Argentina,213,31,6216.0,Argentina,31.0,OilCrop,OilCrop,213.0,rfd,3068.32748347095,28.37,SSP1
-689,31213,Negro,Argentina,213,31,13497.0,Argentina,31.0,OilCrop,OilCrop,213.0,irr,3068.32748347095,28.37,SSP1
-690,31214,Central_Patagonia_Highlands,Argentina,214,31,6217.0,Argentina,31.0,OilCrop,OilCrop,214.0,rfd,3068.32748347095,28.37,SSP1
-691,31214,Central_Patagonia_Highlands,Argentina,214,31,13498.0,Argentina,31.0,OilCrop,OilCrop,214.0,irr,3068.32748347095,28.37,SSP1
-692,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6218.0,Argentina,31.0,OilCrop,OilCrop,215.0,rfd,3068.32748347095,28.37,SSP1
-693,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13499.0,Argentina,31.0,OilCrop,OilCrop,215.0,irr,3068.32748347095,28.37,SSP1
-694,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
-695,32143,Caribbean_Coast,Colombia,143,32,6339.0,Colombia,32.0,OilCrop,OilCrop,143.0,rfd,8415.56856507757,86.7899433315485,SSP1
-696,32143,Caribbean_Coast,Colombia,143,32,13620.0,Colombia,32.0,OilCrop,OilCrop,143.0,irr,8415.56856507757,86.7899433315485,SSP1
-697,32156,Orinoco,Colombia,156,32,6340.0,Colombia,32.0,OilCrop,OilCrop,156.0,rfd,8415.56856507757,86.7899433315485,SSP1
-698,32156,Orinoco,Colombia,156,32,13621.0,Colombia,32.0,OilCrop,OilCrop,156.0,irr,8415.56856507757,86.7899433315485,SSP1
-699,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6341.0,Colombia,32.0,OilCrop,OilCrop,157.0,rfd,8415.56856507757,86.7899433315485,SSP1
-700,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13622.0,Colombia,32.0,OilCrop,OilCrop,157.0,irr,8415.56856507757,86.7899433315485,SSP1
-701,32166,Magdalena,Colombia,166,32,6342.0,Colombia,32.0,OilCrop,OilCrop,166.0,rfd,8415.56856507757,86.7899433315485,SSP1
-702,32166,Magdalena,Colombia,166,32,13623.0,Colombia,32.0,OilCrop,OilCrop,166.0,irr,8415.56856507757,86.7899433315485,SSP1
-703,32168,Amazon,Colombia,168,32,6343.0,Colombia,32.0,OilCrop,OilCrop,168.0,rfd,8415.56856507757,86.7899433315485,SSP1
-704,32168,Amazon,Colombia,168,32,13624.0,Colombia,32.0,OilCrop,OilCrop,168.0,irr,8415.56856507757,86.7899433315485,SSP1
+29,1230,Tennessee_River_Basin,USA,230,1,211.0,USA,1.0,OilCrop,OilCrop,230.0,rfd,14971.4251364728,195.330232988297,SSP1
+30,1230,Tennessee_River_Basin,USA,230,1,7492.0,USA,1.0,OilCrop,OilCrop,230.0,irr,14971.4251364728,195.330232988297,SSP1
+31,1231,Rio_Grande_River_Basin,USA,231,1,212.0,USA,1.0,OilCrop,OilCrop,231.0,rfd,2285.36541739463,29.8168648190737,SSP1
+32,1231,Rio_Grande_River_Basin,USA,231,1,7493.0,USA,1.0,OilCrop,OilCrop,231.0,irr,2285.36541739463,29.8168648190737,SSP1
+33,1232,New_England_Basin,USA,232,1,,,,,,,,,,
+34,1233,Mid_Atlantic_Basin,USA,233,1,214.0,USA,1.0,OilCrop,OilCrop,233.0,rfd,2285.36541739463,29.8168648190738,SSP1
+35,1233,Mid_Atlantic_Basin,USA,233,1,7495.0,USA,1.0,OilCrop,OilCrop,233.0,irr,2285.36541739463,29.8168648190738,SSP1
+36,1234,Hawaii,USA,234,1,,,,,,,,,,
+37,2087,Nile,Africa_Eastern,87,2,429.0,Africa_Eastern,2.0,OilCrop,OilCrop,87.0,rfd,6554.97473926823,34.106945003563,SSP1
+38,2087,Nile,Africa_Eastern,87,2,7710.0,Africa_Eastern,2.0,OilCrop,OilCrop,87.0,irr,6554.97473926823,34.106945003563,SSP1
+39,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,430.0,Africa_Eastern,2.0,OilCrop,OilCrop,100.0,rfd,5452.39784253948,28.37,SSP1
+40,2100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Eastern,100,2,7711.0,Africa_Eastern,2.0,OilCrop,OilCrop,100.0,irr,5452.39784253948,28.37,SSP1
+41,2144,Africa_North_Interior,Africa_Eastern,144,2,431.0,Africa_Eastern,2.0,OilCrop,OilCrop,144.0,rfd,9213.91919925346,47.9420055600846,SSP1
+42,2144,Africa_North_Interior,Africa_Eastern,144,2,7712.0,Africa_Eastern,2.0,OilCrop,OilCrop,144.0,irr,9213.91919925346,47.9420055600846,SSP1
+43,2151,Lake_Chad,Africa_Eastern,151,2,432.0,Africa_Eastern,2.0,OilCrop,OilCrop,151.0,rfd,8933.41030442313,46.4824573803373,SSP1
+44,2151,Lake_Chad,Africa_Eastern,151,2,7713.0,Africa_Eastern,2.0,OilCrop,OilCrop,151.0,irr,8933.41030442313,46.4824573803373,SSP1
+45,2170,Shebelli_Juba,Africa_Eastern,170,2,433.0,Africa_Eastern,2.0,OilCrop,OilCrop,170.0,rfd,5452.39784253948,28.37,SSP1
+46,2170,Shebelli_Juba,Africa_Eastern,170,2,7714.0,Africa_Eastern,2.0,OilCrop,OilCrop,170.0,irr,5452.39784253948,28.37,SSP1
+47,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,434.0,Africa_Eastern,2.0,OilCrop,OilCrop,171.0,rfd,5452.39784253948,28.37,SSP1
+48,2171,Africa_East_Central_Coast,Africa_Eastern,171,2,7715.0,Africa_Eastern,2.0,OilCrop,OilCrop,171.0,irr,5452.39784253948,28.37,SSP1
+49,2177,Madagascar,Africa_Eastern,177,2,435.0,Africa_Eastern,2.0,OilCrop,OilCrop,177.0,rfd,5452.39784253948,28.37,SSP1
+50,2177,Madagascar,Africa_Eastern,177,2,7716.0,Africa_Eastern,2.0,OilCrop,OilCrop,177.0,irr,5452.39784253948,28.37,SSP1
+51,2179,Rift_Valley,Africa_Eastern,179,2,436.0,Africa_Eastern,2.0,OilCrop,OilCrop,179.0,rfd,5452.39784253948,28.37,SSP1
+52,2179,Rift_Valley,Africa_Eastern,179,2,7717.0,Africa_Eastern,2.0,OilCrop,OilCrop,179.0,irr,5452.39784253948,28.37,SSP1
+53,2183,Congo,Africa_Eastern,183,2,437.0,Africa_Eastern,2.0,OilCrop,OilCrop,183.0,rfd,5452.39784253948,28.37,SSP1
+54,2183,Congo,Africa_Eastern,183,2,7718.0,Africa_Eastern,2.0,OilCrop,OilCrop,183.0,irr,5452.39784253948,28.37,SSP1
+55,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,564.0,Africa_Northern,3.0,OilCrop,OilCrop,75.0,rfd,3333.45032272066,28.37,SSP1
+56,3075,Mediterranean_Sea_East_Coast,Africa_Northern,75,3,7845.0,Africa_Northern,3.0,OilCrop,OilCrop,75.0,irr,3333.45032272066,28.37,SSP1
+57,3080,Mediterranean_South_Coast,Africa_Northern,80,3,565.0,Africa_Northern,3.0,OilCrop,OilCrop,80.0,rfd,3333.45032272066,28.37,SSP1
+58,3080,Mediterranean_South_Coast,Africa_Northern,80,3,7846.0,Africa_Northern,3.0,OilCrop,OilCrop,80.0,irr,3333.45032272066,28.37,SSP1
+59,3086,Africa_North_West_Coast,Africa_Northern,86,3,566.0,Africa_Northern,3.0,OilCrop,OilCrop,86.0,rfd,3333.45032272066,28.37,SSP1
+60,3086,Africa_North_West_Coast,Africa_Northern,86,3,7847.0,Africa_Northern,3.0,OilCrop,OilCrop,86.0,irr,3333.45032272066,28.37,SSP1
+61,3087,Nile,Africa_Northern,87,3,567.0,Africa_Northern,3.0,OilCrop,OilCrop,87.0,rfd,3333.45032272066,28.37,SSP1
+62,3087,Nile,Africa_Northern,87,3,7848.0,Africa_Northern,3.0,OilCrop,OilCrop,87.0,irr,3333.45032272066,28.37,SSP1
+63,3095,Dead_Sea,Africa_Northern,95,3,,,,,,,,,,
+64,3098,Sinai_Peninsula,Africa_Northern,98,3,568.0,Africa_Northern,3.0,OilCrop,OilCrop,98.0,rfd,3333.45032272066,28.37,SSP1
+65,3098,Sinai_Peninsula,Africa_Northern,98,3,7849.0,Africa_Northern,3.0,OilCrop,OilCrop,98.0,irr,3333.45032272066,28.37,SSP1
+66,3100,Africa_Red_Sea_Gulf_of_Aden_Coast,Africa_Northern,100,3,,,,,,,,,,
+67,3144,Africa_North_Interior,Africa_Northern,144,3,569.0,Africa_Northern,3.0,OilCrop,OilCrop,144.0,rfd,3333.45032272066,28.37,SSP1
+68,3144,Africa_North_Interior,Africa_Northern,144,3,7850.0,Africa_Northern,3.0,OilCrop,OilCrop,144.0,irr,3333.45032272066,28.37,SSP1
+69,3149,Niger,Africa_Northern,149,3,,,,,,,,,,
+70,3151,Lake_Chad,Africa_Northern,151,3,,,,,,,,,,
+71,4087,Nile,Africa_Southern,87,4,737.0,Africa_Southern,4.0,OilCrop,OilCrop,87.0,rfd,2745.46735195013,28.37,SSP1
+72,4087,Nile,Africa_Southern,87,4,8018.0,Africa_Southern,4.0,OilCrop,OilCrop,87.0,irr,2745.46735195013,28.37,SSP1
+73,4162,Gulf_of_Guinea,Africa_Southern,162,4,738.0,Africa_Southern,4.0,OilCrop,OilCrop,162.0,rfd,2745.46735195013,28.37,SSP1
+74,4162,Gulf_of_Guinea,Africa_Southern,162,4,8019.0,Africa_Southern,4.0,OilCrop,OilCrop,162.0,irr,2745.46735195013,28.37,SSP1
+75,4171,Africa_East_Central_Coast,Africa_Southern,171,4,739.0,Africa_Southern,4.0,OilCrop,OilCrop,171.0,rfd,2745.46735195013,28.37,SSP1
+76,4171,Africa_East_Central_Coast,Africa_Southern,171,4,8020.0,Africa_Southern,4.0,OilCrop,OilCrop,171.0,irr,2745.46735195013,28.37,SSP1
+77,4179,Rift_Valley,Africa_Southern,179,4,740.0,Africa_Southern,4.0,OilCrop,OilCrop,179.0,rfd,2745.46735195013,28.37,SSP1
+78,4179,Rift_Valley,Africa_Southern,179,4,8021.0,Africa_Southern,4.0,OilCrop,OilCrop,179.0,irr,2745.46735195013,28.37,SSP1
+79,4182,Angola_Coast,Africa_Southern,182,4,741.0,Africa_Southern,4.0,OilCrop,OilCrop,182.0,rfd,2745.46735195013,28.37,SSP1
+80,4182,Angola_Coast,Africa_Southern,182,4,8022.0,Africa_Southern,4.0,OilCrop,OilCrop,182.0,irr,2745.46735195013,28.37,SSP1
+81,4183,Congo,Africa_Southern,183,4,742.0,Africa_Southern,4.0,OilCrop,OilCrop,183.0,rfd,2745.46735195013,28.37,SSP1
+82,4183,Congo,Africa_Southern,183,4,8023.0,Africa_Southern,4.0,OilCrop,OilCrop,183.0,irr,2745.46735195013,28.37,SSP1
+83,4188,Zambezi,Africa_Southern,188,4,743.0,Africa_Southern,4.0,OilCrop,OilCrop,188.0,rfd,2745.46735195013,28.37,SSP1
+84,4188,Zambezi,Africa_Southern,188,4,8024.0,Africa_Southern,4.0,OilCrop,OilCrop,188.0,irr,2745.46735195013,28.37,SSP1
+85,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,744.0,Africa_Southern,4.0,OilCrop,OilCrop,190.0,rfd,2745.46735195013,28.37,SSP1
+86,4190,Africa_Indian_Ocean_Coast,Africa_Southern,190,4,8025.0,Africa_Southern,4.0,OilCrop,OilCrop,190.0,irr,2745.46735195013,28.37,SSP1
+87,4194,Orange,Africa_Southern,194,4,745.0,Africa_Southern,4.0,OilCrop,OilCrop,194.0,rfd,2745.46735195013,28.37,SSP1
+88,4194,Orange,Africa_Southern,194,4,8026.0,Africa_Southern,4.0,OilCrop,OilCrop,194.0,irr,2745.46735195013,28.37,SSP1
+89,4196,Namibia_Coast,Africa_Southern,196,4,746.0,Africa_Southern,4.0,OilCrop,OilCrop,196.0,rfd,2745.46735195013,28.37,SSP1
+90,4196,Namibia_Coast,Africa_Southern,196,4,8027.0,Africa_Southern,4.0,OilCrop,OilCrop,196.0,irr,2745.46735195013,28.37,SSP1
+91,4197,Africa_South_Interior,Africa_Southern,197,4,747.0,Africa_Southern,4.0,OilCrop,OilCrop,197.0,rfd,2745.46735195013,28.37,SSP1
+92,4197,Africa_South_Interior,Africa_Southern,197,4,8028.0,Africa_Southern,4.0,OilCrop,OilCrop,197.0,irr,2745.46735195013,28.37,SSP1
+93,4198,South_Africa_South_Coast,Africa_Southern,198,4,748.0,Africa_Southern,4.0,OilCrop,OilCrop,198.0,rfd,2745.46735195013,28.37,SSP1
+94,4198,South_Africa_South_Coast,Africa_Southern,198,4,8029.0,Africa_Southern,4.0,OilCrop,OilCrop,198.0,irr,2745.46735195013,28.37,SSP1
+95,4199,Limpopo,Africa_Southern,199,4,749.0,Africa_Southern,4.0,OilCrop,OilCrop,199.0,rfd,2745.46735195013,28.37,SSP1
+96,4199,Limpopo,Africa_Southern,199,4,8030.0,Africa_Southern,4.0,OilCrop,OilCrop,199.0,irr,2745.46735195013,28.37,SSP1
+97,5086,Africa_North_West_Coast,Africa_Western,86,5,,,,,,,,,,
+98,5087,Nile,Africa_Western,87,5,945.0,Africa_Western,5.0,OilCrop,OilCrop,87.0,rfd,2734.96514120255,28.37,SSP1
+99,5087,Nile,Africa_Western,87,5,8226.0,Africa_Western,5.0,OilCrop,OilCrop,87.0,irr,2734.96514120255,28.37,SSP1
+100,5142,Africa_West_Coast,Africa_Western,142,5,946.0,Africa_Western,5.0,OilCrop,OilCrop,142.0,rfd,2734.96514120255,28.37,SSP1
+101,5142,Africa_West_Coast,Africa_Western,142,5,8227.0,Africa_Western,5.0,OilCrop,OilCrop,142.0,irr,2734.96514120255,28.37,SSP1
+102,5144,Africa_North_Interior,Africa_Western,144,5,947.0,Africa_Western,5.0,OilCrop,OilCrop,144.0,rfd,2734.96514120255,28.37,SSP1
+103,5144,Africa_North_Interior,Africa_Western,144,5,8228.0,Africa_Western,5.0,OilCrop,OilCrop,144.0,irr,2734.96514120255,28.37,SSP1
+104,5149,Niger,Africa_Western,149,5,948.0,Africa_Western,5.0,OilCrop,OilCrop,149.0,rfd,2734.96514120255,28.37,SSP1
+105,5149,Niger,Africa_Western,149,5,8229.0,Africa_Western,5.0,OilCrop,OilCrop,149.0,irr,2734.96514120255,28.37,SSP1
+106,5151,Lake_Chad,Africa_Western,151,5,949.0,Africa_Western,5.0,OilCrop,OilCrop,151.0,rfd,2734.96514120255,28.37,SSP1
+107,5151,Lake_Chad,Africa_Western,151,5,8230.0,Africa_Western,5.0,OilCrop,OilCrop,151.0,irr,2734.96514120255,28.37,SSP1
+108,5152,Senegal,Africa_Western,152,5,950.0,Africa_Western,5.0,OilCrop,OilCrop,152.0,rfd,2734.96514120255,28.37,SSP1
+109,5152,Senegal,Africa_Western,152,5,8231.0,Africa_Western,5.0,OilCrop,OilCrop,152.0,irr,2734.96514120255,28.37,SSP1
+110,5160,Volta,Africa_Western,160,5,951.0,Africa_Western,5.0,OilCrop,OilCrop,160.0,rfd,2748.67179839925,28.5121801904573,SSP1
+111,5160,Volta,Africa_Western,160,5,8232.0,Africa_Western,5.0,OilCrop,OilCrop,160.0,irr,2748.67179839925,28.5121801904573,SSP1
+112,5162,Gulf_of_Guinea,Africa_Western,162,5,952.0,Africa_Western,5.0,OilCrop,OilCrop,162.0,rfd,2734.96514120255,28.37,SSP1
+113,5162,Gulf_of_Guinea,Africa_Western,162,5,8233.0,Africa_Western,5.0,OilCrop,OilCrop,162.0,irr,2734.96514120255,28.37,SSP1
+114,5183,Congo,Africa_Western,183,5,953.0,Africa_Western,5.0,OilCrop,OilCrop,183.0,rfd,2734.96514120255,28.37,SSP1
+115,5183,Congo,Africa_Western,183,5,8234.0,Africa_Western,5.0,OilCrop,OilCrop,183.0,irr,2734.96514120255,28.37,SSP1
+116,5188,Zambezi,Africa_Western,188,5,954.0,Africa_Western,5.0,OilCrop,OilCrop,188.0,rfd,2734.96514120255,28.37,SSP1
+117,5188,Zambezi,Africa_Western,188,5,8235.0,Africa_Western,5.0,OilCrop,OilCrop,188.0,irr,2734.96514120255,28.37,SSP1
+118,6175,Java_Timor,Australia_NZ,175,6,,,,,,,,,,
+119,6184,Australia_North_Coast,Australia_NZ,184,6,,,,,,,,,,
+120,6189,Australia_East_Coast,Australia_NZ,189,6,,,,,,,,,,
+121,6191,Australia_West_Coast,Australia_NZ,191,6,,,,,,,,,,
+122,6193,Australia_Interior,Australia_NZ,193,6,,,,,,,,,,
+123,6201,New_Zealand,Australia_NZ,201,6,1119.0,Australia_NZ,6.0,OilCrop,OilCrop,201.0,rfd,4917.74550409489,28.37,SSP1
+124,6201,New_Zealand,Australia_NZ,201,6,8400.0,Australia_NZ,6.0,OilCrop,OilCrop,201.0,irr,4917.74550409489,28.37,SSP1
+125,6202,Australia_South_Coast,Australia_NZ,202,6,,,,,,,,,,
+126,6208,Murray_Darling,Australia_NZ,208,6,,,,,,,,,,
+127,6211,Tasmania,Australia_NZ,211,6,,,,,,,,,,
+128,6216,Antarctica,Australia_NZ,216,6,,,,,,,,,,
+129,7156,Orinoco,Brazil,156,7,,,,,,,,,,
+130,7161,Northeast_South_America_South_Atlantic_Coast,Brazil,161,7,1251.0,Brazil,7.0,OilCrop,OilCrop,161.0,rfd,2256.69757175965,28.37,SSP1
+131,7161,Northeast_South_America_South_Atlantic_Coast,Brazil,161,7,8532.0,Brazil,7.0,OilCrop,OilCrop,161.0,irr,2256.69757175965,28.37,SSP1
+132,7168,Amazon,Brazil,168,7,1252.0,Brazil,7.0,OilCrop,OilCrop,168.0,rfd,4725.12100941055,59.4017048250073,SSP1
+133,7168,Amazon,Brazil,168,7,8533.0,Brazil,7.0,OilCrop,OilCrop,168.0,irr,4725.12100941055,59.4017048250073,SSP1
+134,7172,North_Brazil_South_Atlantic_Coast,Brazil,172,7,1253.0,Brazil,7.0,OilCrop,OilCrop,172.0,rfd,2256.69757175965,28.37,SSP1
+135,7172,North_Brazil_South_Atlantic_Coast,Brazil,172,7,8534.0,Brazil,7.0,OilCrop,OilCrop,172.0,irr,2256.69757175965,28.37,SSP1
+136,7174,Tocantins,Brazil,174,7,1254.0,Brazil,7.0,OilCrop,OilCrop,174.0,rfd,6390.55003969377,80.3385916194099,SSP1
+137,7174,Tocantins,Brazil,174,7,8535.0,Brazil,7.0,OilCrop,OilCrop,174.0,irr,6390.55003969377,80.3385916194099,SSP1
+138,7186,East_Brazil_South_Atlantic_Coast,Brazil,186,7,1255.0,Brazil,7.0,OilCrop,OilCrop,186.0,rfd,4393.08997323134,55.2275874712765,SSP1
+139,7186,East_Brazil_South_Atlantic_Coast,Brazil,186,7,8536.0,Brazil,7.0,OilCrop,OilCrop,186.0,irr,4393.08997323134,55.2275874712765,SSP1
+140,7187,Parnaiba,Brazil,187,7,1256.0,Brazil,7.0,OilCrop,OilCrop,187.0,rfd,2763.65615925578,34.7432133659588,SSP1
+141,7187,Parnaiba,Brazil,187,7,8537.0,Brazil,7.0,OilCrop,OilCrop,187.0,irr,2763.65615925578,34.7432133659588,SSP1
+142,7192,Sao_Francisco,Brazil,192,7,1257.0,Brazil,7.0,OilCrop,OilCrop,192.0,rfd,12825.6397692983,161.237112499426,SSP1
+143,7192,Sao_Francisco,Brazil,192,7,8538.0,Brazil,7.0,OilCrop,OilCrop,192.0,irr,12825.6397692983,161.237112499426,SSP1
+144,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,1258.0,Brazil,7.0,OilCrop,OilCrop,195.0,rfd,7919.10083311503,99.5547181186057,SSP1
+145,7195,Uruguay_Brazil_South_Atlantic_Coast,Brazil,195,7,8539.0,Brazil,7.0,OilCrop,OilCrop,195.0,irr,7919.10083311503,99.5547181186057,SSP1
+146,7206,La_Plata,Brazil,206,7,1259.0,Brazil,7.0,OilCrop,OilCrop,206.0,rfd,4117.29674656702,51.76046190763,SSP1
+147,7206,La_Plata,Brazil,206,7,8540.0,Brazil,7.0,OilCrop,OilCrop,206.0,irr,4117.29674656702,51.76046190763,SSP1
+148,8002,Northwest_Territories,Canada,2,8,1442.0,Canada,8.0,OilCrop,OilCrop,2.0,rfd,3473.7564482584,57.1189229999248,SSP1
+149,8002,Northwest_Territories,Canada,2,8,8723.0,Canada,8.0,OilCrop,OilCrop,2.0,irr,3473.7564482584,57.1189229999248,SSP1
+150,8007,Pacific_and_Arctic_Coast,Canada,7,8,1443.0,Canada,8.0,OilCrop,OilCrop,7.0,rfd,3987.1971810883,65.5614209471367,SSP1
+151,8007,Pacific_and_Arctic_Coast,Canada,7,8,8724.0,Canada,8.0,OilCrop,OilCrop,7.0,irr,3987.1971810883,65.5614209471367,SSP1
+152,8010,Mackenzie,Canada,10,8,1444.0,Canada,8.0,OilCrop,OilCrop,10.0,rfd,3470.6498732611,57.0678416357855,SSP1
+153,8010,Mackenzie,Canada,10,8,8725.0,Canada,8.0,OilCrop,OilCrop,10.0,irr,3470.6498732611,57.0678416357855,SSP1
+154,8015,Hudson_Bay_Coast,Canada,15,8,1445.0,Canada,8.0,OilCrop,OilCrop,15.0,rfd,3478.52855048995,57.1973906023521,SSP1
+155,8015,Hudson_Bay_Coast,Canada,15,8,8726.0,Canada,8.0,OilCrop,OilCrop,15.0,irr,3478.52855048995,57.1973906023521,SSP1
+156,8019,Atlantic_Ocean_Seaboard,Canada,19,8,1446.0,Canada,8.0,OilCrop,OilCrop,19.0,rfd,3359.82075432099,55.2454801648012,SSP1
+157,8019,Atlantic_Ocean_Seaboard,Canada,19,8,8727.0,Canada,8.0,OilCrop,OilCrop,19.0,irr,3359.82075432099,55.2454801648012,SSP1
+158,8023,Saskatchewan_Nelson,Canada,23,8,1447.0,Canada,8.0,OilCrop,OilCrop,23.0,rfd,3569.51440024501,58.6934695081855,SSP1
+159,8023,Saskatchewan_Nelson,Canada,23,8,8728.0,Canada,8.0,OilCrop,OilCrop,23.0,irr,3569.51440024501,58.6934695081855,SSP1
+160,8027,Fraser,Canada,27,8,1448.0,Canada,8.0,OilCrop,OilCrop,27.0,rfd,3332.75199704117,54.8003890118089,SSP1
+161,8027,Fraser,Canada,27,8,8729.0,Canada,8.0,OilCrop,OilCrop,27.0,irr,3332.75199704117,54.8003890118089,SSP1
+162,8034,Churchill,Canada,34,8,,,,,,,,,,
+163,8040,St_Lawrence,Canada,40,8,1449.0,Canada,8.0,OilCrop,OilCrop,40.0,rfd,3477.42482996944,57.1792421430794,SSP1
+164,8040,St_Lawrence,Canada,40,8,8730.0,Canada,8.0,OilCrop,OilCrop,40.0,irr,3477.42482996944,57.1792421430794,SSP1
+165,8223,Missouri_River_Basin,Canada,223,8,1450.0,Canada,8.0,OilCrop,OilCrop,223.0,rfd,3666.71459717856,60.2917308275731,SSP1
+166,8223,Missouri_River_Basin,Canada,223,8,8731.0,Canada,8.0,OilCrop,OilCrop,223.0,irr,3666.71459717856,60.2917308275731,SSP1
+167,8227,Great_Lakes_Basin,Canada,227,8,1451.0,Canada,8.0,OilCrop,OilCrop,227.0,rfd,3485.1504969765,57.3062751649601,SSP1
+168,8227,Great_Lakes_Basin,Canada,227,8,8732.0,Canada,8.0,OilCrop,OilCrop,227.0,irr,3485.1504969765,57.3062751649601,SSP1
+169,8229,Pacific_Northwest_Basin,Canada,229,8,1452.0,Canada,8.0,OilCrop,OilCrop,229.0,rfd,3468.45357516598,57.0317279405256,SSP1
+170,8229,Pacific_Northwest_Basin,Canada,229,8,8733.0,Canada,8.0,OilCrop,OilCrop,229.0,irr,3468.45357516598,57.0317279405256,SSP1
+171,8232,New_England_Basin,Canada,232,8,1453.0,Canada,8.0,OilCrop,OilCrop,232.0,rfd,3493.58940942028,57.4450360704118,SSP1
+172,8232,New_England_Basin,Canada,232,8,8734.0,Canada,8.0,OilCrop,OilCrop,232.0,irr,3493.58940942028,57.4450360704118,SSP1
+173,9101,Caribbean,Central America and Caribbean,101,9,1563.0,Central America and Caribbean,9.0,OilCrop,OilCrop,101.0,rfd,4669.84629064594,62.797690331847,SSP1
+174,9101,Caribbean,Central America and Caribbean,101,9,8844.0,Central America and Caribbean,9.0,OilCrop,OilCrop,101.0,irr,4669.84629064594,62.797690331847,SSP1
+175,9111,Yucatan_Peninsula,Central America and Caribbean,111,9,,,,,,,,,,
+176,9133,Grijalva_Usumacinta,Central America and Caribbean,133,9,,,,,,,,,,
+177,9135,Southern_Central_America,Central America and Caribbean,135,9,1566.0,Central America and Caribbean,9.0,OilCrop,OilCrop,135.0,rfd,13288.7439253493,178.700191394922,SSP1
+178,9135,Southern_Central_America,Central America and Caribbean,135,9,8847.0,Central America and Caribbean,9.0,OilCrop,OilCrop,135.0,irr,13288.7439253493,178.700191394922,SSP1
+179,9143,Caribbean_Coast,Central America and Caribbean,143,9,1567.0,Central America and Caribbean,9.0,OilCrop,OilCrop,143.0,rfd,2930.51805032812,39.4080990213787,SSP1
+180,9143,Caribbean_Coast,Central America and Caribbean,143,9,8848.0,Central America and Caribbean,9.0,OilCrop,OilCrop,143.0,irr,2930.51805032812,39.4080990213787,SSP1
+181,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,1568.0,Central America and Caribbean,9.0,OilCrop,OilCrop,157.0,rfd,2930.51805032812,39.4080990213787,SSP1
+182,9157,Colombia_Ecuador_Pacific_Coast,Central America and Caribbean,157,9,8849.0,Central America and Caribbean,9.0,OilCrop,OilCrop,157.0,irr,2930.51805032812,39.4080990213787,SSP1
+183,10018,Volga,Central Asia,18,10,1765.0,Central Asia,10.0,OilCrop,OilCrop,18.0,rfd,5222.21183279267,28.37,SSP1
+184,10018,Volga,Central Asia,18,10,9046.0,Central Asia,10.0,OilCrop,OilCrop,18.0,irr,5222.21183279267,28.37,SSP1
+185,10038,Ural,Central Asia,38,10,1766.0,Central Asia,10.0,OilCrop,OilCrop,38.0,rfd,5222.21183279267,28.37,SSP1
+186,10038,Ural,Central Asia,38,10,9047.0,Central Asia,10.0,OilCrop,OilCrop,38.0,irr,5222.21183279267,28.37,SSP1
+187,10042,Gobi_Interior,Central Asia,42,10,1767.0,Central Asia,10.0,OilCrop,OilCrop,42.0,rfd,5628.93031734489,30.5795241970634,SSP1
+188,10042,Gobi_Interior,Central Asia,42,10,9048.0,Central Asia,10.0,OilCrop,OilCrop,42.0,irr,5628.93031734489,30.5795241970634,SSP1
+189,10043,Amur,Central Asia,43,10,,,,,,,,,,
+190,10045,Caspian_Sea_Coast,Central Asia,45,10,1768.0,Central Asia,10.0,OilCrop,OilCrop,45.0,rfd,5222.21183279267,28.37,SSP1
+191,10045,Caspian_Sea_Coast,Central Asia,45,10,9049.0,Central Asia,10.0,OilCrop,OilCrop,45.0,irr,5222.21183279267,28.37,SSP1
+192,10047,Black_Sea_North_Coast,Central Asia,47,10,,,,,,,,,,
+193,10048,Yenisey,Central Asia,48,10,,,,,,,,,,
+194,10052,Caspian_Sea_East_Coast,Central Asia,52,10,1769.0,Central Asia,10.0,OilCrop,OilCrop,52.0,rfd,5222.21183279267,28.37,SSP1
+195,10052,Caspian_Sea_East_Coast,Central Asia,52,10,9050.0,Central Asia,10.0,OilCrop,OilCrop,52.0,irr,5222.21183279267,28.37,SSP1
+196,10056,Ob,Central Asia,56,10,1770.0,Central Asia,10.0,OilCrop,OilCrop,56.0,rfd,5381.85909349954,29.2372939611168,SSP1
+197,10056,Ob,Central Asia,56,10,9051.0,Central Asia,10.0,OilCrop,OilCrop,56.0,irr,5381.85909349954,29.2372939611168,SSP1
+198,10058,Amu_Darya,Central Asia,58,10,1771.0,Central Asia,10.0,OilCrop,OilCrop,58.0,rfd,5222.21183279267,28.37,SSP1
+199,10058,Amu_Darya,Central Asia,58,10,9052.0,Central Asia,10.0,OilCrop,OilCrop,58.0,irr,5222.21183279267,28.37,SSP1
+200,10068,Lake_Balkash,Central Asia,68,10,1772.0,Central Asia,10.0,OilCrop,OilCrop,68.0,rfd,5222.21183279267,28.37,SSP1
+201,10068,Lake_Balkash,Central Asia,68,10,9053.0,Central Asia,10.0,OilCrop,OilCrop,68.0,irr,5222.21183279267,28.37,SSP1
+202,10070,Black_Sea_South_Coast,Central Asia,70,10,1773.0,Central Asia,10.0,OilCrop,OilCrop,70.0,rfd,5222.21183279267,28.37,SSP1
+203,10070,Black_Sea_South_Coast,Central Asia,70,10,9054.0,Central Asia,10.0,OilCrop,OilCrop,70.0,irr,5222.21183279267,28.37,SSP1
+204,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,1774.0,Central Asia,10.0,OilCrop,OilCrop,72.0,rfd,5222.21183279267,28.37,SSP1
+205,10072,Caspian_Sea_South_West_Coast,Central Asia,72,10,9055.0,Central Asia,10.0,OilCrop,OilCrop,72.0,irr,5222.21183279267,28.37,SSP1
+206,10076,Syr_Darya,Central Asia,76,10,1775.0,Central Asia,10.0,OilCrop,OilCrop,76.0,rfd,5222.21183279267,28.37,SSP1
+207,10076,Syr_Darya,Central Asia,76,10,9056.0,Central Asia,10.0,OilCrop,OilCrop,76.0,irr,5222.21183279267,28.37,SSP1
+208,10085,Tarim_Interior,Central Asia,85,10,1776.0,Central Asia,10.0,OilCrop,OilCrop,85.0,rfd,5222.21183279267,28.37,SSP1
+209,10085,Tarim_Interior,Central Asia,85,10,9057.0,Central Asia,10.0,OilCrop,OilCrop,85.0,irr,5222.21183279267,28.37,SSP1
+210,11037,Russia_South_East_Coast,China,37,11,2054.0,China,11.0,OilCrop,OilCrop,37.0,rfd,879.66463473866,28.37,SSP1
+211,11037,Russia_South_East_Coast,China,37,11,9335.0,China,11.0,OilCrop,OilCrop,37.0,irr,879.66463473866,28.37,SSP1
+212,11042,Gobi_Interior,China,42,11,2055.0,China,11.0,OilCrop,OilCrop,42.0,rfd,879.66463473866,28.37,SSP1
+213,11042,Gobi_Interior,China,42,11,9336.0,China,11.0,OilCrop,OilCrop,42.0,irr,879.66463473866,28.37,SSP1
+214,11043,Amur,China,43,11,2056.0,China,11.0,OilCrop,OilCrop,43.0,rfd,879.66463473866,28.37,SSP1
+215,11043,Amur,China,43,11,9337.0,China,11.0,OilCrop,OilCrop,43.0,irr,879.66463473866,28.37,SSP1
+216,11056,Ob,China,56,11,2057.0,China,11.0,OilCrop,OilCrop,56.0,rfd,879.66463473866,28.37,SSP1
+217,11056,Ob,China,56,11,9338.0,China,11.0,OilCrop,OilCrop,56.0,irr,879.66463473866,28.37,SSP1
+218,11058,Amu_Darya,China,58,11,,,,,,,,,,
+219,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,2058.0,China,11.0,OilCrop,OilCrop,66.0,rfd,879.66463473866,28.37,SSP1
+220,11066,Bo_Hai_Korean_Bay_North_Coast,China,66,11,9339.0,China,11.0,OilCrop,OilCrop,66.0,irr,879.66463473866,28.37,SSP1
+221,11068,Lake_Balkash,China,68,11,2059.0,China,11.0,OilCrop,OilCrop,68.0,rfd,879.66463473866,28.37,SSP1
+222,11068,Lake_Balkash,China,68,11,9340.0,China,11.0,OilCrop,OilCrop,68.0,irr,879.66463473866,28.37,SSP1
+223,11076,Syr_Darya,China,76,11,,,,,,,,,,
+224,11077,Ziya_He_Interior,China,77,11,2060.0,China,11.0,OilCrop,OilCrop,77.0,rfd,879.66463473866,28.37,SSP1
+225,11077,Ziya_He_Interior,China,77,11,9341.0,China,11.0,OilCrop,OilCrop,77.0,irr,879.66463473866,28.37,SSP1
+226,11078,China_Coast,China,78,11,2061.0,China,11.0,OilCrop,OilCrop,78.0,rfd,879.66463473866,28.37,SSP1
+227,11078,China_Coast,China,78,11,9342.0,China,11.0,OilCrop,OilCrop,78.0,irr,879.66463473866,28.37,SSP1
+228,11079,Huang_He,China,79,11,2062.0,China,11.0,OilCrop,OilCrop,79.0,rfd,879.66463473866,28.37,SSP1
+229,11079,Huang_He,China,79,11,9343.0,China,11.0,OilCrop,OilCrop,79.0,irr,879.66463473866,28.37,SSP1
+230,11085,Tarim_Interior,China,85,11,2063.0,China,11.0,OilCrop,OilCrop,85.0,rfd,879.66463473866,28.37,SSP1
+231,11085,Tarim_Interior,China,85,11,9344.0,China,11.0,OilCrop,OilCrop,85.0,irr,879.66463473866,28.37,SSP1
+232,11089,Indus,China,89,11,,,,,,,,,,
+233,11092,Plateau_of_Tibet_Interior,China,92,11,,,,,,,,,,
+234,11106,Yangtze,China,106,11,2064.0,China,11.0,OilCrop,OilCrop,106.0,rfd,879.66463473866,28.37,SSP1
+235,11106,Yangtze,China,106,11,9345.0,China,11.0,OilCrop,OilCrop,106.0,irr,879.66463473866,28.37,SSP1
+236,11108,Xun_Jiang,China,108,11,2065.0,China,11.0,OilCrop,OilCrop,108.0,rfd,879.66463473866,28.37,SSP1
+237,11108,Xun_Jiang,China,108,11,9346.0,China,11.0,OilCrop,OilCrop,108.0,irr,879.66463473866,28.37,SSP1
+238,11109,Hong_(Red_River),China,109,11,2066.0,China,11.0,OilCrop,OilCrop,109.0,rfd,879.66463473866,28.37,SSP1
+239,11109,Hong_(Red_River),China,109,11,9347.0,China,11.0,OilCrop,OilCrop,109.0,irr,879.66463473866,28.37,SSP1
+240,11110,Ganges_Bramaputra,China,110,11,2067.0,China,11.0,OilCrop,OilCrop,110.0,rfd,879.66463473866,28.37,SSP1
+241,11110,Ganges_Bramaputra,China,110,11,9348.0,China,11.0,OilCrop,OilCrop,110.0,irr,879.66463473866,28.37,SSP1
+242,11112,South_China_Sea_Coast,China,112,11,2068.0,China,11.0,OilCrop,OilCrop,112.0,rfd,879.66463473866,28.37,SSP1
+243,11112,South_China_Sea_Coast,China,112,11,9349.0,China,11.0,OilCrop,OilCrop,112.0,irr,879.66463473866,28.37,SSP1
+244,11124,Hainan,China,124,11,2069.0,China,11.0,OilCrop,OilCrop,124.0,rfd,879.66463473866,28.37,SSP1
+245,11124,Hainan,China,124,11,9350.0,China,11.0,OilCrop,OilCrop,124.0,irr,879.66463473866,28.37,SSP1
+246,11125,Mekong,China,125,11,2070.0,China,11.0,OilCrop,OilCrop,125.0,rfd,879.66463473866,28.37,SSP1
+247,11125,Mekong,China,125,11,9351.0,China,11.0,OilCrop,OilCrop,125.0,irr,879.66463473866,28.37,SSP1
+248,11127,Salween,China,127,11,2071.0,China,11.0,OilCrop,OilCrop,127.0,rfd,879.66463473866,28.37,SSP1
+249,11127,Salween,China,127,11,9352.0,China,11.0,OilCrop,OilCrop,127.0,irr,879.66463473866,28.37,SSP1
+250,11137,Irrawaddy,China,137,11,2072.0,China,11.0,OilCrop,OilCrop,137.0,rfd,879.66463473866,28.37,SSP1
+251,11137,Irrawaddy,China,137,11,9353.0,China,11.0,OilCrop,OilCrop,137.0,irr,879.66463473866,28.37,SSP1
+252,12020,Baltic_Sea_Coast,EU-12,20,12,2387.0,EU-12,12.0,OilCrop,OilCrop,20.0,rfd,2288.88718677249,28.37,SSP1
+253,12020,Baltic_Sea_Coast,EU-12,20,12,9668.0,EU-12,12.0,OilCrop,OilCrop,20.0,irr,2288.88718677249,28.37,SSP1
+254,12021,Denmark_Germany_Coast,EU-12,21,12,2388.0,EU-12,12.0,OilCrop,OilCrop,21.0,rfd,2288.88718677249,28.37,SSP1
+255,12021,Denmark_Germany_Coast,EU-12,21,12,9669.0,EU-12,12.0,OilCrop,OilCrop,21.0,irr,2288.88718677249,28.37,SSP1
+256,12022,Narva,EU-12,22,12,2389.0,EU-12,12.0,OilCrop,OilCrop,22.0,rfd,2288.88718677249,28.37,SSP1
+257,12022,Narva,EU-12,22,12,9670.0,EU-12,12.0,OilCrop,OilCrop,22.0,irr,2288.88718677249,28.37,SSP1
+258,12025,Daugava,EU-12,25,12,2390.0,EU-12,12.0,OilCrop,OilCrop,25.0,rfd,2427.44227764992,30.0873445466901,SSP1
+259,12025,Daugava,EU-12,25,12,9671.0,EU-12,12.0,OilCrop,OilCrop,25.0,irr,2427.44227764992,30.0873445466901,SSP1
+260,12029,Oder,EU-12,29,12,2391.0,EU-12,12.0,OilCrop,OilCrop,29.0,rfd,2288.88718677249,28.37,SSP1
+261,12029,Oder,EU-12,29,12,9672.0,EU-12,12.0,OilCrop,OilCrop,29.0,irr,2288.88718677249,28.37,SSP1
+262,12030,Wisla,EU-12,30,12,2392.0,EU-12,12.0,OilCrop,OilCrop,30.0,rfd,2288.88718677249,28.37,SSP1
+263,12030,Wisla,EU-12,30,12,9673.0,EU-12,12.0,OilCrop,OilCrop,30.0,irr,2288.88718677249,28.37,SSP1
+264,12031,Elbe,EU-12,31,12,2393.0,EU-12,12.0,OilCrop,OilCrop,31.0,rfd,2288.88718677249,28.37,SSP1
+265,12031,Elbe,EU-12,31,12,9674.0,EU-12,12.0,OilCrop,OilCrop,31.0,irr,2288.88718677249,28.37,SSP1
+266,12033,Poland_Coast,EU-12,33,12,2394.0,EU-12,12.0,OilCrop,OilCrop,33.0,rfd,2288.88718677249,28.37,SSP1
+267,12033,Poland_Coast,EU-12,33,12,9675.0,EU-12,12.0,OilCrop,OilCrop,33.0,irr,2288.88718677249,28.37,SSP1
+268,12035,Neman,EU-12,35,12,2395.0,EU-12,12.0,OilCrop,OilCrop,35.0,rfd,2288.88718677249,28.37,SSP1
+269,12035,Neman,EU-12,35,12,9676.0,EU-12,12.0,OilCrop,OilCrop,35.0,irr,2288.88718677249,28.37,SSP1
+270,12049,Dniester,EU-12,49,12,2396.0,EU-12,12.0,OilCrop,OilCrop,49.0,rfd,2288.88718677249,28.37,SSP1
+271,12049,Dniester,EU-12,49,12,9677.0,EU-12,12.0,OilCrop,OilCrop,49.0,irr,2288.88718677249,28.37,SSP1
+272,12054,Danube,EU-12,54,12,2397.0,EU-12,12.0,OilCrop,OilCrop,54.0,rfd,2288.88718677249,28.37,SSP1
+273,12054,Danube,EU-12,54,12,9678.0,EU-12,12.0,OilCrop,OilCrop,54.0,irr,2288.88718677249,28.37,SSP1
+274,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,2398.0,EU-12,12.0,OilCrop,OilCrop,55.0,rfd,2288.88718677249,28.37,SSP1
+275,12055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-12,55,12,9679.0,EU-12,12.0,OilCrop,OilCrop,55.0,irr,2288.88718677249,28.37,SSP1
+276,12063,Mediterranean_Sea_Islands,EU-12,63,12,,,,,,,,,,
+277,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,2399.0,EU-12,12.0,OilCrop,OilCrop,75.0,rfd,8420.23525529822,104.36603235551,SSP1
+278,12075,Mediterranean_Sea_East_Coast,EU-12,75,12,9680.0,EU-12,12.0,OilCrop,OilCrop,75.0,irr,8420.23525529822,104.36603235551,SSP1
+279,13001,Arctic_Ocean_Islands,EU-15,1,13,,,,,,,,,,
+280,13008,Scandinavia_North_Coast,EU-15,8,13,,,,,,,,,,
+281,13012,Sweden,EU-15,12,13,2782.0,EU-15,13.0,OilCrop,OilCrop,12.0,rfd,3649.01410644902,47.1403924851945,SSP1
+282,13012,Sweden,EU-15,12,13,10063.0,EU-15,13.0,OilCrop,OilCrop,12.0,irr,3649.01410644902,47.1403924851945,SSP1
+283,13013,Finland,EU-15,13,13,2783.0,EU-15,13.0,OilCrop,OilCrop,13.0,rfd,4411.61000210443,56.9921137392341,SSP1
+284,13013,Finland,EU-15,13,13,10064.0,EU-15,13.0,OilCrop,OilCrop,13.0,irr,4411.61000210443,56.9921137392341,SSP1
+285,13016,Scotland,EU-15,16,13,2784.0,EU-15,13.0,OilCrop,OilCrop,16.0,rfd,2703.35748804617,34.9237709958594,SSP1
+286,13016,Scotland,EU-15,16,13,10065.0,EU-15,13.0,OilCrop,OilCrop,16.0,irr,2703.35748804617,34.9237709958594,SSP1
+287,13017,Neva,EU-15,17,13,2785.0,EU-15,13.0,OilCrop,OilCrop,17.0,rfd,4411.61000210443,56.9921137392341,SSP1
+288,13017,Neva,EU-15,17,13,10066.0,EU-15,13.0,OilCrop,OilCrop,17.0,irr,4411.61000210443,56.9921137392341,SSP1
+289,13019,Atlantic_Ocean_Seaboard,EU-15,19,13,,,,,,,,,,
+290,13021,Denmark_Germany_Coast,EU-15,21,13,2786.0,EU-15,13.0,OilCrop,OilCrop,21.0,rfd,2196.0472694934,28.37,SSP1
+291,13021,Denmark_Germany_Coast,EU-15,21,13,10067.0,EU-15,13.0,OilCrop,OilCrop,21.0,irr,2196.0472694934,28.37,SSP1
+292,13024,Ireland,EU-15,24,13,2787.0,EU-15,13.0,OilCrop,OilCrop,24.0,rfd,2196.0472694934,28.37,SSP1
+293,13024,Ireland,EU-15,24,13,10068.0,EU-15,13.0,OilCrop,OilCrop,24.0,irr,2196.0472694934,28.37,SSP1
+294,13026,England_and_Wales,EU-15,26,13,2788.0,EU-15,13.0,OilCrop,OilCrop,26.0,rfd,2703.35883386252,34.9237883820105,SSP1
+295,13026,England_and_Wales,EU-15,26,13,10069.0,EU-15,13.0,OilCrop,OilCrop,26.0,irr,2703.35883386252,34.9237883820105,SSP1
+296,13028,Ems_Weser,EU-15,28,13,2789.0,EU-15,13.0,OilCrop,OilCrop,28.0,rfd,2784.71010679859,35.9747382614858,SSP1
+297,13028,Ems_Weser,EU-15,28,13,10070.0,EU-15,13.0,OilCrop,OilCrop,28.0,irr,2784.71010679859,35.9747382614858,SSP1
+298,13029,Oder,EU-15,29,13,2790.0,EU-15,13.0,OilCrop,OilCrop,29.0,rfd,2777.82513390494,35.8857935999996,SSP1
+299,13029,Oder,EU-15,29,13,10071.0,EU-15,13.0,OilCrop,OilCrop,29.0,irr,2777.82513390494,35.8857935999996,SSP1
+300,13031,Elbe,EU-15,31,13,2791.0,EU-15,13.0,OilCrop,OilCrop,31.0,rfd,2771.86844565436,35.8088411372651,SSP1
+301,13031,Elbe,EU-15,31,13,10072.0,EU-15,13.0,OilCrop,OilCrop,31.0,irr,2771.86844565436,35.8088411372651,SSP1
+302,13032,Rhine,EU-15,32,13,2792.0,EU-15,13.0,OilCrop,OilCrop,32.0,rfd,2860.47330226689,36.9534976376134,SSP1
+303,13032,Rhine,EU-15,32,13,10073.0,EU-15,13.0,OilCrop,OilCrop,32.0,irr,2860.47330226689,36.9534976376134,SSP1
+304,13036,Scheldt,EU-15,36,13,2793.0,EU-15,13.0,OilCrop,OilCrop,36.0,rfd,4191.64651434395,54.1504790283363,SSP1
+305,13036,Scheldt,EU-15,36,13,10074.0,EU-15,13.0,OilCrop,OilCrop,36.0,irr,4191.64651434395,54.1504790283363,SSP1
+306,13041,France_West_Coast,EU-15,41,13,2794.0,EU-15,13.0,OilCrop,OilCrop,41.0,rfd,4239.17678581217,54.7645067044639,SSP1
+307,13041,France_West_Coast,EU-15,41,13,10075.0,EU-15,13.0,OilCrop,OilCrop,41.0,irr,4239.17678581217,54.7645067044639,SSP1
+308,13044,Loire,EU-15,44,13,2795.0,EU-15,13.0,OilCrop,OilCrop,44.0,rfd,3943.0004184079,50.9383032980147,SSP1
+309,13044,Loire,EU-15,44,13,10076.0,EU-15,13.0,OilCrop,OilCrop,44.0,irr,3943.0004184079,50.9383032980147,SSP1
+310,13046,Seine,EU-15,46,13,2796.0,EU-15,13.0,OilCrop,OilCrop,46.0,rfd,3016.35808316669,38.9673209717292,SSP1
+311,13046,Seine,EU-15,46,13,10077.0,EU-15,13.0,OilCrop,OilCrop,46.0,irr,3016.35808316669,38.9673209717292,SSP1
+312,13050,Italy_East_Coast,EU-15,50,13,2797.0,EU-15,13.0,OilCrop,OilCrop,50.0,rfd,5772.74096913905,74.5761093440647,SSP1
+313,13050,Italy_East_Coast,EU-15,50,13,10078.0,EU-15,13.0,OilCrop,OilCrop,50.0,irr,5772.74096913905,74.5761093440647,SSP1
+314,13054,Danube,EU-15,54,13,2798.0,EU-15,13.0,OilCrop,OilCrop,54.0,rfd,3019.85645907773,39.012515319763,SSP1
+315,13054,Danube,EU-15,54,13,10079.0,EU-15,13.0,OilCrop,OilCrop,54.0,irr,3019.85645907773,39.012515319763,SSP1
+316,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,2799.0,EU-15,13.0,OilCrop,OilCrop,55.0,rfd,2196.0472694934,28.37,SSP1
+317,13055,Adriatic_Sea_Greece_Black_Sea_Coast,EU-15,55,13,10080.0,EU-15,13.0,OilCrop,OilCrop,55.0,irr,2196.0472694934,28.37,SSP1
+318,13057,Po,EU-15,57,13,2800.0,EU-15,13.0,OilCrop,OilCrop,57.0,rfd,5970.86770432897,77.1356423538595,SSP1
+319,13057,Po,EU-15,57,13,10081.0,EU-15,13.0,OilCrop,OilCrop,57.0,irr,5970.86770432897,77.1356423538595,SSP1
+320,13059,Italy_West_Coast,EU-15,59,13,2801.0,EU-15,13.0,OilCrop,OilCrop,59.0,rfd,5819.30689311388,75.1776789375419,SSP1
+321,13059,Italy_West_Coast,EU-15,59,13,10082.0,EU-15,13.0,OilCrop,OilCrop,59.0,irr,5819.30689311388,75.1776789375419,SSP1
+322,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,2802.0,EU-15,13.0,OilCrop,OilCrop,60.0,rfd,6274.48432414509,81.0579638921251,SSP1
+323,13060,Spain_Portugal_Atlantic_Coast,EU-15,60,13,10083.0,EU-15,13.0,OilCrop,OilCrop,60.0,irr,6274.48432414509,81.0579638921251,SSP1
+324,13061,France_South_Coast,EU-15,61,13,2803.0,EU-15,13.0,OilCrop,OilCrop,61.0,rfd,5461.15168805449,70.5507916620786,SSP1
+325,13061,France_South_Coast,EU-15,61,13,10084.0,EU-15,13.0,OilCrop,OilCrop,61.0,irr,5461.15168805449,70.5507916620786,SSP1
+326,13062,Rh(ne,EU-15,62,13,2804.0,EU-15,13.0,OilCrop,OilCrop,62.0,rfd,3775.8958624266,48.7795354431302,SSP1
+327,13062,Rh(ne,EU-15,62,13,10085.0,EU-15,13.0,OilCrop,OilCrop,62.0,irr,3775.8958624266,48.7795354431302,SSP1
+328,13063,Mediterranean_Sea_Islands,EU-15,63,13,2805.0,EU-15,13.0,OilCrop,OilCrop,63.0,rfd,6278.62827787219,81.1114982439903,SSP1
+329,13063,Mediterranean_Sea_Islands,EU-15,63,13,10086.0,EU-15,13.0,OilCrop,OilCrop,63.0,irr,6278.62827787219,81.1114982439903,SSP1
+330,13064,Gironde,EU-15,64,13,2806.0,EU-15,13.0,OilCrop,OilCrop,64.0,rfd,5521.57413108961,71.3313689896795,SSP1
+331,13064,Gironde,EU-15,64,13,10087.0,EU-15,13.0,OilCrop,OilCrop,64.0,irr,5521.57413108961,71.3313689896795,SSP1
+332,13067,Spain_South_and_East_Coast,EU-15,67,13,2807.0,EU-15,13.0,OilCrop,OilCrop,67.0,rfd,2196.0472694934,28.37,SSP1
+333,13067,Spain_South_and_East_Coast,EU-15,67,13,10088.0,EU-15,13.0,OilCrop,OilCrop,67.0,irr,2196.0472694934,28.37,SSP1
+334,13069,Tiber,EU-15,69,13,2808.0,EU-15,13.0,OilCrop,OilCrop,69.0,rfd,5736.37328539831,74.106287404411,SSP1
+335,13069,Tiber,EU-15,69,13,10089.0,EU-15,13.0,OilCrop,OilCrop,69.0,irr,5736.37328539831,74.106287404411,SSP1
+336,13071,Tagus,EU-15,71,13,2809.0,EU-15,13.0,OilCrop,OilCrop,71.0,rfd,2196.0472694934,28.37,SSP1
+337,13071,Tagus,EU-15,71,13,10090.0,EU-15,13.0,OilCrop,OilCrop,71.0,irr,2196.0472694934,28.37,SSP1
+338,13073,Ebro,EU-15,73,13,2810.0,EU-15,13.0,OilCrop,OilCrop,73.0,rfd,2196.0472694934,28.37,SSP1
+339,13073,Ebro,EU-15,73,13,10091.0,EU-15,13.0,OilCrop,OilCrop,73.0,irr,2196.0472694934,28.37,SSP1
+340,13074,Douro,EU-15,74,13,2811.0,EU-15,13.0,OilCrop,OilCrop,74.0,rfd,2196.0472694934,28.37,SSP1
+341,13074,Douro,EU-15,74,13,10092.0,EU-15,13.0,OilCrop,OilCrop,74.0,irr,2196.0472694934,28.37,SSP1
+342,13075,Mediterranean_Sea_East_Coast,EU-15,75,13,,,,,,,,,,
+343,13080,Mediterranean_South_Coast,EU-15,80,13,,,,,,,,,,
+344,13081,Guadiana,EU-15,81,13,2812.0,EU-15,13.0,OilCrop,OilCrop,81.0,rfd,2196.0472694934,28.37,SSP1
+345,13081,Guadiana,EU-15,81,13,10093.0,EU-15,13.0,OilCrop,OilCrop,81.0,irr,2196.0472694934,28.37,SSP1
+346,13083,Guadalquivir,EU-15,83,13,2813.0,EU-15,13.0,OilCrop,OilCrop,83.0,rfd,2196.0472694934,28.37,SSP1
+347,13083,Guadalquivir,EU-15,83,13,10094.0,EU-15,13.0,OilCrop,OilCrop,83.0,irr,2196.0472694934,28.37,SSP1
+348,13086,Africa_North_West_Coast,EU-15,86,13,,,,,,,,,,
+349,13101,Caribbean,EU-15,101,13,,,,,,,,,,
+350,13155,India_South_Coast,EU-15,155,13,,,,,,,,,,
+351,13182,Angola_Coast,EU-15,182,13,,,,,,,,,,
+352,13185,South_Pacific_Islands,EU-15,185,13,,,,,,,,,,
+353,13215,South_Argentina_South_Atlantic_Coast,EU-15,215,13,,,,,,,,,,
+354,13216,Antarctica,EU-15,216,13,,,,,,,,,,
+355,14017,Neva,Europe_Eastern,17,14,3154.0,Europe_Eastern,14.0,OilCrop,OilCrop,17.0,rfd,3975.00953807168,40.7504954387573,SSP1
+356,14017,Neva,Europe_Eastern,17,14,10435.0,Europe_Eastern,14.0,OilCrop,OilCrop,17.0,irr,3975.00953807168,40.7504954387573,SSP1
+357,14025,Daugava,Europe_Eastern,25,14,3155.0,Europe_Eastern,14.0,OilCrop,OilCrop,25.0,rfd,3895.65483147924,39.9369769860172,SSP1
+358,14025,Daugava,Europe_Eastern,25,14,10436.0,Europe_Eastern,14.0,OilCrop,OilCrop,25.0,irr,3895.65483147924,39.9369769860172,SSP1
+359,14030,Wisla,Europe_Eastern,30,14,3156.0,Europe_Eastern,14.0,OilCrop,OilCrop,30.0,rfd,3273.69609366104,33.5608597803083,SSP1
+360,14030,Wisla,Europe_Eastern,30,14,10437.0,Europe_Eastern,14.0,OilCrop,OilCrop,30.0,irr,3273.69609366104,33.5608597803083,SSP1
+361,14035,Neman,Europe_Eastern,35,14,3157.0,Europe_Eastern,14.0,OilCrop,OilCrop,35.0,rfd,3762.83632648646,38.5753651885983,SSP1
+362,14035,Neman,Europe_Eastern,35,14,10438.0,Europe_Eastern,14.0,OilCrop,OilCrop,35.0,irr,3762.83632648646,38.5753651885983,SSP1
+363,14039,Dnieper,Europe_Eastern,39,14,3158.0,Europe_Eastern,14.0,OilCrop,OilCrop,39.0,rfd,2767.3533629689,28.37,SSP1
+364,14039,Dnieper,Europe_Eastern,39,14,10439.0,Europe_Eastern,14.0,OilCrop,OilCrop,39.0,irr,2767.3533629689,28.37,SSP1
+365,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,3159.0,Europe_Eastern,14.0,OilCrop,OilCrop,47.0,rfd,2767.3533629689,28.37,SSP1
+366,14047,Black_Sea_North_Coast,Europe_Eastern,47,14,10440.0,Europe_Eastern,14.0,OilCrop,OilCrop,47.0,irr,2767.3533629689,28.37,SSP1
+367,14049,Dniester,Europe_Eastern,49,14,3160.0,Europe_Eastern,14.0,OilCrop,OilCrop,49.0,rfd,2767.3533629689,28.37,SSP1
+368,14049,Dniester,Europe_Eastern,49,14,10441.0,Europe_Eastern,14.0,OilCrop,OilCrop,49.0,irr,2767.3533629689,28.37,SSP1
+369,14053,Don,Europe_Eastern,53,14,3161.0,Europe_Eastern,14.0,OilCrop,OilCrop,53.0,rfd,2767.3533629689,28.37,SSP1
+370,14053,Don,Europe_Eastern,53,14,10442.0,Europe_Eastern,14.0,OilCrop,OilCrop,53.0,irr,2767.3533629689,28.37,SSP1
+371,14054,Danube,Europe_Eastern,54,14,3162.0,Europe_Eastern,14.0,OilCrop,OilCrop,54.0,rfd,2767.3533629689,28.37,SSP1
+372,14054,Danube,Europe_Eastern,54,14,10443.0,Europe_Eastern,14.0,OilCrop,OilCrop,54.0,irr,2767.3533629689,28.37,SSP1
+373,15054,Danube,Europe_Non_EU,54,15,3292.0,Europe_Non_EU,15.0,OilCrop,OilCrop,54.0,rfd,3645.82011865474,28.37,SSP1
+374,15054,Danube,Europe_Non_EU,54,15,10573.0,Europe_Non_EU,15.0,OilCrop,OilCrop,54.0,irr,3645.82011865474,28.37,SSP1
+375,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,3293.0,Europe_Non_EU,15.0,OilCrop,OilCrop,55.0,rfd,3704.40203830624,28.8258560231782,SSP1
+376,15055,Adriatic_Sea_Greece_Black_Sea_Coast,Europe_Non_EU,55,15,10574.0,Europe_Non_EU,15.0,OilCrop,OilCrop,55.0,irr,3704.40203830624,28.8258560231782,SSP1
+377,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,3294.0,Europe_Non_EU,15.0,OilCrop,OilCrop,70.0,rfd,3645.82011865474,28.37,SSP1
+378,15070,Black_Sea_South_Coast,Europe_Non_EU,70,15,10575.0,Europe_Non_EU,15.0,OilCrop,OilCrop,70.0,irr,3645.82011865474,28.37,SSP1
+379,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,3295.0,Europe_Non_EU,15.0,OilCrop,OilCrop,72.0,rfd,4721.14276626497,36.7376381499476,SSP1
+380,15072,Caspian_Sea_South_West_Coast,Europe_Non_EU,72,15,10576.0,Europe_Non_EU,15.0,OilCrop,OilCrop,72.0,irr,4721.14276626497,36.7376381499476,SSP1
+381,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,3296.0,Europe_Non_EU,15.0,OilCrop,OilCrop,75.0,rfd,3645.82011865474,28.37,SSP1
+382,15075,Mediterranean_Sea_East_Coast,Europe_Non_EU,75,15,10577.0,Europe_Non_EU,15.0,OilCrop,OilCrop,75.0,irr,3645.82011865474,28.37,SSP1
+383,15084,Tigris_Euphrates,Europe_Non_EU,84,15,3297.0,Europe_Non_EU,15.0,OilCrop,OilCrop,84.0,rfd,3939.73747306074,30.6571219843877,SSP1
+384,15084,Tigris_Euphrates,Europe_Non_EU,84,15,10578.0,Europe_Non_EU,15.0,OilCrop,OilCrop,84.0,irr,3939.73747306074,30.6571219843877,SSP1
+385,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,3298.0,Europe_Non_EU,15.0,OilCrop,OilCrop,99.0,rfd,4144.26558826886,32.2486603597356,SSP1
+386,15099,Eastern_Jordan_Syria,Europe_Non_EU,99,15,10579.0,Europe_Non_EU,15.0,OilCrop,OilCrop,99.0,irr,4144.26558826886,32.2486603597356,SSP1
+387,16001,Arctic_Ocean_Islands,European Free Trade Association,1,16,,,,,,,,,,
+388,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,3404.0,European Free Trade Association,16.0,OilCrop,OilCrop,8.0,rfd,3277.28156081538,28.37,SSP1
+389,16008,Scandinavia_North_Coast,European Free Trade Association,8,16,10685.0,European Free Trade Association,16.0,OilCrop,OilCrop,8.0,irr,3277.28156081538,28.37,SSP1
+390,16011,Iceland,European Free Trade Association,11,16,,,,,,,,,,
+391,16012,Sweden,European Free Trade Association,12,16,3405.0,European Free Trade Association,16.0,OilCrop,OilCrop,12.0,rfd,3277.28156081538,28.37,SSP1
+392,16012,Sweden,European Free Trade Association,12,16,10686.0,European Free Trade Association,16.0,OilCrop,OilCrop,12.0,irr,3277.28156081538,28.37,SSP1
+393,16032,Rhine,European Free Trade Association,32,16,,,,,,,,,,
+394,16054,Danube,European Free Trade Association,54,16,,,,,,,,,,
+395,16057,Po,European Free Trade Association,57,16,,,,,,,,,,
+396,16062,Rh(ne,European Free Trade Association,62,16,,,,,,,,,,
+397,17089,Indus,India,89,17,3632.0,India,17.0,OilCrop,OilCrop,89.0,rfd,10148.00950937,53.7922844912341,SSP1
+398,17089,Indus,India,89,17,10913.0,India,17.0,OilCrop,OilCrop,89.0,irr,10148.00950937,53.7922844912341,SSP1
+399,17107,Sabarmati,India,107,17,3633.0,India,17.0,OilCrop,OilCrop,107.0,rfd,9389.78453545516,49.7731067926393,SSP1
+400,17107,Sabarmati,India,107,17,10914.0,India,17.0,OilCrop,OilCrop,107.0,irr,9389.78453545516,49.7731067926393,SSP1
+401,17110,Ganges_Bramaputra,India,110,17,3634.0,India,17.0,OilCrop,OilCrop,110.0,rfd,7818.24801904138,41.4427500560559,SSP1
+402,17110,Ganges_Bramaputra,India,110,17,10915.0,India,17.0,OilCrop,OilCrop,110.0,irr,7818.24801904138,41.4427500560559,SSP1
+403,17113,Mahi,India,113,17,,,,,,,,,,
+404,17116,Bay_of_Bengal_North_East_Coast,India,116,17,,,,,,,,,,
+405,17117,Tapti,India,117,17,,,,,,,,,,
+406,17118,Yasai,India,118,17,,,,,,,,,,
+407,17120,Brahamani,India,120,17,,,,,,,,,,
+408,17122,Mahandi,India,122,17,,,,,,,,,,
+409,17123,Godavari,India,123,17,,,,,,,,,,
+410,17128,India_North_East_Coast,India,128,17,,,,,,,,,,
+411,17129,India_West_Coast,India,129,17,,,,,,,,,,
+412,17137,Irrawaddy,India,137,17,,,,,,,,,,
+413,17140,Krishna,India,140,17,,,,,,,,,,
+414,17141,Andaman_Nicobar_Islands,India,141,17,,,,,,,,,,
+415,17145,India_East_Coast,India,145,17,,,,,,,,,,
+416,17147,Pennar,India,147,17,,,,,,,,,,
+417,17153,Cauvery,India,153,17,,,,,,,,,,
+418,17155,India_South_Coast,India,155,17,,,,,,,,,,
+419,17235,Narmada,India,235,17,,,,,,,,,,
+420,18158,Palau_and_East_Indonesia,Indonesia,158,18,3894.0,Indonesia,18.0,OilCrop,OilCrop,158.0,rfd,9695.78914562393,188.280874093807,SSP1
+421,18158,Palau_and_East_Indonesia,Indonesia,158,18,11175.0,Indonesia,18.0,OilCrop,OilCrop,158.0,irr,9695.78914562393,188.280874093807,SSP1
+422,18159,North_Borneo_Coast,Indonesia,159,18,3895.0,Indonesia,18.0,OilCrop,OilCrop,159.0,rfd,9695.78914562393,188.280874093807,SSP1
+423,18159,North_Borneo_Coast,Indonesia,159,18,11176.0,Indonesia,18.0,OilCrop,OilCrop,159.0,irr,9695.78914562393,188.280874093807,SSP1
+424,18163,Sumatra,Indonesia,163,18,3896.0,Indonesia,18.0,OilCrop,OilCrop,163.0,rfd,9695.78914562393,188.280874093807,SSP1
+425,18163,Sumatra,Indonesia,163,18,11177.0,Indonesia,18.0,OilCrop,OilCrop,163.0,irr,9695.78914562393,188.280874093807,SSP1
+426,18164,Sulawesi,Indonesia,164,18,3897.0,Indonesia,18.0,OilCrop,OilCrop,164.0,rfd,9695.78914562393,188.280874093807,SSP1
+427,18164,Sulawesi,Indonesia,164,18,11178.0,Indonesia,18.0,OilCrop,OilCrop,164.0,irr,9695.78914562393,188.280874093807,SSP1
+428,18165,Kalimantan,Indonesia,165,18,3898.0,Indonesia,18.0,OilCrop,OilCrop,165.0,rfd,9695.78914562393,188.280874093807,SSP1
+429,18165,Kalimantan,Indonesia,165,18,11179.0,Indonesia,18.0,OilCrop,OilCrop,165.0,irr,9695.78914562393,188.280874093807,SSP1
+430,18167,Irian_Jaya_Coast,Indonesia,167,18,3899.0,Indonesia,18.0,OilCrop,OilCrop,167.0,rfd,9695.78914562393,188.280874093807,SSP1
+431,18167,Irian_Jaya_Coast,Indonesia,167,18,11180.0,Indonesia,18.0,OilCrop,OilCrop,167.0,irr,9695.78914562393,188.280874093807,SSP1
+432,18175,Java_Timor,Indonesia,175,18,3900.0,Indonesia,18.0,OilCrop,OilCrop,175.0,rfd,9695.78914562393,188.280874093807,SSP1
+433,18175,Java_Timor,Indonesia,175,18,11181.0,Indonesia,18.0,OilCrop,OilCrop,175.0,irr,9695.78914562393,188.280874093807,SSP1
+434,18178,Sepik,Indonesia,178,18,3901.0,Indonesia,18.0,OilCrop,OilCrop,178.0,rfd,9695.78914562393,188.280874093807,SSP1
+435,18178,Sepik,Indonesia,178,18,11182.0,Indonesia,18.0,OilCrop,OilCrop,178.0,irr,9695.78914562393,188.280874093807,SSP1
+436,18181,Fly,Indonesia,181,18,,,,,,,,,,
+437,19051,Japan,Japan,51,19,3991.0,Japan,19.0,OilCrop,OilCrop,51.0,rfd,1639.07184013993,28.37,SSP1
+438,19051,Japan,Japan,51,19,11272.0,Japan,19.0,OilCrop,OilCrop,51.0,irr,1639.07184013993,28.37,SSP1
+439,19103,Taiwan,Japan,103,19,3992.0,Japan,19.0,OilCrop,OilCrop,103.0,rfd,1639.07184013993,28.37,SSP1
+440,19103,Taiwan,Japan,103,19,11273.0,Japan,19.0,OilCrop,OilCrop,103.0,irr,1639.07184013993,28.37,SSP1
+441,20091,Baja_California,Mexico,91,20,4194.0,Mexico,20.0,OilCrop,OilCrop,91.0,rfd,1996.38514897778,28.37,SSP1
+442,20091,Baja_California,Mexico,91,20,11475.0,Mexico,20.0,OilCrop,OilCrop,91.0,irr,1996.38514897778,28.37,SSP1
+443,20096,Mexico_Northwest_Coast,Mexico,96,20,4195.0,Mexico,20.0,OilCrop,OilCrop,96.0,rfd,1996.38514897778,28.37,SSP1
+444,20096,Mexico_Northwest_Coast,Mexico,96,20,11476.0,Mexico,20.0,OilCrop,OilCrop,96.0,irr,1996.38514897778,28.37,SSP1
+445,20105,North_Gulf,Mexico,105,20,4196.0,Mexico,20.0,OilCrop,OilCrop,105.0,rfd,1996.38514897778,28.37,SSP1
+446,20105,North_Gulf,Mexico,105,20,11477.0,Mexico,20.0,OilCrop,OilCrop,105.0,irr,1996.38514897778,28.37,SSP1
+447,20111,Yucatan_Peninsula,Mexico,111,20,4197.0,Mexico,20.0,OilCrop,OilCrop,111.0,rfd,1996.38514897778,28.37,SSP1
+448,20111,Yucatan_Peninsula,Mexico,111,20,11478.0,Mexico,20.0,OilCrop,OilCrop,111.0,irr,1996.38514897778,28.37,SSP1
+449,20114,Mexico_Interior,Mexico,114,20,4198.0,Mexico,20.0,OilCrop,OilCrop,114.0,rfd,1996.38514897778,28.37,SSP1
+450,20114,Mexico_Interior,Mexico,114,20,11479.0,Mexico,20.0,OilCrop,OilCrop,114.0,irr,1996.38514897778,28.37,SSP1
+451,20115,Pacific_Central_Coast,Mexico,115,20,4199.0,Mexico,20.0,OilCrop,OilCrop,115.0,rfd,1996.38514897778,28.37,SSP1
+452,20115,Pacific_Central_Coast,Mexico,115,20,11480.0,Mexico,20.0,OilCrop,OilCrop,115.0,irr,1996.38514897778,28.37,SSP1
+453,20130,Papaloapan,Mexico,130,20,4200.0,Mexico,20.0,OilCrop,OilCrop,130.0,rfd,1996.38514897778,28.37,SSP1
+454,20130,Papaloapan,Mexico,130,20,11481.0,Mexico,20.0,OilCrop,OilCrop,130.0,irr,1996.38514897778,28.37,SSP1
+455,20131,Rfo_Lerma,Mexico,131,20,4201.0,Mexico,20.0,OilCrop,OilCrop,131.0,rfd,1996.38514897778,28.37,SSP1
+456,20131,Rfo_Lerma,Mexico,131,20,11482.0,Mexico,20.0,OilCrop,OilCrop,131.0,irr,1996.38514897778,28.37,SSP1
+457,20132,Rfo_Verde,Mexico,132,20,4202.0,Mexico,20.0,OilCrop,OilCrop,132.0,rfd,1996.38514897778,28.37,SSP1
+458,20132,Rfo_Verde,Mexico,132,20,11483.0,Mexico,20.0,OilCrop,OilCrop,132.0,irr,1996.38514897778,28.37,SSP1
+459,20133,Grijalva_Usumacinta,Mexico,133,20,4203.0,Mexico,20.0,OilCrop,OilCrop,133.0,rfd,1996.38514897778,28.37,SSP1
+460,20133,Grijalva_Usumacinta,Mexico,133,20,11484.0,Mexico,20.0,OilCrop,OilCrop,133.0,irr,1996.38514897778,28.37,SSP1
+461,20134,Rfo_Balsas,Mexico,134,20,4204.0,Mexico,20.0,OilCrop,OilCrop,134.0,rfd,1996.38514897778,28.37,SSP1
+462,20134,Rfo_Balsas,Mexico,134,20,11485.0,Mexico,20.0,OilCrop,OilCrop,134.0,irr,1996.38514897778,28.37,SSP1
+463,20135,Southern_Central_America,Mexico,135,20,4205.0,Mexico,20.0,OilCrop,OilCrop,135.0,rfd,1996.38514897778,28.37,SSP1
+464,20135,Southern_Central_America,Mexico,135,20,11486.0,Mexico,20.0,OilCrop,OilCrop,135.0,irr,1996.38514897778,28.37,SSP1
+465,20136,Isthmus_of_Tehuantepec,Mexico,136,20,4206.0,Mexico,20.0,OilCrop,OilCrop,136.0,rfd,1996.38514897778,28.37,SSP1
+466,20136,Isthmus_of_Tehuantepec,Mexico,136,20,11487.0,Mexico,20.0,OilCrop,OilCrop,136.0,irr,1996.38514897778,28.37,SSP1
+467,20217,California_River_Basin,Mexico,217,20,4207.0,Mexico,20.0,OilCrop,OilCrop,217.0,rfd,1996.38514897778,28.37,SSP1
+468,20217,California_River_Basin,Mexico,217,20,11488.0,Mexico,20.0,OilCrop,OilCrop,217.0,irr,1996.38514897778,28.37,SSP1
+469,20221,Lower_Colorado_River_Basin,Mexico,221,20,4208.0,Mexico,20.0,OilCrop,OilCrop,221.0,rfd,1996.38514897778,28.37,SSP1
+470,20221,Lower_Colorado_River_Basin,Mexico,221,20,11489.0,Mexico,20.0,OilCrop,OilCrop,221.0,irr,1996.38514897778,28.37,SSP1
+471,20231,Rio_Grande_River_Basin,Mexico,231,20,4209.0,Mexico,20.0,OilCrop,OilCrop,231.0,rfd,1996.38514897778,28.37,SSP1
+472,20231,Rio_Grande_River_Basin,Mexico,231,20,11490.0,Mexico,20.0,OilCrop,OilCrop,231.0,irr,1996.38514897778,28.37,SSP1
+473,21052,Caspian_Sea_East_Coast,Middle East,52,21,4505.0,Middle East,21.0,OilCrop,OilCrop,52.0,rfd,8007.0506854491,76.7872685815029,SSP1
+474,21052,Caspian_Sea_East_Coast,Middle East,52,21,11786.0,Middle East,21.0,OilCrop,OilCrop,52.0,irr,8007.0506854491,76.7872685815029,SSP1
+475,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,4506.0,Middle East,21.0,OilCrop,OilCrop,72.0,rfd,8091.07499529096,77.5930580663786,SSP1
+476,21072,Caspian_Sea_South_West_Coast,Middle East,72,21,11787.0,Middle East,21.0,OilCrop,OilCrop,72.0,irr,8091.07499529096,77.5930580663786,SSP1
+477,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,4507.0,Middle East,21.0,OilCrop,OilCrop,75.0,rfd,2958.30327269788,28.37,SSP1
+478,21075,Mediterranean_Sea_East_Coast,Middle East,75,21,11788.0,Middle East,21.0,OilCrop,OilCrop,75.0,irr,2958.30327269788,28.37,SSP1
+479,21082,Central_Iran,Middle East,82,21,4508.0,Middle East,21.0,OilCrop,OilCrop,82.0,rfd,8007.91845535167,76.7955904572088,SSP1
+480,21082,Central_Iran,Middle East,82,21,11789.0,Middle East,21.0,OilCrop,OilCrop,82.0,irr,8007.91845535167,76.7955904572088,SSP1
+481,21084,Tigris_Euphrates,Middle East,84,21,4509.0,Middle East,21.0,OilCrop,OilCrop,84.0,rfd,6361.8133530576,61.0095139642825,SSP1
+482,21084,Tigris_Euphrates,Middle East,84,21,11790.0,Middle East,21.0,OilCrop,OilCrop,84.0,irr,6361.8133530576,61.0095139642825,SSP1
+483,21088,Persian_Gulf_Coast,Middle East,88,21,4510.0,Middle East,21.0,OilCrop,OilCrop,88.0,rfd,8006.61810469142,76.78312015081,SSP1
+484,21088,Persian_Gulf_Coast,Middle East,88,21,11791.0,Middle East,21.0,OilCrop,OilCrop,88.0,irr,8006.61810469142,76.78312015081,SSP1
+485,21090,Farahrud,Middle East,90,21,4511.0,Middle East,21.0,OilCrop,OilCrop,90.0,rfd,8010.76589602008,76.822897289645,SSP1
+486,21090,Farahrud,Middle East,90,21,11792.0,Middle East,21.0,OilCrop,OilCrop,90.0,irr,8010.76589602008,76.822897289645,SSP1
+487,21093,Red_Sea_East_Coast,Middle East,93,21,4512.0,Middle East,21.0,OilCrop,OilCrop,93.0,rfd,2958.30327269788,28.37,SSP1
+488,21093,Red_Sea_East_Coast,Middle East,93,21,11793.0,Middle East,21.0,OilCrop,OilCrop,93.0,irr,2958.30327269788,28.37,SSP1
+489,21094,Arabian_Peninsula,Middle East,94,21,4513.0,Middle East,21.0,OilCrop,OilCrop,94.0,rfd,2958.30327269788,28.37,SSP1
+490,21094,Arabian_Peninsula,Middle East,94,21,11794.0,Middle East,21.0,OilCrop,OilCrop,94.0,irr,2958.30327269788,28.37,SSP1
+491,21095,Dead_Sea,Middle East,95,21,4514.0,Middle East,21.0,OilCrop,OilCrop,95.0,rfd,2958.30327269788,28.37,SSP1
+492,21095,Dead_Sea,Middle East,95,21,11795.0,Middle East,21.0,OilCrop,OilCrop,95.0,irr,2958.30327269788,28.37,SSP1
+493,21097,Helmand,Middle East,97,21,4515.0,Middle East,21.0,OilCrop,OilCrop,97.0,rfd,8023.66180111032,76.9465684598006,SSP1
+494,21097,Helmand,Middle East,97,21,11796.0,Middle East,21.0,OilCrop,OilCrop,97.0,irr,8023.66180111032,76.9465684598006,SSP1
+495,21098,Sinai_Peninsula,Middle East,98,21,4516.0,Middle East,21.0,OilCrop,OilCrop,98.0,rfd,2958.30327269788,28.37,SSP1
+496,21098,Sinai_Peninsula,Middle East,98,21,11797.0,Middle East,21.0,OilCrop,OilCrop,98.0,irr,2958.30327269788,28.37,SSP1
+497,21099,Eastern_Jordan_Syria,Middle East,99,21,4517.0,Middle East,21.0,OilCrop,OilCrop,99.0,rfd,2958.30327269788,28.37,SSP1
+498,21099,Eastern_Jordan_Syria,Middle East,99,21,11798.0,Middle East,21.0,OilCrop,OilCrop,99.0,irr,2958.30327269788,28.37,SSP1
+499,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,4518.0,Middle East,21.0,OilCrop,OilCrop,100.0,rfd,2958.30327269788,28.37,SSP1
+500,21100,Africa_Red_Sea_Gulf_of_Aden_Coast,Middle East,100,21,11799.0,Middle East,21.0,OilCrop,OilCrop,100.0,irr,2958.30327269788,28.37,SSP1
+501,21102,HamuniMashkel,Middle East,102,21,4519.0,Middle East,21.0,OilCrop,OilCrop,102.0,rfd,8026.06663735208,76.9696307349935,SSP1
+502,21102,HamuniMashkel,Middle East,102,21,11800.0,Middle East,21.0,OilCrop,OilCrop,102.0,irr,8026.06663735208,76.9696307349935,SSP1
+503,21104,Arabian_Sea_Coast,Middle East,104,21,4520.0,Middle East,21.0,OilCrop,OilCrop,104.0,rfd,8037.65357560784,77.0807489700134,SSP1
+504,21104,Arabian_Sea_Coast,Middle East,104,21,11801.0,Middle East,21.0,OilCrop,OilCrop,104.0,irr,8037.65357560784,77.0807489700134,SSP1
+505,22058,Amu_Darya,Pakistan,58,22,,,,,,,,,,
+506,22085,Tarim_Interior,Pakistan,85,22,,,,,,,,,,
+507,22089,Indus,Pakistan,89,22,4691.0,Pakistan,22.0,OilCrop,OilCrop,89.0,rfd,5760.91666139938,28.37,SSP1
+508,22089,Indus,Pakistan,89,22,11972.0,Pakistan,22.0,OilCrop,OilCrop,89.0,irr,5760.91666139938,28.37,SSP1
+509,22097,Helmand,Pakistan,97,22,4692.0,Pakistan,22.0,OilCrop,OilCrop,97.0,rfd,5760.91666139938,28.37,SSP1
+510,22097,Helmand,Pakistan,97,22,11973.0,Pakistan,22.0,OilCrop,OilCrop,97.0,irr,5760.91666139938,28.37,SSP1
+511,22102,HamuniMashkel,Pakistan,102,22,4693.0,Pakistan,22.0,OilCrop,OilCrop,102.0,rfd,5760.91666139938,28.37,SSP1
+512,22102,HamuniMashkel,Pakistan,102,22,11974.0,Pakistan,22.0,OilCrop,OilCrop,102.0,irr,5760.91666139938,28.37,SSP1
+513,22104,Arabian_Sea_Coast,Pakistan,104,22,4694.0,Pakistan,22.0,OilCrop,OilCrop,104.0,rfd,5760.91666139938,28.37,SSP1
+514,22104,Arabian_Sea_Coast,Pakistan,104,22,11975.0,Pakistan,22.0,OilCrop,OilCrop,104.0,irr,5760.91666139938,28.37,SSP1
+515,22107,Sabarmati,Pakistan,107,22,4695.0,Pakistan,22.0,OilCrop,OilCrop,107.0,rfd,5760.91666139938,28.37,SSP1
+516,22107,Sabarmati,Pakistan,107,22,11976.0,Pakistan,22.0,OilCrop,OilCrop,107.0,irr,5760.91666139938,28.37,SSP1
+517,23001,Arctic_Ocean_Islands,Russia,1,23,,,,,,,,,,
+518,23003,Siberia_North_Coast,Russia,3,23,,,,,,,,,,
+519,23004,Siberia_West_Coast,Russia,4,23,4979.0,Russia,23.0,OilCrop,OilCrop,4.0,rfd,2302.9184323938,28.37,SSP1
+520,23004,Siberia_West_Coast,Russia,4,23,12260.0,Russia,23.0,OilCrop,OilCrop,4.0,irr,2302.9184323938,28.37,SSP1
+521,23005,Kara_Sea_Coast,Russia,5,23,,,,,,,,,,
+522,23006,Lena,Russia,6,23,4980.0,Russia,23.0,OilCrop,OilCrop,6.0,rfd,2302.9184323938,28.37,SSP1
+523,23006,Lena,Russia,6,23,12261.0,Russia,23.0,OilCrop,OilCrop,6.0,irr,2302.9184323938,28.37,SSP1
+524,23008,Scandinavia_North_Coast,Russia,8,23,,,,,,,,,,
+525,23009,Russia_Barents_Sea_Coast,Russia,9,23,4981.0,Russia,23.0,OilCrop,OilCrop,9.0,rfd,2302.9184323938,28.37,SSP1
+526,23009,Russia_Barents_Sea_Coast,Russia,9,23,12262.0,Russia,23.0,OilCrop,OilCrop,9.0,irr,2302.9184323938,28.37,SSP1
+527,23013,Finland,Russia,13,23,4982.0,Russia,23.0,OilCrop,OilCrop,13.0,rfd,2302.9184323938,28.37,SSP1
+528,23013,Finland,Russia,13,23,12263.0,Russia,23.0,OilCrop,OilCrop,13.0,irr,2302.9184323938,28.37,SSP1
+529,23014,Northern_Dvina,Russia,14,23,4983.0,Russia,23.0,OilCrop,OilCrop,14.0,rfd,2302.9184323938,28.37,SSP1
+530,23014,Northern_Dvina,Russia,14,23,12264.0,Russia,23.0,OilCrop,OilCrop,14.0,irr,2302.9184323938,28.37,SSP1
+531,23017,Neva,Russia,17,23,4984.0,Russia,23.0,OilCrop,OilCrop,17.0,rfd,2302.9184323938,28.37,SSP1
+532,23017,Neva,Russia,17,23,12265.0,Russia,23.0,OilCrop,OilCrop,17.0,irr,2302.9184323938,28.37,SSP1
+533,23018,Volga,Russia,18,23,4985.0,Russia,23.0,OilCrop,OilCrop,18.0,rfd,2302.9184323938,28.37,SSP1
+534,23018,Volga,Russia,18,23,12266.0,Russia,23.0,OilCrop,OilCrop,18.0,irr,2302.9184323938,28.37,SSP1
+535,23020,Baltic_Sea_Coast,Russia,20,23,4986.0,Russia,23.0,OilCrop,OilCrop,20.0,rfd,2302.9184323938,28.37,SSP1
+536,23020,Baltic_Sea_Coast,Russia,20,23,12267.0,Russia,23.0,OilCrop,OilCrop,20.0,irr,2302.9184323938,28.37,SSP1
+537,23022,Narva,Russia,22,23,4987.0,Russia,23.0,OilCrop,OilCrop,22.0,rfd,2302.9184323938,28.37,SSP1
+538,23022,Narva,Russia,22,23,12268.0,Russia,23.0,OilCrop,OilCrop,22.0,irr,2302.9184323938,28.37,SSP1
+539,23025,Daugava,Russia,25,23,4988.0,Russia,23.0,OilCrop,OilCrop,25.0,rfd,2302.9184323938,28.37,SSP1
+540,23025,Daugava,Russia,25,23,12269.0,Russia,23.0,OilCrop,OilCrop,25.0,irr,2302.9184323938,28.37,SSP1
+541,23033,Poland_Coast,Russia,33,23,4989.0,Russia,23.0,OilCrop,OilCrop,33.0,rfd,2302.9184323938,28.37,SSP1
+542,23033,Poland_Coast,Russia,33,23,12270.0,Russia,23.0,OilCrop,OilCrop,33.0,irr,2302.9184323938,28.37,SSP1
+543,23035,Neman,Russia,35,23,4990.0,Russia,23.0,OilCrop,OilCrop,35.0,rfd,2302.9184323938,28.37,SSP1
+544,23035,Neman,Russia,35,23,12271.0,Russia,23.0,OilCrop,OilCrop,35.0,irr,2302.9184323938,28.37,SSP1
+545,23037,Russia_South_East_Coast,Russia,37,23,4991.0,Russia,23.0,OilCrop,OilCrop,37.0,rfd,2302.9184323938,28.37,SSP1
+546,23037,Russia_South_East_Coast,Russia,37,23,12272.0,Russia,23.0,OilCrop,OilCrop,37.0,irr,2302.9184323938,28.37,SSP1
+547,23038,Ural,Russia,38,23,4992.0,Russia,23.0,OilCrop,OilCrop,38.0,rfd,2302.9184323938,28.37,SSP1
+548,23038,Ural,Russia,38,23,12273.0,Russia,23.0,OilCrop,OilCrop,38.0,irr,2302.9184323938,28.37,SSP1
+549,23039,Dnieper,Russia,39,23,4993.0,Russia,23.0,OilCrop,OilCrop,39.0,rfd,2302.9184323938,28.37,SSP1
+550,23039,Dnieper,Russia,39,23,12274.0,Russia,23.0,OilCrop,OilCrop,39.0,irr,2302.9184323938,28.37,SSP1
+551,23042,Gobi_Interior,Russia,42,23,4994.0,Russia,23.0,OilCrop,OilCrop,42.0,rfd,2302.9184323938,28.37,SSP1
+552,23042,Gobi_Interior,Russia,42,23,12275.0,Russia,23.0,OilCrop,OilCrop,42.0,irr,2302.9184323938,28.37,SSP1
+553,23043,Amur,Russia,43,23,4995.0,Russia,23.0,OilCrop,OilCrop,43.0,rfd,2302.9184323938,28.37,SSP1
+554,23043,Amur,Russia,43,23,12276.0,Russia,23.0,OilCrop,OilCrop,43.0,irr,2302.9184323938,28.37,SSP1
+555,23045,Caspian_Sea_Coast,Russia,45,23,4996.0,Russia,23.0,OilCrop,OilCrop,45.0,rfd,2302.9184323938,28.37,SSP1
+556,23045,Caspian_Sea_Coast,Russia,45,23,12277.0,Russia,23.0,OilCrop,OilCrop,45.0,irr,2302.9184323938,28.37,SSP1
+557,23047,Black_Sea_North_Coast,Russia,47,23,4997.0,Russia,23.0,OilCrop,OilCrop,47.0,rfd,2302.9184323938,28.37,SSP1
+558,23047,Black_Sea_North_Coast,Russia,47,23,12278.0,Russia,23.0,OilCrop,OilCrop,47.0,irr,2302.9184323938,28.37,SSP1
+559,23048,Yenisey,Russia,48,23,4998.0,Russia,23.0,OilCrop,OilCrop,48.0,rfd,2302.9184323938,28.37,SSP1
+560,23048,Yenisey,Russia,48,23,12279.0,Russia,23.0,OilCrop,OilCrop,48.0,irr,2302.9184323938,28.37,SSP1
+561,23053,Don,Russia,53,23,4999.0,Russia,23.0,OilCrop,OilCrop,53.0,rfd,2302.9184323938,28.37,SSP1
+562,23053,Don,Russia,53,23,12280.0,Russia,23.0,OilCrop,OilCrop,53.0,irr,2302.9184323938,28.37,SSP1
+563,23056,Ob,Russia,56,23,5000.0,Russia,23.0,OilCrop,OilCrop,56.0,rfd,2302.9184323938,28.37,SSP1
+564,23056,Ob,Russia,56,23,12281.0,Russia,23.0,OilCrop,OilCrop,56.0,irr,2302.9184323938,28.37,SSP1
+565,23070,Black_Sea_South_Coast,Russia,70,23,,,,,,,,,,
+566,23072,Caspian_Sea_South_West_Coast,Russia,72,23,5001.0,Russia,23.0,OilCrop,OilCrop,72.0,rfd,2302.9184323938,28.37,SSP1
+567,23072,Caspian_Sea_South_West_Coast,Russia,72,23,12282.0,Russia,23.0,OilCrop,OilCrop,72.0,irr,2302.9184323938,28.37,SSP1
+568,23076,Syr_Darya,Russia,76,23,5002.0,Russia,23.0,OilCrop,OilCrop,76.0,rfd,2302.9184323938,28.37,SSP1
+569,23076,Syr_Darya,Russia,76,23,12283.0,Russia,23.0,OilCrop,OilCrop,76.0,irr,2302.9184323938,28.37,SSP1
+570,24194,Orange,South Africa,194,24,5210.0,South Africa,24.0,OilCrop,OilCrop,194.0,rfd,2195.68744101683,28.37,SSP1
+571,24194,Orange,South Africa,194,24,12491.0,South Africa,24.0,OilCrop,OilCrop,194.0,irr,2195.68744101683,28.37,SSP1
+572,24196,Namibia_Coast,South Africa,196,24,,,,,,,,,,
+573,24198,South_Africa_South_Coast,South Africa,198,24,5211.0,South Africa,24.0,OilCrop,OilCrop,198.0,rfd,2195.68744101683,28.37,SSP1
+574,24198,South_Africa_South_Coast,South Africa,198,24,12492.0,South Africa,24.0,OilCrop,OilCrop,198.0,irr,2195.68744101683,28.37,SSP1
+575,24199,Limpopo,South Africa,199,24,5212.0,South Africa,24.0,OilCrop,OilCrop,199.0,rfd,2195.68744101683,28.37,SSP1
+576,24199,Limpopo,South Africa,199,24,12493.0,South Africa,24.0,OilCrop,OilCrop,199.0,irr,2195.68744101683,28.37,SSP1
+577,24204,South_Africa_West_Coast,South Africa,204,24,5213.0,South Africa,24.0,OilCrop,OilCrop,204.0,rfd,2195.68744101683,28.37,SSP1
+578,24204,South_Africa_West_Coast,South Africa,204,24,12494.0,South Africa,24.0,OilCrop,OilCrop,204.0,irr,2195.68744101683,28.37,SSP1
+579,24216,Antarctica,South Africa,216,24,,,,,,,,,,
+580,25143,Caribbean_Coast,South America_Northern,143,25,,,,,,,,,,
+581,25156,Orinoco,South America_Northern,156,25,,,,,,,,,,
+582,25161,Northeast_South_America_South_Atlantic_Coast,South America_Northern,161,25,,,,,,,,,,
+583,25166,Magdalena,South America_Northern,166,25,,,,,,,,,,
+584,25168,Amazon,South America_Northern,168,25,,,,,,,,,,
+585,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,5418.0,South America_Southern,26.0,OilCrop,OilCrop,157.0,rfd,2072.40823157257,28.37,SSP1
+586,26157,Colombia_Ecuador_Pacific_Coast,South America_Southern,157,26,12699.0,South America_Southern,26.0,OilCrop,OilCrop,157.0,irr,2072.40823157257,28.37,SSP1
+587,26168,Amazon,South America_Southern,168,26,5419.0,South America_Southern,26.0,OilCrop,OilCrop,168.0,rfd,2459.32529348809,33.6666577141098,SSP1
+588,26168,Amazon,South America_Southern,168,26,12700.0,South America_Southern,26.0,OilCrop,OilCrop,168.0,irr,2459.32529348809,33.6666577141098,SSP1
+589,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,5420.0,South America_Southern,26.0,OilCrop,OilCrop,169.0,rfd,2072.40823157257,28.37,SSP1
+590,26169,South_Chile_Pacific_Coast,South America_Southern,169,26,12701.0,South America_Southern,26.0,OilCrop,OilCrop,169.0,irr,2072.40823157257,28.37,SSP1
+591,26180,Peru_Pacific_Coast,South America_Southern,180,26,5421.0,South America_Southern,26.0,OilCrop,OilCrop,180.0,rfd,2187.69791119006,29.9482451357406,SSP1
+592,26180,Peru_Pacific_Coast,South America_Southern,180,26,12702.0,South America_Southern,26.0,OilCrop,OilCrop,180.0,irr,2187.69791119006,29.9482451357406,SSP1
+593,26185,South_Pacific_Islands,South America_Southern,185,26,,,,,,,,,,
+594,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,5422.0,South America_Southern,26.0,OilCrop,OilCrop,195.0,rfd,2286.88867511625,31.3061059711276,SSP1
+595,26195,Uruguay_Brazil_South_Atlantic_Coast,South America_Southern,195,26,12703.0,South America_Southern,26.0,OilCrop,OilCrop,195.0,irr,2286.88867511625,31.3061059711276,SSP1
+596,26200,La_Puna_Region,South America_Southern,200,26,5423.0,South America_Southern,26.0,OilCrop,OilCrop,200.0,rfd,2072.40823157257,28.37,SSP1
+597,26200,La_Puna_Region,South America_Southern,200,26,12704.0,South America_Southern,26.0,OilCrop,OilCrop,200.0,irr,2072.40823157257,28.37,SSP1
+598,26205,Salinas_Grandes,South America_Southern,205,26,,,,,,,,,,
+599,26206,La_Plata,South America_Southern,206,26,5424.0,South America_Southern,26.0,OilCrop,OilCrop,206.0,rfd,6630.77917520127,90.7713076673681,SSP1
+600,26206,La_Plata,South America_Southern,206,26,12705.0,South America_Southern,26.0,OilCrop,OilCrop,206.0,irr,6630.77917520127,90.7713076673681,SSP1
+601,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,5425.0,South America_Southern,26.0,OilCrop,OilCrop,207.0,rfd,2072.40823157257,28.37,SSP1
+602,26207,North_Chile_Pacific_Coast,South America_Southern,207,26,12706.0,South America_Southern,26.0,OilCrop,OilCrop,207.0,irr,2072.40823157257,28.37,SSP1
+603,26212,South_America_Colorado,South America_Southern,212,26,,,,,,,,,,
+604,26213,Negro,South America_Southern,213,26,5426.0,South America_Southern,26.0,OilCrop,OilCrop,213.0,rfd,2072.40823157257,28.37,SSP1
+605,26213,Negro,South America_Southern,213,26,12707.0,South America_Southern,26.0,OilCrop,OilCrop,213.0,irr,2072.40823157257,28.37,SSP1
+606,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,5427.0,South America_Southern,26.0,OilCrop,OilCrop,215.0,rfd,2072.40823157257,28.37,SSP1
+607,26215,South_Argentina_South_Atlantic_Coast,South America_Southern,215,26,12708.0,South America_Southern,26.0,OilCrop,OilCrop,215.0,irr,2072.40823157257,28.37,SSP1
+608,27052,Caspian_Sea_East_Coast,South Asia,52,27,,,,,,,,,,
+609,27058,Amu_Darya,South Asia,58,27,,,,,,,,,,
+610,27089,Indus,South Asia,89,27,,,,,,,,,,
+611,27090,Farahrud,South Asia,90,27,,,,,,,,,,
+612,27097,Helmand,South Asia,97,27,,,,,,,,,,
+613,27102,HamuniMashkel,South Asia,102,27,,,,,,,,,,
+614,27110,Ganges_Bramaputra,South Asia,110,27,5565.0,South Asia,27.0,OilCrop,OilCrop,110.0,rfd,8491.81293142611,57.5203123949544,SSP1
+615,27110,Ganges_Bramaputra,South Asia,110,27,12846.0,South Asia,27.0,OilCrop,OilCrop,110.0,irr,8491.81293142611,57.5203123949544,SSP1
+616,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,5566.0,South Asia,27.0,OilCrop,OilCrop,116.0,rfd,8946.28108769709,60.5987069066285,SSP1
+617,27116,Bay_of_Bengal_North_East_Coast,South Asia,116,27,12847.0,South Asia,27.0,OilCrop,OilCrop,116.0,irr,8946.28108769709,60.5987069066285,SSP1
+618,27154,Sri_Lanka,South Asia,154,27,5567.0,South Asia,27.0,OilCrop,OilCrop,154.0,rfd,9657.06281305269,65.4132720904393,SSP1
+619,27154,Sri_Lanka,South Asia,154,27,12848.0,South Asia,27.0,OilCrop,OilCrop,154.0,irr,9657.06281305269,65.4132720904393,SSP1
+620,28065,North_and_South_Korea,South Korea,65,28,5636.0,South Korea,28.0,OilCrop,OilCrop,65.0,rfd,3954.03465881427,98.0864211325237,SSP1
+621,28065,North_and_South_Korea,South Korea,65,28,12917.0,South Korea,28.0,OilCrop,OilCrop,65.0,irr,3954.03465881427,98.0864211325237,SSP1
+622,29037,Russia_South_East_Coast,Southeast Asia,37,29,,,,,,,,,,
+623,29065,North_and_South_Korea,Southeast Asia,65,29,,,,,,,,,,
+624,29066,Bo_Hai_Korean_Bay_North_Coast,Southeast Asia,66,29,,,,,,,,,,
+625,29108,Xun_Jiang,Southeast Asia,108,29,5859.0,Southeast Asia,29.0,OilCrop,OilCrop,108.0,rfd,12084.529614011,383.89056868115,SSP1
+626,29108,Xun_Jiang,Southeast Asia,108,29,13140.0,Southeast Asia,29.0,OilCrop,OilCrop,108.0,irr,12084.529614011,383.89056868115,SSP1
+627,29109,Hong_(Red_River),Southeast Asia,109,29,5860.0,Southeast Asia,29.0,OilCrop,OilCrop,109.0,rfd,12554.3827307628,398.816443824633,SSP1
+628,29109,Hong_(Red_River),Southeast Asia,109,29,13141.0,Southeast Asia,29.0,OilCrop,OilCrop,109.0,irr,12554.3827307628,398.816443824633,SSP1
+629,29110,Ganges_Bramaputra,Southeast Asia,110,29,5861.0,Southeast Asia,29.0,OilCrop,OilCrop,110.0,rfd,1651.88550360666,52.4756267418526,SSP1
+630,29110,Ganges_Bramaputra,Southeast Asia,110,29,13142.0,Southeast Asia,29.0,OilCrop,OilCrop,110.0,irr,1651.88550360666,52.4756267418526,SSP1
+631,29112,South_China_Sea_Coast,Southeast Asia,112,29,5862.0,Southeast Asia,29.0,OilCrop,OilCrop,112.0,rfd,13030.9399889041,413.955290157953,SSP1
+632,29112,South_China_Sea_Coast,Southeast Asia,112,29,13143.0,Southeast Asia,29.0,OilCrop,OilCrop,112.0,irr,13030.9399889041,413.955290157953,SSP1
+633,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,5863.0,Southeast Asia,29.0,OilCrop,OilCrop,116.0,rfd,1596.93393818386,50.7299743768969,SSP1
+634,29116,Bay_of_Bengal_North_East_Coast,Southeast Asia,116,29,13144.0,Southeast Asia,29.0,OilCrop,OilCrop,116.0,irr,1596.93393818386,50.7299743768969,SSP1
+635,29119,Philippines,Southeast Asia,119,29,,,,,,,,,,
+636,29121,North_Marina_Islands_and_Guam,Southeast Asia,121,29,,,,,,,,,,
+637,29125,Mekong,Southeast Asia,125,29,5865.0,Southeast Asia,29.0,OilCrop,OilCrop,125.0,rfd,4165.98293650659,132.341233766951,SSP1
+638,29125,Mekong,Southeast Asia,125,29,13146.0,Southeast Asia,29.0,OilCrop,OilCrop,125.0,irr,4165.98293650659,132.341233766951,SSP1
+639,29126,Viet_Nam_Coast,Southeast Asia,126,29,5866.0,Southeast Asia,29.0,OilCrop,OilCrop,126.0,rfd,11218.6857802926,356.385213294388,SSP1
+640,29126,Viet_Nam_Coast,Southeast Asia,126,29,13147.0,Southeast Asia,29.0,OilCrop,OilCrop,126.0,irr,11218.6857802926,356.385213294388,SSP1
+641,29127,Salween,Southeast Asia,127,29,5867.0,Southeast Asia,29.0,OilCrop,OilCrop,127.0,rfd,1419.05537673209,45.0792867379893,SSP1
+642,29127,Salween,Southeast Asia,127,29,13148.0,Southeast Asia,29.0,OilCrop,OilCrop,127.0,irr,1419.05537673209,45.0792867379893,SSP1
+643,29137,Irrawaddy,Southeast Asia,137,29,5868.0,Southeast Asia,29.0,OilCrop,OilCrop,137.0,rfd,1522.75751254853,48.3736037833019,SSP1
+644,29137,Irrawaddy,Southeast Asia,137,29,13149.0,Southeast Asia,29.0,OilCrop,OilCrop,137.0,irr,1522.75751254853,48.3736037833019,SSP1
+645,29138,Sittang,Southeast Asia,138,29,5869.0,Southeast Asia,29.0,OilCrop,OilCrop,138.0,rfd,1524.23474156586,48.4205310784179,SSP1
+646,29138,Sittang,Southeast Asia,138,29,13150.0,Southeast Asia,29.0,OilCrop,OilCrop,138.0,irr,1524.23474156586,48.4205310784179,SSP1
+647,29139,Peninsula_Malaysia,Southeast Asia,139,29,5870.0,Southeast Asia,29.0,OilCrop,OilCrop,139.0,rfd,1159.64067458829,36.8384316355472,SSP1
+648,29139,Peninsula_Malaysia,Southeast Asia,139,29,13151.0,Southeast Asia,29.0,OilCrop,OilCrop,139.0,irr,1159.64067458829,36.8384316355472,SSP1
+649,29146,Chao_Phraya,Southeast Asia,146,29,5871.0,Southeast Asia,29.0,OilCrop,OilCrop,146.0,rfd,6850.317183475,217.614772209376,SSP1
+650,29146,Chao_Phraya,Southeast Asia,146,29,13152.0,Southeast Asia,29.0,OilCrop,OilCrop,146.0,irr,6850.317183475,217.614772209376,SSP1
+651,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,5872.0,Southeast Asia,29.0,OilCrop,OilCrop,148.0,rfd,6838.34230251744,217.234364861509,SSP1
+652,29148,Gulf_of_Thailand_Coast,Southeast Asia,148,29,13153.0,Southeast Asia,29.0,OilCrop,OilCrop,148.0,irr,6838.34230251744,217.234364861509,SSP1
+653,29150,Micronesia,Southeast Asia,150,29,,,,,,,,,,
+654,29158,Palau_and_East_Indonesia,Southeast Asia,158,29,,,,,,,,,,
+655,29159,North_Borneo_Coast,Southeast Asia,159,29,5873.0,Southeast Asia,29.0,OilCrop,OilCrop,159.0,rfd,893.062067993252,28.37,SSP1
+656,29159,North_Borneo_Coast,Southeast Asia,159,29,13154.0,Southeast Asia,29.0,OilCrop,OilCrop,159.0,irr,893.062067993252,28.37,SSP1
+657,29163,Sumatra,Southeast Asia,163,29,,,,,,,,,,
+658,29165,Kalimantan,Southeast Asia,165,29,5874.0,Southeast Asia,29.0,OilCrop,OilCrop,165.0,rfd,893.062067993252,28.37,SSP1
+659,29165,Kalimantan,Southeast Asia,165,29,13155.0,Southeast Asia,29.0,OilCrop,OilCrop,165.0,irr,893.062067993252,28.37,SSP1
+660,29167,Irian_Jaya_Coast,Southeast Asia,167,29,,,,,,,,,,
+661,29173,Papua_New_Guinea_Coast,Southeast Asia,173,29,,,,,,,,,,
+662,29175,Java_Timor,Southeast Asia,175,29,,,,,,,,,,
+663,29176,Solomon_Islands,Southeast Asia,176,29,,,,,,,,,,
+664,29177,Madagascar,Southeast Asia,177,29,,,,,,,,,,
+665,29178,Sepik,Southeast Asia,178,29,,,,,,,,,,
+666,29181,Fly,Southeast Asia,181,29,,,,,,,,,,
+667,29185,South_Pacific_Islands,Southeast Asia,185,29,,,,,,,,,,
+668,29189,Australia_East_Coast,Southeast Asia,189,29,,,,,,,,,,
+669,30078,China_Coast,Taiwan,78,30,6088.0,Taiwan,30.0,OilCrop,OilCrop,78.0,rfd,802.493667717551,28.37,SSP1
+670,30078,China_Coast,Taiwan,78,30,13369.0,Taiwan,30.0,OilCrop,OilCrop,78.0,irr,802.493667717551,28.37,SSP1
+671,30103,Taiwan,Taiwan,103,30,6089.0,Taiwan,30.0,OilCrop,OilCrop,103.0,rfd,802.493667717551,28.37,SSP1
+672,30103,Taiwan,Taiwan,103,30,13370.0,Taiwan,30.0,OilCrop,OilCrop,103.0,irr,802.493667717551,28.37,SSP1
+673,31169,South_Chile_Pacific_Coast,Argentina,169,31,6209.0,Argentina,31.0,OilCrop,OilCrop,169.0,rfd,2956.87851593681,28.37,SSP1
+674,31169,South_Chile_Pacific_Coast,Argentina,169,31,13490.0,Argentina,31.0,OilCrop,OilCrop,169.0,irr,2956.87851593681,28.37,SSP1
+675,31200,La_Puna_Region,Argentina,200,31,,,,,,,,,,
+676,31203,Mar_Chiquita,Argentina,203,31,6210.0,Argentina,31.0,OilCrop,OilCrop,203.0,rfd,2956.87851593681,28.37,SSP1
+677,31203,Mar_Chiquita,Argentina,203,31,13491.0,Argentina,31.0,OilCrop,OilCrop,203.0,irr,2956.87851593681,28.37,SSP1
+678,31205,Salinas_Grandes,Argentina,205,31,6211.0,Argentina,31.0,OilCrop,OilCrop,205.0,rfd,2956.87851593681,28.37,SSP1
+679,31205,Salinas_Grandes,Argentina,205,31,13492.0,Argentina,31.0,OilCrop,OilCrop,205.0,irr,2956.87851593681,28.37,SSP1
+680,31206,La_Plata,Argentina,206,31,6212.0,Argentina,31.0,OilCrop,OilCrop,206.0,rfd,2956.87851593681,28.37,SSP1
+681,31206,La_Plata,Argentina,206,31,13493.0,Argentina,31.0,OilCrop,OilCrop,206.0,irr,2956.87851593681,28.37,SSP1
+682,31207,North_Chile_Pacific_Coast,Argentina,207,31,,,,,,,,,,
+683,31209,Pampas_Region,Argentina,209,31,6213.0,Argentina,31.0,OilCrop,OilCrop,209.0,rfd,2956.87851593681,28.37,SSP1
+684,31209,Pampas_Region,Argentina,209,31,13494.0,Argentina,31.0,OilCrop,OilCrop,209.0,irr,2956.87851593681,28.37,SSP1
+685,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,6214.0,Argentina,31.0,OilCrop,OilCrop,210.0,rfd,2956.87851593681,28.37,SSP1
+686,31210,North_Argentina_South_Atlantic_Coast,Argentina,210,31,13495.0,Argentina,31.0,OilCrop,OilCrop,210.0,irr,2956.87851593681,28.37,SSP1
+687,31212,South_America_Colorado,Argentina,212,31,6215.0,Argentina,31.0,OilCrop,OilCrop,212.0,rfd,2956.87851593681,28.37,SSP1
+688,31212,South_America_Colorado,Argentina,212,31,13496.0,Argentina,31.0,OilCrop,OilCrop,212.0,irr,2956.87851593681,28.37,SSP1
+689,31213,Negro,Argentina,213,31,6216.0,Argentina,31.0,OilCrop,OilCrop,213.0,rfd,2956.87851593681,28.37,SSP1
+690,31213,Negro,Argentina,213,31,13497.0,Argentina,31.0,OilCrop,OilCrop,213.0,irr,2956.87851593681,28.37,SSP1
+691,31214,Central_Patagonia_Highlands,Argentina,214,31,6217.0,Argentina,31.0,OilCrop,OilCrop,214.0,rfd,2956.87851593681,28.37,SSP1
+692,31214,Central_Patagonia_Highlands,Argentina,214,31,13498.0,Argentina,31.0,OilCrop,OilCrop,214.0,irr,2956.87851593681,28.37,SSP1
+693,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,6218.0,Argentina,31.0,OilCrop,OilCrop,215.0,rfd,2956.87851593681,28.37,SSP1
+694,31215,South_Argentina_South_Atlantic_Coast,Argentina,215,31,13499.0,Argentina,31.0,OilCrop,OilCrop,215.0,irr,2956.87851593681,28.37,SSP1
+695,32135,Southern_Central_America,Colombia,135,32,,,,,,,,,,
+696,32143,Caribbean_Coast,Colombia,143,32,6339.0,Colombia,32.0,OilCrop,OilCrop,143.0,rfd,8079.34948941685,86.7899433315485,SSP1
+697,32143,Caribbean_Coast,Colombia,143,32,13620.0,Colombia,32.0,OilCrop,OilCrop,143.0,irr,8079.34948941685,86.7899433315485,SSP1
+698,32156,Orinoco,Colombia,156,32,6340.0,Colombia,32.0,OilCrop,OilCrop,156.0,rfd,8079.34948941685,86.7899433315485,SSP1
+699,32156,Orinoco,Colombia,156,32,13621.0,Colombia,32.0,OilCrop,OilCrop,156.0,irr,8079.34948941685,86.7899433315485,SSP1
+700,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,6341.0,Colombia,32.0,OilCrop,OilCrop,157.0,rfd,8079.34948941685,86.7899433315485,SSP1
+701,32157,Colombia_Ecuador_Pacific_Coast,Colombia,157,32,13622.0,Colombia,32.0,OilCrop,OilCrop,157.0,irr,8079.34948941685,86.7899433315485,SSP1
+702,32166,Magdalena,Colombia,166,32,6342.0,Colombia,32.0,OilCrop,OilCrop,166.0,rfd,8079.34948941685,86.7899433315485,SSP1
+703,32166,Magdalena,Colombia,166,32,13623.0,Colombia,32.0,OilCrop,OilCrop,166.0,irr,8079.34948941685,86.7899433315485,SSP1
+704,32168,Amazon,Colombia,168,32,6343.0,Colombia,32.0,OilCrop,OilCrop,168.0,rfd,8079.34948941685,86.7899433315485,SSP1
+705,32168,Amazon,Colombia,168,32,13624.0,Colombia,32.0,OilCrop,OilCrop,168.0,irr,8079.34948941685,86.7899433315485,SSP1
