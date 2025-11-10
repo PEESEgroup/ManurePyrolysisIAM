@@ -417,7 +417,7 @@ module_aglu_L2252.land_input_5_irr_mgmt <- function(command, ...) {
       mutate(ghost.unnormalized.share = round(landshare, aglu.DIGITS_GHOSTSHARE), year = aglu.BIO_START_YEAR) %>%
       select(-landshare) %>%
       # For bio techs with no ghost share info, set lo- and hi-input techs to 0.5
-      mutate(ghost.unnormalized.share = if_else(level == "biochar", 0.5, ghost.unnormalized.share)) %>%
+      mutate(ghost.unnormalized.share = if_else(level == "biochar", 0.1, ghost.unnormalized.share)) %>%
       replace_na(replace = list(ghost.unnormalized.share = 0.5)) %>%
       # we want to have positive ghost shares for biochar in future years, but not impact land use in past years
       # mutate(ghost.unnormalized.share = replace(ghost.unnormalized.share, level == "biochar", 0))%>%

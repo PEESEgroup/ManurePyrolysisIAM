@@ -450,11 +450,11 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
     P_app_rate_no_outlier = baseline_biochar_app_rate[baseline_biochar_app_rate["kg_P_ha"] < 200]
 
     # plotting maps/tables for each crop by GLU, etc
-    # uncomment to recreate the maps
-    plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
-    plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
-    plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
-    plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
+    # uncomment to recreate the maps for supplemental information figures s2-s22
+    # plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
+    # plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
+    # plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
+    # plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
 
     # combine all 3 scenarios, calculate and output CI
     biochar_app_rate_CI = pd.concat([biochar_app_rate_low_no_outlier, biochar_app_rate_baseline_no_outlier, biochar_app_rate_high_no_outlier])

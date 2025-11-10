@@ -23,18 +23,10 @@ Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 Didn't find builder for National Account query going to use defaults
 Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=-1961143988]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=270374950]/text()
 Time : 4
-Before Function: 1762266053394
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='Indonesia') ]//LandNode[@name='root' or @type='LandNode' (:collapse:)]//profit-rate/text()
-In Function: 1762266053396
-After build Tree: 1762266054101
-After Add table: 1762266054101
-Before Function: 1762266150592
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1' and @date='2025-13-4T21:15:31+20:00') ]/world/region[ (@name='South Asia') ]//LandNode[@name='root' or @type='LandNode' (:collapse:)]//profit-rate/text()
-In Function: 1762266150592
-After build Tree: 1762266150992
-After Add table: 1762266150992
-Caught the window closing
-Doing remove because of control
-Doing remove because of control
+Before Function: 1762786231236
+About to perform query: collection()/scenario[ (@name='GCAM_SSP1_HighBiocharLandShares' and @date='2025-10-11T08:39:52-05:00') ]/world/region[ (@name='USA') ]//LandNode[@name='root' or @type='LandNode' (:collapse:)]//share/text()
+In Function: 1762786231236
+After build Tree: 1762786232994
+After Add table: 1762786232994

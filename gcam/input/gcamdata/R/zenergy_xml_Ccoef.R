@@ -22,6 +22,8 @@ module_energy_Ccoef_xml <- function(command, ...) {
     # Load required inputs
     L202.CarbonCoef <- get_data(all_data, "L202.CarbonCoef")
 
+    print("here")
+
     # ===================================================
 
     # Produce outputs
@@ -29,6 +31,8 @@ module_energy_Ccoef_xml <- function(command, ...) {
       add_xml_data(L202.CarbonCoef, "CarbonCoef") %>%
       add_precursors("L202.CarbonCoef") ->
       Ccoef.xml
+
+    print("here2")
 
     return_data(Ccoef.xml)
   } else {
