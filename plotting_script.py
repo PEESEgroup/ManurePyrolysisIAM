@@ -624,10 +624,10 @@ def figure5(nonBaselineScenario, RCP, SSP, biochar_year):
                                                             SSP, RCP=RCP, source="masked")
 
     flat_diff_Pcal = data_manipulation.flat_difference(released_Pcal, pyrolysis_Pcal,
-                                                       ["GCAM", "SSP", "subsector", "subsector.1",
+                                                       ["GCAM", "SSP", "subsector",
                                                         "technology"]).drop_duplicates()
     perc_diff_Pcal = data_manipulation.percent_difference(released_Pcal, pyrolysis_Pcal,
-                                                          ["GCAM", "SSP", "subsector", "subsector.1",
+                                                          ["GCAM", "SSP", "subsector",
                                                            "technology"]).drop_duplicates()
 
     # calculate difference
