@@ -1,2 +1,2 @@
-1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
-0.363544,0.644215,0.762866,0.909664,1.05186,1.18127,1.32257,,1.60488,1.74556,1.88541,2.0194,2.14734,2.2691,2.38415,2.4927,2.59431,2.68731,2.77148,2.84711,2.91462,SSP1,HighBiocharYield baseline,Global,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,degreesC
+1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
+0.363544,0.644215,0.762866,0.909664,1.05257,1.18431,1.32589,,,1.77648,1.91915,2.05287,2.17924,SSP1,HighBiocharYield baseline,Global,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,degreesC

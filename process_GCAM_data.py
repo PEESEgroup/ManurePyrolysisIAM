@@ -78,6 +78,7 @@ def split_file(fname):
         for i in range(item[1]):
             # add the GCAM region to the dataframe
             df = frames[item[0] + str(i)]
+            df = df.loc[:, ~df.columns.duplicated()]
 
             # add the GCAM region to the master datadframe
             append_df = pd.concat([append_df, df], ignore_index=True)

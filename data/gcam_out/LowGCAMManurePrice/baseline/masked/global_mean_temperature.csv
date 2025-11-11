@@ -1,2 +1,2 @@
-1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
-0.363544,0.644215,0.762866,0.909664,1.05186,1.18127,1.32256,,1.60479,1.74554,1.88559,2.0198,2.14793,2.26984,2.38495,2.49353,2.59509,2.68802,2.7721,2.84763,2.91496,SSP1,LowGCAMManurePrice baseline,Global,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,degreesC
+1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
+0.363544,0.644215,0.762866,0.909664,1.05257,1.18431,1.32589,,,1.7596,1.90228,2.03558,2.16205,SSP1,LowGCAMManurePrice baseline,Global,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,degreesC

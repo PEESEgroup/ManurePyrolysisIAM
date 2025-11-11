@@ -14,4 +14,4 @@ SET CLASSPATH=gcam\libs\jars\*;gcam\output\modelinterface\ModelInterface.jar
 REM Run the Model Interface.  Note we are redirecting output to a log file with the
 REM -l option.  Users could also modify the command below to use the -b option to
 REM a Model Interface Batch Command file.
-java ModelInterface.InterfaceMain -b xml/xmldb_batch_LowGCAMManurePrice_baseline.xml
+java ModelInterface.InterfaceMain -b xml/xmldb_batch_LowBiocharSubsidy_baseline.xml

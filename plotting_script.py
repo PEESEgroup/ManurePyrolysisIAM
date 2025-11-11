@@ -879,9 +879,9 @@ def main():
                       "LowCropYield",
                       "LowGCAMLandShare",
                       "LowGCAMManurePrice",
-                      "Highadoption70",
+                      "HighAdoption70",
                       "HighCarbonStability",
-                      "Lowadoption30",
+                      "LowAdoption30",
                       "LowCarbonStability"]
     biochar_year = "2050"
     figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)

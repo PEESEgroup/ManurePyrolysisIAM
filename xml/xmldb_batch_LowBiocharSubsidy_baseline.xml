@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<ModelInterfaceBatch>
+   <class name="ModelInterface.ModelGUI2.DbViewer">
+      <command name="XMLDB Batch File">
+         <scenario name="GCAM_SSP1"/>
+         <scenario name="GCAM_SSP2"/>
+         <scenario name="GCAM_SSP3"/>
+         <scenario name="GCAM_SSP4"/>
+         <scenario name="GCAM_SSP5"/>
+         <queryFile>xml/query_list.xml</queryFile>
+         <outFile>data/gcam_out/LowBiocharSubsidy/baseline/ref.csv</outFile>
+         <xmldbLocation>gcam/output/database_basexdb-LowBiocharSubsidy_baseline</xmldbLocation>
+      </command>
+   </class>
+</ModelInterfaceBatch>

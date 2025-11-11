@@ -22,8 +22,8 @@ class GCAMConstants:
                ["LowCropYield", "baseline"],
                ["LowGCAMLandShare", "baseline"],
                ["LowGCAMManurePrice", "baseline"],
-               ["Highadoption70", "baseline"],
-               ["Lowadoption30", "baseline"],
+               ["HighAdoption70", "baseline"],
+               ["LowAdoption30", "baseline"],
                ["HighCarbonStability", "baseline"],
                ["LowCarbonStability", "baseline"],
                ["LowBiocharSubsidy", "baseline"]] # error
@@ -45,8 +45,8 @@ class GCAMConstants:
                         "data/gcam_out/LowCropYield/baseline/ref.csv",
                         "data/gcam_out/LowGCAMLandShare/baseline/ref.csv",
                         "data/gcam_out/LowGCAMManurePrice/baseline/ref.csv",
-                        "data/gcam_out/Highadoption70/baseline/ref.csv",
-                        "data/gcam_out/Lowadoption30/baseline/ref.csv",
+                        "data/gcam_out/HighAdoption70/baseline/ref.csv",
+                        "data/gcam_out/LowAdoption30/baseline/ref.csv",
                         "data/gcam_out/HighCarbonStability/baseline/ref.csv",
                         "data/gcam_out/LowCarbonStability/baseline/ref.csv",
                         "data/gcam_out/LowBiocharSubsidy/baseline/ref.csv"]  # error
@@ -69,7 +69,7 @@ class GCAMConstants:
                    "Colombia"]
     missing = "missing"
     column_order = ["1990", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040", "2045", "2050", "2055",
-                    "2060", "2065", "2070", "2075", "2080", "2085", "2090", "2095", "2100", 'SSP', 'Version',
+                    "2060", 'SSP', 'Version',
                     "GCAM", "sector", "subsector", "technology", "output", "concentration", "input", "product", "fuel",
                     "LandLeaf", "GHG", "Units"]
     csv_columns = ["1990", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040", "2045", "2050", "2055",
@@ -78,15 +78,29 @@ class GCAMConstants:
     x = [1990, 2005, 2010, 2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060, 2065, 2070, 2075, 2080, 2085,
          2090, 2095, 2100]
     plotting_x = [2025, 2030, 2035, 2040, 2045, 2050]
-    future_x = [2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060, 2065, 2070, 2075, 2080, 2085, 2090, 2095, 2100]
+    future_x = [2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060]
     biochar_x = [2040, 2045, 2050, 2055, 2060]
     skip_years = x.index(biochar_x[0])
 
     # constants to evaluate IO coefficients
     manure_C_ratio = dict()
-    manure_C_ratio["beef"] = -0.459
-    manure_C_ratio["dairy"] = -0.459
+    manure_C_ratio["beef"] = -0.452
+    manure_C_ratio["dairy"] = -0.452
     manure_C_ratio["pork"] = -0.522
-    manure_C_ratio["poultry"] = -0.522
-    manure_C_ratio["goat"] = -0.526
+    manure_C_ratio["poultry"] = -0.526
+    manure_C_ratio["goat"] = -0.522
+
+    low_manure_C_ratio = dict()
+    low_manure_C_ratio["beef"] = -0.423
+    low_manure_C_ratio["dairy"] = -0.423
+    low_manure_C_ratio["pork"] = -0.485
+    low_manure_C_ratio["poultry"] = -0.492
+    low_manure_C_ratio["goat"] = -0.485
+
+    high_manure_C_ratio = dict()
+    high_manure_C_ratio["beef"] = -0.393
+    high_manure_C_ratio["dairy"] = -0.393
+    high_manure_C_ratio["pork"] = -0.448
+    high_manure_C_ratio["poultry"] = -0.458
+    high_manure_C_ratio["goat"] = -0.448
 

@@ -341,7 +341,7 @@ def farmer_economics(nonBaselineScenario, RCP, SSP, biochar_year):
     pyrolysis_diff_profit["Units"] = units
     pyrolysis_diff_profit['Crop'] = pyrolysis_diff_profit.apply(
         lambda row: data_manipulation.relabel_land_crops(row, "Crop"), axis=1)
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         pyrolysis_diff_profit[str(i)] = pyrolysis_diff_profit[str(i) + "_right"] - pyrolysis_diff_profit[
             str(i) + "_left"]
 
@@ -366,7 +366,7 @@ def farmer_economics(nonBaselineScenario, RCP, SSP, biochar_year):
     pyrolysis_lands_grouping = pyrolysis_yields_lands.copy(deep=True)
     released_lands_grouping = released_yields_lands.copy(deep=True)
 
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         pyrolysis_yields_lands[str(i)] = pyrolysis_yields_lands[str(i) + "_left"] * pyrolysis_yields_lands[
             str(i) + "_right"]
         released_yields_lands[str(i)] = released_yields_lands[str(i) + "_left"] * released_yields_lands[
@@ -504,9 +504,9 @@ def main():
                       "LowCropYield",
                       "LowGCAMLandShare",
                       "LowGCAMManurePrice",
-                      "Highadoption70",
+                      "HighAdoption70",
                       "HighCarbonStability",
-                      "Lowadoption30",
+                      "LowAdoption30",
                       "LowCarbonStability"]
     biochar_year = "2050"
     #biochar_rate_by_land_size(other_scenario, reference_RCP, reference_SSP)

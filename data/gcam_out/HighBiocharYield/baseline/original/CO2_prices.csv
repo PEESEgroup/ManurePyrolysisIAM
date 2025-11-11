@@ -1,226 +1,98 @@
-1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,40.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,40.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,40.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,40.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2_LUC,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,53.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,missing,missing,missing,missing,missing,missing,CO2_NearTerm,missing,missing,missing,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,1990$/tC
+1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Africa_Western,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Argentina,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Australia_NZ,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Brazil,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Canada,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central America and Caribbean,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Central Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,China,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Colombia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-12,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,EU-15,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Europe_Non_EU,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,European Free Trade Association,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,9.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,India,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Indonesia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Japan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Mexico,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Middle East,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Pakistan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Russia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Africa,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South America_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,South Korea,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Southeast Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,Taiwan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,USA,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,SSP1,HighBiocharYield baseline,missing,,,,,,,missing,,,,1990$/tC
