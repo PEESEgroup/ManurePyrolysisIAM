@@ -8,7 +8,7 @@ class GCAMConstants:
     version = [["Baseline", "baseline"],
                ["HighBiocharCost", "baseline"],
                ["HighBiocharNUE", "baseline"],
-               #["HighBiocharNutrients", "baseline"],  # error
+               ["HighBiocharNutrients", "baseline"],
                ["HighBiocharSoilN2O", "baseline"],
                ["HighBiocharYield", "baseline"],
                ["HighCropYield", "baseline"],
@@ -21,11 +21,17 @@ class GCAMConstants:
                ["LowBiocharYield", "baseline"],
                ["LowCropYield", "baseline"],
                ["LowGCAMLandShare", "baseline"],
-               ["LowGCAMManurePrice", "baseline"]]
+               ["LowGCAMManurePrice", "baseline"],
+               ["Highadoption70", "baseline"],
+               ["Lowadoption30", "baseline"],
+               ["HighCarbonStability", "baseline"],
+               ["LowCarbonStability", "baseline"],
+               ["LowBiocharSubsidy", "baseline"]] # error
+
     GCAMDB_filenames = ["data/gcam_out/Baseline/baseline/ref.csv",
                         "data/gcam_out/HighBiocharCost/baseline/ref.csv",
                         "data/gcam_out/HighBiocharNUE/baseline/ref.csv",
-                        #"data/gcam_out/HighBiocharNutrients/baseline/ref.csv",  # error
+                        "data/gcam_out/HighBiocharNutrients/baseline/ref.csv",
                         "data/gcam_out/HighBiocharSoilN2O/baseline/ref.csv",
                         "data/gcam_out/HighBiocharYield/baseline/ref.csv",
                         "data/gcam_out/HighCropYield/baseline/ref.csv",
@@ -38,7 +44,12 @@ class GCAMConstants:
                         "data/gcam_out/LowBiocharYield/baseline/ref.csv",
                         "data/gcam_out/LowCropYield/baseline/ref.csv",
                         "data/gcam_out/LowGCAMLandShare/baseline/ref.csv",
-                        "data/gcam_out/LowGCAMManurePrice/baseline/ref.csv"]
+                        "data/gcam_out/LowGCAMManurePrice/baseline/ref.csv",
+                        "data/gcam_out/Highadoption70/baseline/ref.csv",
+                        "data/gcam_out/Lowadoption30/baseline/ref.csv",
+                        "data/gcam_out/HighCarbonStability/baseline/ref.csv",
+                        "data/gcam_out/LowCarbonStability/baseline/ref.csv",
+                        "data/gcam_out/LowBiocharSubsidy/baseline/ref.csv"]  # error
 
     # TODO: ensure that this strings points to the correct location of the gcam/output/* database
     #  directory names are of the form database_basexdb-<version-name>-<RCP>.

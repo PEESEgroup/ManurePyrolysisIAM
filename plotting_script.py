@@ -865,7 +865,7 @@ def main():
     other_scenario = ["Baseline",
                       "HighBiocharCost",
                       "HighBiocharNUE",
-                      #"HighBiocharNutrients",  # error
+                      "HighBiocharNutrients",
                       "HighBiocharSoilN2O",
                       "HighBiocharYield",
                       "HighCropYield",
@@ -878,7 +878,11 @@ def main():
                       "LowBiocharYield",
                       "LowCropYield",
                       "LowGCAMLandShare",
-                      "LowGCAMManurePrice"]
+                      "LowGCAMManurePrice",
+                      "Highadoption70",
+                      "HighCarbonStability",
+                      "Lowadoption70",
+                      "LowCarbonStability"]
     biochar_year = "2050"
     figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
