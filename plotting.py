@@ -721,7 +721,6 @@ def plot_line_by_product(dataframe, products, column, SSP, differentiator, title
                     color_counter = color_counter + 1
 
             counter = counter + 1
-        axs.set_ylim(top = 400)
         finalize_line_plot(fig, h, l, axs, nrow, ncol, counter, title, RCP, nonBaselineScenario)
 
     except ValueError as e:

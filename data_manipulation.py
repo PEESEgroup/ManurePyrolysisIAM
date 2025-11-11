@@ -15,7 +15,7 @@ def flat_difference(old, new, columns):
     # get values from dataframes
     merged = old.merge(new, how="left", on=columns, suffixes=("_left", "_right"))
 
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         merged[str(i)] = merged[str(i) + "_right"] - merged[str(i) + "_left"]
         merged = merged.drop([str(i) + "_left"], axis=1)
         merged = merged.drop([str(i) + "_right"], axis=1)
@@ -41,7 +41,7 @@ def percent_difference(old, new, columns):
     # get values from dataframes
     merged = old.merge(new, how="left", on=columns, suffixes=("_left", "_right"))
 
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         merged[str(i)] = merged.apply(lambda row: calc_percs(row, i), axis=1)
         merged = merged.drop([str(i) + "_left"], axis=1)
         merged = merged.drop([str(i) + "_right"], axis=1)
@@ -92,7 +92,7 @@ def percent_of_total(old, new, columns, biochar_year):
     for j in merged["Version_right"].unique().tolist():
         for k in merged["GCAM"].unique().tolist():
             merged_filter = merged[(merged['Version_right'].isin([j])) & (merged['GCAM'].isin([k]))]  # filter by region
-            for i in c.GCAMConstants.x:
+            for i in c.GCAMConstants.future_x:
                 sum_col = merged_filter[str(i) + "_left"].sum()
                 merged_filter = merged_filter.assign(
                     e=100 * (merged_filter[str(i) + "_right"] - merged_filter[str(i) + "_left"]) / sum_col)
@@ -883,7 +883,7 @@ def get_CI(dataframe, products, alpha=0.95):
             output_vals["Version"] = ["Lower CI", "Median", "Upper CI"]
 
             # solve the CI for each year
-            for j in c.GCAMConstants.x:
+            for j in c.GCAMConstants.future_x:
                 np_data = data[str(j)].dropna().values  # get data for a particular year
                 sMu = np.mean(np_data)
                 median = np.median(np_data)
