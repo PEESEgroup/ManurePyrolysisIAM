@@ -90,7 +90,7 @@
 		</FileSet>
 	</ComponentSet>
 	<ComponentSet name="SSP Harmonized">
-		<FileSet name="SSP1_high_BiocharNUE">
+		<FileSet name="SSP1_LowCTax">
 			<!-- SOCIOECONOMICS -->
 			<Value name="socioeconomics">../input/gcamdata/xml/socioeconomics_SSP1.xml</Value>
 			

@@ -23,91 +23,6 @@ Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 Didn't find builder for National Account query going to use defaults
 Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=270374950]/text()
-Time : 4
-Before Function: 1762786231236
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1_HighBiocharLandShares' and @date='2025-10-11T08:39:52-05:00') ]/world/region[ (@name='USA') ]//LandNode[@name='root' or @type='LandNode' (:collapse:)]//share/text()
-In Function: 1762786231236
-After build Tree: 1762786232994
-After Add table: 1762786232994
-About to perform query: collection()/singleQueryListCache/cache[@id=1641629768]/text()
-Time : 0
-Before Function: 1762786300810
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1_HighBiocharLandShares' and @date='2025-10-11T08:39:52-05:00') ]/world/region[ (@name='USA') ]/*[@type='sector' and (@name='N fertilizer')]/
-               *[@type='subsector' (:collapse:) and not(@name='Imports')]//
-               *[@type='output' (:collapse:)]/physical-output/node()
-In Function: 1762786300810
-After build Tree: 1762786300820
-After Add table: 1762786300820
-About to perform query: collection()/singleQueryListCache/cache[@id=108412745]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1223126624]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-1640479118]/text()
-Time : 0
-Before Function: 1762786333529
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1_HighBiocharLandShares' and @date='2025-10-11T08:39:52-05:00') ]/world/region[ (@name='USA') ]/AgSupplySector/*[@type='subsector']/
-               *[@type='technology']/*[@type='input' and (@name='N fertilizer')]/IO-coefficient/node()
-In Function: 1762786333531
-After build Tree: 1762786334325
-After Add table: 1762786334339
-Going to change controls
-Doing remove because of control
-Doing remove because of control
-Doing remove because of control
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Didn't find builder for detailed land allocation query going to use defaults
-Didn't find builder for detailed historical land allocation query going to use defaults
-Didn't find builder for land allocation by crop query going to use defaults
-Didn't find builder for aggregated land allocation query going to use defaults
-Didn't find builder for aggregated historical land allocation query going to use defaults
-Didn't find builder for land allocation in a specified land use region query going to use defaults
-Didn't find builder for land allocation by crop and water source query going to use defaults
-Didn't find builder for LUC emissions by region query going to use defaults
-Didn't find builder for LUC emissions by LUT query going to use defaults
-Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
-Didn't find builder for vegetative carbon stock by region query going to use defaults
-Didn't find builder for profit rate query going to use defaults
-Didn't find builder for profit rate in a specified land use region query going to use defaults
-Didn't find builder for land leaf shares query going to use defaults
-Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-Didn't find builder for National Account query going to use defaults
-Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=-1640479118]/text()
-Time : 2
-Before Function: 1762786363309
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1_Baseline' and @date='2025-6-11T11:10:24-05:00') ]/world/region[ (@name='USA') ]/AgSupplySector/*[@type='subsector']/
-               *[@type='technology']/*[@type='input' and (@name='N fertilizer')]/IO-coefficient/node()
-In Function: 1762786363309
-After build Tree: 1762786364733
-After Add table: 1762786364739
-Going to change controls
-Doing remove because of control
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Didn't find builder for detailed land allocation query going to use defaults
-Didn't find builder for detailed historical land allocation query going to use defaults
-Didn't find builder for land allocation by crop query going to use defaults
-Didn't find builder for aggregated land allocation query going to use defaults
-Didn't find builder for aggregated historical land allocation query going to use defaults
-Didn't find builder for land allocation in a specified land use region query going to use defaults
-Didn't find builder for land allocation by crop and water source query going to use defaults
-Didn't find builder for LUC emissions by region query going to use defaults
-Didn't find builder for LUC emissions by LUT query going to use defaults
-Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
-Didn't find builder for vegetative carbon stock by region query going to use defaults
-Didn't find builder for profit rate query going to use defaults
-Didn't find builder for profit rate in a specified land use region query going to use defaults
-Didn't find builder for land leaf shares query going to use defaults
-Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-Didn't find builder for National Account query going to use defaults
-Didn't find builder for Social Accounting Matrix query going to use defaults
-About to perform query: collection()/scenario[@date='2025-10-11T08:39:52-05:00' and @name='GCAM_SSP1_HighBiocharLandShares']/@name
-About to perform query: collection()/scenario
-Removing :GCAM_SSP1_HighBiocharLandShares1110083952
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
 Going to change controls
 About to perform query: collection()/scenario
 About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
@@ -128,15 +43,6 @@ Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 Didn't find builder for National Account query going to use defaults
 Didn't find builder for Social Accounting Matrix query going to use defaults
-Removing :run_071125-092127.xml
-About to perform query: collection()/scenario
 About to perform query: collection()/scenario
 About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Before Function: 1762786750559
-About to perform query: collection()/scenario[ (@name='GCAM_SSP1_HighBiocharNUE' and @date='2025-10-11T08:39:52-05:00') ]/world/region[ (@name='USA') ]/AgSupplySector/*[@type='subsector']/
-               *[@type='technology']/*[@type='input' and (@name='N fertilizer')]/IO-coefficient/node()
-In Function: 1762786750559
-After build Tree: 1762786751464
-After Add table: 1762786751468
 Caught the window closing
-Doing remove because of control
