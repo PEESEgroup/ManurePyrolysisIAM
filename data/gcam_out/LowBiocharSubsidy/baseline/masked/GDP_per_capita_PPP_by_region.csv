@@ -1,33 +1,33 @@
 1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
-22.9409,31.2204,30.9551,33.2204,37.0473,40.5581,43.9886,,,,,,,SSP1,LowBiocharSubsidy baseline,USA,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.614424,0.736527,0.892902,0.989942,1.23365,1.58128,2.12005,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-3.42454,4.30211,4.95447,4.86677,5.9638,7.44507,9.37496,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.798632,1.01404,1.34205,1.50574,1.83619,2.21801,2.752,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.890977,1.03458,1.20618,1.33154,1.63855,2.12749,2.8584,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Western,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-17.8405,24.2868,25.4288,27.133,29.7172,32.1741,34.8431,,,,,,,SSP1,LowBiocharSubsidy baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-5.72588,6.82019,8.07213,8.17803,9.64385,11.3122,13.2962,,,,,,,SSP1,LowBiocharSubsidy baseline,Brazil,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-20.0973,25.871,25.7894,27.3085,29.349,30.6305,31.9184,,,,,,,SSP1,LowBiocharSubsidy baseline,Canada,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-2.89625,3.59855,4.12775,4.64521,5.37913,6.40122,7.76174,,,,,,,SSP1,LowBiocharSubsidy baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-3.04377,2.89626,4.02489,4.85201,6.21301,8.0401,10.1659,,,,,,,SSP1,LowBiocharSubsidy baseline,Central Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.893358,3.16827,5.18713,7.30703,10.6948,14.9643,19.952,,,,,,,SSP1,LowBiocharSubsidy baseline,China,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-7.18433,10.2914,12.1011,13.8404,16.2443,18.9365,22.0254,,,,,,,SSP1,LowBiocharSubsidy baseline,EU-12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-17.4542,22.4664,22.7226,23.4675,25.1171,26.8506,28.9009,,,,,,,SSP1,LowBiocharSubsidy baseline,EU-15,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-7.03904,5.40736,6.30237,6.07174,7.54267,9.54056,12.1481,,,,,,,SSP1,LowBiocharSubsidy baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-5.08474,6.99001,7.77729,9.91748,11.6754,13.7168,16.0967,,,,,,,SSP1,LowBiocharSubsidy baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-23.9703,29.518,30.3026,31.0302,33.4173,35.4039,37.6777,,,,,,,SSP1,LowBiocharSubsidy baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.838556,1.51985,2.10674,2.75844,3.65246,4.89092,6.54966,,,,,,,SSP1,LowBiocharSubsidy baseline,India,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-1.58365,2.3407,2.89535,3.54622,4.7568,6.52478,8.8924,,,,,,,SSP1,LowBiocharSubsidy baseline,Indonesia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-18.8899,22.1019,22.1729,23.427,24.8514,26.8855,29.4113,,,,,,,SSP1,LowBiocharSubsidy baseline,Japan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-6.02748,9.15988,9.16058,9.91952,11.1338,12.6987,14.7634,,,,,,,SSP1,LowBiocharSubsidy baseline,Mexico,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-6.70078,8.49429,9.16682,9.67549,10.9692,12.4524,14.3538,,,,,,,SSP1,LowBiocharSubsidy baseline,Middle East,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-1.21588,1.53321,1.62021,1.77426,2.00984,2.43596,3.09405,,,,,,,SSP1,LowBiocharSubsidy baseline,Pakistan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-10.2557,9.54382,11.3735,12.2389,14.8469,18.0457,22.0597,,,,,,,SSP1,LowBiocharSubsidy baseline,Russia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-5.98586,6.65018,7.24192,7.47378,8.92133,10.6819,12.7648,,,,,,,SSP1,LowBiocharSubsidy baseline,South Africa,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-7.92405,8.29623,9.26932,8.87841,9.71873,11.0783,12.6677,,,,,,,SSP1,LowBiocharSubsidy baseline,South America_Northern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-3.7041,5.45166,6.50719,7.56921,9.15741,11.1248,13.5509,,,,,,,SSP1,LowBiocharSubsidy baseline,South America_Southern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-0.682623,0.993169,1.26668,1.5954,2.07266,2.72936,3.64097,,,,,,,SSP1,LowBiocharSubsidy baseline,South Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-7.7284,16.792,20.1914,22.8184,27.2491,32.0077,36.7395,,,,,,,SSP1,LowBiocharSubsidy baseline,South Korea,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-1.72523,2.9413,3.55984,4.2335,5.22239,6.48782,8.10362,,,,,,,SSP1,LowBiocharSubsidy baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-9.65473,20.3008,24.5244,27.4073,33.094,37.2461,40.7102,,,,,,,SSP1,LowBiocharSubsidy baseline,Taiwan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-6.79536,9.78028,11.8107,12.0655,14.119,16.6085,19.5307,,,,,,,SSP1,LowBiocharSubsidy baseline,Argentina,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
-4.44102,5.35368,6.3022,7.50403,8.73102,9.98659,11.8519,,,,,,,SSP1,LowBiocharSubsidy baseline,Colombia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+22.9409,31.2204,30.9551,33.2204,37.0473,,,,,,,,,SSP1,LowBiocharSubsidy baseline,USA,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.614424,0.736527,0.892902,0.989942,1.23365,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Eastern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+3.42454,4.30211,4.95447,4.86677,5.9638,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Northern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.798632,1.01404,1.34205,1.50574,1.83619,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Southern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.890977,1.03458,1.20618,1.33154,1.63855,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Africa_Western,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+17.8405,24.2868,25.4288,27.133,29.7172,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Australia_NZ,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+5.72588,6.82019,8.07213,8.17803,9.64385,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Brazil,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+20.0973,25.871,25.7894,27.3085,29.349,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Canada,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+2.89625,3.59855,4.12775,4.64521,5.37913,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Central America and Caribbean,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+3.04377,2.89626,4.02489,4.85201,6.21301,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Central Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.893358,3.16827,5.18713,7.30703,10.6948,,,,,,,,,SSP1,LowBiocharSubsidy baseline,China,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+7.18433,10.2914,12.1011,13.8404,16.2443,,,,,,,,,SSP1,LowBiocharSubsidy baseline,EU-12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+17.4542,22.4664,22.7226,23.4675,25.1171,,,,,,,,,SSP1,LowBiocharSubsidy baseline,EU-15,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+7.03904,5.40736,6.30237,6.07174,7.54267,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Europe_Eastern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+5.08474,6.99001,7.77729,9.91748,11.6754,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Europe_Non_EU,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+23.9703,29.518,30.3026,31.0302,33.4173,,,,,,,,,SSP1,LowBiocharSubsidy baseline,European Free Trade Association,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.838556,1.51985,2.10674,2.75844,3.65246,,,,,,,,,SSP1,LowBiocharSubsidy baseline,India,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+1.58365,2.3407,2.89535,3.54622,4.7568,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Indonesia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+18.8899,22.1019,22.1729,23.427,24.8514,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Japan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+6.02748,9.15988,9.16058,9.91952,11.1338,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Mexico,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+6.70078,8.49429,9.16682,9.67549,10.9692,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Middle East,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+1.21588,1.53321,1.62021,1.77426,2.00984,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Pakistan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+10.2557,9.54382,11.3735,12.2389,14.8469,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Russia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+5.98586,6.65018,7.24192,7.47378,8.92133,,,,,,,,,SSP1,LowBiocharSubsidy baseline,South Africa,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+7.92405,8.29623,9.26932,8.87841,9.71873,,,,,,,,,SSP1,LowBiocharSubsidy baseline,South America_Northern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+3.7041,5.45166,6.50719,7.56921,9.15741,,,,,,,,,SSP1,LowBiocharSubsidy baseline,South America_Southern,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+0.682623,0.993169,1.26668,1.5954,2.07266,,,,,,,,,SSP1,LowBiocharSubsidy baseline,South Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+7.7284,16.792,20.1914,22.8184,27.2491,,,,,,,,,SSP1,LowBiocharSubsidy baseline,South Korea,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+1.72523,2.9413,3.55984,4.2335,5.22239,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Southeast Asia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+9.65473,20.3008,24.5244,27.4073,33.094,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Taiwan,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+6.79536,9.78028,11.8107,12.0655,14.119,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Argentina,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap
+4.44102,5.35368,6.3022,7.50403,8.73102,,,,,,,,,SSP1,LowBiocharSubsidy baseline,Colombia,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,thous 1990$ percap

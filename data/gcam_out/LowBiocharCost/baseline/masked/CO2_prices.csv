@@ -1,98 +1,98 @@
 1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,SSP,Version,GCAM,sector,subsector,technology,output,concentration,input,product,fuel,LandLeaf,GHG,Units
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,9.38,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2_LUC,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2_NearTerm,,,,1990$/tC
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,missing,,,,,,,missing,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Africa_Western,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Argentina,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Australia_NZ,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Brazil,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Canada,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central America and Caribbean,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Central Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,China,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Colombia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-12,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,EU-15,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Eastern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Europe_Non_EU,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,European Free Trade Association,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,9.38,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,9.38,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,India,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Indonesia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Japan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Mexico,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Middle East,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Pakistan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Russia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Africa,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Northern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South America_Southern,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,South Korea,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Southeast Asia,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,Taiwan,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2_LUC,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,USA,,,,,,,CO2_NearTerm,,,,1990$/tC
+0.0,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,0.0,SSP1,LowBiocharCost baseline,missing,,,,,,,missing,,,,1990$/tC

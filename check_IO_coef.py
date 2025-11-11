@@ -1,5 +1,6 @@
 import math
 import sys
+import numpy as np
 import constants as c
 import pandas as pd
 
@@ -29,7 +30,7 @@ def IO_check(comb, coefficients, assert_str, nonBaselineScenario, products):
         else:
             for i in c.GCAMConstants.future_x:
                 try:  # if mean coefficient isn't within 5% of target
-                    if not math.isinf(comb_SSP["check_" + str(i)].mean()):
+                    if not math.isinf(comb_SSP["check_" + str(i)].mean()) or not np.isnan(comb_SSP["check_" + str(i)].mean()):
                         assert (abs(coefficients[str(products)]) * .95 <
                                 abs(comb_SSP["check_" + str(i)].mean()) <
                                 abs(coefficients[str(products)]) * 1.05)
@@ -76,9 +77,18 @@ def getMask(nonBaselineScenario, RCP, filepath):
             manure = manure.groupby(['SSP']).sum()
             manure['GCAM'] = 'Global'
             comb = pd.merge(co2, manure, how="inner", on=['GCAM', 'SSP'])
-            mask.extend(x for x in
-                        IO_check(comb, c.GCAMConstants.manure_C_ratio, "assert C and manure", nonBaselineScenario,
-                                 str(j)) if x not in mask)
+            if "LowCarbonStability" in filepath:
+                mask.extend(x for x in
+                            IO_check(comb, c.GCAMConstants.low_manure_C_ratio, "assert C and manure", nonBaselineScenario,
+                                     str(j)) if x not in mask)
+            elif "HighCarbonStability" in filepath:
+                mask.extend(x for x in
+                            IO_check(comb, c.GCAMConstants.high_manure_C_ratio, "assert C and manure", nonBaselineScenario,
+                                     str(j)) if x not in mask)
+            else:
+                mask.extend(x for x in
+                            IO_check(comb, c.GCAMConstants.manure_C_ratio, "assert C and manure", nonBaselineScenario,
+                                     str(j)) if x not in mask)
 
         print(mask)
         sys.stdout = old_stdout
