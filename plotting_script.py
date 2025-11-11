@@ -345,7 +345,7 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
     biochar_price['product'] = biochar_price.apply(lambda row: data_manipulation.remove__(row, "product"), axis=1)
     biochar_price = biochar_price[biochar_price[['product']].isin(["biochar"]).any(axis=1)]
     biochar_price["Units"] = "$/ton biochar"
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         biochar_price[str(i)] = biochar_price[str(i)] / .17 * 1000
 
     biochar_price_plotting = biochar_price.melt(["GCAM", "product", "Version", "Units"],
@@ -373,7 +373,7 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
         ['beef manure', 'dairy manure', 'goat manure', 'pork manure', 'poultry manure']).any(axis=1)]
 
     # update prices to 2024 USD
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         total_cost[str(i)] = total_cost[str(i)] / .17 * 1000
         unit_cost[str(i)] = unit_cost[str(i)] / .17 * 1000
         feedstock_cost.loc[feedstock_cost[str(i)] > 0.034, str(i)] = np.nan  # remove outlier prices > $200/ton manure in current prices
@@ -421,7 +421,7 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
     pyrolysis_diff_profit["Units"] = "Change in Profit Rate (%)"
     pyrolysis_diff_profit['Crop'] = pyrolysis_diff_profit.apply(
         lambda row: data_manipulation.relabel_land_crops(row, "Crop"), axis=1)
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         pyrolysis_diff_profit[str(i)] = 100 * (pyrolysis_diff_profit[str(i) + "_right"] - pyrolysis_diff_profit[
             str(i) + "_left"]) / pyrolysis_diff_profit[str(i) + "_left"]
 
@@ -715,7 +715,7 @@ def figure5(nonBaselineScenario, RCP, SSP, biochar_year):
     pyrolsis_Pcal_cost = pd.merge(pyrolysis_staple_expenditure, pyrolysis_Pcal, on=["GCAM", "input", "Version"],
                                   suffixes=("_cost", "_pcal"))
 
-    for i in c.GCAMConstants.x:
+    for i in c.GCAMConstants.future_x:
         released_Pcal_cost[str(i)] = released_Pcal_cost[str(i) + "_cost"] * released_Pcal_cost[str(i) + "_pcal"]
         pyrolsis_Pcal_cost[str(i)] = pyrolsis_Pcal_cost[str(i) + "_cost"] * pyrolsis_Pcal_cost[str(i) + "_pcal"]
         released_Pcal_cost = released_Pcal_cost.drop([str(i) + "_pcal"], axis=1)
@@ -884,10 +884,10 @@ def main():
                       "LowAdoption30",
                       "LowCarbonStability"]
     biochar_year = "2050"
-    figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 
