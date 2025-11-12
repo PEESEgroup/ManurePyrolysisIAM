@@ -1,0 +1,3 @@
+2025-10-11:22:28:10
+
+Starting new scenario: GCAM_SSP1_LowBiocharSubsidy
