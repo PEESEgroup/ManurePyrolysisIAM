@@ -451,10 +451,10 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
 
     # plotting maps/tables for each crop by GLU, etc
     # uncomment to recreate the maps for supplemental information figures s2-s22
-    # plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
-    # plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
-    # plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
-    # plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
+    plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
+    plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
+    plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
+    plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
 
     # combine all 3 scenarios, calculate and output CI
     biochar_app_rate_CI = pd.concat([biochar_app_rate_low_no_outlier, biochar_app_rate_baseline_no_outlier, biochar_app_rate_high_no_outlier])
@@ -884,10 +884,10 @@ def main():
                       "LowAdoption30",
                       "LowCarbonStability"]
     biochar_year = "2050"
-    #figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    #figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    #figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    #figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 
