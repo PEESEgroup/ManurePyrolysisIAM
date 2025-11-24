@@ -121,17 +121,16 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
 
     # calculate sum of all non-indirect, non-CDR emissions impact
     df_GHG_ER = biochar_ghg_emissions.groupby(
-        "Version").sum().reset_index().copy(deep=True)  # sum in new dataframe. It's fine that all other information is overwritten, as units are all Mt CO2-eq
+        "Version").sum(min_count=1).reset_index().copy(deep=True)  # sum in new dataframe. It's fine that all other information is overwritten, as units are all Mt CO2-eq
     df_GHG_ER["Units"] = "Net GHG ER"  # this unit is used to label the graph
     df_GHG_ER["SSP"] = ag_avd_n2o_land["SSP"].unique()[0]
 
-    biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, co2_seq_pyrolysis, flat_diff_luc])
-
+    # get two different copies of emissions dataframes for later use
+    biochar_ghg_emissions_LUC = pd.concat([biochar_ghg_emissions, co2_seq_pyrolysis, flat_diff_luc]).copy(deep=True)
     biochar_emissions_no_LUC = pd.concat([biochar_ghg_emissions, co2_seq_pyrolysis]).copy(deep=True)
-    biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, flat_diff_luc]).copy(deep=True)
 
     # calculate net CO2 impact
-    df_sum = biochar_ghg_emissions.groupby(
+    df_sum = biochar_ghg_emissions_LUC.groupby(
         "Version").sum(min_count=1).reset_index()
     df_sum_no_luc = biochar_emissions_no_LUC.groupby(
         "Version").sum(min_count=1).reset_index()# sum in new dataframe. It's fine that all other information is overwritten, as units are all Mt CO2-eq
@@ -139,7 +138,9 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
     df_sum["SSP"] = ag_avd_n2o_land["SSP"].unique()[0]
     df_sum_no_luc["Units"] = "Net Emissions Impact no LUC"  # this unit is used to label the graph
     df_sum_no_luc["SSP"] = ag_avd_n2o_land["SSP"].unique()[0]
-    biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, df_GHG_ER, df_sum])
+
+    # this concat adds no new emissions sources, just grouping the GHG ER and the total emissions
+    biochar_ghg_emissions = pd.concat([biochar_ghg_emissions_LUC, df_GHG_ER, df_sum])
     biochar_ghg_emissions["GHG_ER_type"] = biochar_ghg_emissions["Units"]
     biochar_ghg_emissions["Units"] = "GHG Emissions (Mt CO$_2$-eq/yr)"
 
@@ -171,14 +172,14 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
     # calculate "LCA" impacts of biochar by mass biochar and global mass feedstock mix
     LCA_biochar = pd.merge(df_sum, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
     LCA_manure = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg manure"))
-    LCA_biochar_no_LUC = LCA_biochar[LCA_biochar["Units"] != "LUC"]
-    LCA_manure_no_LUC = LCA_manure[LCA_manure["Units"] != "LUC"]
+    LCA_biochar_no_LUC = pd.merge(df_sum_no_luc, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
+    LCA_manure_no_LUC = pd.merge(df_sum_no_luc, manure_supply, on="Version", suffixes=("", "_kg manure"))
     for i in c.GCAMConstants.future_x:
         if np.isnan(LCA_biochar[str(i) + "_kg biochar"][0]):
-            LCA_biochar[str(i)] = 0
-            LCA_manure[str(i)] = 0
-            LCA_biochar_no_LUC[str(i)] = 0
-            LCA_manure_no_LUC[str(i)] = 0
+            LCA_biochar[str(i)] = np.nan
+            LCA_manure[str(i)] = np.nan
+            LCA_biochar_no_LUC[str(i)] = np.nan
+            LCA_manure_no_LUC[str(i)] = np.nan
         else:
             LCA_biochar[str(i)] = LCA_biochar[str(i) + ""] / LCA_biochar[str(i) + "_kg biochar"]
             LCA_manure[str(i)] = LCA_manure[str(i) + ""] / LCA_manure[str(i) + "_kg manure"]
@@ -190,8 +191,8 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
     LCA_manure_no_LUC["Units"] = "kg CO2-eq/kg manure mix no LUC"
     LCA_biochar = LCA_biochar[c.GCAMConstants.column_order]
     LCA_manure = LCA_manure[c.GCAMConstants.column_order]
-    LCA_biochar_no_LUC = LCA_biochar[c.GCAMConstants.column_order]
-    LCA_manure_no_LUC = LCA_manure[c.GCAMConstants.column_order]
+    LCA_biochar_no_LUC = LCA_biochar_no_LUC[c.GCAMConstants.column_order]
+    LCA_manure_no_LUC = LCA_manure_no_LUC[c.GCAMConstants.column_order]
 
     LCA = pd.concat([biochar_supply, LCA_biochar, manure_supply, LCA_manure, LCA_biochar_no_LUC, LCA_manure_no_LUC])
 
