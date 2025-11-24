@@ -886,12 +886,19 @@ def get_CI(dataframe, products, alpha=0.95):
             for j in c.GCAMConstants.future_x:
                 np_data = data[str(j)].dropna().values  # get data for a particular year
                 if len(np_data > 0): # if the data exists
-                    sMu = np.mean(np_data)
-                    median = np.median(np_data)
-                    sem = stats.sem(np_data)
-                    n = len(np_data)
-                    df = n - 1
-                    lower, upper = stats.t.interval(alpha, df=df, loc=sMu, scale=sem)  # confidence interval with equal areas around the mean
+                    # if the data is all zeroes, no need to do the calculation
+                    if (np_data == 0).all():
+                        lower = 0
+                        median = 0
+                        upper = 0
+                    else:
+                        # calculate the CI data
+                        sMu = np.mean(np_data)
+                        median = np.median(np_data)
+                        sem = stats.sem(np_data)
+                        n = len(np_data)
+                        df = n - 1
+                        lower, upper = stats.t.interval(alpha, df=df, loc=sMu, scale=sem)  # confidence interval with equal areas around the mean
                 else:
                     lower = np.nan
                     median = np.nan

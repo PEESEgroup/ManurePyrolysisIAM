@@ -1,7 +1,7 @@
 ,Crop,MGMT,Version,1990,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,Units,cat
-0,Animal Feed,Biochar Application,Lower CI,0.0,0.0,0.0,0.0,0.0,,,,,,,,,thous km2,Animal FeedBiochar Application
+0,Animal Feed,Biochar Application,Lower CI,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,thous km2,Animal FeedBiochar Application
 1,Animal Feed,Biochar Application,Median,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,thous km2,Animal FeedBiochar Application
-2,Animal Feed,Biochar Application,Upper CI,0.0,0.0,0.0,0.0,0.0,,,,,,,,,thous km2,Animal FeedBiochar Application
+2,Animal Feed,Biochar Application,Upper CI,0.0,0.0,0.0,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,thous km2,Animal FeedBiochar Application
 21,Animal Feed,High Intensity,Lower CI,494.307598906156,373.738669569289,366.858365204179,383.009027180859,415.69648989424,,,,479.8833233492748,476.6997970765594,474.3319692982711,473.33962460602936,467.1471349523234,thous km2,Animal FeedHigh Intensity
 22,Animal Feed,High Intensity,Median,494.307598906156,373.738669569289,366.858365204179,383.009027180859,415.69648989424,,,,480.000591879645,481.009848037958,474.9171491179856,473.6298386483675,467.2975570985042,thous km2,Animal FeedHigh Intensity
 23,Animal Feed,High Intensity,Upper CI,494.307598906156,373.738669569289,366.858365204179,383.009027180859,415.69648989424,,,,482.0150617652799,484.5066010190398,476.09667524353443,474.570945732391,467.8730128095641,thous km2,Animal FeedHigh Intensity

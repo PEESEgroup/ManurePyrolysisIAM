@@ -481,9 +481,9 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
     for i in biochar_app_rate_CI["cat"].unique():
         # get a dataframe just for this product
         data = biochar_app_rate_CI[biochar_app_rate_CI["cat"] == i].copy(deep=True)
+        output_vals = data[data["Irr_Rfd"] == data["Irr_Rfd"].unique()[0]].copy(deep=True)
 
         # copy 3 rows over to lmu
-        output_vals = data.head(3).copy(deep=True)
         if len(output_vals) == 3:
             output_vals["Version"] = ["Lower CI", "Median", "Upper CI"]
 
@@ -903,7 +903,7 @@ def main():
                       "LowCarbonPersistence"]
     biochar_year = "2050"
     # figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
