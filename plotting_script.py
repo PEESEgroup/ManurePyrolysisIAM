@@ -916,10 +916,10 @@ def main():
                       "LowAdoption30",
                       "LowCarbonPersistence"]
     biochar_year = "2050"
-    # figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    #figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    #figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 
