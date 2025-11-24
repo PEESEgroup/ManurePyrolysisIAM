@@ -206,11 +206,11 @@ print(tmp)
 
 ### THESE VALUES ARE FOR CARBON STORED IN BIOCHAR ###
 ### values calculated in 41467_2010 excel spreadsheet
-tmp[37] <- "beef manure,-0.393,0"
-tmp[38] <- "dairy manure,-0.393,0"
-tmp[39] <- "goat manure,-0.448,0"
-tmp[40] <- "pork manure,-0.448,0"
-tmp[41] <- "poultry manure,-0.458,0"
+tmp[37] <- "beef manure,-0.493,0"
+tmp[38] <- "dairy manure,-0.493,0"
+tmp[39] <- "goat manure,-0.573,0"
+tmp[40] <- "pork manure,-0.573,0"
+tmp[41] <- "poultry manure,-0.572,0"
 print("\n file after changes")
 print(tmp)
 readr::write_lines(tmp, example_file)
