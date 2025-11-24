@@ -127,11 +127,18 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
 
     biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, co2_seq_pyrolysis, flat_diff_luc])
 
+    biochar_emissions_no_LUC = pd.concat([biochar_ghg_emissions, co2_seq_pyrolysis]).copy(deep=True)
+    biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, flat_diff_luc]).copy(deep=True)
+
     # calculate net CO2 impact
     df_sum = biochar_ghg_emissions.groupby(
-        "Version").sum().reset_index()  # sum in new dataframe. It's fine that all other information is overwritten, as units are all Mt CO2-eq
+        "Version").sum(min_count=1).reset_index()
+    df_sum_no_luc = biochar_emissions_no_LUC.groupby(
+        "Version").sum(min_count=1).reset_index()# sum in new dataframe. It's fine that all other information is overwritten, as units are all Mt CO2-eq
     df_sum["Units"] = "Net Emissions Impact"  # this unit is used to label the graph
     df_sum["SSP"] = ag_avd_n2o_land["SSP"].unique()[0]
+    df_sum_no_luc["Units"] = "Net Emissions Impact no LUC"  # this unit is used to label the graph
+    df_sum_no_luc["SSP"] = ag_avd_n2o_land["SSP"].unique()[0]
     biochar_ghg_emissions = pd.concat([biochar_ghg_emissions, df_GHG_ER, df_sum])
     biochar_ghg_emissions["GHG_ER_type"] = biochar_ghg_emissions["Units"]
     biochar_ghg_emissions["Units"] = "GHG Emissions (Mt CO$_2$-eq/yr)"

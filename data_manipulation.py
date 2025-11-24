@@ -901,7 +901,10 @@ def get_CI(dataframe, products, alpha=0.95):
                 output_vals[str(j)] = [lower, median, upper]
 
             # add lower level low mean upper dataframe to higher level one
-            lmu = pd.concat([lmu, output_vals])
+            if len(lmu) == 0:
+                lmu = output_vals
+            else:
+                lmu = pd.concat([lmu, output_vals])
 
     # add the returned dataframe to the original frame as appended rows
     return lmu
