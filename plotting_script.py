@@ -481,26 +481,40 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
     for i in biochar_app_rate_CI["cat"].unique():
         # get a dataframe just for this product
         data = biochar_app_rate_CI[biochar_app_rate_CI["cat"] == i].copy(deep=True)
-        output_vals = data[data["Irr_Rfd"] == data["Irr_Rfd"].unique()[0]].copy(deep=True)
+        output_vals = data[data["Irr_Rfd"] == data["Irr_Rfd"].unique()[0]].copy(deep=True) # just need one part of irr or rfd
 
         # copy 3 rows over to lmu
         if len(output_vals) == 3:
-            output_vals["Version"] = ["Lower CI", "Median", "Upper CI"]
-
-            np_data = data["kg_bio_ha"].dropna().values  # get data for a particular year
-            sMu = np.mean(np_data)
-            median = np.median(np_data)
-            sem = stats.sem(np_data)
-            n = len(np_data)
-            df = n - 1
-            lower, upper = stats.t.interval(0.95, df=df, loc=sMu,
-                                            scale=sem)  # confidence interval with equal areas around the mean
+            np_data = output_vals["kg_bio_ha"].dropna().values
+            if len(np_data) > 0:  # if the data exists
+                # if the data is all zeroes, no need to do the calculation
+                if (np_data == 0).all():
+                    lower = 0
+                    median = 0
+                    upper = 0
+                else:
+                    # calculate the CI data
+                    sMu = np.mean(np_data)
+                    median = np.median(np_data)
+                    sem = stats.sem(np_data)
+                    n = len(np_data)
+                    df = n - 1
+                    lower, upper = stats.t.interval(0.95, df=df, loc=sMu,
+                                                    scale=sem)  # confidence interval with equal areas around the mean
+            else:
+                lower = np.nan
+                median = np.nan
+                upper = np.nan
 
             # add lower, mean, upper to output dataframe
+            output_vals["Version"] = ["Lower CI", "Median", "Upper CI"] # get data for a particular year
             output_vals["kg_bio_ha"] = [lower, median, upper]
 
             # add lower level low mean upper dataframe to higher level one
-            lmu = pd.concat([lmu, output_vals])
+            if len(lmu) == 0:
+                lmu = output_vals
+            else:
+                lmu = pd.concat([lmu, output_vals])
 
     data_manipulation.drop_missing(lmu).to_csv(
         "data/data_analysis/supplementary_tables/" + str(
@@ -904,8 +918,8 @@ def main():
     biochar_year = "2050"
     # figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
     # figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    #figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
     figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 

@@ -887,7 +887,7 @@ def get_CI(dataframe, products, alpha=0.95):
                 np_data = data[str(j)].dropna().values  # get data for a particular year
                 if len(np_data > 0): # if the data exists
                     # if the data is all zeroes, no need to do the calculation
-                    if (np_data == 0).all():
+                    if (np_data == np_data[0]).all():
                         lower = 0
                         median = 0
                         upper = 0
