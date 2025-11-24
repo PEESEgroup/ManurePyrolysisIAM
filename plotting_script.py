@@ -162,24 +162,31 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
     manure_supply["Units"] = "Mt Manure Mix"
 
     # calculate "LCA" impacts of biochar by mass biochar and global mass feedstock mix
-    # TODO: also do calcs that ignore LUC
     LCA_biochar = pd.merge(df_sum, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
     LCA_manure = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg manure"))
-    LCA_biochar_no_LUC = pd.merge(df_sum, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
-    LCA_manure_no_LUC = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg manure"))
+    LCA_biochar_no_LUC = LCA_biochar[LCA_biochar["Units"] != "LUC"]
+    LCA_manure_no_LUC = LCA_manure[LCA_manure["Units"] != "LUC"]
     for i in c.GCAMConstants.future_x:
         if np.isnan(LCA_biochar[str(i) + "_kg biochar"][0]):
             LCA_biochar[str(i)] = 0
             LCA_manure[str(i)] = 0
+            LCA_biochar_no_LUC[str(i)] = 0
+            LCA_manure_no_LUC[str(i)] = 0
         else:
             LCA_biochar[str(i)] = LCA_biochar[str(i) + ""] / LCA_biochar[str(i) + "_kg biochar"]
             LCA_manure[str(i)] = LCA_manure[str(i) + ""] / LCA_manure[str(i) + "_kg manure"]
+            LCA_biochar_no_LUC[str(i)] = LCA_biochar_no_LUC[str(i) + ""] / LCA_biochar_no_LUC[str(i) + "_kg biochar"]
+            LCA_manure_no_LUC[str(i)] = LCA_manure_no_LUC[str(i) + ""] / LCA_manure_no_LUC[str(i) + "_kg manure"]
     LCA_biochar["Units"] = "kg CO2-eq/kg biochar"
     LCA_manure["Units"] = "kg CO2-eq/kg manure mix"
+    LCA_biochar_no_LUC["Units"] = "kg CO2-eq/kg biochar no LUC"
+    LCA_manure_no_LUC["Units"] = "kg CO2-eq/kg manure mix no LUC"
     LCA_biochar = LCA_biochar[c.GCAMConstants.column_order]
     LCA_manure = LCA_manure[c.GCAMConstants.column_order]
+    LCA_biochar_no_LUC = LCA_biochar[c.GCAMConstants.column_order]
+    LCA_manure_no_LUC = LCA_manure[c.GCAMConstants.column_order]
 
-    LCA = pd.concat([biochar_supply, LCA_biochar, manure_supply, LCA_manure])
+    LCA = pd.concat([biochar_supply, LCA_biochar, manure_supply, LCA_manure, LCA_biochar_no_LUC, LCA_manure_no_LUC])
 
     out_LCA = data_manipulation.get_CI(LCA, "Units")
     data_manipulation.drop_missing(out_LCA).to_csv(
@@ -888,11 +895,11 @@ def main():
                       "LowCarbonPersistence"]
     biochar_year = "2050"
     figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    # figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 
 
 if __name__ == '__main__':

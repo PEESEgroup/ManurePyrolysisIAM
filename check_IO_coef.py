@@ -77,11 +77,11 @@ def getMask(nonBaselineScenario, RCP, filepath):
             manure = manure.groupby(['SSP']).sum()
             manure['GCAM'] = 'Global'
             comb = pd.merge(co2, manure, how="inner", on=['GCAM', 'SSP'])
-            if "LowCarbonStability" in filepath:
+            if "LowCarbonPersistence" in filepath:
                 mask.extend(x for x in
                             IO_check(comb, c.GCAMConstants.low_manure_C_ratio, "assert C and manure", nonBaselineScenario,
                                      str(j)) if x not in mask)
-            elif "HighCarbonStability" in filepath:
+            elif "HighCarbonPersistence" in filepath:
                 mask.extend(x for x in
                             IO_check(comb, c.GCAMConstants.high_manure_C_ratio, "assert C and manure", nonBaselineScenario,
                                      str(j)) if x not in mask)

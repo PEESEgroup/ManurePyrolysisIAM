@@ -95,16 +95,16 @@ class GCAMConstants:
     manure_C_ratio["goat"] = -0.522
 
     low_manure_C_ratio = dict()
-    low_manure_C_ratio["beef"] = -0.423
-    low_manure_C_ratio["dairy"] = -0.423
-    low_manure_C_ratio["pork"] = -0.485
-    low_manure_C_ratio["poultry"] = -0.492
-    low_manure_C_ratio["goat"] = -0.485
+    low_manure_C_ratio["beef"] = -0.361
+    low_manure_C_ratio["dairy"] = -0.361
+    low_manure_C_ratio["pork"] = -0.408
+    low_manure_C_ratio["poultry"] = -0.421
+    low_manure_C_ratio["goat"] = -0.408
 
     high_manure_C_ratio = dict()
-    high_manure_C_ratio["beef"] = -0.393
-    high_manure_C_ratio["dairy"] = -0.393
-    high_manure_C_ratio["pork"] = -0.448
-    high_manure_C_ratio["poultry"] = -0.458
-    high_manure_C_ratio["goat"] = -0.448
+    high_manure_C_ratio["beef"] = -0.493
+    high_manure_C_ratio["dairy"] = -0.493
+    high_manure_C_ratio["pork"] = -0.573
+    high_manure_C_ratio["poultry"] = -0.572
+    high_manure_C_ratio["goat"] = -0.573
 

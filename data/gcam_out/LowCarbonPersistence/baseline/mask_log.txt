@@ -1,11 +1,6 @@
 assert C and manure fails for product beef in year 2025 in SSP1 with mean -inf
 assert C and manure fails for product beef in year 2030 in SSP1 with mean -inf
 assert C and manure fails for product beef in year 2035 in SSP1 with mean -0.11682549587638119
-assert C and manure fails for product beef in year 2040 in SSP1 with mean -0.3609999544727751
-assert C and manure fails for product beef in year 2045 in SSP1 with mean -0.36100028926876143
-assert C and manure fails for product beef in year 2050 in SSP1 with mean -0.3609999412150928
-assert C and manure fails for product beef in year 2055 in SSP1 with mean -0.3609999410939447
-assert C and manure fails for product beef in year 2060 in SSP1 with mean -0.36100022760935563
 assert C and manure fails for product beef in SSP2 because no data is available
 assert C and manure fails for product beef in SSP3 because no data is available
 assert C and manure fails for product beef in SSP4 because no data is available
@@ -13,11 +8,6 @@ assert C and manure fails for product beef in SSP5 because no data is available
 assert C and manure fails for product dairy in year 2025 in SSP1 with mean -inf
 assert C and manure fails for product dairy in year 2030 in SSP1 with mean -inf
 assert C and manure fails for product dairy in year 2035 in SSP1 with mean nan
-assert C and manure fails for product dairy in year 2040 in SSP1 with mean -0.3610000735357214
-assert C and manure fails for product dairy in year 2045 in SSP1 with mean -0.36100037020610326
-assert C and manure fails for product dairy in year 2050 in SSP1 with mean -0.36100014033215455
-assert C and manure fails for product dairy in year 2055 in SSP1 with mean -0.3609999884317758
-assert C and manure fails for product dairy in year 2060 in SSP1 with mean -0.3610011282105913
 assert C and manure fails for product dairy in SSP2 because no data is available
 assert C and manure fails for product dairy in SSP3 because no data is available
 assert C and manure fails for product dairy in SSP4 because no data is available
@@ -25,11 +15,6 @@ assert C and manure fails for product dairy in SSP5 because no data is available
 assert C and manure fails for product goat in year 2025 in SSP1 with mean -inf
 assert C and manure fails for product goat in year 2030 in SSP1 with mean -inf
 assert C and manure fails for product goat in year 2035 in SSP1 with mean -0.3107683732949618
-assert C and manure fails for product goat in year 2040 in SSP1 with mean -0.4080002879714869
-assert C and manure fails for product goat in year 2045 in SSP1 with mean -0.4080000571169895
-assert C and manure fails for product goat in year 2050 in SSP1 with mean -0.407999847009778
-assert C and manure fails for product goat in year 2055 in SSP1 with mean -0.4079999072087114
-assert C and manure fails for product goat in year 2060 in SSP1 with mean -0.40800014946650076
 assert C and manure fails for product goat in SSP2 because no data is available
 assert C and manure fails for product goat in SSP3 because no data is available
 assert C and manure fails for product goat in SSP4 because no data is available
@@ -37,11 +22,6 @@ assert C and manure fails for product goat in SSP5 because no data is available
 assert C and manure fails for product pork in year 2025 in SSP1 with mean -inf
 assert C and manure fails for product pork in year 2030 in SSP1 with mean -inf
 assert C and manure fails for product pork in year 2035 in SSP1 with mean -0.2880435963720334
-assert C and manure fails for product pork in year 2040 in SSP1 with mean -0.40799979401318426
-assert C and manure fails for product pork in year 2045 in SSP1 with mean -0.4079996751688191
-assert C and manure fails for product pork in year 2050 in SSP1 with mean -0.40800019407647437
-assert C and manure fails for product pork in year 2055 in SSP1 with mean -0.4079997419241802
-assert C and manure fails for product pork in year 2060 in SSP1 with mean -0.4079996761208094
 assert C and manure fails for product pork in SSP2 because no data is available
 assert C and manure fails for product pork in SSP3 because no data is available
 assert C and manure fails for product pork in SSP4 because no data is available
@@ -49,13 +29,8 @@ assert C and manure fails for product pork in SSP5 because no data is available
 assert C and manure fails for product poultry in year 2025 in SSP1 with mean -inf
 assert C and manure fails for product poultry in year 2030 in SSP1 with mean -inf
 assert C and manure fails for product poultry in year 2035 in SSP1 with mean -0.3343766619959989
-assert C and manure fails for product poultry in year 2040 in SSP1 with mean -0.42099987235532815
-assert C and manure fails for product poultry in year 2045 in SSP1 with mean -0.42099995896361414
-assert C and manure fails for product poultry in year 2050 in SSP1 with mean -0.4209998587591698
-assert C and manure fails for product poultry in year 2055 in SSP1 with mean -0.4210003113807204
-assert C and manure fails for product poultry in year 2060 in SSP1 with mean -0.4209996784605471
 assert C and manure fails for product poultry in SSP2 because no data is available
 assert C and manure fails for product poultry in SSP3 because no data is available
 assert C and manure fails for product poultry in SSP4 because no data is available
 assert C and manure fails for product poultry in SSP5 because no data is available
-[['SSP1', 2025], ['SSP1', 2030], ['SSP1', 2035], ['SSP1', 2040], ['SSP1', 2045], ['SSP1', 2050], ['SSP1', 2055], ['SSP1', 2060], ['SSP2', 2025], ['SSP2', 2030], ['SSP2', 2035], ['SSP2', 2040], ['SSP2', 2045], ['SSP2', 2050], ['SSP2', 2055], ['SSP2', 2060], ['SSP3', 2025], ['SSP3', 2030], ['SSP3', 2035], ['SSP3', 2040], ['SSP3', 2045], ['SSP3', 2050], ['SSP3', 2055], ['SSP3', 2060], ['SSP4', 2025], ['SSP4', 2030], ['SSP4', 2035], ['SSP4', 2040], ['SSP4', 2045], ['SSP4', 2050], ['SSP4', 2055], ['SSP4', 2060], ['SSP5', 2025], ['SSP5', 2030], ['SSP5', 2035], ['SSP5', 2040], ['SSP5', 2045], ['SSP5', 2050], ['SSP5', 2055], ['SSP5', 2060]]
+[['SSP1', 2025], ['SSP1', 2030], ['SSP1', 2035], ['SSP2', 2025], ['SSP2', 2030], ['SSP2', 2035], ['SSP2', 2040], ['SSP2', 2045], ['SSP2', 2050], ['SSP2', 2055], ['SSP2', 2060], ['SSP3', 2025], ['SSP3', 2030], ['SSP3', 2035], ['SSP3', 2040], ['SSP3', 2045], ['SSP3', 2050], ['SSP3', 2055], ['SSP3', 2060], ['SSP4', 2025], ['SSP4', 2030], ['SSP4', 2035], ['SSP4', 2040], ['SSP4', 2045], ['SSP4', 2050], ['SSP4', 2055], ['SSP4', 2060], ['SSP5', 2025], ['SSP5', 2030], ['SSP5', 2035], ['SSP5', 2040], ['SSP5', 2045], ['SSP5', 2050], ['SSP5', 2055], ['SSP5', 2060]]
