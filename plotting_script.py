@@ -162,15 +162,18 @@ def figure1(nonBaselineScenario, RCP, SSP, biochar_year):
     manure_supply["Units"] = "Mt Manure Mix"
 
     # calculate "LCA" impacts of biochar by mass biochar and global mass feedstock mix
+    # TODO: also do calcs that ignore LUC
     LCA_biochar = pd.merge(df_sum, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
-    LCA_manure = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg biochar"))
+    LCA_manure = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg manure"))
+    LCA_biochar_no_LUC = pd.merge(df_sum, biochar_supply, on="Version", suffixes=("", "_kg biochar"))
+    LCA_manure_no_LUC = pd.merge(df_sum, manure_supply, on="Version", suffixes=("", "_kg manure"))
     for i in c.GCAMConstants.future_x:
         if np.isnan(LCA_biochar[str(i) + "_kg biochar"][0]):
             LCA_biochar[str(i)] = 0
             LCA_manure[str(i)] = 0
         else:
             LCA_biochar[str(i)] = LCA_biochar[str(i) + ""] / LCA_biochar[str(i) + "_kg biochar"]
-            LCA_manure[str(i)] = LCA_manure[str(i) + ""] / LCA_manure[str(i) + "_kg biochar"]
+            LCA_manure[str(i)] = LCA_manure[str(i) + ""] / LCA_manure[str(i) + "_kg manure"]
     LCA_biochar["Units"] = "kg CO2-eq/kg biochar"
     LCA_manure["Units"] = "kg CO2-eq/kg manure mix"
     LCA_biochar = LCA_biochar[c.GCAMConstants.column_order]
@@ -451,10 +454,10 @@ def figure3(nonBaselineScenario, RCP, SSP, biochar_year):
 
     # plotting maps/tables for each crop by GLU, etc
     # uncomment to recreate the maps for supplemental information figures s2-s22
-    plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
-    plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
-    plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
-    plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
+    # plotting.basin_data(biochar_app_rate_baseline_no_outlier, "kg_bio_ha", "baseline/biochar application rate by")
+    # plotting.basin_data(biochar_app_rate_low_no_outlier, "kg_bio_ha", "low/biochar application rate by")
+    # plotting.basin_data(biochar_app_rate_high_no_outlier, "kg_bio_ha", "high/biochar application rate by")
+    # plotting.basin_data(P_app_rate_no_outlier, "kg_P_ha", "P/application rate by")
 
     # combine all 3 scenarios, calculate and output CI
     biochar_app_rate_CI = pd.concat([biochar_app_rate_low_no_outlier, biochar_app_rate_baseline_no_outlier, biochar_app_rate_high_no_outlier])
@@ -832,8 +835,8 @@ def figure6(nonBaselineScenario, RCP, SSP, biochar_year):
                                                             RCP=RCP, source="masked", only_first_scenario=False)
     flat_diff_temp = data_manipulation.flat_difference(released_temp, pyrolysis_temp, ["SSP"])
     perc_diff_temp = data_manipulation.percent_difference(released_temp, pyrolysis_temp, ["SSP"])
-    flat_diff_temp["Units"] = "Change in global temperature (degree C)"
-    perc_diff_temp["Units"] = "% change in global temperature"
+    flat_diff_temp["Units"] = "Change in increase in global temperature (degree C)"
+    perc_diff_temp["Units"] = "% change in increase in global temperature"
 
     # concat data frames
     flat_diffs = pd.concat(
@@ -885,11 +888,11 @@ def main():
                       "LowCarbonPersistence"]
     biochar_year = "2050"
     figure1(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
-    figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure2(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure3(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure4(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure5(other_scenario, reference_RCP, reference_SSP, biochar_year)
+    # figure6(other_scenario, reference_RCP, reference_SSP, biochar_year)
 
 
 if __name__ == '__main__':
