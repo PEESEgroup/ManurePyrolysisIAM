@@ -1136,15 +1136,23 @@ def sensitivity(dataframe, RCP, base_version, year, column, Version, nonBaseline
         ax.add_collection(pc)
 
         # Display the Version as text next to the low and high bars
-        x = base - low_width - (bars["high"].max()-bars["low"].min())/ 200
-        plt.text(x, y-0.12, str(low_Version), va='center', ha='right', fontsize='small')
-        x = base + high_width + (bars["high"].max()-bars["low"].min())/ 200
-        plt.text(x, y+0.12, str(high_Version), va='center', ha='left', fontsize='small')
+        if value < 0.3*(max_high-min_low):
+            # if the bar is really narrow, keep versions at end of the bar
+            x = base - low_width - (bars["high"].max()-bars["low"].min())/ 200
+            plt.text(x, y-0.12, str(low_Version), va='center', ha='right', fontsize='medium')
+            x = base + high_width + (bars["high"].max()-bars["low"].min())/ 200
+            plt.text(x, y+0.12, str(high_Version), va='center', ha='left', fontsize='medium')
+        else:
+            # else put them at the top of the bar
+            x = base - low_width - (bars["high"].max()-bars["low"].min())/ 200
+            plt.text(x, y +1.4*v_offset, str(low_Version), va='center', ha='center', fontsize='medium')
+            x = base + high_width + (bars["high"].max()-bars["low"].min())/ 200
+            plt.text(x, y +1.4*v_offset, str(high_Version), va='center', ha='center', fontsize='medium')
 
         # Draw a vertical line down the middle for each segment where the baseline isn't 0
         if base != 0:
             plt.vlines(base, color='black', ymin=ymin, ymax=ymax)
-            plt.text(base, y +1.4*v_offset, str(base_version), va='center', ha='center', fontsize='small')
+            # plt.text(base, y +1.4*v_offset, str(base_version), va='center', ha='center', fontsize='small')
 
     # if there is still a need for a singular baseline
     plt.axvline(baseline_value, color='#cccccc')
